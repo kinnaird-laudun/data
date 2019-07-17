@@ -1,0 +1,1367 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Ethan Zuckerman: Listening to global voices | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Sure, the web connects the globe, but most of us end up hearing mainly from people just like ourselves. Blogger and technologist Ethan Zuckerman wants to help share the stories of the whole wide world. He talks about clever strategies to open up your Twitter world and read the news in languages you don&#39;t even know." />
+<meta name="author" content="Ethan Zuckerman" />
+<link rel="canonical" href="https://www.ted.com/talks/ethan_zuckerman/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/ethan_zuckerman/transcript" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/ethan_zuckerman/transcript?language=el" />
+<link rel="alternate" hreflang="eo" href="https://www.ted.com/talks/ethan_zuckerman/transcript?language=eo" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/ethan_zuckerman/transcript?language=en" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/ethan_zuckerman/transcript?language=vi" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/ethan_zuckerman/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/ethan_zuckerman/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/ethan_zuckerman/transcript?language=pt-br" />
+<link rel="alternate" hreflang="cs" href="https://www.ted.com/talks/ethan_zuckerman/transcript?language=cs" />
+<link rel="alternate" hreflang="id" href="https://www.ted.com/talks/ethan_zuckerman/transcript?language=id" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/ethan_zuckerman/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/ethan_zuckerman/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/ethan_zuckerman/transcript?language=nl" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/ethan_zuckerman/transcript?language=pt" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/ethan_zuckerman/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/ethan_zuckerman/transcript?language=tr" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/ethan_zuckerman/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/ethan_zuckerman/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/ethan_zuckerman/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/ethan_zuckerman/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/ethan_zuckerman/transcript?language=bg" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/ethan_zuckerman/transcript?language=de" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/ethan_zuckerman/transcript?language=hu" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/ethan_zuckerman/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/ethan_zuckerman/transcript?language=he" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/ethan_zuckerman/transcript?language=ko" />
+<link rel="alternate" hreflang="mk" href="https://www.ted.com/talks/ethan_zuckerman/transcript?language=mk" />
+<meta property="og:title" content="Transcript of &quot;Listening to global voices&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/183882_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/183882_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Ethan Zuckerman: Listening to global voices" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Sure, the web connects the globe, but most of us end up hearing mainly from people just like ourselves. Blogger and technologist Ethan Zuckerman wants to help share the stories of the whole wide world. He talks about clever strategies to open up your Twitter world and read the news in languages you don&#39;t even know." />
+<meta property="og:url" content="https://www.ted.com/talks/ethan_zuckerman/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 916);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/ethan_zuckerman' itemprop='url'>
+<meta content='Listening to global voices' itemprop='name'>
+<meta content="Sure, the web connects the globe, but most of us end up hearing mainly from people just like ourselves. Blogger and technologist Ethan Zuckerman wants to help share the stories of the whole wide world. He talks about clever strategies to open up your Twitter world and read the news in languages you don't even know." itemprop='description'>
+<meta content='PT19M45S' itemprop='duration'>
+<meta content='2010-07-15T10:22:00+00:00' itemprop='uploadDate'>
+<meta content='728211' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/183882_800x600.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/ethan_zuckerman' itemprop='url'>
+<meta content='Ethan Zuckerman' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/183883_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/ethan_zuckerman' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/183882_800x600.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Ethan Zuckerman
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					728,211
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 19:45</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I&#39;m an American, which means, generally,
+											I ignore football unless it involves
+											guys my size or Bruno&#39;s size
+											running into each other at extremely high speeds.
+											That said, it&#39;s been really hard
+											to ignore football
+											for the last couple of weeks.
+											I go onto Twitter, there are all these strange words that I&#39;ve never heard before:
+											FIFA, vuvuzela,
+											weird jokes about octopi.
+											But the one that&#39;s really been sort of stressing me out,
+											that I haven&#39;t been able to figure out,
+											is this phrase &quot;Cala a boca, Galvao.&quot;
+											If you&#39;ve gone onto Twitter in the last couple of weeks,
+											you&#39;ve probably seen this.
+											It&#39;s been a major trending topic.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Being a monolingual American, I obviously don&#39;t know what the phrase means.
+											So I went onto Twitter,
+											and I asked some people if they could explain to me &quot;Cala a boca, Galvao.&quot;
+											And fortunately, my Brazilian friends
+											were more than ready to help.
+											They explained that the Galvao bird
+											is a rare and endangered parrot
+											that&#39;s in terrible, terrible danger.
+											In fact, I&#39;ll let them tell you a bit more about it.
+											Narrator: A word about Galvao, a very rare kind of bird
+											native to Brazil.
+											Every year, more than 300,000 Galvao birds
+											are killed during Carnival parades.
+											Ethan Zuckerman: Obviously, this is a tragic situation,
+											and it actually gets worse.
+											It turns out that, not only is the Galvao parrot
+											very attractive, useful for headdresses,
+											it evidently has certain hallucinogenic properties,
+											which means that there&#39;s a terrible problem
+											with Galvao abuse.
+											Some sick and twisted people have found themselves snorting Galvao.
+											And it&#39;s terribly endangered.
+											The good news about this is that the global community —
+											again, my Brazilian friends tell me —
+											is pitching in to help out.
+											It turns out that Lady Gaga
+											has released a new single —
+											actually five or six new singles, as near as I can tell —
+											titled &quot;Cala a boca, Galvao.&quot;
+											And my Brazilian friends tell me that
+											if I just tweet the phrase &quot;Cala a boca, Galvao,&quot;
+											10 cents will be given
+											to a global campaign
+											to save this rare and beautiful bird.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, most of you have figured out that this was a prank,
+											and actually a very, very good one.
+											&quot;Cala a boca, Galvao&quot; actually means something very different.
+											In Portugese, it means &quot;Shut your mouth, Galvao.&quot;
+											And it specifically refers to this guy, Galvao Bueno,
+											who&#39;s the lead soccer commentator
+											for Rede Globo.
+											And what I understand from my Brazilian friends
+											is that this guy is just a cliche machine.
+											He can ruin the most interesting match
+											by just spouting cliche again and again and again.
+											So Brazilians went to that first match
+											against North Korea,
+											put up this banner, started a Twitter campaign
+											and tried to convince the rest of us
+											to tweet the phrase: &quot;Cala a boca, Galvao.&quot;
+											And in fact, were so successful at this
+											that it topped Twitter for two weeks.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now there&#39;s a couple —
+											there&#39;s a couple of lessons that you can take from this.
+											And the first lesson, which I think is a worthwhile one,
+											is that you cannot go wrong
+											asking people to be active online,
+											so long as activism just means retweeting a phrase.
+											So as long as activism is that simple,
+											it&#39;s pretty easy to get away with.
+											The other thing you can take from this, by the way,
+											is that there are a lot of Brazilians on Twitter.
+											There&#39;s more than five million of them.
+											As far as national representation,
+											11 percent of Brazilian internet users are on Twitter.
+											That&#39;s a much higher number than in the U.S. or U.K.
+											Next to Japan,
+											it&#39;s the second most represented by population.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now if you&#39;re using Twitter or other social networks,
+											and you didn&#39;t realize
+											this was a space with a lot of Brazilians in it,
+											you&#39;re like most of us.
+											Because what happens on a social network
+											is you interact with the people
+											that you have chosen to interact with.
+											And if you are like me, a big, geeky, white, American guy,
+											you tend to interact with a lot of other geeky, white, American guys.
+											And you don&#39;t necessarily have the sense
+											that Twitter is in fact a very heavily Brazilian space.
+											It&#39;s also extremely surprising to many Americans,
+											a heavily African-American space.
+											Twitter recently did some research.
+											They looked at their local population.
+											They believe that 24 percent
+											of American Twitter users are African-American.
+											That&#39;s about twice as high as African-Americans
+											are represented in the population.
+											And again, that was very shocking to many Twitter users,
+											but it shouldn&#39;t be.
+											And the reason it shouldn&#39;t be is that on any day
+											you can go into Trending Topics.
+											And you tend to find topics
+											that are almost entirely African-American conversations.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This was a visualization done by Fernando Viegas
+											and Martin Wattenberg,
+											two amazing visualization designers,
+											who looked at
+											a weekend&#39;s worth of Twitter traffic
+											and essentially found that a lot of these trending topics
+											were basically segregated conversations —
+											and in ways that you wouldn&#39;t expect.
+											It turns out that oil spill is a mostly white conversation,
+											that cookout
+											is a mostly black conversation.
+											And what&#39;s crazy about this is that
+											if you wanted to mix up who you were seeing on Twitter,
+											it&#39;s literally a quick click away.
+											You click on that cookout tag, there an entirely different conversation
+											with different people participating in it.
+											But generally speaking, most of us don&#39;t.
+											We end up within these filter bubbles, as my friend Eli Pariser calls them,
+											where we see the people we already know
+											and the people who are similar to the people we already know.
+											And we tend not to see that wider picture.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now for me, I&#39;m surprised by this,
+											because this wasn&#39;t how the internet was supposed to be.
+											If you go back into the early days of the internet,
+											when cyber-utopians like Nick Negroponte
+											were writing big books like &quot;Being Digital,&quot;
+											the prediction was that the internet
+											was going to be an incredibly powerful force
+											to smooth out cultural differences,
+											to put us all on a common field of one fashion or another.
+											Negroponte started his book with a story
+											about how hard it is to build connections
+											in the world of atoms.
+											He&#39;s at a technology conference in Florida.
+											And he&#39;s looking at something really, truly absurd,
+											which is bottles of Evian water on the table.
+											And Negroponte says this is crazy.
+											This is the old economy.
+											It&#39;s the economy of moving these
+											heavy, slow atoms over long distances that&#39;s very difficult to do.
+											We&#39;re heading to the future of bits,
+											where everything is speedy, it&#39;s weightless.
+											It can be anywhere in the world at any time.
+											And it&#39;s going to change the world as we know it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, Negroponte has been right about a lot of things.
+											He&#39;s totally wrong about this one.
+											It turns out that in many cases
+											atoms are much more mobile than bits.
+											If I walk into a store in the United States,
+											it&#39;s very, very easy for me to buy water
+											that&#39;s bottled in Fiji,
+											shipped at great expense to the United States.
+											It&#39;s actually surprisingly hard
+											for me to see a Fijian feature film.
+											It&#39;s really difficult for me to listen to Fijian music.
+											It&#39;s extremely difficult for me to get Fijian news,
+											which is strange, because actually there&#39;s an enormous amount going on in Fiji.
+											There&#39;s a coup government. There&#39;s a military government.
+											There&#39;s crackdowns on the press.
+											It&#39;s actually a place that we probably should
+											be paying attention to at the moment.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Here&#39;s what I think is going on.
+											I think that we tend to look a lot
+											at the infrastructure
+											of globalization.
+											We look at the framework that makes it possible
+											to live in this connected world.
+											And that&#39;s a framework that includes things like airline routes.
+											It includes things like the Internet cables.
+											We look at a map like this one,
+											and it looks like the entire world is flat
+											because everything is a hop or two away.
+											You can get on a flight in London,
+											you can end up in Bangalore later today.
+											Two hops, you&#39;re in Suva, the capitol of Fiji.
+											It&#39;s all right there.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											When you start looking at what actually
+											flows on top of these networks,
+											you get a very different picture.
+											You start looking at how
+											the global plane flights move,
+											and you suddenly discover that the world isn&#39;t even close to flat.
+											It&#39;s extremely lumpy.
+											There are parts of the world that are very, very well connected.
+											There&#39;s basically a giant pathway in the sky
+											between London and New York.
+											but look at this map, and you can watch this
+											for, you know, two or three minutes.
+											You won&#39;t see very many planes
+											go from South America to Africa.
+											And you&#39;ll discover that there are parts of the globe
+											that are systematically cut off.
+											When we stop looking at the infrastructure that makes connection possible,
+											and we look at what actually happens,
+											we start realizing that the world doesn&#39;t work quite the same way
+											that we think it does.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So here&#39;s the problem that I&#39;ve been interested in
+											in the last decade or so.
+											The world is, in fact, getting more global.
+											It&#39;s getting more connected.
+											More of problems are global in scale.
+											More of our economics is global in scale.
+											And our media is less global by the day.
+											If you watched a television broadcast in the United States in the 1970s,
+											35 to 40 percent of it would have been international news
+											on a nightly new broadcast.
+											That&#39;s down to about 12 to 15 percent.
+											And this tends to give us a very distorted view of the world.
+											Here&#39;s a slide that Alisa Miller showed at a previous TED Talk.
+											Alisa&#39;s the president of Public Radio International.
+											And she made a cartogram, which is basically a distorted map
+											based on what American
+											television news casts
+											looked at for a month.
+											And you see that when you distort a map based on attention,
+											the world within American television news
+											is basically reduced to
+											this giant bloated U.S.
+											and a couple of other countries which we&#39;ve invaded.
+											And that&#39;s basically what our media is about.
+											And before you conclude that this is just a function of American TV news —
+											which is dreadful, and I agree that it&#39;s dreadful —
+											I&#39;ve been mapping elite media like the New York Times,
+											and I get the same thing.
+											When you look at the New York Times, you look at other elite media,
+											what you largely get are pictures of very wealthy nations
+											and the nations we&#39;ve invaded.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It turns out that new media
+											isn&#39;t necessarily helping us all that much.
+											Here&#39;s a map made by Mark Graham
+											who&#39;s down the street at the Oxford Internet Institute.
+											A this is a map of articles in Wikipedia
+											that have been geo-coded.
+											And you&#39;ll notice that there&#39;s a very heavy bias
+											towards North America and Western Europe.
+											Even within Wikipedias,
+											where we&#39;re creating their own content online,
+											there&#39;s a heavy bias towards the place where
+											a lot of the Wikipedia authors are based,
+											rather than to the rest of the world.
+											In the U.K., you can get up,
+											you can pick up your computer when you get out of this session,
+											you could read a newspaper from India or from Australia,
+											from Canada, God forbid from the U.S.
+											You probably won&#39;t.
+											If you look at online media consumption —
+											in this case, in the top 10 users of the internet —
+											more than 95 percent of the news readership
+											is on domestic news sites.
+											It&#39;s one of these rare cases where the U.S. is actually slightly better than [the U.K.],
+											because we actually like reading your media,
+											rather than vice versa.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So all of this starts leading me
+											to think that we&#39;re in a state that I refer to
+											as imaginary cosmopolitanism.
+											We look at the internet.
+											We think we&#39;re getting this wide view of the globe.
+											We occasionally stumble onto a page in Chinese,
+											and we decide that we do in fact have the greatest technology ever built
+											to connect us to the rest of the world.
+											And we forget that most of the time
+											we&#39;re checking Boston Red Sox scores.
+											So this is a real problem —
+											not just because the Red Sox are having a bad year —
+											but it&#39;s a real problem because,
+											as we&#39;re discussing here at TED,
+											the real problems in the world
+											the interesting problems to solve
+											are global in scale and scope,
+											they require global conversations
+											to get to global solutions.
+											This is a problem we have to solve.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So here&#39;s the good news.
+											For six years, I&#39;ve been hanging out with these guys.
+											This is a group called Global Voices.
+											This is a team of bloggers from around the world.
+											Our mission was to fix the world&#39;s media.
+											We started in 2004.
+											You might have noticed, we haven&#39;t done all that well so far.
+											Nor do I think we are by ourselves,
+											actually going to solve the problem.
+											But the more that I think about it, the more that I think
+											that a few things that we have learned along the way
+											are interesting lessons for how we would rewire
+											if we we wanted to use the web to have a wider world.
+											The first thing you have to consider
+											is that there are parts of the world
+											that are dark spots in terms of attention.
+											In this case — the map of the world at night by NASA —
+											they&#39;re dark literally because of lack of electricity.
+											And I used to think that a dark spot on this map
+											basically meant you&#39;re not going to get media from there
+											because there are more basic needs.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											What I&#39;m starting to realize is that
+											you can get media, it&#39;s just an enormous amount of work,
+											and you need an enormous amount of encouragement.
+											One of those dark spots is Madagascar,
+											a country which is generally better known for the Dreamworks film
+											than it is actually known for
+											the lovely people who live there.
+											And so the people who founded
+											Foko Club in Madagascar
+											weren&#39;t actually concerned with trying to change the image of their country.
+											They were doing something much simpler.
+											It was a club to learn English
+											and to learn computers and the internet.
+											but what happened was that Madagascar
+											went through a violent coup.
+											Most independent media was shut down.
+											And the high school students
+											who were learning to blog through Foko Club
+											suddenly found themselves talking to an international audience
+											about the demonstrations, the violence,
+											everything that was going on within this country.
+											So a very, very small program
+											designed to get people in front of computers,
+											publishing their own thoughts, publishing independent media,
+											ended up having a huge impact
+											on what we know about this country.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now the trick with this is that I&#39;m guessing
+											most people here don&#39;t speak Malagasy.
+											I&#39;m also guessing that most of you don&#39;t even speak Chinese —
+											which is sort of sad if you think about it,
+											as it&#39;s now the most represented language on the internet.
+											Fortunately people are trying to figure out how to fix this.
+											If you&#39;re using Google Chrome and you go to a Chinese language site,
+											you notice this really cute box at the top,
+											which automatically detects that the page is in Chinese
+											and very quickly at a mouse click
+											will give you a translation of the page.
+											Unfortunately, it&#39;s a machine translation of the page.
+											And while Google is very, very good with some languages,
+											it&#39;s actually pretty dreadful with Chinese.
+											And the results can be pretty funny.
+											What you really want — what I really want,
+											is eventually the ability to push a button
+											and have this queued
+											so a human being can translate this.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And if you think this is absurd, it&#39;s not.
+											There&#39;s a group right now in China called Yeeyan.
+											And Yeeyan is a group
+											of 150,000 volunteers
+											who get online every day.
+											They look for the most interesting content in the English language.
+											They translate roughly 100 articles a day
+											from major newspapers, major websites.
+											They put it online for free.
+											It&#39;s the project of a guy named Zhang Lei,
+											who was living in the United States during the Lhasa riots
+											and who couldn&#39;t believe how biased
+											American media coverage was.
+											And he said, &quot;If there&#39;s one thing I can do, I can start translating,
+											so that people between these countries
+											start understanding each other a little bit better.&quot;
+											And my question to you is:
+											if Yeeyan can line up 150,000 people
+											to translate the English internet into Chinese,
+											where&#39;s the English language Yeeyan?
+											Who&#39;s going after Chinese,
+											which now has 400 million internet users out there?
+											My guess is at least one of them has something interesting to say.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So even if we can find a way to translate from Chinese,
+											there&#39;s no guarantee that we&#39;re going to find it.
+											When we look for information online,
+											we basically have two strategies.
+											We use a lot of search.
+											And search is terrific if you know what you&#39;re looking for.
+											But if what you&#39;re looking for is serendipity,
+											if you want to stumble onto something
+											that you didn&#39;t know you needed,
+											our main philosophy is to look to our social networks,
+											to look for our friends.
+											What are they looking at? Maybe we should be looking at it.
+											The problem with this is that essentially
+											what you end up getting after a while is the wisdom of the flock.
+											You end up flocking with a lot of people
+											who are probably similar to you,
+											who have similar interests.
+											And it&#39;s very, very hard to get information
+											from the other flocks, from the other parts of the world
+											where people getting together and talking about their own interests.
+											To do this, at a certain point,
+											you need someone to bump you out of your flock and into another flock.
+											You need a guide.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So this is Amira Al Hussaini. She is the Middle East editor for Global Voices.
+											She has one of the hardest jobs in the world.
+											Not only does she have to keep our Israeli and Palestinian contributors
+											from killing each other,
+											she has to figure out
+											what is going to interest you
+											about the Middle East.
+											And in that sense of trying to get you
+											out of your normal orbit,
+											and to try to get you to pay attention
+											to a story about someone who&#39;s
+											given up smoking for the month of Ramadan,
+											she has to know something about a global audience.
+											She has to know something about what stories are available.
+											Basically, she&#39;s a deejay.
+											She&#39;s a skilled human curator
+											who knows what material is available to her,
+											who&#39;s able to listen to the audience,
+											and who&#39;s able to make a selection
+											and push people forward in one fashion or another.
+											I don&#39;t think this is necessarily an algorithmic process.
+											I think what&#39;s great about the internet
+											is that it actually makes it much easier
+											for deejays to reach a wider audience.
+											I know Amira.
+											I can ask her what to read.
+											But with the internet, she&#39;s in a position where she can
+											tell a lot of people what to read.
+											And you can listen to her as well,
+											if this is a way that you&#39;re interested in having your web widened.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So once you start widening like this,
+											once you start lighting up voices in the dark spots,
+											once you start translating, once you start curating,
+											you end up in some really weird places.
+											This is an image from pretty much my favorite blog,
+											which is AfriGadget.
+											And AfriGadget is a blog that looks
+											at technology in an Africa context.
+											And specifically, it&#39;s looking at a blacksmith
+											in Kibera in Nairobi,
+											who is turning the shaft of a Landrover
+											into a cold chisel.
+											And when you look at this image, you might find yourself going,
+											&quot;Why would I conceivably care about this?&quot;
+											And the truth is, this guy can probably explain this to you.
+											This is Erik Hersman. You guys may have seen him around the conference.
+											He goes by the moniker White African.
+											He&#39;s both a very well known American geek,
+											but he&#39;s also Kenyan; he was born in Sudan, grew up in Kenya.
+											He is a bridge figure.
+											He is someone who literally has feet in both worlds —
+											one in the world of the African technology community,
+											one in the world of the American technology community.
+											And so he&#39;s able to tell a story
+											about this blacksmith in Kibera
+											and turn it into a story about repurposing technology,
+											about innovating from constraint,
+											about looking for inspiration based on reusing materials.
+											He knows one world,
+											and he&#39;s finding a way to communicate it to another world,
+											both of which he has deep connections to.
+											These bridge figures, I&#39;m pretty well convinced,
+											are the future of how we try to make the world wider
+											through using the web.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But the trick with bridges is, ultimately,
+											you need someone to cross them.
+											And that&#39;s where we start talking about xenophiles.
+											So if I found myself in the NFL,
+											I suspect I would spend my off-season
+											nursing my wounds, enjoying my house, so on and so forth —
+											possibly recording a hip-hop album.
+											Dhani Jones,
+											who is the middle linebacker for the Cincinnati Bengals,
+											has a slightly different approach to the off-season.
+											Dhani has a television show.
+											It&#39;s called &quot;Dhani Tackles the Globe.&quot;
+											And every week on this television show,
+											Dhani travels to a different nation of the world.
+											He finds a local sporting team.
+											He trains with them for a week, and he plays a match with them.
+											And his reason for this
+											is not just that he wants to master Muay Thai boxing.
+											It&#39;s because, for him,
+											sport is the language
+											that allows him to encounter
+											the full width and wonder of the world.
+											For some of us it might be music. For some of us it might be food.
+											For a lot of us it might be literature or writing.
+											But there are all these different techniques
+											that allow you to go out and look at the world
+											and find your place within it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The goal of my Talk here
+											is not to persuade the people in this room
+											to embrace your xenophilia.
+											My guess — given that you&#39;re at a conference called TEDGlobal —
+											is that most of you are xenophiles,
+											whether or not you use that term.
+											My challenge instead is this.
+											It&#39;s not enough to make the personal decision
+											that you want a wider world.
+											We have to figure out how to rewire
+											the systems that we have.
+											We have to fix our media.
+											We have to fix the internet. We have to fix our education.
+											We have to fix our immigration policy.
+											We need to look at ways
+											of creating serendipity,
+											of making translation pervasive,
+											and we need to find ways to embrace
+											and celebrate these bridge figures.
+											And we need to figure out how to cultivate xenophiles.
+											That&#39;s what I&#39;m trying to do. I need your help.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":748,"count":142,"talk_id":916},"threadId":748,"current_talk":"916","description":"Sure, the web connects the globe, but most of us end up hearing mainly from people just like ourselves. Blogger and technologist Ethan Zuckerman wants to help share the stories of the whole wide world. He talks about clever strategies to open up your Twitter world and read the news in languages you don't even know.","event":"TEDGlobal 2010","language":"en","name":"Ethan Zuckerman: Listening to global voices","slug":"ethan_zuckerman","speakers":[{"id":"758","slug":"ethan_zuckerman","is_published":true,"firstname":"Ethan","lastname":"Zuckerman","middleinitial":"","title":"","description":"Blogger, digital visionary","photo_url":"https://pe.tedcdn.com/images/ted/183883_254x191.jpg","whatotherssay":"Ethan Zuckerman is up there with Yo-Yo Ma among my heroic models of global citizenship. His brainchild, Global Voices Online, is my model of journalism transforming itself.","whotheyare":"Ethan Zuckerman studies how the world -- the whole world -- uses new media to share information and moods across cultures, languages and platforms.","whylisten":"<p>Ethan Zuckerman is a senior researcher at the Berkman Center for Internet and Society at Harvard University. His research focuses on the distribution of attention in mainstream and new media, the use of technology for international development, and the use of new media technologies by activists. He and his team recently launched Media Cloud, an open-source platform for studying online media that enables quantitative analysis of media attention. </p><p>With Rebecca MacKinnon, Ethan co-founded international blogging community Global Voices, sharing news and opinions from citizen media in over 150 nations, translating content from over 30 languages, and publishing editions in 20 languages. With support from foundation funders and media partners, Global Voices supports dozens of smaller citizen media projects in developing nations, and is a leading voice for free speech online. In 2000, Zuckerman founded Geekcorps, a technology volunteer corps that sends IT specialists to work on projects in developing nations, with a focus on West Africa. Geekcorps sent over 100 volunteers to projects throughout the developing world, working on projects that ranged from bringing internet connectivity to Malian radio stations to digitizing databases to manage Rwanda&#39;s Gacaca trials. In an earlier life, Zuckerman was a founder of Tripod.com. He&#39;s a legendarily dedicated blogger at ... My heart&#39;s in Accra.</p>"}],"url":"https://www.ted.com/talks/ethan_zuckerman","viewed_count":728211,"talks":[{"recommendations":null,"more_resources":[{"status":"approved","headline":"*Rewire*","blurb":"","link_url":"http://www.amazon.com/Rewire-Digital-Cosmopolitans-Age-Connection/dp/0393082830/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","image_url":"https://pe.tedcdn.com/images/ted/a4161ce0cc0bf56df699bdd0ad36df0d9f079ead_800x1217.jpg","author":"Ethan Zuckerman","year":"2013","publisher":"W. W. Norton and Company","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"book"}],"corrections":[],"has_citations":false,"take_action":[{"status":"approved","blurb":"**Subscribe** to Global Voices' daily news digest of global citizen media.","link_url":"http://globalvoicesonline.org/subscribe/","visible_url":"globalvoicesonline.org","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"take_action","verb":"subscribe"},{"status":"approved","blurb":"**Volunteer** for Global Voices as a contributing writer.","link_url":"http://globalvoicesonline.org/for-bloggers/#author","visible_url":"globalvoicesonline.org/for-bloggers","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"take_action","verb":"volunteer"}],"curator_approved":true,"description":"Sure, the web connects the globe, but most of us end up hearing mainly from people just like ourselves. Blogger and technologist Ethan Zuckerman wants to help share the stories of the whole wide world. He talks about clever strategies to open up your Twitter world and read the news in languages you don't even know.","downloads":{"id":916,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Esperanto","endonym":"Esperanto","languageCode":"eo","ianaCode":"eo","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Macedonian","endonym":"македонски","languageCode":"mk","ianaCode":"mk","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/EthanZuckerman_2010G-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/EthanZuckerman_2010G.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"fr":{"name":"French","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p-fr.mp4","low":"https://download.ted.com/talks/EthanZuckerman_2010G-low-fr.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/EthanZuckerman_2010G-low-ja.mp4","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p-ja.mp4"},"zh-tw":{"name":"Chinese, Traditional","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p-zh-tw.mp4","low":"https://download.ted.com/talks/EthanZuckerman_2010G-low-zh-tw.mp4"},"de":{"name":"German","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p-de.mp4","low":"https://download.ted.com/talks/EthanZuckerman_2010G-low-de.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/EthanZuckerman_2010G-low-zh-cn.mp4","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p-zh-cn.mp4"},"ko":{"name":"Korean","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p-ko.mp4","low":"https://download.ted.com/talks/EthanZuckerman_2010G-low-ko.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/EthanZuckerman_2010G-low-es.mp4","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p-es.mp4"},"en":{"name":"English","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p-en.mp4","low":"https://download.ted.com/talks/EthanZuckerman_2010G-low-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/EthanZuckerman_2010G-low-pt-br.mp4","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/EthanZuckerman_2010G-low-it.mp4","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p-it.mp4"},"he":{"name":"Hebrew","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p-he.mp4","low":"https://download.ted.com/talks/EthanZuckerman_2010G-low-he.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/EthanZuckerman_2010G-low-bg.mp4","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/EthanZuckerman_2010G-low-ro.mp4","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/EthanZuckerman_2010G-low-pl.mp4","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p-pl.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/EthanZuckerman_2010G-low-nl.mp4","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p-nl.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/EthanZuckerman_2010G-low-tr.mp4","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p-tr.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/EthanZuckerman_2010G-low-ru.mp4","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p-ru.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/EthanZuckerman_2010G-low-hu.mp4","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p-hu.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/EthanZuckerman_2010G-low-el.mp4","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p-el.mp4"},"id":{"name":"Indonesian","low":"https://download.ted.com/talks/EthanZuckerman_2010G-low-id.mp4","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p-id.mp4"},"cs":{"name":"Czech","low":"https://download.ted.com/talks/EthanZuckerman_2010G-low-cs.mp4","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p-cs.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/EthanZuckerman_2010G-low-pt.mp4","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p-pt.mp4"},"eo":{"name":"Esperanto","low":"https://download.ted.com/talks/EthanZuckerman_2010G-low-eo.mp4","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p-eo.mp4"},"mk":{"name":"Macedonian","low":"https://download.ted.com/talks/EthanZuckerman_2010G-low-mk.mp4","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p-mk.mp4"},"ar":{"name":"Arabic","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p-ar.mp4","low":"https://download.ted.com/talks/EthanZuckerman_2010G-low-ar.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/EthanZuckerman_2010G-low-vi.mp4","high":"https://download.ted.com/talks/EthanZuckerman_2010G-480p-vi.mp4"}},"audioDownload":null},"duration":1185.0,"event":"TEDGlobal 2010","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/183882_800x600.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/183882_800x600.jpg?q=50&w=15","id":"916","player_talks":[{"id":"916","duration":1185.0,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Esperanto","endonym":"Esperanto","languageCode":"eo","ianaCode":"eo","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Macedonian","endonym":"македонски","languageCode":"mk","ianaCode":"mk","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2010G/Blank/EthanZuckerman_2010G-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDGlobal%2B2010%26id%3D916%26tag%3Dcommunication%2Cglobal%2Bissues%2Clanguage%2Cnews%2Ctechnology%2Cweb%26talk%3Dethan_zuckerman%26year%3D2010&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"916","talk":"ethan_zuckerman","tag":"communication,global issues,language,news,technology,web","year":"2010","event":"TEDGlobal 2010"},"stream":"https://hls.ted.com/talks/916.m3u8","metadata":"https://hls.ted.com/talks/916.json"}},"targeting":{"id":"916","talk":"ethan_zuckerman","tag":"communication,global issues,language,news,technology,web","year":"2010","event":"TEDGlobal 2010"},"canonical":"https://www.ted.com/talks/ethan_zuckerman","name":"Ethan Zuckerman: Listening to global voices","title":"Listening to global voices","speaker":"Ethan Zuckerman","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/183882_800x600.jpg?quality=89&w=600","slug":"ethan_zuckerman","event":"TEDGlobal 2010","published":1279189320}],"ratings":[{"id":10,"name":"Inspiring","count":376},{"id":22,"name":"Fascinating","count":211},{"id":8,"name":"Informative","count":374},{"id":24,"name":"Persuasive","count":302},{"id":3,"name":"Courageous","count":53},{"id":9,"name":"Ingenious","count":61},{"id":26,"name":"Obnoxious","count":19},{"id":11,"name":"Longwinded","count":21},{"id":2,"name":"Confusing","count":7},{"id":25,"name":"OK","count":73},{"id":21,"name":"Unconvincing","count":21},{"id":7,"name":"Funny","count":45},{"id":1,"name":"Beautiful","count":14},{"id":23,"name":"Jaw-dropping","count":20}],"recorded_at":"2010-07-14T00:00:00.000+00:00","related_talks":[{"id":"248","hero":"https://pe.tedcdn.com/images/ted/41661_480x360.jpg","speaker":"Alisa Miller","title":"How the news distorts our worldview","duration":269.0,"slug":"alisa_miller_shares_the_news_about_the_news","viewed_count":1978991},{"id":"523","hero":"https://pe.tedcdn.com/images/ted/d9441da0244acb76f766b462f1674d4310cc6fd9_1600x1200.jpg","speaker":"Erik Hersman","title":"Reporting crisis via texting","duration":236.0,"slug":"erik_hersman_on_reporting_crisis_via_texting","viewed_count":418894},{"id":"554","hero":"https://pe.tedcdn.com/images/ted/91308_800x600.jpg","speaker":"Jay Walker","title":"The world's English mania","duration":274.0,"slug":"jay_walker_on_the_world_s_english_mania","viewed_count":4436621},{"id":"575","hero":"https://pe.tedcdn.com/images/ted/59ead9099fde9f11dfa640dfe3e3c6144237825b_1600x1200.jpg","speaker":"Clay Shirky","title":"How social media can make history","duration":948.0,"slug":"clay_shirky_how_cellphones_twitter_facebook_can_make_history","viewed_count":1728486},{"id":"2073","hero":"https://pe.tedcdn.com/images/ted/2285025aeba7becd431cfa04f05c592075491fcd_2400x1800.jpg","speaker":"Sally Kohn","title":"Don't like clickbait? Don't click","duration":276.0,"slug":"sally_kohn_don_t_like_clickbait_don_t_click","viewed_count":1353373},{"id":"2302","hero":"https://pe.tedcdn.com/images/ted/bd82943883da85a6df233090923b3699ee9f6f14_2880x1620.jpg","speaker":"Jon Ronson","title":"When online shaming goes too far","duration":1031.0,"slug":"jon_ronson_what_happens_when_online_shaming_spirals_out_of_control","viewed_count":2845898}],"slug":"ethan_zuckerman","speakers":[{"id":"758","slug":"ethan_zuckerman","is_published":true,"firstname":"Ethan","lastname":"Zuckerman","middleinitial":"","title":"","description":"Blogger, digital visionary","photo_url":"https://pe.tedcdn.com/images/ted/183883_254x191.jpg","whatotherssay":"Ethan Zuckerman is up there with Yo-Yo Ma among my heroic models of global citizenship. His brainchild, Global Voices Online, is my model of journalism transforming itself.","whotheyare":"Ethan Zuckerman studies how the world -- the whole world -- uses new media to share information and moods across cultures, languages and platforms.","whylisten":"<p>Ethan Zuckerman is a senior researcher at the Berkman Center for Internet and Society at Harvard University. His research focuses on the distribution of attention in mainstream and new media, the use of technology for international development, and the use of new media technologies by activists. He and his team recently launched Media Cloud, an open-source platform for studying online media that enables quantitative analysis of media attention. </p><p>With Rebecca MacKinnon, Ethan co-founded international blogging community Global Voices, sharing news and opinions from citizen media in over 150 nations, translating content from over 30 languages, and publishing editions in 20 languages. With support from foundation funders and media partners, Global Voices supports dozens of smaller citizen media projects in developing nations, and is a leading voice for free speech online. In 2000, Zuckerman founded Geekcorps, a technology volunteer corps that sends IT specialists to work on projects in developing nations, with a focus on West Africa. Geekcorps sent over 100 volunteers to projects throughout the developing world, working on projects that ranged from bringing internet connectivity to Malian radio stations to digitizing databases to manage Rwanda&#39;s Gacaca trials. In an earlier life, Zuckerman was a founder of Tripod.com. He&#39;s a legendarily dedicated blogger at ... My heart&#39;s in Accra.</p>"}],"speaker_name":"Ethan Zuckerman","tags":["communication","global issues","language","news","technology","web"],"title":"Listening to global voices","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":728211}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

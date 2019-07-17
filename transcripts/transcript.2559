@@ -1,0 +1,1837 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Sebastian Thrun and Chris Anderson: What AI is -- and isn&#39;t | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Educator and entrepreneur Sebastian Thrun wants us to use AI to free humanity of repetitive work and unleash our creativity. In an inspiring, informative conversation with TED Curator Chris Anderson, Thrun discusses the progress of deep learning, why we shouldn&#39;t fear runaway AI and how society will be better off if dull, tedious work is done with the help of machines. &quot;Only one percent of interesting things have been invented yet,&quot; Thrun says. &quot;I believe all of us are insanely creative ... [AI] will empower us to turn creativity into action.&quot;" />
+<meta name="author" content="Sebastian Thrun and Chris Anderson" />
+<link rel="canonical" href="https://www.ted.com/talks/sebastian_thrun_and_chris_anderson_the_new_generation_of_computers_is_programming_itself/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/sebastian_thrun_and_chris_anderson_the_new_generation_of_computers_is_programming_itself/transcript" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/sebastian_thrun_and_chris_anderson_the_new_generation_of_computers_is_programming_itself/transcript?language=en" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/sebastian_thrun_and_chris_anderson_the_new_generation_of_computers_is_programming_itself/transcript?language=es" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/sebastian_thrun_and_chris_anderson_the_new_generation_of_computers_is_programming_itself/transcript?language=pt-br" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/sebastian_thrun_and_chris_anderson_the_new_generation_of_computers_is_programming_itself/transcript?language=fa" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/sebastian_thrun_and_chris_anderson_the_new_generation_of_computers_is_programming_itself/transcript?language=ru" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/sebastian_thrun_and_chris_anderson_the_new_generation_of_computers_is_programming_itself/transcript?language=ja" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/sebastian_thrun_and_chris_anderson_the_new_generation_of_computers_is_programming_itself/transcript?language=tr" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/sebastian_thrun_and_chris_anderson_the_new_generation_of_computers_is_programming_itself/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/sebastian_thrun_and_chris_anderson_the_new_generation_of_computers_is_programming_itself/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/sebastian_thrun_and_chris_anderson_the_new_generation_of_computers_is_programming_itself/transcript?language=he" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/sebastian_thrun_and_chris_anderson_the_new_generation_of_computers_is_programming_itself/transcript?language=hu" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/sebastian_thrun_and_chris_anderson_the_new_generation_of_computers_is_programming_itself/transcript?language=ar" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/sebastian_thrun_and_chris_anderson_the_new_generation_of_computers_is_programming_itself/transcript?language=ko" />
+<meta property="og:title" content="Transcript of &quot;What AI is -- and isn&#39;t&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/78d90be3-3fb2-4b34-88f1-b9618ce26159/SebastianThrun_2017-embed.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/78d90be3-3fb2-4b34-88f1-b9618ce26159/SebastianThrun_2017-embed.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Sebastian Thrun and Chris Anderson: What AI is -- and isn&#39;t" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Educator and entrepreneur Sebastian Thrun wants us to use AI to free humanity of repetitive work and unleash our creativity. In an inspiring, informative conversation with TED Curator Chris Anderson, Thrun discusses the progress of deep learning, why we shouldn&#39;t fear runaway AI and how society will be better off if dull, tedious work is done with the help of machines. &quot;Only one percent of interesting things have been invented yet,&quot; Thrun says. &quot;I believe all of us are insanely creative ... [AI] will empower us to turn creativity into action.&quot;" />
+<meta property="og:url" content="https://www.ted.com/talks/sebastian_thrun_and_chris_anderson_the_new_generation_of_computers_is_programming_itself/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 3633);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/sebastian_thrun_and_chris_anderson_the_new_generation_of_computers_is_programming_itself' itemprop='url'>
+<meta content="What AI is — and isn't" itemprop='name'>
+<meta content='Educator and entrepreneur Sebastian Thrun wants us to use AI to free humanity of repetitive work and unleash our creativity. In an inspiring, informative conversation with TED Curator Chris Anderson, Thrun discusses the progress of deep learning, why we shouldn&#x0027;t fear runaway AI and how society will be better off if dull, tedious work is done with the help of machines. "Only one percent of interesting things have been invented yet," Thrun says. "I believe all of us are insanely creative ... [AI] will empower us to turn creativity into action."' itemprop='description'>
+<meta content='PT24M21S' itemprop='duration'>
+<meta content='2017-11-30T16:01:29+00:00' itemprop='uploadDate'>
+<meta content='1370154' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/78d90be3-3fb2-4b34-88f1-b9618ce26159/SebastianThrun_2017-embed.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/sebastian_thrun' itemprop='url'>
+<meta content='Sebastian Thrun' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/71a65d5bcdb9ea46afa9053605edbbd71e0aa884_254x191.jpg' itemprop='image'>
+</span>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/chris_anderson_ted' itemprop='url'>
+<meta content='Chris Anderson' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/15a78b07d0340fcf8f391e7529b6f4b050a60cc0_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/sebastian_thrun_and_chris_anderson_the_new_generation_of_computers_is_programming_itself' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/78d90be3-3fb2-4b34-88f1-b9618ce26159/SebastianThrun_2017-embed.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Sebastian Thrun and Chris Anderson
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,370,154
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 24:21</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Chris Anderson: Help us understand
+what machine learning is,
+											because that seems to be the key driver
+											of so much of the excitement
+and also of the concern
+											around artificial intelligence.
+											How does machine learning work?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Sebastian Thrun: So, artificial
+intelligence and machine learning
+											is about 60 years old
+											and has not had a great day
+in its past until recently.
+											And the reason is that today,
+											we have reached a scale
+of computing and datasets
+											that was necessary to make machines smart.
+											So here&#39;s how it works.
+											If you program a computer today,
+say, your phone,
+											then you hire software engineers
+											that write a very,
+very long kitchen recipe,
+											like, &quot;If the water is too hot,
+turn down the temperature.
+											If it&#39;s too cold, turn up
+the temperature.&quot;
+											The recipes are not just 10 lines long.
+											They are millions of lines long.
+											A modern cell phone
+has 12 million lines of code.
+											A browser has five million lines of code.
+											And each bug in this recipe
+can cause your computer to crash.
+											That&#39;s why a software engineer
+makes so much money.
+											The new thing now is that computers
+can find their own rules.
+											So instead of an expert
+deciphering, step by step,
+											a rule for every contingency,
+											what you do now is you give
+the computer examples
+											and have it infer its own rules.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											A really good example is AlphaGo,
+which recently was won by Google.
+											Normally, in game playing,
+you would really write down all the rules,
+											but in AlphaGo&#39;s case,
+											the system looked over a million games
+											and was able to infer its own rules
+											and then beat the world&#39;s
+residing Go champion.
+											That is exciting, because it relieves
+the software engineer
+											of the need of being super smart,
+											and pushes the burden towards the data.
+											As I said, the inflection point
+where this has become really possible —
+											very embarrassing, my thesis
+was about machine learning.
+											It was completely
+insignificant, don&#39;t read it,
+											because it was 20 years ago
+											and back then, the computers
+were as big as a cockroach brain.
+											Now they are powerful enough
+to really emulate
+											kind of specialized human thinking.
+											And then the computers
+take advantage of the fact
+											that they can look at
+much more data than people can.
+											So I&#39;d say AlphaGo looked at
+more than a million games.
+											No human expert can ever
+study a million games.
+											Google has looked at over
+a hundred billion web pages.
+											No person can ever study
+a hundred billion web pages.
+											So as a result,
+the computer can find rules
+											that even people can&#39;t find.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: So instead of looking ahead
+to, &quot;If he does that, I will do that,&quot;
+											it&#39;s more saying, &quot;Here is what
+looks like a winning pattern,
+											here is what looks like
+a winning pattern.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											ST: Yeah. I mean, think about
+how you raise children.
+											You don&#39;t spend the first 18 years
+giving kids a rule for every contingency
+											and set them free
+and they have this big program.
+											They stumble, fall, get up,
+they get slapped or spanked,
+											and they have a positive experience,
+a good grade in school,
+											and they figure it out on their own.
+											That&#39;s happening with computers now,
+											which makes computer programming
+so much easier all of a sudden.
+											Now we don&#39;t have to think anymore.
+We just give them lots of data.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: And so, this has been key
+to the spectacular improvement
+											in power of self-driving cars.
+											I think you gave me an example.
+											Can you explain what&#39;s happening here?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											ST: This is a drive of a self-driving car
+											that we happened to have at Udacity
+											and recently made
+into a spin-off called Voyage.
+											We have used this thing
+called deep learning
+											to train a car to drive itself,
+											and this is driving
+from Mountain View, California,
+											to San Francisco
+											on El Camino Real on a rainy day,
+											with bicyclists and pedestrians
+and 133 traffic lights.
+											And the novel thing here is,
+											many, many moons ago, I started
+the Google self-driving car team.
+											And back in the day, I hired
+the world&#39;s best software engineers
+											to find the world&#39;s best rules.
+											This is just trained.
+											We drive this road 20 times,
+											we put all this data
+into the computer brain,
+											and after a few hours of processing,
+											it comes up with behavior
+that often surpasses human agility.
+											So it&#39;s become really easy to program it.
+											This is 100 percent autonomous,
+about 33 miles, an hour and a half.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: So, explain it — on the big part
+of this program on the left,
+											you&#39;re seeing basically what
+the computer sees as trucks and cars
+											and those dots overtaking it and so forth.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											ST: On the right side, you see the camera
+image, which is the main input here,
+											and it&#39;s used to find lanes,
+other cars, traffic lights.
+											The vehicle has a radar
+to do distance estimation.
+											This is very commonly used
+in these kind of systems.
+											On the left side you see a laser diagram,
+											where you see obstacles like trees
+and so on depicted by the laser.
+											But almost all the interesting work
+is centering on the camera image now.
+											We&#39;re really shifting over from precision
+sensors like radars and lasers
+											into very cheap, commoditized sensors.
+											A camera costs less than eight dollars.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: And that green dot
+on the left thing, what is that?
+											Is that anything meaningful?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											ST: This is a look-ahead point
+for your adaptive cruise control,
+											so it helps us understand
+how to regulate velocity
+											based on how far
+the cars in front of you are.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: And so, you&#39;ve also
+got an example, I think,
+											of how the actual
+learning part takes place.
+											Maybe we can see that. Talk about this.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											ST: This is an example where we posed
+a challenge to Udacity students
+											to take what we call
+a self-driving car Nanodegree.
+											We gave them this dataset
+											and said &quot;Hey, can you guys figure out
+how to steer this car?&quot;
+											And if you look at the images,
+											it&#39;s, even for humans, quite impossible
+to get the steering right.
+											And we ran a competition and said,
+&quot;It&#39;s a deep learning competition,
+											AI competition,&quot;
+											and we gave the students 48 hours.
+											So if you are a software house
+like Google or Facebook,
+											something like this costs you
+at least six months of work.
+											So we figured 48 hours is great.
+											And within 48 hours, we got about
+100 submissions from students,
+											and the top four got it perfectly right.
+											It drives better than I could
+drive on this imagery,
+											using deep learning.
+											And again, it&#39;s the same methodology.
+											It&#39;s this magical thing.
+											When you give enough data
+to a computer now,
+											and give enough time
+to comprehend the data,
+											it finds its own rules.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: And so that has led to the development
+of powerful applications
+											in all sorts of areas.
+											You were talking to me
+the other day about cancer.
+											Can I show this video?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											ST: Yeah, absolutely, please.
+CA: This is cool.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											ST: This is kind of an insight
+into what&#39;s happening
+											in a completely different domain.
+											This is augmenting, or competing —
+											it&#39;s in the eye of the beholder —
+											with people who are being paid
+400,000 dollars a year,
+											dermatologists,
+											highly trained specialists.
+											It takes more than a decade of training
+to be a good dermatologist.
+											What you see here is
+the machine learning version of it.
+											It&#39;s called a neural network.
+											&quot;Neural networks&quot; is the technical term
+for these machine learning algorithms.
+											They&#39;ve been around since the 1980s.
+											This one was invented in 1988
+by a Facebook Fellow called Yann LeCun,
+											and it propagates data stages
+											through what you could think of
+as the human brain.
+											It&#39;s not quite the same thing,
+but it emulates the same thing.
+											It goes stage after stage.
+											In the very first stage, it takes
+the visual input and extracts edges
+											and rods and dots.
+											And the next one becomes
+more complicated edges
+											and shapes like little half-moons.
+											And eventually, it&#39;s able to build
+really complicated concepts.
+											Andrew Ng has been able to show
+											that it&#39;s able to find
+cat faces and dog faces
+											in vast amounts of images.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											What my student team
+at Stanford has shown is that
+											if you train it on 129,000 images
+of skin conditions,
+											including melanoma and carcinomas,
+											you can do as good a job
+											as the best human dermatologists.
+											And to convince ourselves
+that this is the case,
+											we captured an independent dataset
+that we presented to our network
+											and to 25 board-certified
+Stanford-level dermatologists,
+											and compared those.
+											And in most cases,
+											they were either on par or above
+the performance classification accuracy
+											of human dermatologists.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: You were telling me an anecdote.
+											I think about this image right here.
+											What happened here?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											ST: This was last Thursday.
+That&#39;s a moving piece.
+											What we&#39;ve shown before and we published
+in &quot;Nature&quot; earlier this year
+											was this idea that we show
+dermatologists images
+											and our computer program images,
+											and count how often they&#39;re right.
+											But all these images are past images.
+											They&#39;ve all been biopsied to make sure
+we had the correct classification.
+											This one wasn&#39;t.
+											This one was actually done at Stanford
+by one of our collaborators.
+											The story goes that our collaborator,
+											who is a world-famous dermatologist,
+one of the three best, apparently,
+											looked at this mole and said,
+&quot;This is not skin cancer.&quot;
+											And then he had
+a second moment, where he said,
+											&quot;Well, let me just check with the app.&quot;
+											So he took out his iPhone
+and ran our piece of software,
+											our &quot;pocket dermatologist,&quot; so to speak,
+											and the iPhone said: cancer.
+											It said melanoma.
+											And then he was confused.
+											And he decided, &quot;OK, maybe I trust
+the iPhone a little bit more than myself,&quot;
+											and he sent it out to the lab
+to get it biopsied.
+											And it came up as an aggressive melanoma.
+											So I think this might be the first time
+that we actually found,
+											in the practice of using deep learning,
+											an actual person whose melanoma
+would have gone unclassified,
+											had it not been for deep learning.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: I mean, that&#39;s incredible.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It feels like there&#39;d be an instant demand
+for an app like this right now,
+											that you might freak out a lot of people.
+											Are you thinking of doing this,
+making an app that allows self-checking?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											ST: So my in-box is flooded
+about cancer apps,
+											with heartbreaking stories of people.
+											I mean, some people have had
+10, 15, 20 melanomas removed,
+											and are scared that one
+might be overlooked, like this one,
+											and also, about, I don&#39;t know,
+											flying cars and speaker inquiries 
+these days, I guess.
+											My take is, we need more testing.
+											I want to be very careful.
+											It&#39;s very easy to give a flashy result
+and impress a TED audience.
+											It&#39;s much harder to put
+something out that&#39;s ethical.
+											And if people were to use the app
+											and choose not to consult
+the assistance of a doctor
+											because we get it wrong,
+											I would feel really bad about it.
+											So we&#39;re currently doing clinical tests,
+											and if these clinical tests commence
+and our data holds up,
+											we might be able at some point
+to take this kind of technology
+											and take it out of the Stanford clinic
+											and bring it to the entire world,
+											places where Stanford
+doctors never, ever set foot.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: And do I hear this right,
+											that it seemed like what you were saying,
+											because you are working
+with this army of Udacity students,
+											that in a way, you&#39;re applying
+a different form of machine learning
+											than might take place in a company,
+											which is you&#39;re combining machine learning
+with a form of crowd wisdom.
+											Are you saying that sometimes you think
+that could actually outperform
+											what a company can do,
+even a vast company?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											ST: I believe there&#39;s now
+instances that blow my mind,
+											and I&#39;m still trying to understand.
+											What Chris is referring to
+is these competitions that we run.
+											We turn them around in 48 hours,
+											and we&#39;ve been able to build
+a self-driving car
+											that can drive from Mountain View
+to San Francisco on surface streets.
+											It&#39;s not quite on par with Google
+after seven years of Google work,
+											but it&#39;s getting there.
+											And it took us only two engineers
+and three months to do this.
+											And the reason is, we have
+an army of students
+											who participate in competitions.
+											We&#39;re not the only ones
+who use crowdsourcing.
+											Uber and Didi use crowdsource for driving.
+											Airbnb uses crowdsourcing for hotels.
+											There&#39;s now many examples
+where people do bug-finding crowdsourcing
+											or protein folding, of all things,
+in crowdsourcing.
+											But we&#39;ve been able to build
+this car in three months,
+											so I am actually rethinking
+											how we organize corporations.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We have a staff of 9,000 people
+who are never hired,
+											that I never fire.
+											They show up to work
+and I don&#39;t even know.
+											Then they submit to me
+maybe 9,000 answers.
+											I&#39;m not obliged to use any of those.
+											I end up — I pay only the winners,
+											so I&#39;m actually very cheapskate here,
+which is maybe not the best thing to do.
+											But they consider it part
+of their education, too, which is nice.
+											But these students have been able
+to produce amazing deep learning results.
+											So yeah, the synthesis of great people
+and great machine learning is amazing.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: I mean, Gary Kasparov said on
+the first day [of TED2017]
+											that the winners of chess, surprisingly,
+turned out to be two amateur chess players
+											with three mediocre-ish,
+mediocre-to-good, computer programs,
+											that could outperform one grand master
+with one great chess player,
+											like it was all part of the process.
+											And it almost seems like
+you&#39;re talking about a much richer version
+											of that same idea.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											ST: Yeah, I mean, as you followed
+the fantastic panels yesterday morning,
+											two sessions about AI,
+											robotic overlords and the human response,
+											many, many great things were said.
+											But one of the concerns is
+that we sometimes confuse
+											what&#39;s actually been done with AI
+with this kind of overlord threat,
+											where your AI develops
+consciousness, right?
+											The last thing I want
+is for my AI to have consciousness.
+											I don&#39;t want to come into my kitchen
+											and have the refrigerator fall in love
+with the dishwasher
+											and tell me, because I wasn&#39;t nice enough,
+											my food is now warm.
+											I wouldn&#39;t buy these products,
+and I don&#39;t want them.
+											But the truth is, for me,
+											AI has always been
+an augmentation of people.
+											It&#39;s been an augmentation of us,
+											to make us stronger.
+											And I think Kasparov was exactly correct.
+											It&#39;s been the combination
+of human smarts and machine smarts
+											that make us stronger.
+											The theme of machines making us stronger
+is as old as machines are.
+											The agricultural revolution took
+place because it made steam engines
+											and farming equipment
+that couldn&#39;t farm by itself,
+											that never replaced us;
+it made us stronger.
+											And I believe this new wave of AI
+will make us much, much stronger
+											as a human race.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: We&#39;ll come on to that a bit more,
+											but just to continue with the scary part
+of this for some people,
+											like, what feels like it gets
+scary for people is when you have
+											a computer that can, one,
+rewrite its own code,
+											so, it can create
+multiple copies of itself,
+											try a bunch of different code versions,
+											possibly even at random,
+											and then check them out and see
+if a goal is achieved and improved.
+											So, say the goal is to do better
+on an intelligence test.
+											You know, a computer
+that&#39;s moderately good at that,
+											you could try a million versions of that.
+											You might find one that was better,
+											and then, you know, repeat.
+											And so the concern is that you get
+some sort of runaway effect
+											where everything is fine
+on Thursday evening,
+											and you come back into the lab
+on Friday morning,
+											and because of the speed
+of computers and so forth,
+											things have gone crazy, and suddenly —
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											ST: I would say this is a possibility,
+											but it&#39;s a very remote possibility.
+											So let me just translate
+what I heard you say.
+											In the AlphaGo case,
+we had exactly this thing:
+											the computer would play
+the game against itself
+											and then learn new rules.
+											And what machine learning is
+is a rewriting of the rules.
+											It&#39;s the rewriting of code.
+											But I think there was
+absolutely no concern
+											that AlphaGo would take over the world.
+											It can&#39;t even play chess.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: No, no, no, but now,
+these are all very single-domain things.
+											But it&#39;s possible to imagine.
+											I mean, we just saw a computer
+that seemed nearly capable
+											of passing a university entrance test,
+											that can kind of — it can&#39;t read
+and understand in the sense that we can,
+											but it can certainly absorb all the text
+											and maybe see increased
+patterns of meaning.
+											Isn&#39;t there a chance that,
+as this broadens out,
+											there could be a different
+kind of runaway effect?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											ST: That&#39;s where
+I draw the line, honestly.
+											And the chance exists —
+I don&#39;t want to downplay it —
+											but I think it&#39;s remote, and it&#39;s not
+the thing that&#39;s on my mind these days,
+											because I think the big revolution
+is something else.
+											Everything successful in AI
+to the present date
+											has been extremely specialized,
+											and it&#39;s been thriving on a single idea,
+											which is massive amounts of data.
+											The reason AlphaGo works so well
+is because of massive numbers of Go plays,
+											and AlphaGo can&#39;t drive a car
+or fly a plane.
+											The Google self-driving car
+or the Udacity self-driving car
+											thrives on massive amounts of data,
+and it can&#39;t do anything else.
+											It can&#39;t even control a motorcycle.
+											It&#39;s a very specific,
+domain-specific function,
+											and the same is true for our cancer app.
+											There has been almost no progress
+on this thing called &quot;general AI,&quot;
+											where you go to an AI and say,
+&quot;Hey, invent for me special relativity
+											or string theory.&quot;
+											It&#39;s totally in the infancy.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The reason I want to emphasize this,
+											I see the concerns,
+and I want to acknowledge them.
+											But if I were to think about one thing,
+											I would ask myself the question,
+&quot;What if we can take anything repetitive
+											and make ourselves
+100 times as efficient?&quot;
+											It so turns out, 300 years ago,
+we all worked in agriculture
+											and did farming and did repetitive things.
+											Today, 75 percent of us work in offices
+											and do repetitive things.
+											We&#39;ve become spreadsheet monkeys.
+											And not just low-end labor.
+											We&#39;ve become dermatologists
+doing repetitive things,
+											lawyers doing repetitive things.
+											I think we are at the brink
+of being able to take an AI,
+											look over our shoulders,
+											and they make us maybe 10 or 50 times
+as effective in these repetitive things.
+											That&#39;s what is on my mind.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: That sounds super exciting.
+											The process of getting there seems
+a little terrifying to some people,
+											because once a computer
+can do this repetitive thing
+											much better than the dermatologist
+											or than the driver, especially,
+is the thing that&#39;s talked about
+											so much now,
+											suddenly millions of jobs go,
+											and, you know, the country&#39;s in revolution
+											before we ever get to the more
+glorious aspects of what&#39;s possible.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											ST: Yeah, and that&#39;s an issue,
+and it&#39;s a big issue,
+											and it was pointed out yesterday morning
+by several guest speakers.
+											Now, prior to me showing up onstage,
+											I confessed I&#39;m a positive,
+optimistic person,
+											so let me give you an optimistic pitch,
+											which is, think of yourself
+back 300 years ago.
+											Europe just survived 140 years
+of continuous war,
+											none of you could read or write,
+											there were no jobs that you hold today,
+											like investment banker
+or software engineer or TV anchor.
+											We would all be in the fields and farming.
+											Now here comes little Sebastian
+with a little steam engine in his pocket,
+											saying, &quot;Hey guys, look at this.
+											It&#39;s going to make you 100 times
+as strong, so you can do something else.&quot;
+											And then back in the day,
+there was no real stage,
+											but Chris and I hang out
+with the cows in the stable,
+											and he says, &quot;I&#39;m really
+concerned about it,
+											because I milk my cow every day,
+and what if the machine does this for me?&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The reason why I mention this is,
+											we&#39;re always good in acknowledging
+past progress and the benefit of it,
+											like our iPhones or our planes
+or electricity or medical supply.
+											We all love to live to 80,
+which was impossible 300 years ago.
+											But we kind of don&#39;t apply
+the same rules to the future.
+											So if I look at my own job as a CEO,
+											I would say 90 percent
+of my work is repetitive,
+											I don&#39;t enjoy it,
+											I spend about four hours per day
+on stupid, repetitive email.
+											And I&#39;m burning to have something
+that helps me get rid of this.
+											Why?
+											Because I believe all of us
+are insanely creative;
+											I think the TED community
+more than anybody else.
+											But even blue-collar workers;
+I think you can go to your hotel maid
+											and have a drink with him or her,
+											and an hour later,
+you find a creative idea.
+											What this will empower
+is to turn this creativity into action.
+											Like, what if you could
+build Google in a day?
+											What if you could sit over beer
+and invent the next Snapchat,
+											whatever it is,
+											and tomorrow morning it&#39;s up and running?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And that is not science fiction.
+											What&#39;s going to happen is,
+											we are already in history.
+											We&#39;ve unleashed this amazing creativity
+											by de-slaving us from farming
+											and later, of course, from factory work
+											and have invented so many things.
+											It&#39;s going to be even better,
+in my opinion.
+											And there&#39;s going to be
+great side effects.
+											One of the side effects will be
+											that things like food and medical supply
+and education and shelter
+											and transportation
+											will all become much more
+affordable to all of us,
+											not just the rich people.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: Hmm.
+											So when Martin Ford argued, you know,
+that this time it&#39;s different
+											because the intelligence
+that we&#39;ve used in the past
+											to find new ways to be
+											will be matched at the same pace
+											by computers taking over those things,
+											what I hear you saying
+is that, not completely,
+											because of human creativity.
+											Do you think that that&#39;s fundamentally
+different from the kind of creativity
+											that computers can do?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											ST: So, that&#39;s my firm
+belief as an AI person —
+											that I haven&#39;t seen
+any real progress on creativity
+											and out-of-the-box thinking.
+											What I see right now — and this is
+really important for people to realize,
+											because the word &quot;artificial
+intelligence&quot; is so threatening,
+											and then we have Steve Spielberg
+tossing a movie in,
+											where all of a sudden
+the computer is our overlord,
+											but it&#39;s really a technology.
+											It&#39;s a technology that helps us
+do repetitive things.
+											And the progress has been
+entirely on the repetitive end.
+											It&#39;s been in legal document discovery.
+											It&#39;s been contract drafting.
+											It&#39;s been screening X-rays of your chest.
+											And these things are so specialized,
+											I don&#39;t see the big threat of humanity.
+											In fact, we as people —
+											I mean, let&#39;s face it:
+we&#39;ve become superhuman.
+											We&#39;ve made us superhuman.
+											We can swim across
+the Atlantic in 11 hours.
+											We can take a device out of our pocket
+											and shout all the way to Australia,
+											and in real time, have that person
+shouting back to us.
+											That&#39;s physically not possible.
+We&#39;re breaking the rules of physics.
+											When this is said and done,
+we&#39;re going to remember everything
+											we&#39;ve ever said and seen,
+											you&#39;ll remember every person,
+											which is good for me
+in my early stages of Alzheimer&#39;s.
+											Sorry, what was I saying? I forgot.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: (Laughs)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											ST: We will probably have
+an IQ of 1,000 or more.
+											There will be no more
+spelling classes for our kids,
+											because there&#39;s no spelling issue anymore.
+											There&#39;s no math issue anymore.
+											And I think what really will happen
+is that we can be super creative.
+											And we are. We are creative.
+											That&#39;s our secret weapon.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: So the jobs that are getting lost,
+											in a way, even though
+it&#39;s going to be painful,
+											humans are capable
+of more than those jobs.
+											This is the dream.
+											The dream is that humans can rise
+to just a new level of empowerment
+											and discovery.
+											That&#39;s the dream.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											ST: And think about this:
+											if you look at the history of humanity,
+											that might be whatever —
+60-100,000 years old, give or take —
+											almost everything that you cherish
+in terms of invention,
+											of technology, of things we&#39;ve built,
+											has been invented in the last 150 years.
+											If you toss in the book and the wheel,
+it&#39;s a little bit older.
+											Or the axe.
+											But your phone, your sneakers,
+											these chairs, modern
+manufacturing, penicillin —
+											the things we cherish.
+											Now, that to me means
+											the next 150 years will find more things.
+											In fact, the pace of invention
+has gone up, not gone down, in my opinion.
+											I believe only one percent of interesting
+things have been invented yet. Right?
+											We haven&#39;t cured cancer.
+											We don&#39;t have flying cars — yet.
+Hopefully, I&#39;ll change this.
+											That used to be an example
+people laughed about. (Laughs)
+											It&#39;s funny, isn&#39;t it?
+Working secretly on flying cars.
+											We don&#39;t live twice as long yet. OK?
+											We don&#39;t have this magic
+implant in our brain
+											that gives us the information we want.
+											And you might be appalled by it,
+											but I promise you,
+once you have it, you&#39;ll love it.
+											I hope you will.
+											It&#39;s a bit scary, I know.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											There are so many things
+we haven&#39;t invented yet
+											that I think we&#39;ll invent.
+											We have no gravity shields.
+											We can&#39;t beam ourselves
+from one location to another.
+											That sounds ridiculous,
+											but about 200 years ago,
+											experts were of the opinion
+that flight wouldn&#39;t exist,
+											even 120 years ago,
+											and if you moved faster
+than you could run,
+											you would instantly die.
+											So who says we are correct today
+that you can&#39;t beam a person
+											from here to Mars?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: Sebastian, thank you so much
+											for your incredibly inspiring vision
+and your brilliance.
+											Thank you, Sebastian Thrun.
+											That was fantastic. (Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":27533,"count":38,"talk_id":3633},"threadId":27533,"current_talk":"3633","description":"Educator and entrepreneur Sebastian Thrun wants us to use AI to free humanity of repetitive work and unleash our creativity. In an inspiring, informative conversation with TED Curator Chris Anderson, Thrun discusses the progress of deep learning, why we shouldn't fear runaway AI and how society will be better off if dull, tedious work is done with the help of machines. \"Only one percent of interesting things have been invented yet,\" Thrun says. \"I believe all of us are insanely creative ... [AI] will empower us to turn creativity into action.\"","event":"TED2017","language":"en","name":"Sebastian Thrun and Chris Anderson: What AI is -- and isn't","slug":"sebastian_thrun_and_chris_anderson_the_new_generation_of_computers_is_programming_itself","speakers":[{"id":"972","slug":"sebastian_thrun","is_published":true,"firstname":"Sebastian","lastname":"Thrun","middleinitial":"","title":"","description":"Educator, entrepreneur","photo_url":"https://pe.tedcdn.com/images/ted/71a65d5bcdb9ea46afa9053605edbbd71e0aa884_254x191.jpg","whatotherssay":"","whotheyare":"Sebastian Thrun is a passionate technologist who is constantly looking for new opportunities to make the world better for all of us.","whylisten":"<p>Sebastian Thrun is an educator, entrepreneur and troublemaker. After a long life as a professor at Stanford University, Thrun resigned from tenure to join Google. At Google, he founded Google X, home to self-driving cars and many other moonshot technologies. Thrun also founded Udacity, an online university with worldwide reach, and Kitty Hawk, a &quot;flying car&quot; company. He has authored 11 books, 400 papers, holds 3 doctorates and has won numerous awards.</p>"},{"id":"187","slug":"chris_anderson_ted","is_published":true,"firstname":"Chris","lastname":"Anderson","middleinitial":"","title":"","description":"TED Curator","photo_url":"https://pe.tedcdn.com/images/ted/15a78b07d0340fcf8f391e7529b6f4b050a60cc0_254x191.jpg","whatotherssay":"","whotheyare":"After a long career in journalism and publishing, Chris Anderson became the curator of the TED Conference in 2002 and has developed it as a platform for identifying and disseminating ideas worth spreading.","whylisten":"<p class=\"p1\">Chris Anderson is the Curator of TED, a nonprofit devoted to sharing valuable ideas, primarily through the medium of &#39;TED Talks&#39; -- short talks that are offered free online to a global audience.</p><p class=\"p1\">Chris was born in a remote village in Pakistan in 1957. He spent his early years in India, Pakistan and Afghanistan, where his parents worked as medical missionaries, and he attended an American school in the Himalayas for his early education. After boarding school in Bath, England, he went on to Oxford University, graduating in 1978 with a degree in philosophy, politics and economics.</p><p class=\"p1\">Chris then trained as a journalist, working in newspapers and radio, including two years producing a world news service in the Seychelles Islands.</p><p class=\"p1\"> Back in the UK in 1984, Chris was captivated by the personal computer revolution and became an editor at one of the UK&#39;s early computer magazines. A year later he founded Future Publishing with a $25,000 bank loan. The new company initially focused on specialist computer publications but eventually expanded into other areas such as cycling, music, video games, technology and design, doubling in size every year for seven years. In 1994, Chris moved to the United States where he built Imagine Media, publisher of <em>Business 2.0</em> magazine and creator of the popular video game users website IGN. Chris eventually merged Imagine and Future, taking the combined entity public in London in 1999, under the Future name. At its peak, it published 150 magazines and websites and employed 2,000 people.</p><p class=\"p1\">This success allowed Chris to create a private nonprofit organization, the Sapling Foundation, with the hope of finding new ways to tackle tough global issues through media, technology, entrepreneurship and, most of all, ideas. In 2001, the foundation acquired the TED Conference, then an annual meeting of luminaries in the fields of Technology, Entertainment and Design held in Monterey, California, and Chris left Future to work full time on TED.</p><p class=\"p1\">He expanded the conference&#39;s remit to cover all topics, including science, business and key global issues, while adding a Fellows program, which now has some 300 alumni, and the TED Prize, which grants its recipients &quot;one wish to change the world.&quot; The TED stage has become a place for thinkers and doers from all fields to share their ideas and their work, capturing imaginations, sparking conversation and encouraging discovery along the way.</p><p class=\"p1\">In 2006, TED experimented with posting some of its talks on the Internet. Their viral success encouraged Chris to begin positioning the organization as a global media initiative devoted to &#39;ideas worth spreading,&#39; part of a new era of information dissemination using the power of online video. In June 2015, the organization posted its 2,000th talk online. The talks are free to view, and they have been translated into more than 100 languages with the help of volunteers from around the world. Viewership has grown to approximately one billion views per year.</p><p class=\"p1\">Continuing a strategy of &#39;radical openness,&#39; in 2009 Chris introduced the TEDx initiative, allowing free licenses to local organizers who wished to organize their own TED-like events. More than 8,000 such events have been held, generating an archive of 60,000 TEDx talks. And three years later, the TED-Ed program was launched, offering free educational videos and tools to students and teachers.</p>"}],"url":"https://www.ted.com/talks/sebastian_thrun_and_chris_anderson_the_new_generation_of_computers_is_programming_itself","viewed_count":1370154,"talks":[{"recommendations":{"status":"approved","headline":"Sebsatian Thrun recommends","blurb":"Further reading curated by Sebastian Thrun","start_at":null,"end_at":null,"published":true,"eyebrow":"","type":"recommendation","rec_lists":[{"title":"","description":"","rec_items":[{"label":"READ_Book","headline":"*Artificial Intelligence: A Modern Approach* (3rd Edition)","blurb":"","note":"Stuart Russell, Peter Norvig\r\nPearson, 2009","link_url":"https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Book","headline":"*Deep Learning* (Adaptive Computation and Machine Learning series)","blurb":"","note":"Ian Goodfellow, Yoshua Bengio, Aaron Courville\r\nThe MIT Press, 2016","link_url":"https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":""},{"label":"EXPLORE","headline":"Deep Learning nanodegree","blurb":"","note":"Udacity","link_url":"https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101","position":null,"is_pdf":false,"eyebrow":""},{"label":"EXPLORE","headline":"Intro to Self-Driving Cars","blurb":"","note":"Udacity","link_url":"https://www.udacity.com/course/intro-to-self-driving-cars--nd113","position":null,"is_pdf":false,"eyebrow":""}]}]},"more_resources":[],"corrections":[],"has_citations":false,"take_action":[],"curator_approved":true,"description":"Educator and entrepreneur Sebastian Thrun wants us to use AI to free humanity of repetitive work and unleash our creativity. In an inspiring, informative conversation with TED Curator Chris Anderson, Thrun discusses the progress of deep learning, why we shouldn't fear runaway AI and how society will be better off if dull, tedious work is done with the help of machines. \"Only one percent of interesting things have been invented yet,\" Thrun says. \"I believe all of us are insanely creative ... [AI] will empower us to turn creativity into action.\"","downloads":{"id":3633,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"en":{"name":"English","low":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-low-en.mp4","high":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-480p-en.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-low-es.mp4","high":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-480p-es.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-low-pt-br.mp4","high":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-480p-pt-br.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-low-fa.mp4","high":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-480p-fa.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-low-ru.mp4","high":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-480p-ru.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-low-ja.mp4","high":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-480p-ja.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-low-tr.mp4","high":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-480p-tr.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-low-zh-cn.mp4","high":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-480p-zh-cn.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-low-zh-tw.mp4","high":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-480p-zh-tw.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-low-he.mp4","high":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-480p-he.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-low-hu.mp4","high":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-480p-hu.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-low-ar.mp4","high":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-480p-ar.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-low-ko.mp4","high":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U-480p-ko.mp4"}},"audioDownload":"https://download.ted.com/talks/SebastianThrunandChrisAnderson_2017U.mp3?apikey=acme-roadrunner"},"duration":1461.0,"event":"TED2017","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://s3.amazonaws.com/talkstar-photos/uploads/78d90be3-3fb2-4b34-88f1-b9618ce26159/SebastianThrun_2017-embed.jpg","hero_load":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/78d90be3-3fb2-4b34-88f1-b9618ce26159/SebastianThrun_2017-embed.jpg?q=50&w=15","id":"3633","player_talks":[{"id":"3633","duration":1461.0,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2017U/Blank/SebastianThrunandChrisAnderson_2017U-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTED2017%26id%3D3633%26tag%3DAI%2Ccancer%2Calgorithm%2Ccomputers%2Ccreativity%2Ccollaboration%2Cdriverless%2Bcars%2Cdata%2Cfuture%2Centrepreneur%2Cinnovation%2Cinterview%2Cinvention%2Cintelligence%2Cmotivation%2Csociety%2Cpotential%2Csoftware%2Ctechnology%2Cwork%26talk%3Dsebastian_thrun_and_chris_anderson_the_new_generation_of_computers_is_programming_itself%26year%3D2017&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"3633","talk":"sebastian_thrun_and_chris_anderson_the_new_generation_of_computers_is_programming_itself","tag":"AI,cancer,algorithm,computers,creativity,collaboration,driverless cars,data,future,entrepreneur,innovation,interview,invention,intelligence,motivation,society,potential,software,technology,work","year":"2017","event":"TED2017"},"stream":"https://hls.ted.com/talks/3633.m3u8","metadata":"https://hls.ted.com/talks/3633.json"}},"targeting":{"id":"3633","talk":"sebastian_thrun_and_chris_anderson_the_new_generation_of_computers_is_programming_itself","tag":"AI,cancer,algorithm,computers,creativity,collaboration,driverless cars,data,future,entrepreneur,innovation,interview,invention,intelligence,motivation,society,potential,software,technology,work","year":"2017","event":"TED2017"},"canonical":"https://www.ted.com/talks/sebastian_thrun_and_chris_anderson_the_new_generation_of_computers_is_programming_itself","name":"Sebastian Thrun and Chris Anderson: What AI is -- and isn't","title":"What AI is -- and isn't","speaker":"Sebastian Thrun and Chris Anderson","thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/78d90be3-3fb2-4b34-88f1-b9618ce26159/SebastianThrun_2017-embed.jpg?quality=89&w=600","slug":"sebastian_thrun_and_chris_anderson_the_new_generation_of_computers_is_programming_itself","event":"TED2017","published":1512057689}],"ratings":[{"id":1,"name":"Beautiful","count":39},{"id":8,"name":"Informative","count":149},{"id":22,"name":"Fascinating","count":154},{"id":23,"name":"Jaw-dropping","count":35},{"id":25,"name":"OK","count":84},{"id":10,"name":"Inspiring","count":100},{"id":3,"name":"Courageous","count":22},{"id":24,"name":"Persuasive","count":34},{"id":9,"name":"Ingenious","count":49},{"id":21,"name":"Unconvincing","count":2},{"id":26,"name":"Obnoxious","count":3},{"id":7,"name":"Funny","count":2},{"id":11,"name":"Longwinded","count":1},{"id":2,"name":"Confusing","count":0}],"recorded_at":"2017-04-24T00:00:00.000+00:00","related_talks":[{"id":"1109","hero":"https://pe.tedcdn.com/images/ted/1a26621135203e5d4636221967ff1d30e88faa85_800x600.jpg","speaker":"Sebastian Thrun","title":"Google's driverless car","duration":254.0,"slug":"sebastian_thrun_google_s_driverless_car","viewed_count":2579557},{"id":"2807","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/21900ac6-36ad-4748-b256-9e0d6aad5a6b/AnabJain_2017-embed.jpg","speaker":"Anab Jain","title":"Why we need to imagine different futures","duration":881.0,"slug":"anab_jain_why_we_need_to_imagine_different_futures","viewed_count":1557743},{"id":"3573","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/6dae487c-6ba0-48a7-881f-f0ee18857841/MartinFord_2017-embed.jpg","speaker":"Martin Ford","title":"How we'll earn money in a future without jobs","duration":877.0,"slug":"martin_ford_how_we_ll_earn_money_in_a_future_without_jobs","viewed_count":2009142},{"id":"2155","hero":"https://pe.tedcdn.com/images/ted/4707d8e88ba824e4a9ad05ee2446d93576117d21_2880x1620.jpg","speaker":"Jeremy Howard","title":"The wonderful and terrifying implications of computers that can learn","duration":1185.0,"slug":"jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn","viewed_count":2340761},{"id":"12498","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/6a990c50-1a2e-4e9a-9e82-b5c7eb917eac/RaphaelArar_2017S-embed.jpg","speaker":"Raphael Arar","title":"How we can teach computers to make sense of our emotions","duration":680.0,"slug":"raphael_arar_how_we_can_teach_computers_to_make_sense_of_our_emotions","viewed_count":852740},{"id":"17851","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/fb47cef7-3332-4841-8057-a7544548d607/MaxTegmark_2018-embed.jpg","speaker":"Max Tegmark","title":"How to get empowered, not overpowered, by AI","duration":1035.0,"slug":"max_tegmark_how_to_get_empowered_not_overpowered_by_ai","viewed_count":292679}],"slug":"sebastian_thrun_and_chris_anderson_the_new_generation_of_computers_is_programming_itself","speakers":[{"id":"972","slug":"sebastian_thrun","is_published":true,"firstname":"Sebastian","lastname":"Thrun","middleinitial":"","title":"","description":"Educator, entrepreneur","photo_url":"https://pe.tedcdn.com/images/ted/71a65d5bcdb9ea46afa9053605edbbd71e0aa884_254x191.jpg","whatotherssay":"","whotheyare":"Sebastian Thrun is a passionate technologist who is constantly looking for new opportunities to make the world better for all of us.","whylisten":"<p>Sebastian Thrun is an educator, entrepreneur and troublemaker. After a long life as a professor at Stanford University, Thrun resigned from tenure to join Google. At Google, he founded Google X, home to self-driving cars and many other moonshot technologies. Thrun also founded Udacity, an online university with worldwide reach, and Kitty Hawk, a &quot;flying car&quot; company. He has authored 11 books, 400 papers, holds 3 doctorates and has won numerous awards.</p>"},{"id":"187","slug":"chris_anderson_ted","is_published":true,"firstname":"Chris","lastname":"Anderson","middleinitial":"","title":"","description":"TED Curator","photo_url":"https://pe.tedcdn.com/images/ted/15a78b07d0340fcf8f391e7529b6f4b050a60cc0_254x191.jpg","whatotherssay":"","whotheyare":"After a long career in journalism and publishing, Chris Anderson became the curator of the TED Conference in 2002 and has developed it as a platform for identifying and disseminating ideas worth spreading.","whylisten":"<p class=\"p1\">Chris Anderson is the Curator of TED, a nonprofit devoted to sharing valuable ideas, primarily through the medium of &#39;TED Talks&#39; -- short talks that are offered free online to a global audience.</p><p class=\"p1\">Chris was born in a remote village in Pakistan in 1957. He spent his early years in India, Pakistan and Afghanistan, where his parents worked as medical missionaries, and he attended an American school in the Himalayas for his early education. After boarding school in Bath, England, he went on to Oxford University, graduating in 1978 with a degree in philosophy, politics and economics.</p><p class=\"p1\">Chris then trained as a journalist, working in newspapers and radio, including two years producing a world news service in the Seychelles Islands.</p><p class=\"p1\"> Back in the UK in 1984, Chris was captivated by the personal computer revolution and became an editor at one of the UK&#39;s early computer magazines. A year later he founded Future Publishing with a $25,000 bank loan. The new company initially focused on specialist computer publications but eventually expanded into other areas such as cycling, music, video games, technology and design, doubling in size every year for seven years. In 1994, Chris moved to the United States where he built Imagine Media, publisher of <em>Business 2.0</em> magazine and creator of the popular video game users website IGN. Chris eventually merged Imagine and Future, taking the combined entity public in London in 1999, under the Future name. At its peak, it published 150 magazines and websites and employed 2,000 people.</p><p class=\"p1\">This success allowed Chris to create a private nonprofit organization, the Sapling Foundation, with the hope of finding new ways to tackle tough global issues through media, technology, entrepreneurship and, most of all, ideas. In 2001, the foundation acquired the TED Conference, then an annual meeting of luminaries in the fields of Technology, Entertainment and Design held in Monterey, California, and Chris left Future to work full time on TED.</p><p class=\"p1\">He expanded the conference&#39;s remit to cover all topics, including science, business and key global issues, while adding a Fellows program, which now has some 300 alumni, and the TED Prize, which grants its recipients &quot;one wish to change the world.&quot; The TED stage has become a place for thinkers and doers from all fields to share their ideas and their work, capturing imaginations, sparking conversation and encouraging discovery along the way.</p><p class=\"p1\">In 2006, TED experimented with posting some of its talks on the Internet. Their viral success encouraged Chris to begin positioning the organization as a global media initiative devoted to &#39;ideas worth spreading,&#39; part of a new era of information dissemination using the power of online video. In June 2015, the organization posted its 2,000th talk online. The talks are free to view, and they have been translated into more than 100 languages with the help of volunteers from around the world. Viewership has grown to approximately one billion views per year.</p><p class=\"p1\">Continuing a strategy of &#39;radical openness,&#39; in 2009 Chris introduced the TEDx initiative, allowing free licenses to local organizers who wished to organize their own TED-like events. More than 8,000 such events have been held, generating an archive of 60,000 TEDx talks. And three years later, the TED-Ed program was launched, offering free educational videos and tools to students and teachers.</p>"}],"speaker_name":"Sebastian Thrun and Chris Anderson","tags":["AI","cancer","algorithm","computers","creativity","collaboration","driverless cars","data","future","entrepreneur","innovation","interview","invention","intelligence","motivation","society","potential","software","technology","work"],"title":"What AI is -- and isn't","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":1370154}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

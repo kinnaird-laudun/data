@@ -1,0 +1,950 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>TED Speakers | TED</title>
+<meta name="description" content="TED.com, home of TED Talks, is a global initiative about ideas worth spreading via TEDx, the TED Prize, TED Books, TED Conferences, TED-Ed and more." />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="TED Speakers" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><link href='https://pa.tedcdn.com/javascripts/screens/750758b5212c04c746e1.chunk.js' rel='prefetch'>
+<link href='https://pa.tedcdn.com/javascripts/screens/0a60729b4049cf36f411.chunk.js' rel='prefetch'>
+<link href='https://pa.tedcdn.com/javascripts/screens/global-4663b34febcf14dfa7ee.chunk.css' rel='stylesheet'>
+<link href='https://pa.tedcdn.com/javascripts/screens/shed-8f43fdf9168fa3a32e8c.chunk.css' rel='stylesheet'>
+<link href='https://pa.tedcdn.com/javascripts/screens/search-e7bbb1fe2a0f0a949582.chunk.css' rel='stylesheet'><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1542217775,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21","hasEndorsement":"dimension22"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.desh = "d";
+  TED.abby.tests.feedback_3 = "a";
+  TED["controller"]="speakers"
+</script></head>
+<body class='speakers-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='https://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/recommends' href='/recommends'>
+<div class='f-w:700 m-b:.1'>TED Recommends</div>
+<div class='c:gray'>Get TED Talks picked just for you</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/recommends","label":"TED Recommends","info":"Get TED Talks picked just for you"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main speakers-main' role='main'>
+<div class='search'>
+<div class='container'>
+<h1 class='h1 h1--alt m3'>TED Speakers</h1>
+<p class='p1 m2'>
+Thinkers. Doers. Idea-generators.
+These are the speakers who have delivered a talk
+featured on TED.com.
+Whether the talk was given at an official TED conference,
+at one of thousands of local,
+independently organized TEDx events,
+or on another stage altogether,
+these are the people who brought it to life.
+</p>
+</div>
+<form action='' class='filters m1' id='filters' method='get'>
+<div class='filters__top'>
+<div class='container'>
+<div class='filters__opener hide-sm'>
+Filter speakers
+</div>
+<div class='filters__top__content row row-skinny'>
+<div class='col col-sm-4 col-lg-3 filters__filter'>
+<div class='pos:r'>
+<input type="text" name="q" id="q" class="filters__filter__input form-control form-control--small" placeholder="Search TED Speakers…" />
+<svg class="filters__filter__setter pos:a right:0 top:0" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="-5 -5 50 50" role="button" tabindex="0" style="cursor:pointer">
+  <title>Search</title>
+  <path d="M2 2h36v36H2V2z" fill="#FFF"/>
+  <path d="M17.769 5.081c-7.006 0-12.708 5.695-12.708 12.693 0 6.999 5.702 12.695 12.711 12.695 2.529 0 4.886-.752 6.869-2.033l5.441 5.435a2.695 2.695 0 0 0 3.805 0 2.688 2.688 0 0 0 0-3.803l-5.44-5.431a12.59 12.59 0 0 0 2.034-6.863c-.001-6.998-5.7-12.693-12.712-12.693zm10.165 12.693c0 5.599-4.56 10.151-10.162 10.151-5.604 0-10.163-4.554-10.163-10.151 0-5.597 4.559-10.15 10.163-10.146 5.602 0 10.16 4.549 10.162 10.146z" fill="#666"/>
+</svg>
+
+</div>
+</div>
+<div class='col col-sm-4 col-lg-3 filters__filter'>
+<select name="topics" id="topics" class="filters__filter__combo form-control form-control--dropdown form-control--small" data-filter-multiple="true"><option value="">Topic</option>
+<option value="technology">Technology</option>
+<option value="science">Science</option>
+<option value="global issues">Global Issues</option>
+<option value="culture">Culture</option>
+<option value="design">Design</option></select>
+</div>
+<div class='col col-sm-4 col-lg-3 filters__filter'>
+<select name="events" id="events" class="filters__filter__combo form-control form-control--dropdown form-control--small" data-filter-multiple="false"><option value="">Event</option>
+<option value="ted2017">TED2017</option>
+<option value="ted2018">TED2018</option>
+<option value="ted2014">TED2014</option>
+<option value="ted2009">TED2009</option>
+<option value="ted2013">TED2013</option></select>
+</div>
+<div class='col filters__filter hide-sm'>
+<div class='row row-skinny row-oh-2up'>
+<div class='col'>
+<input type="submit" name="commit" value="Submit" class="button button--wide button--dark filters__apply" />
+</div>
+<div class='col'>
+<button class='button button--wide filters__clear'>Clear</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='filters__bottom'>
+<div class='container'>
+<div class='row row-skinny'>
+<div class='col col-sm-8 col-lg-9 filters__active'>
+<div class='filters__active__label'>
+Active filters:
+</div>
+<div class='filters__active__stubs'>
+<a class='l3 filters__clear' href='#'>Clear</a>
+</div>
+</div>
+<div class='col col-sm-4 col-lg-3 filters__sort filters__active__sort'>
+<div class='row row-skinny'>
+<div class='col col-sm-4 text-right show-sm'>
+<label class='filters__label' for='filters-sort'>Sort by:</label>
+</div>
+<div class='col col-sm-8'>
+<select name="sort" id="sort" class="form-control form-control--dropdown form-control--small filters__sort__select"><optgroup label="Sort by…" Last name="last" First name="first" Most recent="talk"><option value="last">Last name</option>
+<option value="first">First name</option>
+<option value="talk">Most recent</option></optgroup></select>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</form>
+<div class='container results' id='browse-results'>
+<div class='row row-sm-4up row-lg-6up'>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/david_camarillo'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b012243a90b9ebbbd4919932bb1047690688ec54_800x600.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+David<br>Camarillo</h4>
+<p class='p4'>
+<strong>Bioengineer</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/colin_camerer'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b3547d3d81da6f03a604f8b2bc6e8e588ec463e2_800x600.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+Colin<br>Camerer</h4>
+<p class='p4'>
+<strong>Behavioral economist</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/ben_cameron'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/197745_254x191.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+Ben<br>Cameron</h4>
+<p class='p4'>
+<strong>Arts administrator</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/clayton_cameron'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/87268683b7473e5ae15d67fe9d177201ab58fe4a_800x600.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+Clayton<br>Cameron</h4>
+<p class='p4'>
+<strong>Drummer</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/david_cameron'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/150045_254x191.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+David<br>Cameron</h4>
+<p class='p4'>
+<strong>Politician</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/james_cameron'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/154201_254x191.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+James<br>Cameron</h4>
+<p class='p4'>
+<strong>Director</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/thomas_p_campbell'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/32051ba26b24da8b04ecebb2bdf67abcf0d1578a_800x600.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+Thomas P.<br>Campbell</h4>
+<p class='p4'>
+<strong>Museum director</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/geoffrey_canada'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9859f605f3dfe14e4f24262e91b82bcdad727954_800x600.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+Geoffrey<br>Canada</h4>
+<p class='p4'>
+<strong>Education reformer</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/rodrigo_canales'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/be7dfb23b7009d2f79d9ccb4fd9749d0818a3edd_800x600.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+Rodrigo<br>Canales</h4>
+<p class='p4'>
+<strong>Business professor</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/homaro_cantu'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/204809b405314e21b869d37d5429908ca7b57f8a_800x600.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+Homaro<br>Cantu</h4>
+<p class='p4'>
+<strong>Chef</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/rufus_cappadocia'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/50198_254x191.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+Rufus<br>Cappadocia</h4>
+<p class='p4'>
+<strong>Cellist</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/paolo_cardini'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/52ee378b59928e577aff53cf5ef20f85f29d9f16_800x600.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+Paolo<br>Cardini</h4>
+<p class='p4'>
+<strong>Designer</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/gretchen_carlson'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c2f9ef3589dd5b834a7173a01c1051ef263e5c44_800x600.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+Gretchen<br>Carlson</h4>
+<p class='p4'>
+<strong>TV journalist, women's empowerment advocate</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/ali_carr_chellman'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0b4eed4acf0ec0b6df169816038a4d299c3011f3_800x600.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+Ali<br>Carr-Chellman</h4>
+<p class='p4'>
+<strong>Instructional designer</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/curtis_wall_street_carroll'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/40901aefc3bf2bc6e361393ca7ddf0c3cde61e68_800x600.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+Curtis "Wall Street"<br>Carroll</h4>
+<p class='p4'>
+<strong>Financial literacy advocate</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/sean_carroll'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/152999_254x191.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+Sean<br>Carroll</h4>
+<p class='p4'>
+<strong>Physicist, cosmologist</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/david_carson'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/66439_254x191.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+David<br>Carson</h4>
+<p class='p4'>
+<strong>Type designer</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/laura_carstensen'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0046ec14aefdf67a8ff3f7a35dae0d0a55c7db58_800x600.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+Laura<br>Carstensen</h4>
+<p class='p4'>
+<strong>Psychologist</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/eddy_cartaya'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6046bc961a426f9deb4bd7e5c44bf9786dce2d83_800x600.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+Eddy<br>Cartaya</h4>
+<p class='p4'>
+<strong>Cave Explorer</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/jimmy_carter'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d679e7ccca68c70da59cae525459b11a02167974_800x600.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+Jimmy<br>Carter</h4>
+<p class='p4'>
+<strong>Peace activist</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/majora_carter'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1320_254x191.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+Majora<br>Carter</h4>
+<p class='p4'>
+<strong>Activist for environmental justice</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/matthew_carter'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f2bc3488b89505f42e992978dd62727f6975b316_800x600.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+Matthew<br>Carter</h4>
+<p class='p4'>
+<strong>Type designer</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/john_cary'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c303b6bf6ccfca75c77c00efdb0039bf78ef4c77_800x600.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+John<br>Cary</h4>
+<p class='p4'>
+<strong>Design ambassador</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/david_casarett'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d76bc7dd25c62165a6fffa9669dbf271b294adca_800x600.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+David<br>Casarett</h4>
+<p class='p4'>
+<strong>Physician</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/jamais_cascio'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/66621_254x191.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+Jamais<br>Cascio</h4>
+<p class='p4'>
+<strong>World-builder</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/amber_case'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8b2c70dbdab9e82f125201b6544fa443647ea447_800x600.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+Amber<br>Case</h4>
+<p class='p4'>
+<strong>Cyborg Anthropologist</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/gus_casely_hayford'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e4509455bb9affce38f886a8999bdd44f231f1d9_800x600.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+Gus<br>Casely-Hayford</h4>
+<p class='p4'>
+<strong>Cultural historian</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/caroline_casey'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5adc72371a94bcbd9d2a92720750f55d3e498f01_800x600.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+Caroline<br>Casey</h4>
+<p class='p4'>
+<strong>Inclusivity activist</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/mandy_len_catron'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/30989708f11f01973b523c332ceda61a5f2bc7ba_800x600.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+Mandy Len<br>Catron</h4>
+<p class='p4'>
+<strong>Writer</strong>
+</p>
+</div>
+</a>
+</div>
+<div class='col'>
+<a class='results__result media media--sm-v m4' href='/speakers/stephen_cave'>
+<div class='media__image media__image--thumb'>
+<span class="thumb thumb--square"><span class="thumb__sizer"><span class="thumb__tugger"><img alt="" class=" thumb__image" play="false" src="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/70b344bd152d1c4ef688d7190e88b04d0e5bdf3f_800x600.jpg?h=191&amp;w=254" /><span class="thumb__aligner"></span></span></span></span>
+</div>
+<div class='media__message'>
+<h4 class='h7 m5'>
+Stephen<br>Cave</h4>
+<p class='p4'>
+<strong>Philosopher</strong>
+</p>
+</div>
+</a>
+</div>
+</div>
+<div class='results__pagination'>
+<div class="pagination"><a class="pagination__prev pagination__flipper pagination__link" rel="prev" href="/speakers?page=12">Previous</a><span class=pagination__separator>|</span><a class="pagination__item pagination__link" href="/speakers?page=1">1</a><span class="pagination__item pagination__gap">&hellip;</span><a class="pagination__item pagination__link" href="/speakers?page=11">11</a><span class=pagination__separator>|</span><a rel="prev" class="pagination__item pagination__link" href="/speakers?page=12">12</a><span class=pagination__separator>|</span><span class="pagination__item pagination__current">13</span><span class=pagination__separator>|</span><a rel="next" class="pagination__item pagination__link" href="/speakers?page=14">14</a><span class=pagination__separator>|</span><a class="pagination__item pagination__link" href="/speakers?page=15">15</a><span class="pagination__item pagination__gap">&hellip;</span><a class="pagination__item pagination__link" href="/speakers?page=86">86</a><span class=pagination__separator>|</span><a class="pagination__next pagination__flipper pagination__link" rel="next" href="/speakers?page=14">Next</a></div>
+</div>
+</div>
+</div>
+<script>q("browse.init",{"sources":{"topics":{"technology":"Technology","science":"Science","global issues":"Global Issues","culture":"Culture","design":"Design","business":"Business","entertainment":"Entertainment","arts":"Arts","education":"Education","health":"Health","art":"Art","politics":"Politics","creativity":"Creativity","music":"Music","medicine":"Medicine","tedx":"TEDx","activism":"Activism","economics":"Economics","social change":"Social Change","biology":"Biology","brain":"Brain","environment":"Environment","collaboration":"Collaboration","children":"Children","communication":"Communication","innovation":"Innovation","women":"Women","health care":"Health Care","invention":"Invention","animals":"Animals","photography":"Photography","war":"War","writing":"Writing","society":"Society","architecture":"Architecture","psychology":"Psychology","future":"Future","humanity":"Humanity","computers":"Computers","community":"Community","africa":"Africa","history":"History","performance":"Performance","film":"Film","oceans":"Oceans","storytelling":"Storytelling","data":"Data","exploration":"Exploration","humor":"Humor","entrepreneur":"Entrepreneur","government":"Government","internet":"Internet","media":"Media","nature":"Nature","climate change":"Climate Change","green":"Green","sustainability":"Sustainability","food":"Food","ted fellows":"TED Fellows","journalism":"Journalism","physics":"Physics","cities":"Cities","engineering":"Engineering","life":"Life","poverty":"Poverty","space":"Space","happiness":"Happiness","live music":"Live Music","evolution":"Evolution","development":"Development","law":"Law","medical research":"Medical Research","visualizations":"Visualizations","language":"Language","neuroscience":"Neuroscience","robots":"Robots","math":"Math","philosophy":"Philosophy","violence":"Violence","religion":"Religion","social media":"Social Media","genetics":"Genetics","inequality":"Inequality","peace":"Peace","personal growth":"Personal Growth","identity":"Identity","astronomy":"Astronomy","beauty":"Beauty","disease":"Disease","work":"Work","cancer":"Cancer","race":"Race","universe":"Universe","crime":"Crime","energy":"Energy","poetry":"Poetry","comedy":"Comedy","parenting":"Parenting","transportation":"Transportation","youth":"Youth","biodiversity":"Biodiversity","dance":"Dance","death":"Death","philanthropy":"Philanthropy","product design":"Product Design","sex":"Sex","web":"Web","disability":"Disability","mind":"Mind","policy":"Policy","security":"Security","software":"Software","alternative energy":"Alternative Energy","biotech":"Biotech","cognitive science":"Cognitive Science","gaming":"Gaming","investment":"Investment","mental health":"Mental Health","money":"Money","choice":"Choice","materials":"Materials","mission blue":"Mission Blue","urban planning":"Urban Planning","adventure":"Adventure","sports":"Sports","gender":"Gender","illness":"Illness","open-source":"Open Source","aging":"Aging","agriculture":"Agriculture","faith":"Faith","insects":"Insects","marketing":"Marketing","big problems":"Big Problems","dna":"Dna","intelligence":"Intelligence","interface design":"Interface Design","theater":"Theater","water":"Water","chemistry":"Chemistry","demo":"Demo","disaster relief":"Disaster Relief","relationships":"Relationships","self":"Self","united states":"United States","fish":"Fish","love":"Love","corruption":"Corruption","literature":"Literature","military":"Military","motivation":"Motivation","performance art":"Performance Art","pollution":"Pollution","potential":"Potential","public health":"Public Health","statistics":"Statistics","tedmed":"TEDMed","ai":"Ai","aids":"Aids","anthropology":"Anthropology","cars":"Cars","consciousness":"Consciousness","consumerism":"Consumerism","finance":"Finance","industrial design":"Industrial Design","news":"News","singer":"Singer","terrorism":"Terrorism","third world":"Third World","advertising":"Advertising","china":"China","family":"Family","illusion":"Illusion","magic":"Magic","success":"Success","biosphere":"Biosphere","memory":"Memory","online video":"Online Video","prison":"Prison","ted prize":"TED Prize","bacteria":"Bacteria","compassion":"Compassion","democracy":"Democracy","failure":"Failure","feminism":"Feminism","microbiology":"Microbiology","morality":"Morality","museums":"Museums","neurology":"Neurology","piano":"Piano","ted residency":"TED Residency","algorithm":"Algorithm","asia":"Asia","complexity":"Complexity","decision-making":"Decision Making","fashion":"Fashion","goal-setting":"Goal Setting","middle east":"Middle East","nasa":"Nasa","privacy":"Privacy","teaching":"Teaching","world cultures":"World Cultures","curiosity":"Curiosity","europe":"Europe","flight":"Flight","funny":"Funny","hack":"Hack","islam":"Islam","presentation":"Presentation","productivity":"Productivity","spoken word":"Spoken Word","women in business":"Women In Business","atheism":"Atheism","behavioral economics":"Behavioral Economics","biomechanics":"Biomechanics","birds":"Birds","books":"Books","city":"City","drones":"Drones","fear":"Fear","human origins":"Human Origins","immigration":"Immigration","lgbt":"Lgbt","library":"Library","map":"Map","nuclear energy":"Nuclear Energy","planets":"Planets","prosthetics":"Prosthetics","buddhism":"Buddhism","capitalism":"Capitalism","charter for compassion":"Charter For Compassion","christianity":"Christianity","composing":"Composing","discovery":"Discovery","guitar":"Guitar","india":"India","macarthur grant":"Macarthur Grant","men":"Men","new york":"New York","plastic":"Plastic","prediction":"Prediction","public spaces":"Public Spaces","research":"Research","sight":"Sight","sound":"Sound","tedyouth":"TEDYouth","aircraft":"Aircraft","ancient world":"Ancient World","biomimicry":"Biomimicry","brazil":"Brazil","cello":"Cello","cooperation":"Cooperation","deextinction":"Deextinction","ecology":"Ecology","extraterrestrial life":"Extraterrestrial Life","foreign policy":"Foreign Policy","gender equality":"Gender Equality","meme":"Meme","microfinance":"Microfinance","movies":"Movies","oil":"Oil","paleontology":"Paleontology","play":"Play","senses":"Senses","simplicity":"Simplicity","slavery":"Slavery","ted en español":"TED En Español","telecom":"Telecom","toy":"Toy","behavior":"Behavior","bioethics":"Bioethics","code":"Code","cosmos":"Cosmos","depression":"Depression","dinosaurs":"Dinosaurs","empathy":"Empathy","extreme sports":"Extreme Sports","geology":"Geology","god":"God","google":"Google","hearing":"Hearing","hiv":"Hiv","interview":"Interview","leadership":"Leadership","manufacturing":"Manufacturing","meditation":"Meditation","microsoft":"Microsoft","nanoscale":"Nanoscale","novel":"Novel","personality":"Personality","population":"Population","refugees":"Refugees","shopping":"Shopping","sociology":"Sociology","solar":"Solar","speech":"Speech","surgery":"Surgery","time":"Time","trees":"Trees","violin":"Violin","virus":"Virus","arctic":"Arctic","body language":"Body Language","brand":"Brand","bullying":"Bullying","conservation":"Conservation","dark matter":"Dark Matter","debate":"Debate","diy":"Diy","economy":"Economy","emotions":"Emotions","equality":"Equality","evil":"Evil","farming":"Farming","friendship":"Friendship","games":"Games","gamification":"Gamification","glacier":"Glacier","global":"Global","global development":"Global Development","globalization":"Globalization","guns":"Guns","healthcare":"Healthcare","human rights":"Human Rights","infrastructure":"Infrastructure","israel":"Israel","jazz":"Jazz","kids":"Kids","medical imaging":"Medical Imaging","microbes":"Microbes","mindfulness":"Mindfulness","mobility":"Mobility","network":"Network","openness":"Openness","origami":"Origami","painting":"Painting","pandemic":"Pandemic","plants":"Plants","pregnancy":"Pregnancy","programming":"Programming","risk taking":"Risk Taking","sanitation":"Sanitation","sleep":"Sleep","smell":"Smell","solar system":"Solar System","state-building":"State Building","string theory":"String Theory","student":"Student","syria":"Syria","ted-ed":"TED Ed","tednyc":"TEDNyc","transparency":"Transparency","urban":"Urban","vocals":"Vocals","3d printing":"3d Printing","addiction":"Addiction","adolescence":"Adolescence","advocacy":"Advocacy","age":"Age","aid":"Aid","alexander lukashenko":"Alexander Lukashenko","algae":"Algae","animation":"Animation","anthropocene":"Anthropocene","ants":"Ants","apes":"Apes","archaeology":"Archaeology","arduino":"Arduino","artificial intelligence":"Artificial Intelligence","asteroid":"Asteroid","astrobiology":"Astrobiology","augmented reality":"Augmented Reality","author":"Author","autism":"Autism","autism spectrum disorder":"Autism Spectrum Disorder","autonomy":"Autonomy","ballet":"Ballet","bees":"Bees","beetle":"Beetle","behavioral psychology":"Behavioral Psychology","big bang":"Big Bang","biofuel":"Biofuel","biological warfare":"Biological Warfare","biomimcry":"Biomimcry","blindness":"Blindness","body":"Body","botany":"Botany","camera":"Camera","chautauqua":"Chautauqua","chief information officer":"Chief Information Officer","choreography":"Choreography","collaborative":"Collaborative","college":"College","color":"Color","commander":"Commander","computer programming":"Computer Programming","computer science":"Computer Science","connection":"Connection","contemporary":"Contemporary","criminal":"Criminal","criminal justice":"Criminal Justice","crisis management":"Crisis Management","crispr":"Crispr","cyborg":"Cyborg","data commons":"Data Commons","data protection":"Data Protection","de-extinct1on":"De Extinct1on","deception":"Deception","decision making":"Decision Making","developmental science":"Developmental Science","digital media":"Digital Media","digital revolution":"Digital Revolution","disruptive":"Disruptive","driverless cars":"Driverless Cars","drugs":"Drugs","dying":"Dying","earthquake":"Earthquake","ebola":"Ebola","egypt":"Egypt","entomology":"Entomology","epidemiology":"Epidemiology","ethics":"Ethics","evolutionary psychology":"Evolutionary Psychology","exoskeleton":"Exoskeleton","factory work":"Factory Work","fiction":"Fiction","filmmaker":"Filmmaker","financial firms":"Financial Firms","freedom of information":"Freedom Of Information","gay":"Gay","gender spectrum":"Gender Spectrum","genome":"Genome","geography":"Geography","german":"German","global commons":"Global Commons","global warming":"Global Warming","grammar":"Grammar","great initiative":"Great Initiative","heart health":"Heart Health","higher education":"Higher Education","homelessness":"Homelessness","hormones":"Hormones","human body":"Human Body","human experience":"Human Experience","human resources":"Human Resources","hyperconductivity":"Hyperconductivity","idnentit":"Idnentit","industrial growth":"Industrial Growth","innovative":"Innovative","insight":"Insight","inspiration":"Inspiration","installation":"Installation","intelligence augmentation":"Intelligence Augmentation","interactivity":"Interactivity","interconnectivity":"Interconnectivity","iran":"Iran","iraq":"Iraq","japan":"Japan","jok church":"Jok Church","lab":"Lab","legal":"Legal","lies":"Lies","linguistics":"Linguistics","machine learning":"Machine Learning","management":"Management","maps":"Maps","mars":"Mars","mental illness":"Mental Illness","mentally ill":"Mentally Ill","microcontroller":"Microcontroller","migrant workers":"Migrant Workers","model":"Model","modern":"Modern","molecular biology":"Molecular Biology","moon":"Moon","motion capture":"Motion Capture","nanotechnology":"Nanotechnology","nato":"Nato","nobel prize":"Nobel Prize","normalcy":"Normalcy","nuclear weapons":"Nuclear Weapons","obesity":"Obesity","online courses":"Online Courses","open source":"Open Source","opera":"Opera","optogenetics":"Optogenetics","pain":"Pain","partner talk":"Partner Talk","peer pressure":"Peer Pressure","pharmaceuticals":"Pharmaceuticals","physiology":"Physiology","post production":"Post Production","power":"Power","powerpoint":"Powerpoint","primates":"Primates","privacy issues":"Privacy Issues","prosecute":"Prosecute","protein":"Protein","protests":"Protests","public art":"Public Art","quantum":"Quantum","reference":"Reference","remix":"Remix","resources":"Resources","retouching":"Retouching","revolution":"Revolution","ribbit":"Ribbit","rivers":"Rivers","salesforce.com":"Salesforce.Com","science and art":"Science And Art","sculpture":"Sculpture","search database":"Search Database","sexual violence":"Sexual Violence","sharing":"Sharing","skateboarding":"Skateboarding","smart material":"Smart Material","social impact":"Social Impact","social networking":"Social Networking","social psychology":"Social Psychology","south america":"South America","squatters":"Squatters","startup":"Startup","steam":"Steam","stem":"Stem","steve howard":"Steve Howard","suicide":"Suicide","sun":"Sun","superconductive":"Superconductive","surveillance":"Surveillance","ted books":"TED Books","teded":"TEDEd","tedindia":"TEDIndia","telecommunication":"Telecommunication","television":"Television","theatre":"Theatre","theory":"Theory","trafficking":"Trafficking","transgender":"Transgender","translation":"Translation","travel":"Travel","trust":"Trust","us navy":"Us Navy","vaccines":"Vaccines","video":"Video","visual effects":"Visual Effects","visualization":"Visualization","vulnerability":"Vulnerability","web-tracking":"Web Tracking","wikipedia":"Wikipedia","work-life balance":"Work Life Balance"},"events":{"ted2017":"TED2017","ted2018":"TED2018","ted2014":"TED2014","ted2009":"TED2009","ted2013":"TED2013","ted2016":"TED2016","ted2015":"TED2015","tedglobal 2012":"TEDGlobal 2012","ted2011":"TED2011","ted2010":"TED2010","tedglobal 2011":"TEDGlobal 2011","tedglobal 2013":"TEDGlobal 2013","ted2007":"TED2007","ted2012":"TED2012","tedglobal 2009":"TEDGlobal 2009","ted2008":"TED2008","tedglobal 2010":"TEDGlobal 2010","tedglobal 2017":"TEDGlobal 2017","tedglobal 2014":"TEDGlobal 2014","ted-ed":"TED Ed","ted2006":"TED2006","tedwomen 2017":"TEDWomen 2017","ted2005":"TED2005","tedindia 2009":"TEDIndia 2009","tedwomen 2010":"TEDWomen 2010","tedsummit":"TEDSummit","ted2003":"TED2003","ted2004":"TED2004","tedwomen 2016":"TEDWomen 2016","ted2002":"TED2002","tedwomen 2015":"TEDWomen 2015","tednyc":"TEDNyc","tedxbeaconstreet":"TEDxbeaconstreet","tedglobal 2005":"TEDGlobal 2005","ted residency":"TED Residency","tedglobal 2007":"TEDGlobal 2007","tedxmidatlantic":"TEDxmidatlantic","ted talks live":"TED Talks Live","ted@ibm":"TED@Ibm","mission blue voyage":"Mission Blue Voyage","tedxsydney":"TEDxsydney","":"","eg 2007":"Eg 2007","ted salon brightline initiative":"TED Salon Brightline Initiative","ted@ups":"TED@Ups","tedglobal>london":"TEDGlobal>London","tedxsummit":"TEDxsummit","ted@bcg milan":"TED@Bcg Milan","ted@bcg paris":"TED@Bcg Paris","tedcity2.0":"TEDCity2.0","tedglobal>geneva":"TEDGlobal>Geneva","tedmed 2009":"TEDMed 2009","tedmed 2016":"TEDMed 2016","tedmed 2017":"TEDMed 2017","tedsalon berlin 2014":"TEDSalon Berlin 2014","tedsalon ny2013":"TEDSalon Ny2013","tedsalon ny2014":"TEDSalon Ny2014","tedxriodelaplata":"TEDxriodelaplata","tedxstanford":"TEDxstanford","tedglobal>nyc":"TEDGlobal>Nyc","tedmed 2012":"TEDMed 2012","tedmed 2014":"TEDMed 2014","ted talks education":"TED Talks Education","ted@bcg san francisco":"TED@Bcg San Francisco","ted@nyc":"TED@Nyc","tedwomen 2013":"TEDWomen 2013","tedxbrussels":"TEDxbrussels","tedxexeter":"TEDxexeter","tedxmilehigh":"TEDxmilehigh","tedxusc":"TEDxusc","tedxwomen 2011":"TEDxwomen 2011","eg 2008":"Eg 2008","mission blue ii":"Mission Blue Ii","serious play 2008":"Serious Play 2008","ted talks india":"TED Talks India","ted@merck kgaa, darmstadt, germany":"TED@Merck Kgaa, Darmstadt, Germany","tedgloballondon":"TEDGloballondon","tedmed 2013":"TEDMed 2013","tedmed 2015":"TEDMed 2015","tedxcaltech":"TEDxcaltech","tedxcambridge":"TEDxcambridge","small thing big idea":"Small Thing Big Idea","ted fellows retreat 2015":"TED Fellows Retreat 2015","ted studio":"TED Studio","ted@westpac":"TED@Westpac","tedmed 2011":"TEDMed 2011","tedsalon london 2010":"TEDSalon London 2010","tedxboston 2011":"TEDxboston 2011","tedxboston 2012":"TEDxboston 2012","tedxcern":"TEDxcern","tedxpsu":"TEDxpsu","tedyouth 2014":"TEDYouth 2014","ink conference":"Ink Conference","taste3 2008":"Taste3 2008","ted1998":"TED1998","ted@state street boston":"TED@State Street Boston","ted@tommy":"TED@Tommy","tedsalon london fall 2012":"TEDSalon London Fall 2012","tedsalon london spring 2011":"TEDSalon London Spring 2011","tedsalon ny2011":"TEDSalon Ny2011","tedxhousesofparliament":"TEDxhousesofparliament","tedxnewyork":"TEDxnewyork","tedxwomen 2012":"TEDxwomen 2012","tedyouth 2015":"TEDYouth 2015","a ted original podcast":"A TED Original Podcast","ted dialogues":"TED Dialogues","ted en español en nyc":"TED En Español En Nyc","ted fellows retreat 2013":"TED Fellows Retreat 2013","ted@cannes":"TED@Cannes","ted@state":"TED@State","tedsalon london spring 2012":"TEDSalon London Spring 2012","tedxeast":"TEDxeast","tedxrainier":"TEDxrainier","tedxwarwick":"TEDxwarwick","torchbearers":"Torchbearers","we the future":"We The Future","ted in the field":"TED In The Field","ted@bcg london":"TED@Bcg London","ted@new york":"TED@New York","tedmed 2010":"TEDMed 2010","tedsalon 2006":"TEDSalon 2006","tedsalon ny2012":"TEDSalon Ny2012","tedxamsterdam":"TEDxamsterdam","tedxaustin":"TEDxaustin","tedxboston":"TEDxboston","tedxkc":"TEDxkc","tedxmaastricht":"TEDxmaastricht","tedxmanhattanbeach":"TEDxmanhattanbeach","tedxmidatlantic 2017":"TEDxmidatlantic 2017","tedxoslo":"TEDxoslo","tedxphoenix":"TEDxphoenix","tedxtoronto 2010":"TEDxtoronto 2010","tedxvancouver":"TEDxvancouver","tedyouth 2011":"TEDYouth 2011","tedyouth 2013":"TEDYouth 2013","business innovation factory":"Business Innovation Factory","chautauqua institution":"Chautauqua Institution","full spectrum auditions":"Full Spectrum Auditions","rsa animate":"Rsa Animate","ted salon optum":"TED Salon Optum","ted salon samsung":"TED Salon Samsung","ted salon verizon":"TED Salon Verizon","ted2001":"TED2001","ted@bcg berlin":"TED@Bcg Berlin","ted@bcg singapore":"TED@Bcg Singapore","ted@intel":"TED@Intel","ted@unilever":"TED@Unilever","tedactive 2011":"TEDActive 2011","tedsalon 2009 compassion":"TEDSalon 2009 Compassion","tedxbend":"TEDxbend","tedxberkeley":"TEDxberkeley","tedxberlin":"TEDxberlin","tedxcanberra":"TEDxcanberra","tedxchange":"TEDxchange","tedxdanubia":"TEDxdanubia","tedxdublin":"TEDxdublin","tedxgreatpacificgarbagepatch":"TEDxgreatpacificgarbagepatch","tedxmarin":"TEDxmarin","tedxmidwest":"TEDxmidwest","tedxmontreal":"TEDxmontreal","tedxoilspill":"TEDxoilspill","tedxpeachtree":"TEDxpeachtree","tedxplacedesnations":"TEDxplacedesnations","tedxrc2":"TEDxrc2","tedxskoll":"TEDxskoll","tedxsmu":"TEDxsmu","tedxtc":"TEDxtc","tedxthessaloniki":"TEDxthessaloniki","tedxuniversityofnevada":"TEDxuniversityofnevada","tedxvienna":"TEDxvienna","tedxyyc":"TEDxyyc","gel conference":"Gel Conference","stanford university":"Stanford University","ted@bcg toronto":"TED@Bcg Toronto","ted@motorcity":"TED@Motorcity","ted@state street london":"TED@State Street London","tedactive 2014":"TEDActive 2014","tedlagos ideas search":"TEDLagos Ideas Search","tedprize@un":"TEDPrize@Un","tedsalon 2007 hot science":"TEDSalon 2007 Hot Science","tedsalon london fall 2011":"TEDSalon London Fall 2011","tedxathens":"TEDxathens","tedxbloomington":"TEDxbloomington","tedxboulder":"TEDxboulder","tedxboulder 2011":"TEDxboulder 2011","tedxbratislava":"TEDxbratislava","tedxcmu":"TEDxcmu","tedxcolumbus":"TEDxcolumbus","tedxdeextinction":"TEDxdeextinction","tedxdelft":"TEDxdelft","tedxdu 2010":"TEDxdu 2010","tedxghent":"TEDxghent","tedxhouston":"TEDxhouston","tedxindianauniversity":"TEDxindianauniversity","tedxkrakow":"TEDxkrakow","tedxkyoto":"TEDxkyoto","tedxmanchester":"TEDxmanchester","tedxmanhattan":"TEDxmanhattan","tedxmaui":"TEDxmaui","tedxmet":"TEDxmet","tedxmidatlantic 2013":"TEDxmidatlantic 2013","tedxmilehighwomen":"TEDxmilehighwomen","tedxnasa":"TEDxnasa","tedxnyed":"TEDxnyed","tedxobserver":"TEDxobserver","tedxparis 2010":"TEDxparis 2010","tedxpennsylvaniaavenue":"TEDxpennsylvaniaavenue","tedxperth":"TEDxperth","tedxpittsburgh":"TEDxpittsburgh","tedxportofspain":"TEDxportofspain","tedxrotterdam 2010":"TEDxrotterdam 2010","tedxsandiego":"TEDxsandiego","tedxteen":"TEDxteen","tedxtelaviv 2010":"TEDxtelaviv 2010","tedxtokyo":"TEDxtokyo","tedxtoronto 2011":"TEDxtoronto 2011","tedxuf":"TEDxuf","tedxyouth@manchester":"TEDxyouth@Manchester","tedxyouth@sydney":"TEDxyouth@Sydney","tedxzurich 2012":"TEDxzurich 2012","university of california":"University Of California","aorn congress":"Aorn Congress","arbejdsglaede live":"Arbejdsglaede Live","bbc tv":"Bbc Tv","bowery poetry club":"Bowery Poetry Club","carnegie mellon university":"Carnegie Mellon University","dice summit 2010":"Dice Summit 2010","diy neuroscience":"Diy Neuroscience","dld 2007":"Dld 2007","elizabeth g. anderson school":"Elizabeth G. Anderson School","eric whitacre's virtual choir":"Eric Whitacre's Virtual Choir","fort worth city council":"Fort Worth City Council","global witness":"Global Witness","handheld learning":"Handheld Learning","harvard university":"Harvard University","justice with michael sandel":"Justice With Michael Sandel","lift 2007":"Lift 2007","michael howard studios":"Michael Howard Studios","new york state senate":"New York State Senate","nextgen:charity":"Nextgen:Charity","original content":"Original Content","princeton university":"Princeton University","royal institution":"Royal Institution","science council, krypton":"Science Council, Krypton","skoll world forum 2007":"Skoll World Forum 2007","soulpancake":"Soulpancake","ted fellows 2015":"TED Fellows 2015","ted prize wish":"TED Prize Wish","ted senior fellows at tedglobal 2010":"TED Senior Fellows At Tedglobal 2010","ted-ed weekend":"TED Ed Weekend"}}})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form class='footer-newsletter footer__section footer__section--form p-r:.8'>
+<h3 class='footer__title'>Want personalized recommendations?</h3>
+<div class='c:black f:.9 m-b:2'>
+Join
+<span class='f-w:700'>
+TED Recommends
+</span>
+and get the perfect ideas selected just for you.
+</div>
+<a class='ga-link bg:gray-dd b-r:.2 c:white hover/c:white d:i-b f:1 f-w:700 p-y:1 p-x:4 t-d:n' data-ga-action='getStarted' data-ga-category='footer' data-ga-label='recommends' href='/recommends'>
+Get started
+</a>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script src='https://pa.tedcdn.com/javascripts/screens/manifest-eddddca7933c41d674b3.js'></script>
+<script src='https://pa.tedcdn.com/javascripts/screens/750758b5212c04c746e1.chunk.js'></script>
+<script async src='https://pa.tedcdn.com/javascripts/screens/0a60729b4049cf36f411.chunk.js'></script><script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

@@ -1,0 +1,1673 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Will Wright: Spore, birth of a game | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: In a friendly, high-speed presentation, Will Wright demos his newest game, Spore, which promises to dazzle users even more than his previous masterpieces." />
+<meta name="author" content="Will Wright" />
+<link rel="canonical" href="https://www.ted.com/talks/will_wright_makes_toys_that_make_worlds/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/will_wright_makes_toys_that_make_worlds/transcript" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/will_wright_makes_toys_that_make_worlds/transcript?language=ru" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/will_wright_makes_toys_that_make_worlds/transcript?language=fr" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/will_wright_makes_toys_that_make_worlds/transcript?language=en" />
+<link rel="alternate" hreflang="uk" href="https://www.ted.com/talks/will_wright_makes_toys_that_make_worlds/transcript?language=uk" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/will_wright_makes_toys_that_make_worlds/transcript?language=pt" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/will_wright_makes_toys_that_make_worlds/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/will_wright_makes_toys_that_make_worlds/transcript?language=tr" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/will_wright_makes_toys_that_make_worlds/transcript?language=de" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/will_wright_makes_toys_that_make_worlds/transcript?language=ko" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/will_wright_makes_toys_that_make_worlds/transcript?language=it" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/will_wright_makes_toys_that_make_worlds/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/will_wright_makes_toys_that_make_worlds/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/will_wright_makes_toys_that_make_worlds/transcript?language=pt-br" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/will_wright_makes_toys_that_make_worlds/transcript?language=pl" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/will_wright_makes_toys_that_make_worlds/transcript?language=bg" />
+<link rel="alternate" hreflang="fi" href="https://www.ted.com/talks/will_wright_makes_toys_that_make_worlds/transcript?language=fi" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/will_wright_makes_toys_that_make_worlds/transcript?language=ro" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/will_wright_makes_toys_that_make_worlds/transcript?language=es" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/will_wright_makes_toys_that_make_worlds/transcript?language=he" />
+<meta property="og:title" content="Transcript of &quot;Spore, birth of a game&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0aa66122bf487af64e943f4e4c3810fdd4d13c2a_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0aa66122bf487af64e943f4e4c3810fdd4d13c2a_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Will Wright: Spore, birth of a game" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: In a friendly, high-speed presentation, Will Wright demos his newest game, Spore, which promises to dazzle users even more than his previous masterpieces." />
+<meta property="og:url" content="https://www.ted.com/talks/will_wright_makes_toys_that_make_worlds/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 146);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/will_wright_makes_toys_that_make_worlds' itemprop='url'>
+<meta content='Spore, birth of a game' itemprop='name'>
+<meta content='In a friendly, high-speed presentation, Will Wright demos his newest game, Spore, which promises to dazzle users even more than his previous masterpieces.' itemprop='description'>
+<meta content='PT16M37S' itemprop='duration'>
+<meta content='2007-07-17T10:22:00+00:00' itemprop='uploadDate'>
+<meta content='1183126' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0aa66122bf487af64e943f4e4c3810fdd4d13c2a_1600x1200.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/will_wright' itemprop='url'>
+<meta content='Will Wright' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/13193_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/will_wright_makes_toys_that_make_worlds' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0aa66122bf487af64e943f4e4c3810fdd4d13c2a_1600x1200.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Will Wright
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,183,126
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 16:37</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I&#39;ve always wanted to be a cyborg.
+											One of my favorite shows as a kid
+was &quot;The Six Million Dollar Man,&quot;
+											and this is a little bit closer
+to the 240-dollar man or so, but —
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											At any rate, I would normally
+feel very self-conscious and geeky
+											wearing this around,
+											but a few days ago
+I saw one world-renowned statistician
+											swallowing swords on stage here,
+											so I figure it&#39;s OK amongst this group.
+											But that&#39;s not what I want
+to talk about today.
+											I want to talk about toys,
+and the power that I see inherent in them.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											When I was a kid,
+I attended Montessori school
+											up to sixth grade in Atlanta, Georgia.
+											And at the time
+I didn&#39;t think much about it,
+											but then later, I realized that that was
+the high point of my education.
+											From that point on, everything else
+was pretty much downhill.
+											And it wasn&#39;t until later,
+as I started making games, that —
+											I really actually
+think of them more as toys.
+											People call me a game designer,
+											but I really think
+of these things more as toys.
+											I started getting very interested
+in Maria Montessori and her methods,
+											and the way she went about things,
+											and the way she thought it
+very valuable for kids
+											to discover things on their own
+											rather than being taught
+these things overtly.
+											And she would design these toys,
+where kids in playing with the toys
+											would come to understand
+these deep principles
+											of life and nature through play.
+											And since they discovered this,
+it stuck with them so much more,
+											and also they would experience
+their own failures.
+											There was a failure-based aspect
+to learning there. It was very important.
+											And so, the games that I do,
+											I think of really more
+as modern Montessori toys.
+											And I really kind of want them
+to be presented in a way
+											to where kids can kind of explore
+and discover their own principles.
+											So a few years ago,
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I started getting very interested
+in the SETI program.
+											And that&#39;s the way I work.
+											I get interested in different subjects,
+I dive in, research them,
+											and then try to figure out
+how to craft a toy around that,
+											so that other people can experience
+the same sense of discovery
+											that I did as I was learning that subject.
+											And it led me to astrobiology,
+											the study of possible life
+in the universe.
+											And then Drake&#39;s equation,
+											looking at the probability
+of life arising on planets,
+											how long it might last,
+how many planets are out there.
+											And I started looking
+at how interesting Drake&#39;s equation was,
+											because it spanned
+all these different subjects —
+											physics, chemistry,
+sociology, economics, astronomy.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And another thing that really
+impressed me a long time ago
+											was &quot;Powers of Ten,&quot;
+Charles and Ray Eames&#39; film.
+											And I started putting those two together
+and wondering, could I build a toy
+											where kids would trip across
+all these interesting principles of life,
+											as it exists and as it might
+go in the future.
+											Things where you might trip across things
+											like the Copernican principle,
+the Fermi paradox,
+											the anthropic principle,
+the origin of life.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so I&#39;m going to show you a toy today
+that I&#39;ve been working on,
+											that I think of more
+as kind of a philosophy toy.
+											Playing this toy will bring up
+philosophical questions in you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The game is &quot;Spore.&quot;
+I&#39;ve been working on it for several years.
+											It&#39;s getting pretty close to finished now.
+											It occurs at all these different scales,
+from very small to very large.
+											I&#39;m going to pop in
+at the start of the game.
+											And you actually start this game
+in a drop of water,
+											as a very, very small
+single-cell creature,
+											and right off the bat you basically
+just have to live, survive, reproduce.
+											So here we are,
+at a very microscopic scale,
+											swimming around.
+											And I actually realize
+that cells don&#39;t have eyes,
+											but it helps to make it cute.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The players are going to play
+through every generation of this species,
+											and as you play the game,
+											the creature is actually
+growing bit by bit.
+											And as we start growing,
+											the camera will
+actually start zooming out,
+											and things that you see
+in the background there
+											will start slowly
+pulling into the foreground,
+											showing you a little bit of what
+you&#39;ll be interacting with as you grow.
+											So as we eat, the camera
+starts pulling out,
+											and then we start interacting
+with larger and larger organisms.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We actually play
+through many generations here,
+											at the cellular scale.
+											I&#39;m going to skip ahead here.
+											At some point we get larger,
+											and we actually get
+to a macroevolution scale.
+											Now, at this point
+we&#39;re leaving the water,
+											and one thing that&#39;s kind of important
+about this game is that, at every level,
+											the player is designing their creature,
+											and that&#39;s a fundamental aspect of this.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, in the evolution game here,
+the creature scale,
+											basically you have to eat,
+survive, and then reproduce.
+											You know, very Darwinian.
+											One thing we noticed with &quot;The Sims,&quot;
+a game I did earlier,
+											is that players love making stuff.
+											When they were able
+to make stuff in the game,
+											they had a lot of empathy
+in connection to it.
+											Even if it wasn&#39;t as pretty
+											as a professional artist
+would make for games,
+											it really stuck with them
+											and they really cared
+about what would happen to it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											At this point, we&#39;ve left the water,
+and now with this little creature —
+											we could bring up
+the volume a little bit —
+											and now we might try to eat.
+											We might sneak up
+on this little guy over here maybe,
+											and try and eat him.
+											OK, well, we fight.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Creatures grunting)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											OK, we got him.
+											Now we get a meal.
+											So really, at this part of the game,
+											what we&#39;re doing is we&#39;re
+running around and surviving,
+											and also getting to the next generation,
+											because we&#39;re going to play
+through every generation of this creature.
+											We can mate, so I&#39;m going to see
+											if one of these creatures
+wants to mate with me. Yeah.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Creatures grunting)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We didn&#39;t want to replay
+actual evolution with humans and all that,
+											because it&#39;s almost more interesting
+											to look at alternate
+possibilities in evolution.
+											Evolution is usually presented
+as this one path that we took through,
+											but really it represents
+this huge set of possibilities.
+											Now, once we mate, we click on the egg.
+											And this is where the game
+starts getting interesting,
+											because one of the things
+we really focused on here
+											was giving the players
+very high-leverage tools,
+											so that for very little effort,
+the player can make something very cool.
+											And it involves a lot
+of intelligence on the tool side.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But basically, this is the editor
+											where we&#39;re going to design
+the next generation.
+											So it has a little spine.
+I can move around, I can extend.
+											I can also inflate or deflate it
+with the mouse wheel,
+											so you sculpt it like clay.
+											We have parts here
+that I can put on or pull off.
+											The idea is that the player
+can basically design
+											anything they can think of in this editor,
+											and we&#39;ll basically bring it to life.
+											So I might put some limbs
+on the character here.
+											I&#39;ll inflate them kind of large.
+											And in this case
+I might decide I&#39;m going to put —
+											I&#39;ll put mouths on the limbs.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So pretty much players are encouraged
+to be very creative in the game.
+											Here, I&#39;ll give it one eye in the middle,
+maybe scale it up a bit. Point it down.
+											And I&#39;ll also give it a few legs.
+											So in some sense
+											we want this to feel like an amplifier
+for the player&#39;s imagination,
+											so that with a very small number of clicks
+a player can create something
+											that they didn&#39;t really think
+was possible before.
+											This is almost like designing
+something like Maya —
+											that an eight-year-old can use.
+											But really the goal here was,
+											within about a minute,
+I wanted somebody to replicate
+											what typically takes a pictorial artist
+several weeks to create.
+											OK, now I&#39;ll put some hands on it.
+											OK, so here I&#39;ve basically
+thrown together a little creature.
+											Let me give it a little weapon
+on the tail here, so it can fight.
+											OK, so that&#39;s the complete model.
+											Now we can actually
+go to the painting phase.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											At this phase, the program
+has some understanding
+											of the topology of this creature.
+											It knows where the backbone is,
+where the spine, the limbs are,
+											how stripes should run,
+how it should be shaded.
+											And so we&#39;re procedurally
+generating the texture map,
+											something a texture artist
+would take many days to work on.
+											And then we can test it out,
+and see how it would move around.
+											And so at this point the computer
+is procedurally animating this creature.
+											It&#39;s looking at whatever I&#39;ve designed.
+It will actually bring it to life.
+											And I can see how it might dance.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											How it might show emotions,
+how it might fight.
+											So it&#39;s acting with its two mouths there.
+											I can even have it pose for a photo.
+											Snap a little photo of it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So then I bring this back into the game.
+											It&#39;s born, and I play the next generation
+of my creature through evolution.
+											Now again, the empathy
+that the players have
+											when they create
+the content is tremendous.
+											When players create content in this game,
+it&#39;s automatically sent up to a server
+											and then redistributed
+to all the other players transparently.
+											So in fact, as I&#39;m interacting
+in this world with other creatures,
+											these creatures are transparently
+coming from other players as they play.
+											So the process of playing the game
+											is a process of building up
+this huge database of content.
+											And pretty much everything
+you&#39;re going to see in this game,
+											there&#39;s an editor for
+that the player can create,
+											up through civilization.
+											This is my baby. When I eat,
+I&#39;ll actually start growing.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is the next generation.
+But I&#39;m going to skip ahead here.
+											Normally what would happen is
+these creatures would work their way up,
+											eventually become intelligent.
+											I&#39;d start dealing with tribes, cities
+and civilizations of them over time.
+											I&#39;m going to skip way ahead
+to the space phase.
+											Eventually they would go out into space,
+											and start colonizing
+and exploring the universe.
+											Now, really, in some sense,
+											I want the players to be building
+this world in their imagination,
+											and then extracting it from them
+with the least amount of pain.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So that&#39;s kind of
+what these tools are about.
+											How do we make the gameplay,
+											you know, basically
+the player&#39;s imagination amplifier?
+											And how do we make
+these tools, these editors,
+											something that are just as fun
+as the game itself?
+											So this is the planet
+that we&#39;ve been playing on
+											up to this point in the game.
+											So far the entire game has been played
+on the surface of this little world here.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											At this point we&#39;re actually
+dealing with a very little toy planet.
+											Almost, again,
+like the Montessori toy idea.
+											What happens if you give
+somebody a toy planet,
+											and let them play
+with a lot of dynamics on it?
+											What could they discover?
+What might they learn on this?
+											This world was actually extracted
+from the player&#39;s imagination.
+											So, this is the planet
+that the player evolved on.
+											Things like the buildings, the vehicles,
+the architecture, civilizations
+											were all designed by the player
+up to this point.
+											So here&#39;s a little city with some
+of our guys walking around in it.
+											And most games put the player
+in the role of Luke Skywalker,
+											this protagonist
+playing through this story.
+											This is more about putting the player
+in the role of George Lucas.
+											I want them, after they&#39;ve
+played this game,
+											to have extracted an entire world
+that they&#39;re now interacting with.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											As we pull down here,
+											we still have a whole set of creatures
+living on the surface of the planet.
+											All these different
+dynamics going on here.
+											I can look over here, and this is
+a little simplified food web
+											that&#39;s going on with the creatures.
+											I can open this up and then scan
+what exists on the surface.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											You get some sense of the diversity
+of creatures that were brought in.
+											Some of these were created by the player,
+											others by other players,
+automatically sent over here.
+											But there&#39;s a very simple
+calculation of what&#39;s required,
+											how many plants are required
+for the herbivores to live,
+											how many herbivores
+for the carnivores to eat, etc.,
+											that you have to balance actively.
+											Also with this phase,
+											we&#39;re getting more and more
+God-like powers for the player,
+											and you can experiment
+with this planet as a toy.
+											So I can come in and I can do things,
+											and just treat this planet
+as a lump of clay.
+											We have very simple
+weather systems, simple geology.
+											For instance, I could open one of my tools
+here and then carve out rivers.
+											So this whole thing is kind of
+like a big lump of clay, a sculpture.
+											I can also play with the dynamics
+in this world over time.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So one of the things I can do
+											is start pumping more CO2 gases
+into the atmosphere,
+											and so that&#39;s what I&#39;m doing here.
+											There&#39;s actually
+a little readout down there
+											of our planetary atmosphere,
+pressure and temperature.
+											So as I start pumping in more atmosphere,
+											we&#39;re going to start pushing up
+the greenhouse gases here
+											and if you&#39;ll start noticing,
+											we start seeing
+the ocean levels rise over time.
+											And our cities
+are going to be at risk too,
+											because a lot of these are coastal cities.
+											You can see the ocean levels
+are rising now
+											and as they encroach upon the cities,
+I&#39;ll start losing cities here.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So basically, I want the players
+to be able to experiment and explore
+											a huge amount of failure space.
+											So there goes one city.
+											Now, over time, this is
+going to heat up the planet.
+											So at first what we&#39;re going to see
+											is a global ocean rise
+here on this little toy planet,
+											but then over time —
+I can speed it up —
+											we&#39;ll see the heat impact of that as well.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Not only will it get hotter,
+											but at some point it&#39;s going to get so hot
+the oceans will evaporate.
+											They&#39;ll go up, and then they&#39;ll evaporate,
+and that&#39;ll be my planet.
+											So basically, what we&#39;re getting here
+											is the sequel to &quot;An Inconvenient Truth,&quot;
+in about two minutes,
+											and that actually brings up
+an interesting point about games.
+											Now here, our entire oceans
+are evaporating off the surface,
+											and as it keeps getting hotter,
+											at some point the entire planet
+is going to melt down. Here it goes.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So we&#39;re not only
+simulating biological dynamics —
+											food webs and all that —
+											but also geologic, you know,
+on a very simple core scale.
+											And what&#39;s interesting to me about games
+											is that I think we can take
+a lot of long-term dynamics
+											and compress them
+into very short-term experiences.
+											Because it&#39;s so hard for people
+to think 50 or 100 years out,
+											but when you can give them a toy,
+											and they can experience these
+long-term dynamics in just a few minutes,
+											I think it&#39;s an entirely
+different point of view,
+											where we&#39;re actually using the game
+to remap our intuition.
+											It&#39;s almost in the same way
+											that a telescope or microscope
+recalibrates your eyesight;
+											I think computer simulations
+can recalibrate your instinct
+											across vast scales of both space and time.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So here&#39;s our little solar system,
+											as we pull away
+from our melted planet here.
+											We actually have a couple
+of other planets in this solar system.
+											Let&#39;s fly to another one.
+											We&#39;re going to have this unlimited
+number of worlds you can explore here.
+											As we move into the future,
+											and we start going out
+into space and doing stuff,
+											we&#39;re drawing a lot
+from things like science fiction.
+											And all my favorite science fiction movies
+											I want to play out here
+as different dynamics.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This planet actually has some life on it.
+											Here it is, some indigenous
+life down here.
+											One of the tools
+I can eventually earn for my UFO
+											is a monolith that I can drop down.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, as you can see,
+											these guys are actually
+starting to go up and bow to it,
+											and over time, once they touch it,
+they will become intelligent.
+											So I can actually
+pick a species on a planet
+											and then make them sentient.
+											Now they&#39;ve actually
+gone to tribal dynamics.
+											And now, because
+I&#39;m actually the one here,
+											I can get out of the UFO and walk up,
+											and they should be worshipping me
+at this point as a god.
+											At first they&#39;re a little freaked out.
+											OK, well maybe they&#39;re not worshipping me.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I think I&#39;ll leave
+before they get hostile.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But we basically want
+a diversity of activities
+											the players can play through this.
+											I want to be able to play
+											&quot;The Day the Earth Stood Still,&quot;
+&quot;2001: A Space Odyssey,&quot;
+											&quot;Star Trek,&quot; &quot;War Of the Worlds.&quot;
+											Now, as we pull away from this world —
+											we&#39;re going to keep
+pulling away from the star now.
+											One of the things that always
+frustrated me about astronomy
+											when I was a kid
+											is how it was always presented
+so two-dimensionally and so static.
+											As we pull away from the star here,
+											we&#39;re actually going now
+out into interstellar space,
+											and we&#39;re getting a sense
+of the space around our home star.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											What I really wanted to do
+is to present this, basically,
+											as wonderfully 3D as it is actually is.
+											And also show the dynamics,
+											and a lot of the interesting objects
+that you might find, like, in the Hubble,
+											at pretty much realistic
+frequencies and scales.
+											So most people
+have no idea of the difference
+											between an emission nebula
+and a planetary nebula.
+											But these are the things
+											that we can put
+in this little galaxy here.
+											So we&#39;re flying over here
+to what looks like a black hole.
+											I want to basically have
+the entire zoo of Hubble objects
+											that people can interact with
+and play with, again, as toys.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So here&#39;s a little black hole
+											that we probably
+don&#39;t want to get too close to.
+											But we also have stars and things as well.
+											If we pull all the way back,
+we start seeing the entire galaxy here,
+											kind of slowly in motion.
+											Typically, when people present galaxies,
+											it&#39;s always beautiful photos,
+but they&#39;re always static.
+											And when you bring it forward in time
+and start animating it,
+											it&#39;s amazing what a galaxy
+would look like fast forwarded.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This would be about
+a million years a second,
+											because you have about
+one supernova every century.
+											And so you&#39;d have
+this wonderful sparkling thing,
+											with the disk slowly rotating,
+											and this is roughly
+what it would look like.
+											Part of this is about bringing
+the beauty of the natural world
+											to somebody in a very imaginative way,
+											so that they can start
+calibrating their instinct
+											across these vast scales
+of space and time.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Chris was wondering what kind of gods
+the players would become.
+											Because if you think about it,
+											you&#39;re going to have 15-year-olds,
+20-year-olds flying around this universe.
+											They might be a nurturing god.
+											They might be bootstrapping
+life on planets,
+											trying to terraform
+and spread civilization.
+											You might be a vengeful god, conquesting,
+											because you actually can do that,
+you can attack other intelligent races.
+											You might be a networking god,
+building alliances,
+											or just curious, going around and wanting
+to explore as much as you possibly can.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But basically, the reason
+why I make toys like this
+											is because I think
+if there&#39;s one difference
+											I could possibly make in the world,
+											that I would choose to make,
+											it&#39;s that I would like
+to somehow give people
+											just a little bit better calibration
+on long-term thinking.
+											Because I think most of the problems
+that our world is facing right now
+											are the result of short-term thinking,
+											and the fact that it is so hard for us
+to think 50, 100, or 1,000 years out.
+											And I think by giving kids toys like this
+and letting them replay dynamics,
+											very long-term dynamics
+over the short term,
+											and getting some sense
+of what we&#39;re doing now,
+											what it&#39;s going to be like in 100 years,
+											I think probably is the most effective
+thing I can be doing to help the world.
+											And so that&#39;s why I think
+that toys can change the world.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":132,"count":126,"talk_id":146},"threadId":132,"current_talk":"146","description":"In a friendly, high-speed presentation, Will Wright demos his newest game, Spore, which promises to dazzle users even more than his previous masterpieces.","event":"TED2007","language":"en","name":"Will Wright: Spore, birth of a game","slug":"will_wright_makes_toys_that_make_worlds","speakers":[{"id":"128","slug":"will_wright","is_published":true,"firstname":"Will","lastname":"Wright","middleinitial":"","title":"","description":"Game designer","photo_url":"https://pe.tedcdn.com/images/ted/13193_254x191.jpg","whatotherssay":"Will Wright -- a legend among gamers, the nerd’s nerd, undisputed king of the simulation.","whotheyare":"Will Wright invented a genre of computer game that involves neither winning nor shooting, yet has generated colossal hits. Among them: SimCity (which earned its publisher $230 million), The Sims, and Spore.","whylisten":"<p>A technical virtuoso with boundless imagination, Will Wright has created a style of computer gaming unlike any that came before, emphasizing learning more than losing, invention more than sport. With his hit game <a href=\"http://simcity.ea.com/\" target=\"_blank\">SimCity</a>, <strong>he spurred players to make predictions, take risks, and sometimes fail miserably</strong>, as they built their own virtual urban worlds. With his follow-up hit, <a href=\"http://thesims.ea.com/\" target=\"_blank\">The Sims</a>, he encouraged the same creativity toward building a household, all the while preserving the addictive fun of ordinary video games. His next game, <a href=\"http://www.spore.com/\" target=\"_blank\">Spore</a>, which he previewed at TED2007, evolves an entire universe from a single-celled creature.</p><p>Wright&#39;s genius is for presenting vital abstract principles -- like evolution, differences of scale, and environmental dynamics -- through a <strong>highly personalized, humorous kind of play</strong>. Users invest themselves passionately in characters they create (with Wright&#39;s mind-boggling CG tools), and then watch them encounter fundamentals of life and nature. If it all sounds suspiciously educational, well, it just might be. Wright has created not just an irresistible form of entertainment, but an ingenious, original pedagogy.</p><p>In 2009, he left publisher Electronic Arts to form his own think tank for the future of games, toys and entertainment, the <a href=\"http://www.thestupidfunclub.com/home.html\" target=\"_blank\">Stupid Fun Club</a>. </p>"}],"url":"https://www.ted.com/talks/will_wright_makes_toys_that_make_worlds","viewed_count":1183126,"talks":[{"curator_approved":true,"description":"In a friendly, high-speed presentation, Will Wright demos his newest game, Spore, which promises to dazzle users even more than his previous masterpieces.","downloads":{"id":146,"languages":[{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Finnish","endonym":"Suomi","languageCode":"fi","ianaCode":"fi","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true}],"nativeDownloads":{"low":"https://download.ted.com/talks/WillWright_2007-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/WillWright_2007.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/WillWright_2007-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"fr":{"name":"French","high":"https://download.ted.com/talks/WillWright_2007-480p-fr.mp4","low":"https://download.ted.com/talks/WillWright_2007-low-fr.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/WillWright_2007-low-zh-tw.mp4","high":"https://download.ted.com/talks/WillWright_2007-480p-zh-tw.mp4"},"de":{"name":"German","low":"https://download.ted.com/talks/WillWright_2007-low-de.mp4","high":"https://download.ted.com/talks/WillWright_2007-480p-de.mp4"},"zh-cn":{"name":"Chinese, Simplified","high":"https://download.ted.com/talks/WillWright_2007-480p-zh-cn.mp4","low":"https://download.ted.com/talks/WillWright_2007-low-zh-cn.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/WillWright_2007-low-ko.mp4","high":"https://download.ted.com/talks/WillWright_2007-480p-ko.mp4"},"en":{"name":"English","low":"https://download.ted.com/talks/WillWright_2007-low-en.mp4","high":"https://download.ted.com/talks/WillWright_2007-480p-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/WillWright_2007-low-pt-br.mp4","high":"https://download.ted.com/talks/WillWright_2007-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/WillWright_2007-low-it.mp4","high":"https://download.ted.com/talks/WillWright_2007-480p-it.mp4"},"bg":{"name":"Bulgarian","high":"https://download.ted.com/talks/WillWright_2007-480p-bg.mp4","low":"https://download.ted.com/talks/WillWright_2007-low-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/WillWright_2007-low-ro.mp4","high":"https://download.ted.com/talks/WillWright_2007-480p-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/WillWright_2007-low-pl.mp4","high":"https://download.ted.com/talks/WillWright_2007-480p-pl.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/WillWright_2007-low-tr.mp4","high":"https://download.ted.com/talks/WillWright_2007-480p-tr.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/WillWright_2007-low-ar.mp4","high":"https://download.ted.com/talks/WillWright_2007-480p-ar.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/WillWright_2007-low-es.mp4","high":"https://download.ted.com/talks/WillWright_2007-480p-es.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/WillWright_2007-low-pt.mp4","high":"https://download.ted.com/talks/WillWright_2007-480p-pt.mp4"},"uk":{"name":"Ukrainian","low":"https://download.ted.com/talks/WillWright_2007-low-uk.mp4","high":"https://download.ted.com/talks/WillWright_2007-480p-uk.mp4"},"fi":{"name":"Finnish","low":"https://download.ted.com/talks/WillWright_2007-low-fi.mp4","high":"https://download.ted.com/talks/WillWright_2007-480p-fi.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/WillWright_2007-low-ru.mp4","high":"https://download.ted.com/talks/WillWright_2007-480p-ru.mp4"}},"audioDownload":null},"duration":997.0,"event":"TED2007","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/0aa66122bf487af64e943f4e4c3810fdd4d13c2a_1600x1200.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0aa66122bf487af64e943f4e4c3810fdd4d13c2a_1600x1200.jpg?q=50&w=15","id":"146","player_talks":[{"id":"146","duration":997.0,"languages":[{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Finnish","endonym":"Suomi","languageCode":"fi","ianaCode":"fi","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2007/Blank/WillWright_2007-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTED2007%26id%3D146%26tag%3Ddemo%2Cdesign%2Centertainment%2Cgaming%2Ctechnology%26talk%3Dwill_wright_makes_toys_that_make_worlds%26year%3D2007&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"146","talk":"will_wright_makes_toys_that_make_worlds","tag":"demo,design,entertainment,gaming,technology","year":"2007","event":"TED2007"},"stream":"https://hls.ted.com/talks/146.m3u8","metadata":"https://hls.ted.com/talks/146.json"}},"targeting":{"id":"146","talk":"will_wright_makes_toys_that_make_worlds","tag":"demo,design,entertainment,gaming,technology","year":"2007","event":"TED2007"},"canonical":"https://www.ted.com/talks/will_wright_makes_toys_that_make_worlds","name":"Will Wright: Spore, birth of a game","title":"Spore, birth of a game","speaker":"Will Wright","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0aa66122bf487af64e943f4e4c3810fdd4d13c2a_1600x1200.jpg?quality=89&w=600","slug":"will_wright_makes_toys_that_make_worlds","event":"TED2007","published":1184667720}],"ratings":[{"id":9,"name":"Ingenious","count":632},{"id":1,"name":"Beautiful","count":242},{"id":11,"name":"Longwinded","count":73},{"id":7,"name":"Funny","count":92},{"id":2,"name":"Confusing","count":21},{"id":8,"name":"Informative","count":219},{"id":10,"name":"Inspiring","count":466},{"id":22,"name":"Fascinating","count":598},{"id":3,"name":"Courageous","count":37},{"id":21,"name":"Unconvincing","count":54},{"id":23,"name":"Jaw-dropping","count":1287},{"id":25,"name":"OK","count":95},{"id":24,"name":"Persuasive","count":95},{"id":26,"name":"Obnoxious","count":19}],"recorded_at":"2007-03-03T00:00:00.000+00:00","related_talks":[{"id":"361","hero":"https://pe.tedcdn.com/images/ted/a158433ce985ba2e02f962989c5bcc7a639d75d4_1600x1200.jpg","speaker":"David Perry","title":"Are games better than life?","duration":1266.0,"slug":"david_perry_on_videogames","viewed_count":1143615},{"id":"162","hero":"https://pe.tedcdn.com/images/ted/46a98f6d94683e2bd773aaaa528f8a6c49dea91f_1600x1200.jpg","speaker":"Theo Jansen","title":"My creations, a new form of life","duration":493.0,"slug":"theo_jansen_creates_new_creatures","viewed_count":4112882},{"id":"144","hero":"https://pe.tedcdn.com/images/ted/12753_480x360.jpg","speaker":"Jonathan Harris","title":"The Web's secret stories","duration":1030.0,"slug":"jonathan_harris_tells_the_web_s_secret_stories","viewed_count":1077757},{"id":"996","hero":"https://pe.tedcdn.com/images/ted/87897eb99c1b0061cca8f820dfe97a5bdb22d813_1600x1200.jpg","speaker":"Tom Chatfield","title":"7 ways games reward the brain","duration":988.0,"slug":"tom_chatfield_7_ways_games_reward_the_brain","viewed_count":1061369},{"id":"936","hero":"https://pe.tedcdn.com/images/ted/db7f713e0ddabb5c087b114ef3dd991247855bfe_1600x1200.jpg","speaker":"Seth Priebatsch","title":"The game layer on top of the world","duration":722.0,"slug":"seth_priebatsch_the_game_layer_on_top_of_the_world","viewed_count":829199},{"id":"1432","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/735adaff-39ef-48ed-abd8-98fecfd045ec/BrendaRomero_2011X-embed.jpg","speaker":"Brenda Romero","title":"Gaming for understanding","duration":563.0,"slug":"brenda_brathwaite_gaming_for_understanding","viewed_count":510678}],"slug":"will_wright_makes_toys_that_make_worlds","speakers":[{"id":"128","slug":"will_wright","is_published":true,"firstname":"Will","lastname":"Wright","middleinitial":"","title":"","description":"Game designer","photo_url":"https://pe.tedcdn.com/images/ted/13193_254x191.jpg","whatotherssay":"Will Wright -- a legend among gamers, the nerd’s nerd, undisputed king of the simulation.","whotheyare":"Will Wright invented a genre of computer game that involves neither winning nor shooting, yet has generated colossal hits. Among them: SimCity (which earned its publisher $230 million), The Sims, and Spore.","whylisten":"<p>A technical virtuoso with boundless imagination, Will Wright has created a style of computer gaming unlike any that came before, emphasizing learning more than losing, invention more than sport. With his hit game <a href=\"http://simcity.ea.com/\" target=\"_blank\">SimCity</a>, <strong>he spurred players to make predictions, take risks, and sometimes fail miserably</strong>, as they built their own virtual urban worlds. With his follow-up hit, <a href=\"http://thesims.ea.com/\" target=\"_blank\">The Sims</a>, he encouraged the same creativity toward building a household, all the while preserving the addictive fun of ordinary video games. His next game, <a href=\"http://www.spore.com/\" target=\"_blank\">Spore</a>, which he previewed at TED2007, evolves an entire universe from a single-celled creature.</p><p>Wright&#39;s genius is for presenting vital abstract principles -- like evolution, differences of scale, and environmental dynamics -- through a <strong>highly personalized, humorous kind of play</strong>. Users invest themselves passionately in characters they create (with Wright&#39;s mind-boggling CG tools), and then watch them encounter fundamentals of life and nature. If it all sounds suspiciously educational, well, it just might be. Wright has created not just an irresistible form of entertainment, but an ingenious, original pedagogy.</p><p>In 2009, he left publisher Electronic Arts to form his own think tank for the future of games, toys and entertainment, the <a href=\"http://www.thestupidfunclub.com/home.html\" target=\"_blank\">Stupid Fun Club</a>. </p>"}],"speaker_name":"Will Wright","tags":["demo","design","entertainment","gaming","technology"],"title":"Spore, birth of a game","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":1183126}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

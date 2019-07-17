@@ -1,0 +1,1584 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Keller Rinaudo: How we&#39;re using drones to deliver blood and save lives | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Keller Rinaudo wants everyone on earth to have access to basic health care, no matter how hard it is to reach them. With his start-up Zipline, he has created the world&#39;s first drone delivery system to operate at national scale, transporting blood and plasma to remote clinics in East Africa with a fleet of electric autonomous aircraft. Find out how Rinaudo and his team are working to transform health care logistics throughout the world -- and inspiring the next generation of engineers along the way." />
+<meta name="author" content="Keller Rinaudo" />
+<link rel="canonical" href="https://www.ted.com/talks/keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives/transcript" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives/transcript?language=en" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives/transcript?language=it" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives/transcript?language=ro" />
+<link rel="alternate" hreflang="sv" href="https://www.ted.com/talks/keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives/transcript?language=sv" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives/transcript?language=he" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives/transcript?language=tr" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives/transcript?language=ko" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives/transcript?language=sr" />
+<link rel="alternate" hreflang="hi" href="https://www.ted.com/talks/keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives/transcript?language=hi" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives/transcript?language=ru" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives/transcript?language=fr" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives/transcript?language=pt-br" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives/transcript?language=ja" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives/transcript?language=ar" />
+<link rel="alternate" hreflang="uk" href="https://www.ted.com/talks/keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives/transcript?language=uk" />
+<meta property="og:title" content="Transcript of &quot;How we&#39;re using drones to deliver blood and save lives&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b684c211-d401-4754-bbea-cbc2b97e3723/KellerRinaudo_2017G-embed.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b684c211-d401-4754-bbea-cbc2b97e3723/KellerRinaudo_2017G-embed.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Keller Rinaudo: How we&#39;re using drones to deliver blood and save lives" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Keller Rinaudo wants everyone on earth to have access to basic health care, no matter how hard it is to reach them. With his start-up Zipline, he has created the world&#39;s first drone delivery system to operate at national scale, transporting blood and plasma to remote clinics in East Africa with a fleet of electric autonomous aircraft. Find out how Rinaudo and his team are working to transform health care logistics throughout the world -- and inspiring the next generation of engineers along the way." />
+<meta property="og:url" content="https://www.ted.com/talks/keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 3694);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives' itemprop='url'>
+<meta content="How we're using drones to deliver blood and save lives" itemprop='name'>
+<meta content="Keller Rinaudo wants everyone on earth to have access to basic health care, no matter how hard it is to reach them. With his start-up Zipline, he has created the world's first drone delivery system to operate at national scale, transporting blood and plasma to remote clinics in East Africa with a fleet of electric autonomous aircraft. Find out how Rinaudo and his team are working to transform health care logistics throughout the world — and inspiring the next generation of engineers along the way." itemprop='description'>
+<meta content='PT15M30S' itemprop='duration'>
+<meta content='2017-11-28T15:49:46+00:00' itemprop='uploadDate'>
+<meta content='1032760' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b684c211-d401-4754-bbea-cbc2b97e3723/KellerRinaudo_2017G-embed.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/keller_rinaudo' itemprop='url'>
+<meta content='Keller Rinaudo' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/8a839df6a68a2676b5bc596a8bc259f3b5269c10_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b684c211-d401-4754-bbea-cbc2b97e3723/KellerRinaudo_2017G-embed.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Keller Rinaudo
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,032,760
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 15:30</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Most people think
+											that new technology or advanced technology
+can never start in Africa.
+											Instead, they think that the best way
+to help the continent advance
+											is by providing aid or services
+											that the continent
+can&#39;t provide for itself.
+											So while we see advanced
+technology like robotics
+											and artificial intelligence
+											growing exponentially
+in the developed world,
+											those same people are worried
+											that a technologically backward
+Africa is falling behind.
+											That attitude couldn&#39;t be more wrong.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I&#39;m a robotics entrepreneur
+who&#39;s spent a lot of time here in Africa.
+											And in 2014 we created Zipline,
+											which is a company that uses
+electric autonomous aircraft
+											to deliver medicine to hospitals
+and health centers on demand.
+											Last year, we launched the world&#39;s first
+automated delivery system
+											operating at national scale.
+											And guess what?
+											We did not do that in the US,
+											we didn&#39;t do it in Japan,
+											and we didn&#39;t do it in Europe.
+											It was actually President Paul Kagame
+											and the Rwandan Ministry of Health
+											that made a big bet
+on the potential of this technology
+											and signed a commercial contract
+											to deliver a majority
+of the country&#39;s blood on demand.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Yeah, they deserve the applause.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So why is blood important?
+											Rwanda collects between 60- and 80,000
+units of blood a year.
+											So this is a product
+that when you need it,
+											you really, really need it.
+											But blood is also challenging,
+											because it has a very short shelf life,
+											there are lots of different
+storage requirements,
+											and it&#39;s really hard to predict the demand
+											for all of these different blood groups
+											before a patient actually needs something.
+											But the cool thing is
+that using this technology,
+											Rwanda has been able to keep
+more blood centralized
+											and then provide it
+when a patient needs something
+											to any hospital or health center
+in an average of just 20 or 30 minutes.
+											Do you guys want to see how it works?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Audience) Yes.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											All right. Nobody believes me,
+so ... better to show.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is our distribution center,
+											which is about 20 kilometers
+outside of Kigali.
+											This actually used to be a cornfield
+nine months ago,
+											and with the Rwandan government,
+											we leveled it and built this center
+in a couple weeks.
+											So when a patient is having an emergency,
+											a doctor or a nurse at that hospital
+can send us a WhatsApp,
+											telling us what they need.
+											And then our team will immediately
+spring into action.
+											We pull the blood from our stock,
+											which is delivered from the National
+Center for Blood Transfusion;
+											we scan the blood into our system
+											so the Ministry of Health
+knows where the blood is going;
+											and then we&#39;ll basically
+pack it into a Zip,
+											which is what we call
+these little autonomous airplanes
+											that run on batteries.
+											And then once that Zip is ready to go,
+											we accelerate it from zero
+to 100 kilometers an hour
+											in about half of a second.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Audience) Whoa!
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And from the moment it leaves
+the end of the launcher,
+											it&#39;s completely autonomous.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Video: Air traffic controller
+directs traffic)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is our air traffic
+controller calling it in
+											to Kigali International Airport.
+											And when the Zip arrives at the hospital,
+											it descends to about 30 feet
+and drops the package.
+											We use a really simple paper parachute —
+simple things are best —
+											that allows the package to come
+to the ground gently and reliably
+											in the same place every time.
+											So it&#39;s just like ride sharing;
+											the doctors get a text message
+one minute before we arrive, saying,
+											&quot;Walk outside and receive your delivery.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And then —
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											and then the doctors have what they need
+to save a patient&#39;s life.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is actually watching a delivery
+happen from our distribution center;
+											this vehicle is about 50 kilometers away.
+											We&#39;re able to watch the vehicle
+as it makes a delivery at a hospital
+											in real time.
+											You may have noticed there are pings
+											that are coming off
+of that vehicle on the screen.
+											Those pings are actually data packets
+											that we&#39;re getting
+over the cell phone networks.
+											So these planes have SIM cards
+just like your cell phone does,
+											and they&#39;re communicating
+over the cell network
+											to tell us where they are
+and how they&#39;re doing at all times.
+											Believe it or not,
+we actually buy family plans —
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											for this fleet of vehicles,
+											because that&#39;s how we get the best rates.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It&#39;s actually not a joke.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So today, we&#39;re delivering
+about 20 percent
+											of the national blood supply of Rwanda
+											outside of Kigali.
+											We serve about 12 hospitals,
+											and we&#39;re adding hospitals to that network
+at an accelerating rate.
+											All of those hospitals only receive
+blood in this way,
+											and most of those hospitals
+actually place multiple orders every day.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So the reason —
+											in all of health care logistics,
+											you&#39;re always trading off
+waste against access.
+											So if you want to solve waste,
+you keep everything centralized.
+											As a result, when patients
+are having emergencies,
+											sometimes they don&#39;t have
+the medical product they need.
+											If you want to solve access, you stock
+a lot of medicine at the last mile,
+											at hospitals or health centers,
+											and then patients have
+the medicine they need.
+											But you end up throwing
+a lot of medicine out,
+											which is very expensive.
+											What&#39;s so amazing is that the Rwandan
+government has been able
+											to break this cycle permanently.
+											Because doctors can get
+what they need instantly,
+											they actually stock
+less blood at the hospitals.
+											So although use of blood products
+has increased substantially
+											at all the hospitals we serve,
+											in the last nine months,
+zero units of blood have expired
+											at any of these hospitals.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											That&#39;s an amazing result.
+											That&#39;s actually not been achieved
+by any other health care system
+											on the planet,
+											and it happened here.
+											But obviously, when we&#39;re talking about
+delivering medical products instantly,
+											the most important thing is patients.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Let me give you an example.
+											A couple months ago, a 24-year-old mother
+came into one of the hospitals
+											that we serve,
+											and she gave birth via C-section.
+											But that led to complications,
+and she started to bleed.
+											Luckily, the doctors had some blood
+of her blood type on hand
+											that had been delivered
+via Zipline&#39;s routine service,
+											and so they transfused her
+with a couple units of blood.
+											But she bled out of those units
+in about 10 minutes.
+											In this case, that mother&#39;s life
+is in grave danger —
+											in any hospital in the world.
+											But luckily, the doctors
+who were taking care of her
+											immediately called
+our distribution center,
+											they placed an emergency order,
+											and our team actually did emergency
+delivery after emergency delivery
+											after emergency delivery.
+											They ended up sending
+seven units of red blood cells,
+											four units of plasma
+											and two units of platelets.
+											That&#39;s more blood than you have
+in your entire body.
+											All of it was transfused into her,
+											the doctors were able to stabilize her,
+											and she is healthy today.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Since we launched, we&#39;ve done about 400
+emergency deliveries like that,
+											and there&#39;s a story like that one
+behind most of those emergencies.
+											Here are just a couple of the moms
+											who have received transfusions in this way
+											in the last couple months.
+											We&#39;re always reminded: when we can help
+a doctor save a mom&#39;s life,
+											it&#39;s not just her life that you&#39;re saving.
+											That&#39;s also a baby boy or a baby girl
+											who has a mother while they&#39;re growing up.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But I want to be clear:
+											postpartum hemorrhaging —
+it&#39;s not a Rwanda problem,
+											it&#39;s not a developing-world problem —
+											this is a global problem.
+											Maternal health is a challenge everywhere.
+											The main difference is that
+Rwanda was the first country
+											to use radical technology
+to do something about it.
+											And that&#39;s the reason this attitude
+of Africa being disrupted
+											or advanced technology not working here
+											or needing aid
+											is so totally wrong.
+											Africa can be the disrupter.
+											These small, agile, developing economies
+can out-innovate large, rich ones.
+											And they can totally leapfrog over
+the absence of legacy infrastructure
+											to go straight to newer
+and better systems.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											In 2000,
+											if you had said that high-quality
+cellular networks were about to roll out
+											across all of Africa,
+											people would have told you
+that you were crazy.
+											And yet, no one anticipated
+											how fast those networks were going
+to connect and empower people.
+											Today, 44 percent of the GDP of Kenya
+flows through M-Pesa,
+											their mobile payment platform.
+											And not only that,
+											but our autonomous fleet of vehicles
+relies on that cellular network.
+											Over the next few years as we start
+serving private health care facilities,
+											we&#39;ll also use that mobile
+payment platform
+											to collect fees for deliveries.
+											So innovation leads to more innovation
+leads to more innovation.
+											And meanwhile,
+											most people who live
+in developed economies
+											think that drone delivery
+is technologically impossible,
+											let alone happening
+at national scale in East Africa.
+											And I do mean East Africa,
+not just Rwanda.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											On Thursday, just a couple days ago,
+											the Tanzanian Ministry of Health announced
+											that they are going to use
+this same technology
+											to provide instant delivery
+of a wide range of medical products
+											to 10 million of the hardest to reach
+people in the country.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It&#39;s actually going to be the largest
+autonomous system anywhere in the world.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											To give you a sense
+of what this looks like,
+											this is one of the first
+distribution centers.
+											You can see a 75-kilometer service radius
+around the distribution center,
+											and that allows us to serve hundreds
+of health facilities and hospitals,
+											all of which are rural,
+											from that single distribution center.
+											But to serve over 20 percent
+of the population of Tanzania,
+											we&#39;re going to need
+multiple distribution centers.
+											We&#39;ll actually need four.
+											And from these distribution centers,
+											we expect to be doing several hundred
+lifesaving deliveries every day,
+											and this system will ultimately serve
+over 1,000 health facilities
+											and hospitals in the country.
+											So yeah, East Africa
+is moving really fast.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											One thing that people, I think, often miss
+											is that these kinds of leaps
+generate compounding gains.
+											For example, Rwanda, by investing
+in this infrastructure for health care,
+											now has an aerial logistics network
+that they can use
+											to catalyze other parts of their economy,
+											like agriculture or e-commerce.
+											Even more importantly,
+											100 percent of the teams we hire
+at these distribution centers are local.
+											So here&#39;s our Rwandan team,
+											which is a group of extraordinary
+engineers and operators.
+											They run the world&#39;s only
+automated delivery system
+											operating at national scale.
+											They have been able to master something
+											that the largest technology
+companies in the world
+											have not yet been able to figure out.
+											So they are total heroes.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											They&#39;re total heroes.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Our team&#39;s mission is to deliver
+basic access to medicine
+											to all seven billion people on the planet,
+											no matter how hard it is to reach them.
+											We often tell people about that mission,
+											and they say, &quot;That&#39;s so generous
+of you, it&#39;s so philanthropic.&quot;
+											No!
+											Philanthropy has nothing to do with it.
+											Because of the commercial contracts
+that we sign with ministries of health,
+											these networks are 100 percent
+sustainable and scalable.
+											And the reason we feel so strongly
+about correcting that misperception
+											is that entrepreneurship
+is the only force in human history
+											that has lifted millions
+of people out of poverty.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											No amount of foreign aid
+is going to sustainably employ
+											250 million African youth.
+											And the jobs that these kids
+may have gotten 10 years ago
+											are largely being automated
+											or are being changed
+dramatically by technology.
+											So they are looking for new skill sets,
+											new competitive advantages.
+											They&#39;re looking for start-ups.
+											So why aren&#39;t there more start-ups
+that are tackling these global problems
+											that are faced by billions of people
+in developing economies?
+											The reason is that investors
+and entrepreneurs are totally blind
+											to the opportunity.
+											We think these problems are the domain
+of NGOs or governments,
+											not private companies.
+											That&#39;s what we have to change.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											You may have noticed
+I left something out of the video
+											that I showed you.
+											I didn&#39;t show you how the planes land
+											when they get back
+to the distribution center.
+											So, it might be obvious to you:
+											none of our planes have landing gear.
+											We also don&#39;t have runways
+where we operate.
+											So we have to be able
+to decelerate the plane
+											from about 100 kilometers an hour
+to zero in half of a second.
+											And the way we do that
+											is we actually use a wire that tracks
+that plane as it comes in,
+											with centimeter-level accuracy.
+											We snag the plane out of the sky,
+											and then we gently plop it
+onto an actively inflated cushion.
+											This is basically a combination
+of an aircraft carrier
+											and a bouncy castle.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So let me show you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And it might be obvious to you
+why I wanted to end with this video.
+											I wanted to show you the kids
+and the teenagers
+											who line up on the fence every day.
+											They cheer every launch and every landing.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Sometimes I actually show up
+at the distribution center early
+											because I&#39;m jet-lagged.
+											I&#39;ll show up an hour before
+we begin operation.
+											And there will be kids on the fence
+getting good seats.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And you go up and you ask them,
+											&quot;What do you think about the planes?&quot;
+											And they&#39;ll say, &quot;Oh,
+it&#39;s a sky ambulance.&quot;
+											So they get it.
+											I mean, they get it more than most adults.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So I was asking earlier:
+											Who is going to be creating the disruptive
+technology companies of Africa
+											over the next decade?
+											Ultimately, it&#39;s going
+to be up to these kids.
+											They are the engineers
+of Rwanda and Africa.
+											They are the engineers
+of our shared future.
+											But the only way they can build
+that future is if we realize
+											that world-changing companies
+can scale in Africa,
+											and that disruptive technology
+can start here first.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thanks.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":27538,"count":14,"talk_id":3694},"threadId":27538,"current_talk":"3694","description":"Keller Rinaudo wants everyone on earth to have access to basic health care, no matter how hard it is to reach them. With his start-up Zipline, he has created the world's first drone delivery system to operate at national scale, transporting blood and plasma to remote clinics in East Africa with a fleet of electric autonomous aircraft. Find out how Rinaudo and his team are working to transform health care logistics throughout the world -- and inspiring the next generation of engineers along the way.","event":"TEDGlobal 2017","language":"en","name":"Keller Rinaudo: How we're using drones to deliver blood and save lives","slug":"keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives","speakers":[{"id":"1548","slug":"keller_rinaudo","is_published":true,"firstname":"Keller","lastname":"Rinaudo","middleinitial":"","title":"","description":"Robotics entrepreneur","photo_url":"https://pe.tedcdn.com/images/ted/8a839df6a68a2676b5bc596a8bc259f3b5269c10_254x191.jpg","whatotherssay":"","whotheyare":"Keller Rinaudo is CEO and co-founder of Zipline, building drone delivery for global public health customers. (He's also co-founder of Romotive, makers of the tiny robot, Romo.)","whylisten":"<p>As CEO and co-founder of Zipline, a drone delivery company focused on health care, Keller Rinaudo works with the country of Rwanda to make last-mile deliveries of blood to half of the transfusing facilities in the country. The ultimate goal is to put each of the 12 million citizens of Rwanda within a 15&ndash;30 minute delivery of any essential medical product they need, no matter where they live.</p><p>Zipline is also working with GAVI, UPS, USAID and several other countries in East Africa. The company is a team of 60 aerospace and software engineers headquartered in San Francisco, CA. It&#39;s funded by Sequoia Capital, Google Ventures, Paul Allen, Jerry Yang and Stanford University. Rinaudo is also a professional rock climber ranked top 10 in sport climbing. He has scaled alpine cliffs in France, underwater caves in Kentucky and the limestone towers of Yangshuo, China.</p>"}],"url":"https://www.ted.com/talks/keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives","viewed_count":1032760,"talks":[{"recommendations":null,"more_resources":[],"corrections":[],"has_citations":false,"take_action":[{"status":"approved","blurb":"**Learn more** about Zipline, a drone delivery system operating at national scale that sends urgent medicines like blood to patients, no matter where they live.","link_url":"http://www.flyzipline.com/","visible_url":"flyzipline.com","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"take_action","verb":"learn"}],"curator_approved":true,"description":"Keller Rinaudo wants everyone on earth to have access to basic health care, no matter how hard it is to reach them. With his start-up Zipline, he has created the world's first drone delivery system to operate at national scale, transporting blood and plasma to remote clinics in East Africa with a fleet of electric autonomous aircraft. Find out how Rinaudo and his team are working to transform health care logistics throughout the world -- and inspiring the next generation of engineers along the way.","downloads":{"id":3694,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Hindi","endonym":"हिन्दी","languageCode":"hi","ianaCode":"hi","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/KellerRinaudo_2017G-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/KellerRinaudo_2017G.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/KellerRinaudo_2017G-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"en":{"name":"English","low":"https://download.ted.com/talks/KellerRinaudo_2017G-low-en.mp4","high":"https://download.ted.com/talks/KellerRinaudo_2017G-480p-en.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/KellerRinaudo_2017G-low-it.mp4","high":"https://download.ted.com/talks/KellerRinaudo_2017G-480p-it.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/KellerRinaudo_2017G-low-ro.mp4","high":"https://download.ted.com/talks/KellerRinaudo_2017G-480p-ro.mp4"},"sv":{"name":"Swedish","low":"https://download.ted.com/talks/KellerRinaudo_2017G-low-sv.mp4","high":"https://download.ted.com/talks/KellerRinaudo_2017G-480p-sv.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/KellerRinaudo_2017G-low-he.mp4","high":"https://download.ted.com/talks/KellerRinaudo_2017G-480p-he.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/KellerRinaudo_2017G-low-ko.mp4","high":"https://download.ted.com/talks/KellerRinaudo_2017G-480p-ko.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/KellerRinaudo_2017G-low-tr.mp4","high":"https://download.ted.com/talks/KellerRinaudo_2017G-480p-tr.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/KellerRinaudo_2017G-low-sr.mp4","high":"https://download.ted.com/talks/KellerRinaudo_2017G-480p-sr.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/KellerRinaudo_2017G-low-zh-tw.mp4","high":"https://download.ted.com/talks/KellerRinaudo_2017G-480p-zh-tw.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/KellerRinaudo_2017G-low-es.mp4","high":"https://download.ted.com/talks/KellerRinaudo_2017G-480p-es.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/KellerRinaudo_2017G-low-ru.mp4","high":"https://download.ted.com/talks/KellerRinaudo_2017G-480p-ru.mp4"},"fr":{"name":"French","low":"https://download.ted.com/talks/KellerRinaudo_2017G-low-fr.mp4","high":"https://download.ted.com/talks/KellerRinaudo_2017G-480p-fr.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/KellerRinaudo_2017G-low-pt-br.mp4","high":"https://download.ted.com/talks/KellerRinaudo_2017G-480p-pt-br.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/KellerRinaudo_2017G-low-ja.mp4","high":"https://download.ted.com/talks/KellerRinaudo_2017G-480p-ja.mp4"},"uk":{"name":"Ukrainian","low":"https://download.ted.com/talks/KellerRinaudo_2017G-low-uk.mp4","high":"https://download.ted.com/talks/KellerRinaudo_2017G-480p-uk.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/KellerRinaudo_2017G-low-ar.mp4","high":"https://download.ted.com/talks/KellerRinaudo_2017G-480p-ar.mp4"}},"audioDownload":"https://download.ted.com/talks/KellerRinaudo_2017G.mp3?apikey=acme-roadrunner"},"duration":930.0,"event":"TEDGlobal 2017","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://s3.amazonaws.com/talkstar-photos/uploads/b684c211-d401-4754-bbea-cbc2b97e3723/KellerRinaudo_2017G-embed.jpg","hero_load":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b684c211-d401-4754-bbea-cbc2b97e3723/KellerRinaudo_2017G-embed.jpg?q=50&w=15","id":"3694","player_talks":[{"id":"3694","duration":930.0,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Hindi","endonym":"हिन्दी","languageCode":"hi","ianaCode":"hi","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2017G/Blank/KellerRinaudo_2017G-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDGlobal%2B2017%26id%3D3694%26tag%3DAfrica%2Cdisease%2Cdrones%2Centrepreneur%2Chealth%2Chealth%2Bcare%2Cinnovation%2Cmedicine%2Csocial%2Bchange%2Ctechnology%26talk%3Dkeller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives%26year%3D2017&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"3694","talk":"keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives","tag":"Africa,disease,drones,entrepreneur,health,health care,innovation,medicine,social change,technology","year":"2017","event":"TEDGlobal 2017"},"stream":"https://hls.ted.com/talks/3694.m3u8","metadata":"https://hls.ted.com/talks/3694.json"}},"targeting":{"id":"3694","talk":"keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives","tag":"Africa,disease,drones,entrepreneur,health,health care,innovation,medicine,social change,technology","year":"2017","event":"TEDGlobal 2017"},"canonical":"https://www.ted.com/talks/keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives","name":"Keller Rinaudo: How we're using drones to deliver blood and save lives","title":"How we're using drones to deliver blood and save lives","speaker":"Keller Rinaudo","thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b684c211-d401-4754-bbea-cbc2b97e3723/KellerRinaudo_2017G-embed.jpg?quality=89&w=600","slug":"keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives","event":"TEDGlobal 2017","published":1511884186}],"ratings":[{"id":3,"name":"Courageous","count":59},{"id":10,"name":"Inspiring","count":273},{"id":7,"name":"Funny","count":23},{"id":22,"name":"Fascinating","count":118},{"id":8,"name":"Informative","count":151},{"id":1,"name":"Beautiful","count":34},{"id":9,"name":"Ingenious","count":157},{"id":24,"name":"Persuasive","count":29},{"id":23,"name":"Jaw-dropping","count":47},{"id":25,"name":"OK","count":13},{"id":26,"name":"Obnoxious","count":2},{"id":2,"name":"Confusing","count":1},{"id":11,"name":"Longwinded","count":2},{"id":21,"name":"Unconvincing","count":2}],"recorded_at":"2017-08-27T00:00:00.000+00:00","related_talks":[{"id":"2789","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/bff9e0c9-d9dc-45b9-b812-5f92a70fd2c7/RajPanjabi_2017-embed.jpg","speaker":"Raj Panjabi","title":"No one should die because they live too far from a doctor","duration":1230.0,"slug":"raj_panjabi_no_one_should_die_because_they_live_too_far_from_a_doctor","viewed_count":1169814},{"id":"2346","hero":"https://pe.tedcdn.com/images/ted/87f82eddb91d2c806ebb11465d846c47f481902c_2880x1620.jpg","speaker":"Vijay Kumar","title":"The future of flying robots","duration":789.0,"slug":"vijay_kumar_the_future_of_flying_robots","viewed_count":1510110},{"id":"2739","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/059ea118-3f14-455a-8960-d885c188294d/SanguDelle_2017S-embed.jpg","speaker":"Sangu Delle","title":"There's no shame in taking care of your mental health","duration":546.0,"slug":"sangu_delle_there_s_no_shame_in_taking_care_of_your_mental_health","viewed_count":1848591},{"id":"249","hero":"https://pe.tedcdn.com/images/ted/38806_480x360.jpg","speaker":"Ernest Madu","title":"World-class health care","duration":1003.0,"slug":"ernest_madu_on_world_class_health_care","viewed_count":384393},{"id":"8417","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/3c536e31-9c5c-4142-a8ea-ae64a0c8aaf1/SoyapiMumba_2017G-embed.jpg","speaker":"Soyapi Mumba","title":"Medical tech designed to meet Africa's needs","duration":343.0,"slug":"soyapi_mumba_medical_tech_designed_to_meet_africa_s_needs","viewed_count":915097},{"id":"1711","hero":"https://pe.tedcdn.com/images/ted/c0694f2a60d1de3e606ab3c8f368ef037b39766d_1600x1200.jpg","speaker":"Eric Dishman","title":"Health care should be a team sport","duration":959.0,"slug":"eric_dishman_health_care_should_be_a_team_sport","viewed_count":906462}],"slug":"keller_rinaudo_how_we_re_using_drones_to_deliver_blood_and_save_lives","speakers":[{"id":"1548","slug":"keller_rinaudo","is_published":true,"firstname":"Keller","lastname":"Rinaudo","middleinitial":"","title":"","description":"Robotics entrepreneur","photo_url":"https://pe.tedcdn.com/images/ted/8a839df6a68a2676b5bc596a8bc259f3b5269c10_254x191.jpg","whatotherssay":"","whotheyare":"Keller Rinaudo is CEO and co-founder of Zipline, building drone delivery for global public health customers. (He's also co-founder of Romotive, makers of the tiny robot, Romo.)","whylisten":"<p>As CEO and co-founder of Zipline, a drone delivery company focused on health care, Keller Rinaudo works with the country of Rwanda to make last-mile deliveries of blood to half of the transfusing facilities in the country. The ultimate goal is to put each of the 12 million citizens of Rwanda within a 15&ndash;30 minute delivery of any essential medical product they need, no matter where they live.</p><p>Zipline is also working with GAVI, UPS, USAID and several other countries in East Africa. The company is a team of 60 aerospace and software engineers headquartered in San Francisco, CA. It&#39;s funded by Sequoia Capital, Google Ventures, Paul Allen, Jerry Yang and Stanford University. Rinaudo is also a professional rock climber ranked top 10 in sport climbing. He has scaled alpine cliffs in France, underwater caves in Kentucky and the limestone towers of Yangshuo, China.</p>"}],"speaker_name":"Keller Rinaudo","tags":["Africa","disease","drones","entrepreneur","health","health care","innovation","medicine","social change","technology"],"title":"How we're using drones to deliver blood and save lives","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":1032760}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

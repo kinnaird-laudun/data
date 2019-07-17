@@ -1,0 +1,6569 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>TED: Ideas worth spreading</title>
+<meta name="description" content="TED Talks are influential videos from expert speakers on education, business, science, tech and creativity, with subtitles in 100+ languages. Ideas free to stream and download." />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pl.tedcdn.com/social/ted-logo-fb.png?v=wAff13s?" />
+<meta name="msvalidate.01" content="F1F8CFF85FF82D607911A8BAB418B939" />
+<meta name="p:domain_verify" content="71afe64571a4f2fbc27fbbad7ffd5c25" />
+<meta name="rss-feed" content="https://www.ted.com/feeds/talks.rss" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="TED: Ideas worth spreading" />
+<meta property="og:title" content="TED: Ideas worth spreading" />
+<meta property="og:description" content="TED Talks are influential videos from expert speakers on education, business, science, tech and creativity, with subtitles in 100+ languages. Ideas free to stream and download." />
+<meta property="og:url" content="https://www.ted.com/" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><link href='https://pa.tedcdn.com/javascripts/screens/750758b5212c04c746e1.chunk.js' rel='prefetch'>
+<link href='https://pa.tedcdn.com/javascripts/screens/13c35b8b57e16a8ad635.chunk.js' rel='prefetch'>
+<link href='https://pa.tedcdn.com/javascripts/screens/global-4663b34febcf14dfa7ee.chunk.css' rel='stylesheet'>
+<link href='https://pa.tedcdn.com/javascripts/screens/shed-8f43fdf9168fa3a32e8c.chunk.css' rel='stylesheet'><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1542327318,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21","hasEndorsement":"dimension22"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.desh = "d";
+  TED.abby.tests.feedback_3 = "a";
+  TED["controller"]="home"
+</script></head>
+<body class='home-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='https://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><div class='home-main main' role='main'>
+<script type='application/ld+json'>
+{"@context":"http://schema.org","@type":"Organization","name":"TED","url":"http://www.ted.com","logo":"https://pi.tedcdn.com/r/pl.tedcdn.com/social/ted-logo-fb.png?v=wAff13s?","alternateName":"TED Talks","sameAs":["https://www.facebook.com/TED","https://www.twitter.com/tedtalks","https://www.linkedin.com/company/ted-conferences","https://www.youtube.com/user/TEDtalksDirector","https://www.pinterest.com/tednews/"]}
+</script>
+<style>
+  .page {
+    line-height: 1.3;
+  }
+  p {
+    margin-bottom: 0;
+  }
+  .ad__text {
+    margin-bottom: .5rem;
+    color: #999999;
+  }
+</style>
+<div class='bg:gray-ll'>
+<div class='pos:r z-i:5'>
+<nav class='Main-nav Main-nav--translucent Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='self'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:white f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/recommends' href='/recommends'>
+<div class='f-w:700 m-b:.1'>TED Recommends</div>
+<div class='c:gray'>Get TED Talks picked just for you</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/recommends","label":"TED Recommends","info":"Get TED Talks picked just for you"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script>
+
+</div>
+<div class='p-x:3 p-x:6@sm m-w:max m-x:a@md pos:r m-t:-8'>
+<header class='p-t:8 m-x:r bg:cover bg:show@md m-b:4 m-b:7@md b-b:black.1' style='background-image: linear-gradient(159deg, rgba(0 ,0 ,0, .9), rgba(0, 0, 0, .2) 20rem), url(https://pi.tedcdn.com/r/s3.amazonaws.com/talkstar-photos/uploads/fc75c8d6-1098-4c5e-9336-c68fde288135/DawnWacek_2018X-embed.jpg?blur=0%2C10&amp;cb=20160613&amp;quality=63&amp;u=&amp;w=150);'>
+<div id="recommends-banner"></div>
+<script>q("recommendsBanner","#recommends-banner")</script>
+
+<div class='Grid pos:r top:5@md m-w:max m-x:a@md p-x:6@md'>
+<div class='Grid__cell w:1of2@md m-b:3 m-b:0@md'>
+<a class='sa d:b pos:r ga-link z-i:1' data-ga-action='click' data-ga-category='homepage.spotlight' data-ga-context='homepage-spotlight' data-ga-label='1 of 3-up | https://www.ted.com/talks/dawn_wacek_a_librarian_s_case_against_overdue_book_fines' data-spec='spotlight-main' href='/talks/dawn_wacek_a_librarian_s_case_against_overdue_book_fines' title="Dawn Wacek: A librarian's case against overdue book fines">
+<div class='pos:r'>
+<div class='Flex-embed'>
+<div class='Flex-embed__ratio Flex-embed__ratio--16x9'></div>
+<div class='Flex-embed__content Flex-embed__content--cover d:f flx-d:c j-c:c a-i:c' data-spec='background-image' style='background-image: url(https://pi.tedcdn.com/r/s3.amazonaws.com/talkstar-photos/uploads/fc75c8d6-1098-4c5e-9336-c68fde288135/DawnWacek_2018X-embed.jpg?cb=20160613&amp;quality=60&amp;u=&amp;w=1400)'></div>
+</div>
+<div class='bg:black.5 c:white'>
+<div class='pos:r blur p-y:1 p-x:3 p-x:6@sm p-x:1@md' style='margin-top: -1px'>
+<div class='pos:a pos:c' style='background-position-y: bottom; background-image: url(https://pi.tedcdn.com/r/s3.amazonaws.com/talkstar-photos/uploads/fc75c8d6-1098-4c5e-9336-c68fde288135/DawnWacek_2018X-embed.jpg?blur=0%2C10&amp;cb=20160613&amp;colorize=33%2C33%2C33&amp;quality=63&amp;u=&amp;w=150); background-size: cover; background-repeat: no-repeat'></div>
+<div class='pos:r'>
+<div class='f:4 f:6@lg f-w:700 l-h:t m-b:1 f:4@lg' data-spec='title'>
+A librarian's case against overdue book fines
+</div>
+<span class='f-w:700' data-spec='speaker-name'>
+Dawn Wacek
+</span>
+<span class='f:.9 o:70'>
+<span class='p-x:.2'>
+/
+</span>
+<span data-spec='speaker-description'>
+Librarian
+</span>
+</span>
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class='Grid__cell w:1of2@md'>
+  <div class="Grid Grid--with-gutter Grid--equal-height p-x:6@sm p-l:4@md">
+      <div class="Grid__cell w:1of2@sm">
+        <div class="w:full p-x:3 p-y:0@md p-x:0@sm p-b:3" data-spec="spotlight-0">
+          <a
+  class="
+    sa
+    d:b
+    w:full
+    h:full
+    bg:white@md
+    depth@md
+    depth:1
+    ga-link
+  "
+  href="https://www.ted.com/talks/elizabeth_streb_my_quest_to_defy_gravity_and_fly"
+  title="My quest to defy gravity and fly"
+  data-ga-category="homepage.spotlight"
+  data-ga-action="click"
+  data-ga-label="2 of 3-up | https://www.ted.com/talks/elizabeth_streb_my_quest_to_defy_gravity_and_fly"
+  data-ga-context="homepage-spotlight"
+  data-spec="url"
+>
+  
+
+  <div
+    class="
+      Grid
+      Grid--with-gutter
+    "
+  >
+    <div
+      class="
+        Grid__cell
+        w:1of3
+        w:full@md
+      "
+    >
+      <div class="Flex-embed">
+        <div class="Flex-embed__ratio Flex-embed__ratio--16x9">
+          <div
+            class="
+              Flex-embed__content
+              Flex-embed__content--cover
+            "
+            style="background-image: url(https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/70f33a80-d6ca-427d-80b7-7d27c5d50295/ElizabethStreb_2018-embed.jpg?cb=20160511&amp;h=500&amp;quality=90&amp;w=)"
+            data-spec="background-image"
+          ></div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="
+        Grid__cell
+        w:2of3
+        w:full@md
+      "
+    >
+      <div
+        class="p-x:1@md p-b:1 p-t:1@md"
+      >
+        <div
+          class="
+            f:2
+            f-w:700
+            l-h:d
+            m-b:.8
+          "
+          data-spec="title"
+        >
+          My quest to defy gravity and fly
+        </div>
+        <p class="d:n d:b@md" data-spec="description">
+          TED Talk: Extreme action specialist Elizabeth Streb reflects on her lifelong quest to defy gravity and fly the only way a human can
+        </p>
+      </div>
+    </div>
+  </div>
+</a>
+
+
+        </div>
+      </div>
+      <div class="Grid__cell w:1of2@sm">
+        <div class="w:full p-x:3 p-y:0@md p-x:0@sm p-b:3" data-spec="spotlight-1">
+          <a
+  class="
+    sa
+    d:b
+    w:full
+    h:full
+    bg:white@md
+    depth@md
+    depth:1
+    ga-link
+  "
+  href="https://www.ted.com/playlists/444/when_your_beliefs_are_being_ch"
+  title="7 talks to watch when your beliefs are being challenged"
+  data-ga-category="homepage.spotlight"
+  data-ga-action="click"
+  data-ga-label="3 of 3-up | http://www.ted.com/playlists/444/when_your_beliefs_are_being_ch"
+  data-ga-context="homepage-spotlight"
+  data-spec="url"
+>
+  
+
+  <div
+    class="
+      Grid
+      Grid--with-gutter
+    "
+  >
+    <div
+      class="
+        Grid__cell
+        w:1of3
+        w:full@md
+      "
+    >
+      <div class="Flex-embed">
+        <div class="Flex-embed__ratio Flex-embed__ratio--16x9">
+          <div
+            class="
+              Flex-embed__content
+              Flex-embed__content--cover
+            "
+            style="background-image: url(https://pi.tedcdn.com/r/pf.tedcdn.com/images/playlists/beliefs_are_challenged_1200x627.jpg?cb=20160511&amp;h=500&amp;quality=90&amp;w=)"
+            data-spec="background-image"
+          ></div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="
+        Grid__cell
+        w:2of3
+        w:full@md
+      "
+    >
+      <div
+        class="p-x:1@md p-b:1 p-t:1@md"
+      >
+        <div
+          class="
+            f:2
+            f-w:700
+            l-h:d
+            m-b:.8
+          "
+          data-spec="title"
+        >
+          7 talks to watch when your beliefs are being challenged
+        </div>
+        <p class="d:n d:b@md" data-spec="description">
+          Playlist: What to do when your beliefs and understanding of the world have been challenged, unraveled or even destroyed
+        </p>
+      </div>
+    </div>
+  </div>
+</a>
+
+
+        </div>
+      </div>
+  </div>
+  <script>q("spotlightTracking",{"secondary":[{"title":"My quest to defy gravity and fly","content":"TED Talk: Extreme action specialist Elizabeth Streb reflects on her lifelong quest to defy gravity and fly the only way a human can","image":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/70f33a80-d6ca-427d-80b7-7d27c5d50295/ElizabethStreb_2018-embed.jpg","url":"https://www.ted.com/talks/elizabeth_streb_my_quest_to_defy_gravity_and_fly","type":"image","sequence":1,"id":1188},{"title":"7 talks to watch when your beliefs are being challenged","content":"Playlist: What to do when your beliefs and understanding of the world have been challenged, unraveled or even destroyed","image":"https://pi.tedcdn.com/r/pf.tedcdn.com/images/playlists/beliefs_are_challenged_1200x627.jpg","url":"http://www.ted.com/playlists/444/when_your_beliefs_are_being_ch","type":"image","sequence":2,"id":876}]})</script>
+
+
+</div>
+</div>
+<script>q("spotlightTracking",{"primary":{"id":27750,"title":"A librarian's case against overdue book fines","speaker":"Dawn Wacek","speaker_description":"Librarian","thumb":"https://pi.tedcdn.com/r/s3.amazonaws.com/talkstar-photos/uploads/fc75c8d6-1098-4c5e-9336-c68fde288135/DawnWacek_2018X-embed.jpg?cb=20160511&quality=63&u=&w=512","duration":833.0,"posted":"2018-11-15T15:51:38.000Z","ratings":[],"views":204964,"url":"/talks/dawn_wacek_a_librarian_s_case_against_overdue_book_fines","canonical":"https://www.ted.com/talks/dawn_wacek_a_librarian_s_case_against_overdue_book_fines"}})</script>
+</header>
+<div class='b-b b:black.9 b:0@md m-b:6 p-t:1' id='react-container1'>
+<div class='p-t:5@md m-w:max m-x:a'>
+<div class='m-b:8 m-x:r p-x:3'>
+<div
+	class="
+		pos:r
+		m-b:3
+		m-x:1
+	"
+	data-spec="ribbon"
+>
+	<h2>
+		<div
+	class="
+		m-b:.7
+		m-b:0@sm
+		top:-1@sm
+		left:-.5@sm
+		pos:a@sm
+		z-i:3
+	"
+>
+	<span
+		class="
+			bg:red
+			c:white
+			f:.9
+			f-w:700
+			l-h:d
+			t-t:u
+			d:i-b
+			p-y:.5
+			p-x:.6
+			depth
+			depth:1
+		"
+		data-spec="title"
+	>
+		Newest Talks
+	</span>
+</div>
+
+
+	</h2>
+	<div
+		class="
+			pos:r
+			top:0
+			bottom:0
+		"
+	>
+		<div
+			class="
+				pos:r
+				d:f
+				flx-d:c
+				a-i:s
+			">
+			<ol
+				class="
+					sl
+					d:b
+					Grid
+					Grid--with-gutter
+				"
+			>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:i-b
+							
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/dawn_wacek_a_librarian_s_case_against_overdue_book_fines"
+    title="A librarian&#39;s case against overdue book fines"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          A librarian&#39;s case against overdue book fines
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:i-b
+							
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/teresa_bejan_is_civility_a_sham"
+    title="Is civility a sham?"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          Is civility a sham?
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							d:i-b@sm w:1of3@sm
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/aj_jacobs_my_journey_to_thank_all_the_people_responsible_for_my_morning_coffee"
+    title="My journey to thank all the people responsible for my morning coffee"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          My journey to thank all the people responsible for my morning coffee
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							d:i-b@md w:1of4@md
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/alex_edmans_what_to_trust_in_a_post_truth_world"
+    title="What to trust in a &quot;post-truth&quot; world"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          What to trust in a &quot;post-truth&quot; world
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							
+							d:i-b@lg w:1of5@lg
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/tamas_kocsis_the_case_for_a_decentralized_internet"
+    title="The case for a decentralized internet"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          The case for a decentralized internet
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							
+							
+							d:i-b@xl w:1of6@xl
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/michael_green_the_global_goals_we_ve_made_progress_on_and_the_ones_we_haven_t"
+    title="The global goals we&#39;ve made progress on -- and the ones we haven&#39;t"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          The global goals we&#39;ve made progress on -- and the ones we haven&#39;t
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+			</ol>
+		</div>
+	</div>
+</div>
+
+</div>
+<div class='m-b:8 m-x:r p-x:3'>
+<div
+	class="
+		pos:r
+		m-b:3
+		m-x:1
+	"
+	data-spec="ribbon"
+>
+	<h2>
+		<div
+	class="
+		m-b:.7
+		m-b:0@sm
+		top:-1@sm
+		left:-.5@sm
+		pos:a@sm
+		z-i:3
+	"
+>
+	<span
+		class="
+			bg:red
+			c:white
+			f:.9
+			f-w:700
+			l-h:d
+			t-t:u
+			d:i-b
+			p-y:.5
+			p-x:.6
+			depth
+			depth:1
+		"
+		data-spec="title"
+	>
+		Trending
+	</span>
+</div>
+
+
+	</h2>
+	<div
+		class="
+			pos:r
+			top:0
+			bottom:0
+		"
+	>
+		<div
+			class="
+				pos:r
+				d:f
+				flx-d:c
+				a-i:s
+			">
+			<ol
+				class="
+					sl
+					d:b
+					Grid
+					Grid--with-gutter
+				"
+			>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:i-b
+							
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/gail_reed_where_to_train_the_world_s_doctors_cuba"
+    title="Where to train the world&#39;s doctors? Cuba."
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          Where to train the world&#39;s doctors? Cuba.
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:i-b
+							
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/alexander_betts_why_brexit_happened_and_what_to_do_next"
+    title="Why Brexit happened -- and what to do next"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          Why Brexit happened -- and what to do next
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							d:i-b@sm w:1of3@sm
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/ash_beckham_when_to_take_a_stand_and_when_to_let_it_go"
+    title="When to take a stand -- and when to let it go"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          When to take a stand -- and when to let it go
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							d:i-b@md w:1of4@md
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/sheena_iyengar_choosing_what_to_choose"
+    title="How to make choosing easier"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          How to make choosing easier
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							
+							d:i-b@lg w:1of5@lg
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/jay_walker_s_library_of_human_imagination"
+    title="My library of human imagination"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          My library of human imagination
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							
+							
+							d:i-b@xl w:1of6@xl
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/erik_schlangen_a_self_healing_asphalt"
+    title="A &quot;self-healing&quot; asphalt"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          A &quot;self-healing&quot; asphalt
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+			</ol>
+		</div>
+	</div>
+</div>
+
+</div>
+<div class='m-b:8 m-x:r p-x:3'>
+<div
+	class="
+		pos:r
+		m-b:3
+		m-x:1
+	"
+	data-spec="ribbon"
+>
+	<h2>
+		<div
+	class="
+		m-b:.7
+		m-b:0@sm
+		top:-1@sm
+		left:-.5@sm
+		pos:a@sm
+		z-i:3
+	"
+>
+	<span
+		class="
+			bg:red
+			c:white
+			f:.9
+			f-w:700
+			l-h:d
+			t-t:u
+			d:i-b
+			p-y:.5
+			p-x:.6
+			depth
+			depth:1
+		"
+		data-spec="title"
+	>
+		Recommended today
+	</span>
+</div>
+
+
+	</h2>
+	<div
+		class="
+			pos:r
+			top:0
+			bottom:0
+		"
+	>
+		<div
+			class="
+				pos:r
+				d:f
+				flx-d:c
+				a-i:s
+			">
+			<ol
+				class="
+					sl
+					d:b
+					Grid
+					Grid--with-gutter
+				"
+			>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:i-b
+							
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/alexander_betts_why_brexit_happened_and_what_to_do_next"
+    title="Why Brexit happened -- and what to do next"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          Why Brexit happened -- and what to do next
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:i-b
+							
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/eduardo_briceno_how_to_get_better_at_the_things_you_care_about"
+    title="How to get better at the things you care about"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          How to get better at the things you care about
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							d:i-b@sm w:1of3@sm
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/martine_rothblatt_my_daughter_my_wife_our_robot_and_the_quest_for_immortality"
+    title="My daughter, my wife, our robot, and the quest for immortality"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          My daughter, my wife, our robot, and the quest for immortality
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							d:i-b@md w:1of4@md
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/abigail_marsh_why_some_people_are_more_altruistic_than_others"
+    title="Why some people are more altruistic than others"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          Why some people are more altruistic than others
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							
+							d:i-b@lg w:1of5@lg
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness"
+    title="The Web as random acts of kindness"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          The Web as random acts of kindness
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							
+							
+							d:i-b@xl w:1of6@xl
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/paul_hessburg_why_wildfires_have_gotten_worse_and_what_we_can_do_about_it"
+    title="Why wildfires have gotten worse -- and what we can do about it"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          Why wildfires have gotten worse -- and what we can do about it
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+			</ol>
+		</div>
+	</div>
+</div>
+
+</div>
+</div>
+<script>q("newHome1",[{"index":0,"slug":"newest","title":"Newest Talks","items":[{"id":"27750","title":"A librarian's case against overdue book fines","slug":"dawn_wacek_a_librarian_s_case_against_overdue_book_fines","duration":833.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/fc75c8d6-1098-4c5e-9336-c68fde288135/DawnWacek_2018X-embed.jpg?quality=63&w=512","url":"/talks/dawn_wacek_a_librarian_s_case_against_overdue_book_fines","sponsor":false},{"id":"27608","title":"Is civility a sham?","slug":"teresa_bejan_is_civility_a_sham","duration":833.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/6a648363-cfc2-4569-a0c2-12c529b5966d/TeresaBejan_2018S-embed.jpg?quality=63&w=512","url":"/talks/teresa_bejan_is_civility_a_sham","sponsor":false},{"id":"27173","title":"My journey to thank all the people responsible for my morning coffee","slug":"aj_jacobs_my_journey_to_thank_all_the_people_responsible_for_my_morning_coffee","duration":929.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/4a36203a-0eb8-4624-8a08-2a5873b219b2/AJJacobs_2018-embed.jpg?quality=63&w=512","url":"/talks/aj_jacobs_my_journey_to_thank_all_the_people_responsible_for_my_morning_coffee","sponsor":false},{"id":"26262","title":"What to trust in a \"post-truth\" world","slug":"alex_edmans_what_to_trust_in_a_post_truth_world","duration":1067.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b1e16121-2ee2-410c-b739-03713f30f432/AlexEdmans_2017X-embed.jpg?quality=63&w=512","url":"/talks/alex_edmans_what_to_trust_in_a_post_truth_world","sponsor":false},{"id":"26913","title":"The case for a decentralized internet","slug":"tamas_kocsis_the_case_for_a_decentralized_internet","duration":600.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/8de8128d-2a4b-4637-9b05-8aa8a454e1aa/TamasKocsis_2018S-embed.jpg?quality=63&w=512","url":"/talks/tamas_kocsis_the_case_for_a_decentralized_internet","sponsor":false},{"id":"26946","title":"The global goals we've made progress on -- and the ones we haven't","slug":"michael_green_the_global_goals_we_ve_made_progress_on_and_the_ones_we_haven_t","duration":851.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/493d0ad3-c721-472a-9543-49316cc3de6e/MichaelGreen_2018S-embed.jpg?quality=63&w=512","url":"/talks/michael_green_the_global_goals_we_ve_made_progress_on_and_the_ones_we_haven_t","sponsor":false},{"id":"26779","title":"How kids can help design cities","slug":"mara_mintzer_how_kids_can_help_design_cities","duration":864.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/48e1c498-e434-434e-8bb9-c48db45c90ae/MaraMintzer_2017X-embed.jpg?quality=63&w=512","url":"/talks/mara_mintzer_how_kids_can_help_design_cities","sponsor":false},{"id":"26926","title":"How I accidentally changed the way movies get made","slug":"franklin_leonard_how_i_accidentally_changed_the_way_movies_get_made_nov_2018","duration":980.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/c63e41fa-4938-4330-8a9e-030291848ee1/FranklinLeonard_2018X-embed.jpg?quality=63&w=512","url":"/talks/franklin_leonard_how_i_accidentally_changed_the_way_movies_get_made_nov_2018","sponsor":false},{"id":"26727","title":"Why I have coffee with people who send me hate mail","slug":"ozlem_cekic_why_i_have_coffee_with_people_who_send_me_hate_mail","duration":921.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/37d167f6-bf24-4a91-87f1-f3018d9e5e86/OzlemCekic_2018S-embed.jpg?quality=63&w=512","url":"/talks/ozlem_cekic_why_i_have_coffee_with_people_who_send_me_hate_mail","sponsor":false},{"id":"27219","title":"The case for curiosity-driven research","slug":"suzie_sheehy_the_case_for_curiosity_driven_research","duration":559.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/51cfd823-2670-403a-ae81-bc5ae5e9e7f2/SuzieSheehy_2018X-embed.jpg?quality=63&w=512","url":"/talks/suzie_sheehy_the_case_for_curiosity_driven_research","sponsor":false},{"id":"26570","title":"A memory scientist's advice on reporting harassment and discrimination","slug":"julia_shaw_a_memory_scientist_s_advice_on_reporting_harassment_and_discrimination","duration":581.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/6846b463-6d99-465e-9e6a-a714e5bf22fc/JuliaShaw_2018X-embed.jpg?quality=63&w=512","url":"/talks/julia_shaw_a_memory_scientist_s_advice_on_reporting_harassment_and_discrimination","sponsor":false},{"id":"26915","title":"How to let go of being a \"good\" person -- and become a better person","slug":"dolly_chugh_how_to_let_go_of_being_a_good_person_and_become_a_better_person","duration":708.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/46d24a40-6b4d-4ac4-8e1a-eae7ef6dbe3e/DollyChugh_2018S-embed.jpg?quality=63&w=512","url":"/talks/dolly_chugh_how_to_let_go_of_being_a_good_person_and_become_a_better_person","sponsor":false},{"id":"26922","title":"How tech companies deceive you into giving up your data and privacy","slug":"finn_myrstad_how_tech_companies_deceive_you_into_giving_up_your_data_and_privacy","duration":732.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/430c5baf-7b2c-404c-9e2d-ef0774710d40/FinnMyrstad_2018S-embed.jpg?quality=63&w=512","url":"/talks/finn_myrstad_how_tech_companies_deceive_you_into_giving_up_your_data_and_privacy","sponsor":false},{"id":"26708","title":"Is war between China and the US inevitable?","slug":"graham_allison_is_war_between_china_and_the_us_inevitable","duration":1123.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/24eabbe7-d819-4185-b358-13c7e0fe9726/GrahamAllison_2018S-embed.jpg?quality=63&w=512","url":"/talks/graham_allison_is_war_between_china_and_the_us_inevitable","sponsor":false},{"id":"26707","title":"What everyday citizens can do to claim power on the internet","slug":"fadi_chehade_what_everyday_citizens_can_do_to_claim_power_on_the_internet","duration":514.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/d873530d-867e-4be8-a2f2-afb571932c84/FadiChehade_2018S-embed.jpg?quality=63&w=512","url":"/talks/fadi_chehade_what_everyday_citizens_can_do_to_claim_power_on_the_internet","sponsor":false},{"id":"26076","title":"How isolation fuels opioid addiction","slug":"rachel_wurzman_how_isolation_fuels_opioid_addiction","duration":1111.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/ad5903e5-4b94-4915-8994-3e74ae11f58c/RachelWurzman_2017X-embed.jpg?quality=63&w=512","url":"/talks/rachel_wurzman_how_isolation_fuels_opioid_addiction","sponsor":false},{"id":"22628","title":"How will we survive when the population hits 10 billion?","slug":"charles_c_mann_how_will_we_survive_when_the_population_hits_10_billion","duration":778.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/6a9f61bb-046f-4916-aa2f-ecdf20c5b893/CharlesCMann_2018-embed.jpg?quality=63&w=512","url":"/talks/charles_c_mann_how_will_we_survive_when_the_population_hits_10_billion","sponsor":false},{"id":"26265","title":"\"We Are the Halluci Nation\"","slug":"a_tribe_called_red_we_are_the_halluci_nation","duration":686.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/6ff255e4-dafe-4051-9cab-4c9dce5d22d5/ATribeCalledRed_2018-embed.jpg?quality=63&w=512","url":"/talks/a_tribe_called_red_we_are_the_halluci_nation","sponsor":false}]},{"index":1,"slug":"trending","title":"Trending","items":[{"id":"2098","title":"Where to train the world's doctors? Cuba.","slug":"gail_reed_where_to_train_the_world_s_doctors_cuba","duration":1028.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e70bd1b6f648f6e1dd803481aa5421dff712b99d_2880x1620.jpg?quality=63&w=512","url":"/talks/gail_reed_where_to_train_the_world_s_doctors_cuba","sponsor":false},{"id":"2543","title":"Why Brexit happened -- and what to do next","slug":"alexander_betts_why_brexit_happened_and_what_to_do_next","duration":1042.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/d1bcea68-df79-4400-9910-adf2739d1be1/AlexanderBetts_2016T-embed.jpg?quality=63&w=512","url":"/talks/alexander_betts_why_brexit_happened_and_what_to_do_next","sponsor":false},{"id":"2282","title":"When to take a stand -- and when to let it go","slug":"ash_beckham_when_to_take_a_stand_and_when_to_let_it_go","duration":935.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8d86a35fc44170cf2d05de8a2517beed2bb97d47_2880x1620.jpg?quality=63&w=512","url":"/talks/ash_beckham_when_to_take_a_stand_and_when_to_let_it_go","sponsor":false},{"id":"1330","title":"How to make choosing easier","slug":"sheena_iyengar_choosing_what_to_choose","duration":965.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/1c6d3ab7-87f5-4666-819e-b06f3ac7debf/SheenaIyengar_2011S-embed.jpg?quality=63&w=512","url":"/talks/sheena_iyengar_choosing_what_to_choose","sponsor":false},{"id":"418","title":"My library of human imagination","slug":"jay_walker_s_library_of_human_imagination","duration":429.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/62067_800x600.jpg?quality=63&w=512","url":"/talks/jay_walker_s_library_of_human_imagination","sponsor":false},{"id":"1665","title":"A \"self-healing\" asphalt","slug":"erik_schlangen_a_self_healing_asphalt","duration":410.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d98aa55b2b8bc23be4cc8700dc390bd56fbe6749_1600x1200.jpg?quality=63&w=512","url":"/talks/erik_schlangen_a_self_healing_asphalt","sponsor":false},{"id":"1582","title":"Making sense of maps","slug":"aris_venetikidis_making_sense_of_maps","duration":996.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e9baebea40cbe9c1a26f6edd57f0833e4bb90aef_1600x1200.jpg?quality=63&w=512","url":"/talks/aris_venetikidis_making_sense_of_maps","sponsor":false},{"id":"1755","title":"How books can open your mind","slug":"lisa_bu_how_books_can_open_your_mind","duration":376.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/58f8fe6385ba674c98c3db95b474fd87450e1f9d_1600x1200.jpg?quality=63&w=512","url":"/talks/lisa_bu_how_books_can_open_your_mind","sponsor":false},{"id":"2449","title":"Our refugee system is failing. Here's how we can fix it","slug":"alexander_betts_our_refugee_system_is_failing_here_s_how_we_can_fix_it","duration":1089.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/1cc0d3b7-88ed-4515-9c0f-a315effe24e1/AlexanderBetts_2016-embed.jpg?quality=63&w=512","url":"/talks/alexander_betts_our_refugee_system_is_failing_here_s_how_we_can_fix_it","sponsor":false},{"id":"182","title":"The illustrated woman","slug":"maira_kalman_the_illustrated_woman","duration":1050.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b8975cef603ff7110ea49f95c3e197866b5c397f_1600x1200.jpg?quality=63&w=512","url":"/talks/maira_kalman_the_illustrated_woman","sponsor":false},{"id":"1641","title":"Re-engineering mosquitos to fight disease","slug":"hadyn_parry_re_engineering_mosquitos_to_fight_disease","duration":837.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e5a83197dda31e3be388cbaabb2add1d27ee24ad_1600x1200.jpg?quality=63&w=512","url":"/talks/hadyn_parry_re_engineering_mosquitos_to_fight_disease","sponsor":false},{"id":"1959","title":"The new bionics that let us run, climb and dance","slug":"hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance","duration":1140.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ca0520623aeb359f6d5f371d516371fadcae2454_1600x1200.jpg?quality=63&w=512","url":"/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance","sponsor":false},{"id":"710","title":"Pop culture in the Arab world","slug":"shereen_el_feki_pop_culture_in_the_arab_world","duration":305.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/126511_800x600.jpg?quality=63&w=512","url":"/talks/shereen_el_feki_pop_culture_in_the_arab_world","sponsor":false},{"id":"1052","title":"Take \"the Other\" to lunch","slug":"elizabeth_lesser_take_the_other_to_lunch","duration":668.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9a7a7ccedd0d998c9252631b0fc01378e6bc1afc_2880x1620.jpg?quality=63&w=512","url":"/talks/elizabeth_lesser_take_the_other_to_lunch","sponsor":false},{"id":"2454","title":"Simple hacks for life with Parkinson's","slug":"mileha_soneji_simple_hacks_for_life_with_parkinson_s","duration":417.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/99487aaa-0492-4806-ac4c-804907d7c9db/MilehaSoneji_2015X-embed.jpg?quality=63&w=512","url":"/talks/mileha_soneji_simple_hacks_for_life_with_parkinson_s","sponsor":false},{"id":"1479","title":"Pop an ollie and innovate!","slug":"rodney_mullen_pop_an_ollie_and_innovate","duration":1099.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8f40974f27f69b9de5f1ce20f91d6b88834f9a84_800x600.jpg?quality=63&w=512","url":"/talks/rodney_mullen_pop_an_ollie_and_innovate","sponsor":false},{"id":"622","title":"One seed at a time, protecting the future of food","slug":"cary_fowler_one_seed_at_a_time_protecting_the_future_of_food","duration":1028.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/a29e7d9e-b22a-4b6b-9976-a55248fa7a8f/CaryFowler_2009G-embed.jpg?quality=63&w=512","url":"/talks/cary_fowler_one_seed_at_a_time_protecting_the_future_of_food","sponsor":false},{"id":"2384","title":"The US needs paid family leave -- for the sake of its future","slug":"jessica_shortall_how_america_fails_new_parents_and_their_babies","duration":945.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/a63caed8-065c-4c35-b89a-11ca2952d466/JessicaShortall_2015X-embed.jpg?quality=63&w=512","url":"/talks/jessica_shortall_how_america_fails_new_parents_and_their_babies","sponsor":false}]},{"index":2,"slug":"recommended-today","id":60,"title":"Recommended today","items":[{"id":"2543","title":"Why Brexit happened -- and what to do next","slug":"alexander_betts_why_brexit_happened_and_what_to_do_next","duration":1042.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/d1bcea68-df79-4400-9910-adf2739d1be1/AlexanderBetts_2016T-embed.jpg?quality=63&w=512","url":"/talks/alexander_betts_why_brexit_happened_and_what_to_do_next","sponsor":false},{"id":"2679","title":"How to get better at the things you care about","slug":"eduardo_briceno_how_to_get_better_at_the_things_you_care_about","duration":682.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/961e2a05-2b0c-4634-a487-10f649ec53c3/EduardoBriceno_2016X-embed.jpg?quality=63&w=512","url":"/talks/eduardo_briceno_how_to_get_better_at_the_things_you_care_about","sponsor":false},{"id":"2258","title":"My daughter, my wife, our robot, and the quest for immortality","slug":"martine_rothblatt_my_daughter_my_wife_our_robot_and_the_quest_for_immortality","duration":1264.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d36805b551287daf03465ac753e8b88b8e39658b_2880x1620.jpg?quality=63&w=512","url":"/talks/martine_rothblatt_my_daughter_my_wife_our_robot_and_the_quest_for_immortality","sponsor":false},{"id":"2584","title":"Why some people are more altruistic than others","slug":"abigail_marsh_why_some_people_are_more_altruistic_than_others","duration":741.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/9837be99-8ed0-46dc-bcf9-2e51eaf151f8/AbigailMarsh_2016T-embed.jpg?quality=63&w=512","url":"/talks/abigail_marsh_why_some_people_are_more_altruistic_than_others","sponsor":false},{"id":"640","title":"The Web as random acts of kindness","slug":"jonathan_zittrain_the_web_is_a_random_act_of_kindness","duration":1191.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/117051_800x600.jpg?quality=63&w=512","url":"/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness","sponsor":false},{"id":"3593","title":"Why wildfires have gotten worse -- and what we can do about it","slug":"paul_hessburg_why_wildfires_have_gotten_worse_and_what_we_can_do_about_it","duration":851.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/fdc20ea0-fdf1-4e31-a2d1-a89bfc4d77be/PaulHessburg_2017X-embed.jpg?quality=63&w=512","url":"/talks/paul_hessburg_why_wildfires_have_gotten_worse_and_what_we_can_do_about_it","sponsor":false},{"id":"9807","title":"3 lessons of revolutionary love in a time of rage","slug":"valarie_kaur_3_lessons_of_revolutionary_love_in_a_time_of_rage","duration":1332.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/093258fb-b553-4834-bcf6-162f0b85dae8/ValarieKaur_2017W-embed.jpg?quality=63&w=512","url":"/talks/valarie_kaur_3_lessons_of_revolutionary_love_in_a_time_of_rage","sponsor":false},{"id":"2424","title":"The boiling river of the Amazon","slug":"andres_ruzo_the_mythical_boiling_river_of_the_amazon","duration":949.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/43f56571-bf51-46c9-8c9b-8f062979d365/AndresRuzo_2014G-embed.jpg?quality=63&w=512","url":"/talks/andres_ruzo_the_mythical_boiling_river_of_the_amazon","sponsor":false},{"id":"2334","title":"Stunning photos of the endangered Everglades","slug":"mac_stone_stunning_photos_of_the_endangered_everglades","duration":1155.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b2236fa5fe68cf8d207f7679b6da0d717d817c39_2880x1620.jpg?quality=63&w=512","url":"/talks/mac_stone_stunning_photos_of_the_endangered_everglades","sponsor":false},{"id":"14608","title":"A Parkland teacher's homework for us all","slug":"diane_wolk_rogers_a_parkland_teacher_s_homework_for_us_all","duration":946.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/dc23802e-b4da-4af0-bb47-f81c97cd9506/DianeWolkRogers_2018-embed.jpg?quality=63&w=512","url":"/talks/diane_wolk_rogers_a_parkland_teacher_s_homework_for_us_all","sponsor":false},{"id":"1921","title":"Art that craves your attention","slug":"aparna_rao_art_that_craves_your_attention","duration":536.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/97d3d86749ad26995caa55948e45c525f453746e_1600x1200.jpg?quality=63&w=512","url":"/talks/aparna_rao_art_that_craves_your_attention","sponsor":false},{"id":"877","title":"How to engineer a viral music video","slug":"adam_sadowsky_engineers_a_viral_music_video","duration":868.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/ef63b257-03e4-438d-92c9-c4795af43562/AdamSadowsky_2010X-embed.jpg?quality=63&w=512","url":"/talks/adam_sadowsky_engineers_a_viral_music_video","sponsor":false},{"id":"1371","title":"Why videos go viral","slug":"kevin_allocca_why_videos_go_viral","duration":440.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e6e4ef87a73bd253bd522e0b65e4f8bcafcd2dfe_800x600.jpg?quality=63&w=512","url":"/talks/kevin_allocca_why_videos_go_viral","sponsor":false},{"id":"2060","title":"Why ordinary people need to understand power","slug":"eric_liu_why_ordinary_people_need_to_understand_power","duration":1035.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fa771070465b9670a72eccacddb9aebd878cf08c_2400x1800.jpg?quality=63&w=512","url":"/talks/eric_liu_why_ordinary_people_need_to_understand_power","sponsor":false},{"id":"1583","title":"Let's prepare for our new climate","slug":"vicki_arroyo_let_s_prepare_for_our_new_climate","duration":876.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/f6f4ba06-46ec-4bd7-b751-5a0e28c3540a/VickiArroyo_2012G-embed.jpg?quality=63&w=512","url":"/talks/vicki_arroyo_let_s_prepare_for_our_new_climate","sponsor":false},{"id":"18928","title":"The story of 'Oumuamua, the first visitor from another star system","slug":"karen_j_meech_the_story_of_oumuamua_the_first_visitor_from_another_star_system","duration":804.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/ec4c31e1-f7ee-4e6f-8733-134be4bde478/KarenMeech_2018-embed.jpg?quality=63&w=512","url":"/talks/karen_j_meech_the_story_of_oumuamua_the_first_visitor_from_another_star_system","sponsor":false},{"id":"2341","title":"Why some of us don't have one true calling","slug":"emilie_wapnick_why_some_of_us_don_t_have_one_true_calling","duration":746.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/11e3541d75d4afba6badc2c3c058b8cb4bfe5863_2880x1620.jpg?quality=63&w=512","url":"/talks/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling","sponsor":false},{"id":"11199","title":"How shocking events can spark positive change","slug":"naomi_klein_how_shocking_events_can_spark_positive_change","duration":935.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/97f91906-86b7-439f-94fe-a824b85010fc/NaomiKlein_2017G-embed.jpg?quality=63&w=512","url":"/talks/naomi_klein_how_shocking_events_can_spark_positive_change","sponsor":false},{"id":"2253","title":"Why city flags may be the worst-designed thing you've never noticed","slug":"roman_mars_why_city_flags_may_be_the_worst_designed_thing_you_ve_never_noticed","duration":1098.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cf60edde3cb4303d421107d7bbce32e58f8ab9f3_2880x1620.jpg?quality=63&w=512","url":"/talks/roman_mars_why_city_flags_may_be_the_worst_designed_thing_you_ve_never_noticed","sponsor":false},{"id":"1410","title":"Designing books is no laughing matter. OK, it is.","slug":"chip_kidd_designing_books_is_no_laughing_matter_ok_it_is","duration":1036.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ec8292db13815de32529bf4568ce76b48a089bc5_2880x1620.jpg?quality=63&w=512","url":"/talks/chip_kidd_designing_books_is_no_laughing_matter_ok_it_is","sponsor":false},{"id":"8780","title":"What's it like to be a robot?","slug":"leila_takayama_what_s_it_like_to_be_a_robot","duration":775.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/214de943-de4e-4ff5-8c3b-de60b71901e7/LeilaTakayama_2017X-embed.jpg?quality=63&w=512","url":"/talks/leila_takayama_what_s_it_like_to_be_a_robot","sponsor":false},{"id":"9987","title":"How to fix a broken heart","slug":"guy_winch_how_to_fix_a_broken_heart","duration":745.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/20588915-d165-463f-aeb2-96994d240e13/GuyWinch_2017-embed.jpg?quality=63&w=512","url":"/talks/guy_winch_how_to_fix_a_broken_heart","sponsor":false},{"id":"161","title":"The joy of lexicography","slug":"erin_mckean_redefines_the_dictionary","duration":950.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a8d822168ec28a3e9fb5f21703144d292273b067_1600x1200.jpg?quality=63&w=512","url":"/talks/erin_mckean_redefines_the_dictionary","sponsor":false},{"id":"2022","title":"What makes a word \"real\"?","slug":"anne_curzan_what_makes_a_word_real","duration":1033.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1a66dc4c95d485cb2d14363a1a6e052325520093_2400x1800.jpg?quality=63&w=512","url":"/talks/anne_curzan_what_makes_a_word_real","sponsor":false},{"id":"40","title":"The story of life in photographs","slug":"frans_lanting_s_lyrical_nature_photos","duration":977.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/381_480x360.jpg?quality=63&w=512","url":"/talks/frans_lanting_s_lyrical_nature_photos","sponsor":false},{"id":"2885","title":"Mind-blowing, magnified portraits of insects","slug":"levon_biss_mind_blowing_magnified_portraits_of_insects","duration":468.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/bcce0566-52b9-4ccc-9363-c55626d4fac1/LevonBiss_2017-embed.jpg?quality=63&w=512","url":"/talks/levon_biss_mind_blowing_magnified_portraits_of_insects","sponsor":false},{"id":"1917","title":"Meet a young entrepreneur, cartoonist, designer, activist ...","slug":"maya_penn_meet_a_young_entrepreneur_cartoonist_designer_activist","duration":436.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7ce545be0d778c2e6715188bccc255dae8072bde_1600x1200.jpg?quality=63&w=512","url":"/talks/maya_penn_meet_a_young_entrepreneur_cartoonist_designer_activist","sponsor":false},{"id":"1553","title":"Before I die I want to ...","slug":"candy_chang_before_i_die_i_want_to","duration":380.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5159576b119c7f11a8b0f8501ce3b04a6e091c4f_1600x1200.jpg?quality=63&w=512","url":"/talks/candy_chang_before_i_die_i_want_to","sponsor":false},{"id":"2166","title":"Hopeful lessons from the battle to save rainforests","slug":"tasso_azevedo_hopeful_lessons_from_the_battle_to_save_rainforests","duration":916.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/dde0408cf680c4eb3b140f8be034ce7b2c88bd38_2880x1620.jpg?quality=63&w=512","url":"/talks/tasso_azevedo_hopeful_lessons_from_the_battle_to_save_rainforests","sponsor":false}]}],"react-container1")</script>
+</div>
+<div class='m-w:max m-x:a'>
+<div class='m-b:5'>
+<h2 class='l-s:t c:black t-a:c f:3 f:4@md f-w:700 m-y:.7 t-a:l@md m-y:.7@sm'>
+Explore playlists
+</h2>
+<div class='Grid Grid--with-gutter Grid--align-top'>
+<div class='Grid__cell w:1of2@md w:8of12@lg w:9of12@xl'>
+<ul class='Grid Grid--with-gutter Grid--equal-height'>
+<li class='Grid__cell w:1of2 w:1of4@sm w:1of2@md w:1of4@lg m-b:3' data-spec='playlist-card'>
+<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      ga-link
+    "
+    data-spec="link"
+    href="/playlists/171/the_most_popular_talks_of_all"
+    title="The most popular talks of all time"
+    data-ga-category="homepage.playlist"
+    data-ga-action="click"
+    data-ga-label="/playlists/171/the_most_popular_talks_of_all"
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+          style="background-image: url(https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/playlists/playlist_171/7631c207-5964-4bb5-8beb-8e5dec3abe40/25_Most_Popular.jpg?cb=20160613&amp;quality=80&amp;w=320);"
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+          <div data-spec="badge" class="m-b:.6 f:.8">
+            <div
+	class="
+		d:i-b
+		c:white
+		bg:black.1
+		f-w:700
+		p-x:.6
+		p-y:.1
+		t-t:u
+		l-h:n
+		border-radius
+	"
+>
+	25 talks
+</div>
+
+          </div>
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          The most popular talks of all time
+        </div>
+      </div>
+  </a>
+</div>
+
+</li>
+<li class='Grid__cell w:1of2 w:1of4@sm w:1of2@md w:1of4@lg m-b:3' data-spec='playlist-card'>
+<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      ga-link
+    "
+    data-spec="link"
+    href="/playlists/655/great_ted_talks_for_language_practice"
+    title="Great TED Talks for language practice"
+    data-ga-category="homepage.playlist"
+    data-ga-action="click"
+    data-ga-label="/playlists/655/great_ted_talks_for_language_practice"
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+          style="background-image: url(https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/playlists/playlist_655/80c4ca05-0758-4ecc-9081-6d89c0b426c2/Great-TED-Talks-for-language-practice_1200x1200.jpg?cb=20160613&amp;quality=80&amp;w=320);"
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+          <div data-spec="badge" class="m-b:.6 f:.8">
+            <div
+	class="
+		d:i-b
+		c:white
+		bg:black.1
+		f-w:700
+		p-x:.6
+		p-y:.1
+		t-t:u
+		l-h:n
+		border-radius
+	"
+>
+	11 talks
+</div>
+
+          </div>
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          Great TED Talks for language practice
+        </div>
+      </div>
+  </a>
+</div>
+
+</li>
+<li class='Grid__cell w:1of2 w:1of4@sm w:1of2@md w:1of4@lg m-b:3' data-spec='playlist-card'>
+<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      ga-link
+    "
+    data-spec="link"
+    href="/playlists/656/how_to_notice_and_build_joy_into_your_life"
+    title="How to notice and build joy into your life"
+    data-ga-category="homepage.playlist"
+    data-ga-action="click"
+    data-ga-label="/playlists/656/how_to_notice_and_build_joy_into_your_life"
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+          style="background-image: url(https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/playlists/playlist_656/d9606805-ca51-4bbc-94a6-58cfd64be6ca/How-to-notice-and-build-joy-into-your-life_1200x1200.jpg?cb=20160613&amp;quality=80&amp;w=320);"
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+          <div data-spec="badge" class="m-b:.6 f:.8">
+            <div
+	class="
+		d:i-b
+		c:white
+		bg:black.1
+		f-w:700
+		p-x:.6
+		p-y:.1
+		t-t:u
+		l-h:n
+		border-radius
+	"
+>
+	12 talks
+</div>
+
+          </div>
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          How to notice and build joy into your life
+        </div>
+      </div>
+  </a>
+</div>
+
+</li>
+<li class='Grid__cell w:1of2 w:1of4@sm w:1of2@md w:1of4@lg m-b:3' data-spec='playlist-card'>
+<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      ga-link
+    "
+    data-spec="link"
+    href="/playlists/455/the_fabulous_life_of_germs"
+    title="The fabulous life of germs"
+    data-ga-category="homepage.playlist"
+    data-ga-action="click"
+    data-ga-label="/playlists/455/the_fabulous_life_of_germs"
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+          style="background-image: url(https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/playlists/playlist_455/fab_life_of_germs.jpg?cb=20160613&amp;quality=80&amp;w=320);"
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+          <div data-spec="badge" class="m-b:.6 f:.8">
+            <div
+	class="
+		d:i-b
+		c:white
+		bg:black.1
+		f-w:700
+		p-x:.6
+		p-y:.1
+		t-t:u
+		l-h:n
+		border-radius
+	"
+>
+	8 talks
+</div>
+
+          </div>
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          The fabulous life of germs
+        </div>
+      </div>
+  </a>
+</div>
+
+</li>
+</ul>
+</div>
+<div class='fl:c Grid__cell w:1of2@md w:4of12@lg w:3of12@xl'>
+<div class='t-a:c fl:r@md m-t:2 m-t:0@md m-b:4 p-l:4@md m-l:5@md b-l@md b:black.9@md'>
+<div class='d:i-b@lg'>
+<div id='as-bdf0e85fb378b8f7283f' style='visibility:hidden'>
+<div class='c:gray f:.9 m-b:2 t-a:c'>
+TED Talks are free thanks to our
+<br>
+partners & advertisers
+</div>
+</div>
+<div id='ad-f577ab99124fef4bd6dc'></div>
+<script>
+  googletag.cmd.push(function () {
+    var adornment = document.getElementById("as-bdf0e85fb378b8f7283f");
+    var slot = googletag
+      .defineSlot("/5641/ted2/home", [[300,250]], "ad-f577ab99124fef4bd6dc")
+      .addService(googletag.pubads())
+      ;
+  
+    function showStandardAd(event) {
+      if (!event || !event.slot || event.isEmpty || event.slot !== slot) return;
+      adornment.style.visibility = 'visible';
+    }
+  
+    googletag.pubads().addEventListener('slotRenderEnded', showStandardAd);
+    googletag.display("ad-f577ab99124fef4bd6dc");
+  });
+</script>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='' id='react-container2'>
+<div class='m-w:max m-x:a'>
+<div class='m-b:8'>
+<div
+	class="
+		pos:r
+		m-b:3
+		m-x:1
+	"
+	data-spec="ribbon"
+>
+	<h2>
+		<div
+	class="
+		m-b:.7
+		m-b:0@sm
+		top:-1@sm
+		left:-.5@sm
+		pos:a@sm
+		z-i:3
+	"
+>
+	<span
+		class="
+			bg:red
+			c:white
+			f:.9
+			f-w:700
+			l-h:d
+			t-t:u
+			d:i-b
+			p-y:.5
+			p-x:.6
+			depth
+			depth:1
+		"
+		data-spec="title"
+	>
+		TED-Ed lessons: feed your curiosity
+	</span>
+</div>
+
+
+	</h2>
+	<div
+		class="
+			pos:r
+			top:0
+			bottom:0
+		"
+	>
+		<div
+			class="
+				pos:r
+				d:f
+				flx-d:c
+				a-i:s
+			">
+			<ol
+				class="
+					sl
+					d:b
+					Grid
+					Grid--with-gutter
+				"
+			>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:i-b
+							
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/jonathan_butterworth_what_s_the_smallest_thing_in_the_universe"
+    title="What&#39;s the smallest thing in the universe?"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          What&#39;s the smallest thing in the universe?
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:i-b
+							
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/alex_gendler_the_myth_of_sisyphus"
+    title="The myth of Sisyphus"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          The myth of Sisyphus
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							d:i-b@sm w:1of3@sm
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/mark_robinson_and_alex_gendler_history_vs_henry_viii"
+    title="History vs. Henry VIII"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          History vs. Henry VIII
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							d:i-b@md w:1of4@md
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/adrian_paenza_how_folding_paper_can_get_you_to_the_moon"
+    title="How folding paper can get you to the moon"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          How folding paper can get you to the moon
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							
+							d:i-b@lg w:1of5@lg
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/dan_finkel_can_you_solve_the_secret_werewolf_riddle"
+    title="Can you solve the secret werewolf riddle?"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          Can you solve the secret werewolf riddle?
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							
+							
+							d:i-b@xl w:1of6@xl
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/dennis_wildfogel_how_big_is_infinity"
+    title="How big is infinity?"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          How big is infinity?
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+			</ol>
+		</div>
+	</div>
+</div>
+
+</div>
+<div class='m-b:8'>
+<div
+	class="
+		pos:r
+		m-b:3
+		m-x:1
+	"
+	data-spec="ribbon"
+>
+	<h2>
+		<div
+	class="
+		m-b:.7
+		m-b:0@sm
+		top:-1@sm
+		left:-.5@sm
+		pos:a@sm
+		z-i:3
+	"
+>
+	<span
+		class="
+			bg:red
+			c:white
+			f:.9
+			f-w:700
+			l-h:d
+			t-t:u
+			d:i-b
+			p-y:.5
+			p-x:.6
+			depth
+			depth:1
+		"
+		data-spec="title"
+	>
+		Open source, open world
+	</span>
+</div>
+
+
+	</h2>
+	<div
+		class="
+			pos:r
+			top:0
+			bottom:0
+		"
+	>
+		<div
+			class="
+				pos:r
+				d:f
+				flx-d:c
+				a-i:s
+			">
+			<ol
+				class="
+					sl
+					d:b
+					Grid
+					Grid--with-gutter
+				"
+			>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:i-b
+							
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination"
+    title="How Arduino is open-sourcing imagination"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          How Arduino is open-sourcing imagination
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:i-b
+							
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/tim_berners_lee_the_year_open_data_went_worldwide"
+    title="The year open data went worldwide"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          The year open data went worldwide
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							d:i-b@sm w:1of3@sm
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="https://www.ted.com/about/partner-with-ted/case-studies/samsung"
+    title="Discover the next mobile economy"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          Discover the next mobile economy
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							d:i-b@md w:1of4@md
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/linus_torvalds_the_mind_behind_linux"
+    title="The mind behind Linux"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          The mind behind Linux
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							
+							d:i-b@lg w:1of5@lg
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/luis_von_ahn_massive_scale_online_collaboration"
+    title="Massive-scale online collaboration"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          Massive-scale online collaboration
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							
+							
+							d:i-b@xl w:1of6@xl
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/amanda_palmer_the_art_of_asking"
+    title="The art of asking"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          The art of asking
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+			</ol>
+		</div>
+	</div>
+</div>
+
+</div>
+<div class='m-b:8'>
+<div
+	class="
+		pos:r
+		m-b:3
+		m-x:1
+	"
+	data-spec="ribbon"
+>
+	<h2>
+		<div
+	class="
+		m-b:.7
+		m-b:0@sm
+		top:-1@sm
+		left:-.5@sm
+		pos:a@sm
+		z-i:3
+	"
+>
+	<span
+		class="
+			bg:red
+			c:white
+			f:.9
+			f-w:700
+			l-h:d
+			t-t:u
+			d:i-b
+			p-y:.5
+			p-x:.6
+			depth
+			depth:1
+		"
+		data-spec="title"
+	>
+		Heard on TED Radio Hour
+	</span>
+</div>
+
+
+	</h2>
+	<div
+		class="
+			pos:r
+			top:0
+			bottom:0
+		"
+	>
+		<div
+			class="
+				pos:r
+				d:f
+				flx-d:c
+				a-i:s
+			">
+			<ol
+				class="
+					sl
+					d:b
+					Grid
+					Grid--with-gutter
+				"
+			>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:i-b
+							
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/john_francis_walks_the_earth"
+    title="Walk the earth ... my 17-year vow of silence"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          Walk the earth ... my 17-year vow of silence
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:i-b
+							
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/susan_cain_the_power_of_introverts"
+    title="The power of introverts"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          The power of introverts
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							d:i-b@sm w:1of3@sm
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/megan_washington_why_i_live_in_mortal_dread_of_public_speaking"
+    title="Why I live in mortal dread of public speaking"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          Why I live in mortal dread of public speaking
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							d:i-b@md w:1of4@md
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/gavin_pretor_pinney_cloudy_with_a_chance_of_joy"
+    title="Cloudy with a chance of joy"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          Cloudy with a chance of joy
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							
+							d:i-b@lg w:1of5@lg
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/pico_iyer_the_art_of_stillness"
+    title="The art of stillness"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          The art of stillness
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							
+							
+							d:i-b@xl w:1of6@xl
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/james_bridle_the_nightmare_videos_of_childrens_youtube_and_what_s_wrong_with_the_internet_today"
+    title="The nightmare videos of children&#39;s YouTube -- and what&#39;s wrong with the internet today"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          The nightmare videos of children&#39;s YouTube -- and what&#39;s wrong with the internet today
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+			</ol>
+		</div>
+	</div>
+</div>
+
+</div>
+<div class='m-b:8'>
+<div
+	class="
+		pos:r
+		m-b:3
+		m-x:1
+	"
+	data-spec="ribbon"
+>
+	<h2>
+		<div
+	class="
+		m-b:.7
+		m-b:0@sm
+		top:-1@sm
+		left:-.5@sm
+		pos:a@sm
+		z-i:3
+	"
+>
+	<span
+		class="
+			bg:red
+			c:white
+			f:.9
+			f-w:700
+			l-h:d
+			t-t:u
+			d:i-b
+			p-y:.5
+			p-x:.6
+			depth
+			depth:1
+		"
+		data-spec="title"
+	>
+		making superheroes: stories from TEDx
+	</span>
+</div>
+
+
+	</h2>
+	<div
+		class="
+			pos:r
+			top:0
+			bottom:0
+		"
+	>
+		<div
+			class="
+				pos:r
+				d:f
+				flx-d:c
+				a-i:s
+			">
+			<ol
+				class="
+					sl
+					d:b
+					Grid
+					Grid--with-gutter
+				"
+			>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:i-b
+							
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/stan_lee_what_makes_a_superhero"
+    title="What makes a superhero?"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          What makes a superhero?
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:i-b
+							
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/g_willow_wilson_the_story_behind_marvel_s_muslim_american_superheroine"
+    title="The story behind Marvel&#39;s Muslim-American superheroine"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          The story behind Marvel&#39;s Muslim-American superheroine
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							d:i-b@sm w:1of3@sm
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/shawn_martinbrough_how_one_black_panther_comic_artist_is_changing_perceptions"
+    title="How I change perceptions by drawing comics"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          How I change perceptions by drawing comics
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							d:i-b@md w:1of4@md
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/sana_amanat_the_importance_of_diversity_in_the_comic_book_universe"
+    title="The importance of diversity in the comic book universe"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          The importance of diversity in the comic book universe
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							
+							d:i-b@lg w:1of5@lg
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/michael_uslan_how_i_brought_batman_to_hollywood_and_academia"
+    title="How I brought Batman to Hollywood (and academia)"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          How I brought Batman to Hollywood (and academia)
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							
+							
+							d:i-b@xl w:1of6@xl
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/christopher_bell_bring_on_the_female_superheroes"
+    title="Bring on the female superheroes!"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          Bring on the female superheroes!
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+			</ol>
+		</div>
+	</div>
+</div>
+
+</div>
+<div class='m-b:8'>
+<div
+	class="
+		pos:r
+		m-b:3
+		m-x:1
+	"
+	data-spec="ribbon"
+>
+	<h2>
+		<div
+	class="
+		m-b:.7
+		m-b:0@sm
+		top:-1@sm
+		left:-.5@sm
+		pos:a@sm
+		z-i:3
+	"
+>
+	<span
+		class="
+			bg:red
+			c:white
+			f:.9
+			f-w:700
+			l-h:d
+			t-t:u
+			d:i-b
+			p-y:.5
+			p-x:.6
+			depth
+			depth:1
+		"
+		data-spec="title"
+	>
+		What should I do with my life?
+	</span>
+</div>
+
+
+	</h2>
+	<div
+		class="
+			pos:r
+			top:0
+			bottom:0
+		"
+	>
+		<div
+			class="
+				pos:r
+				d:f
+				flx-d:c
+				a-i:s
+			">
+			<ol
+				class="
+					sl
+					d:b
+					Grid
+					Grid--with-gutter
+				"
+			>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:i-b
+							
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/larry_smith_why_you_will_fail_to_have_a_great_career"
+    title="Why you will fail to have a great career"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          Why you will fail to have a great career
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:i-b
+							
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/simon_sinek_how_great_leaders_inspire_action"
+    title="How great leaders inspire action"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          How great leaders inspire action
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							d:i-b@sm w:1of3@sm
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling"
+    title="Why some of us don&#39;t have one true calling"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          Why some of us don&#39;t have one true calling
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							d:i-b@md w:1of4@md
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/scott_dinsmore_how_to_find_work_you_love"
+    title="How to find work you love"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          How to find work you love
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							
+							d:i-b@lg w:1of5@lg
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/candy_chang_before_i_die_i_want_to"
+    title="Before I die I want to ..."
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          Before I die I want to ...
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							
+							
+							d:i-b@xl w:1of6@xl
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/david_brooks_should_you_live_for_your_resume_or_your_eulogy"
+    title="Should you live for your résumé ... or your eulogy?"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          Should you live for your résumé ... or your eulogy?
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+			</ol>
+		</div>
+	</div>
+</div>
+
+</div>
+<div class='m-b:8'>
+<div
+	class="
+		pos:r
+		m-b:3
+		m-x:1
+	"
+	data-spec="ribbon"
+>
+	<h2>
+		<div
+	class="
+		m-b:.7
+		m-b:0@sm
+		top:-1@sm
+		left:-.5@sm
+		pos:a@sm
+		z-i:3
+	"
+>
+	<span
+		class="
+			bg:red
+			c:white
+			f:.9
+			f-w:700
+			l-h:d
+			t-t:u
+			d:i-b
+			p-y:.5
+			p-x:.6
+			depth
+			depth:1
+		"
+		data-spec="title"
+	>
+		Animals and us
+	</span>
+</div>
+
+
+	</h2>
+	<div
+		class="
+			pos:r
+			top:0
+			bottom:0
+		"
+	>
+		<div
+			class="
+				pos:r
+				d:f
+				flx-d:c
+				a-i:s
+			">
+			<ol
+				class="
+					sl
+					d:b
+					Grid
+					Grid--with-gutter
+				"
+			>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:i-b
+							
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/jane_goodall_at_tedglobal_07"
+    title="How humans and animals can live together"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          How humans and animals can live together
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:i-b
+							
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/frans_de_waal_do_animals_have_morals"
+    title="Moral behavior in animals"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          Moral behavior in animals
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							d:i-b@sm w:1of3@sm
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/deborah_gordon_what_ants_teach_us_about_the_brain_cancer_and_the_internet"
+    title="What ants teach us about the brain, cancer and the Internet"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          What ants teach us about the brain, cancer and the Internet
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							d:i-b@md w:1of4@md
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/steven_wise_chimps_have_feelings_and_thoughts_they_should_also_have_rights"
+    title="Chimps have feelings and thoughts. They should also have rights"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          Chimps have feelings and thoughts. They should also have rights
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							
+							d:i-b@lg w:1of5@lg
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/laurie_santos"
+    title="A monkey economy as irrational as ours"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          A monkey economy as irrational as ours
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							
+							
+							d:i-b@xl w:1of6@xl
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/carl_safina_what_are_animals_thinking_and_feeling"
+    title="What are animals thinking and feeling?"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          What are animals thinking and feeling?
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+			</ol>
+		</div>
+	</div>
+</div>
+
+</div>
+<div class='m-b:8'>
+<div
+	class="
+		pos:r
+		m-b:3
+		m-x:1
+	"
+	data-spec="ribbon"
+>
+	<h2>
+		<div
+	class="
+		m-b:.7
+		m-b:0@sm
+		top:-1@sm
+		left:-.5@sm
+		pos:a@sm
+		z-i:3
+	"
+>
+	<span
+		class="
+			bg:red
+			c:white
+			f:.9
+			f-w:700
+			l-h:d
+			t-t:u
+			d:i-b
+			p-y:.5
+			p-x:.6
+			depth
+			depth:1
+		"
+		data-spec="title"
+	>
+		strange new materials
+	</span>
+</div>
+
+
+	</h2>
+	<div
+		class="
+			pos:r
+			top:0
+			bottom:0
+		"
+	>
+		<div
+			class="
+				pos:r
+				d:f
+				flx-d:c
+				a-i:s
+			">
+			<ol
+				class="
+					sl
+					d:b
+					Grid
+					Grid--with-gutter
+				"
+			>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:i-b
+							
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/fiorenzo_omenetto_silk_the_ancient_material_of_the_future"
+    title="Silk, the ancient material of the future"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          Silk, the ancient material of the future
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:i-b
+							
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/toys_from_the_future"
+    title="Toys and materials from the future"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          Toys and materials from the future
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							d:i-b@sm w:1of3@sm
+							
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/mikael_fogelstrom_graphene_from_a_layer_of_atoms_to_applications"
+    title="Graphene: the impressive 2D material full of potential"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          Graphene: the impressive 2D material full of potential
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							d:i-b@md w:1of4@md
+							
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/mark_shaw_one_very_dry_demo"
+    title="One very dry demo"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          One very dry demo
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							
+							d:i-b@lg w:1of5@lg
+							
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/oded_shoseyov_how_we_re_harnessing_nature_s_hidden_superpowers"
+    title="How we&#39;re harnessing nature&#39;s hidden superpowers"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          How we&#39;re harnessing nature&#39;s hidden superpowers
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+					<li
+						class="
+							Grid__cell
+							m-b:.7
+							w:1of2
+							w:1of3@sm
+							w:1of4@md
+							w:1of5@lg
+							w:1of6@xl
+							d:n
+							
+							
+							
+							d:i-b@xl w:1of6@xl
+						"
+					>
+						<div
+  data-spec="card"
+  class="
+    w:full
+    depth
+    depth:1
+    bg:white
+  "
+>
+  <a
+    class="
+      d:b
+      sa
+      
+    "
+    data-spec="link"
+    href="/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology"
+    title="Design at the intersection of technology and biology"
+    
+    
+    
+  >
+    <div class="Flex-embed">
+      <div
+        class="
+          Flex-embed__ratio
+            Flex-embed__ratio--16x9
+        "
+      ></div>
+      <div
+        class="
+          bg:gray
+          Flex-embed__content
+          Flex-embed__content--cover
+          d:f
+          flx-d:c
+          j-c:c
+          a-i:c
+        "
+      >
+      </div>
+    </div>
+      <div
+        class="
+          p-x:.8
+          p-t:.4
+          p-b:.8
+        "
+      >
+        <div
+          data-spec="title"
+          class="
+            f:1
+            f-w:700
+            l-h:l
+          "
+        >
+          Design at the intersection of technology and biology
+        </div>
+      </div>
+  </a>
+</div>
+
+					</li>
+			</ol>
+		</div>
+	</div>
+</div>
+
+</div>
+</div>
+<script>q("newHome1",[{"index":3,"slug":"ted-ed-lessons-feed-your-curiosity","id":76,"title":"TED-Ed lessons: feed your curiosity","items":[{"id":"27790","title":"What's the smallest thing in the universe?","slug":"jonathan_butterworth_what_s_the_smallest_thing_in_the_universe","duration":306.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/0212933e-85f9-4b08-9a71-f091ec75d128/standardmodel_textless1.jpg?quality=63&w=512","url":"/talks/jonathan_butterworth_what_s_the_smallest_thing_in_the_universe","sponsor":false},{"id":"27674","title":"The myth of Sisyphus","slug":"alex_gendler_the_myth_of_sisyphus","duration":278.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/5d91f7a2-0068-4927-bc6f-81f488566aa3/sisyphus_textless.jpg?quality=63&w=512","url":"/talks/alex_gendler_the_myth_of_sisyphus","sponsor":false},{"id":"27632","title":"History vs. Henry VIII","slug":"mark_robinson_and_alex_gendler_history_vs_henry_viii","duration":309.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/ca6239fa-0064-468f-baeb-6eeb1737f6c8/henryVIIItextless.jpg?quality=63&w=512","url":"/talks/mark_robinson_and_alex_gendler_history_vs_henry_viii","sponsor":false},{"id":"23722","title":"How folding paper can get you to the moon","slug":"adrian_paenza_how_folding_paper_can_get_you_to_the_moon","duration":218.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/d5fd5beb-cb1c-4426-af52-9d85cd75b860/111_foldingpaper.jpg?quality=63&w=512","url":"/talks/adrian_paenza_how_folding_paper_can_get_you_to_the_moon","sponsor":false},{"id":"26916","title":"Can you solve the secret werewolf riddle?","slug":"dan_finkel_can_you_solve_the_secret_werewolf_riddle","duration":213.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/778c3c69-adb7-4ec6-948e-b1de1a285f55/werewolfriddle_textless.jpg?quality=63&w=512","url":"/talks/dan_finkel_can_you_solve_the_secret_werewolf_riddle","sponsor":false},{"id":"23740","title":"How big is infinity?","slug":"dennis_wildfogel_how_big_is_infinity","duration":421.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/d85fab7b-1105-4ab7-9871-c4280f1a11a2/8_infinity.jpg?quality=63&w=512","url":"/talks/dennis_wildfogel_how_big_is_infinity","sponsor":false},{"id":"27221","title":"How far would you have to go to escape gravity?","slug":"rene_laufer_how_far_would_you_have_to_go_to_escape_gravity","duration":279.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/01f85a3e-ffeb-4d29-bd8e-450e562437b8/gravity_textless.jpg?quality=63&w=512","url":"/talks/rene_laufer_how_far_would_you_have_to_go_to_escape_gravity","sponsor":false},{"id":"25571","title":"Is fire a solid, a liquid, or a gas?","slug":"elizabeth_cox_is_fire_a_solid_a_liquid_or_a_gas","duration":250.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/39b18c9a-4d49-4f98-8a3e-b53a4707f9ea/fire_textless.jpg?quality=63&w=512","url":"/talks/elizabeth_cox_is_fire_a_solid_a_liquid_or_a_gas","sponsor":false},{"id":"25103","title":"What causes heartburn?","slug":"rusha_modi_what_causes_heartburn","duration":295.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/388109f5-0941-436c-9773-85aa1afaaea1/heartburn_textless.jpg?quality=63&w=512","url":"/talks/rusha_modi_what_causes_heartburn","sponsor":false},{"id":"23483","title":"The fascinating history of cemeteries ","slug":"keith_eggener_the_fascinating_history_of_cemeteries","duration":313.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/bffd1003-3268-4a43-a3fd-34b3b83bc219/cemeteries_textless_logo.jpg?quality=63&w=512","url":"/talks/keith_eggener_the_fascinating_history_of_cemeteries","sponsor":false},{"id":"26266","title":"How rollercoasters affect your body","slug":"brian_d_avery_how_rollercoasters_affect_your_body","duration":297.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/4708f459-ed6b-4153-ac48-0608639b368d/rollercoaster_textless2.jpg?quality=63&w=512","url":"/talks/brian_d_avery_how_rollercoasters_affect_your_body","sponsor":false},{"id":"26676","title":"Can you solve the stolen rubies riddle?","slug":"dennis_shasha_can_you_solve_the_stolen_rubies_riddle","duration":259.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/1705e572-ced5-487a-8cc5-21af543df27b/rubytextless.jpg?quality=63&w=512","url":"/talks/dennis_shasha_can_you_solve_the_stolen_rubies_riddle","sponsor":false}]},{"index":4,"slug":"open-source-open-world","sponsor":{"name":"Samsung","logo":"https://pl.tedcdn.com/programmer_tool/media/samsung_logo.png"},"id":131,"title":"Open source, open world","items":[{"id":"1491","title":"How Arduino is open-sourcing imagination","slug":"massimo_banzi_how_arduino_is_open_sourcing_imagination","duration":946.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/77818fbc-23ef-4d8d-80d6-00034d1ddd35/MassimoBanzi_2012G-embed.jpg?quality=63&w=512","url":"/talks/massimo_banzi_how_arduino_is_open_sourcing_imagination","sponsor":false},{"id":"788","title":"The year open data went worldwide","slug":"tim_berners_lee_the_year_open_data_went_worldwide","duration":333.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/154673_800x600.jpg?quality=63&w=512","url":"/talks/tim_berners_lee_the_year_open_data_went_worldwide","sponsor":false},{"id":null,"title":"Discover the next mobile economy","slug":null,"duration":null,"thumb":"https://pi.tedcdn.com/r/pl.tedcdn.com/programmer_tool/media/samsung_custom_slot_Nov2018.jpg?quality=63&w=512","url":"https://www.ted.com/about/partner-with-ted/case-studies/samsung","sponsor":true},{"id":"2464","title":"The mind behind Linux","slug":"linus_torvalds_the_mind_behind_linux","duration":1290.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/f69760c8-2dea-43ce-9594-f02ca4175946/LinusTorvalds_2016-embed.jpg?quality=63&w=512","url":"/talks/linus_torvalds_the_mind_behind_linux","sponsor":false},{"id":"1295","title":"Massive-scale online collaboration","slug":"luis_von_ahn_massive_scale_online_collaboration","duration":999.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cc4e62fb426a8abf08f4d5b771b348089705d2c4_2880x1620.jpg?quality=63&w=512","url":"/talks/luis_von_ahn_massive_scale_online_collaboration","sponsor":false},{"id":"1682","title":"The art of asking","slug":"amanda_palmer_the_art_of_asking","duration":827.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/d34538ab-7ae8-46ef-92cc-f83c055c1840/AmandaPalmer_2013-embed.jpg?quality=63&w=512","url":"/talks/amanda_palmer_the_art_of_asking","sponsor":false},{"id":"896","title":"How cognitive surplus will change the world","slug":"clay_shirky_how_cognitive_surplus_will_change_the_world","duration":787.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/d383deee25fb6a51e5df6f8b83c753b393a9ac6b_1600x1200.jpg?quality=63&w=512","url":"/talks/clay_shirky_how_cognitive_surplus_will_change_the_world","sponsor":false},{"id":"37","title":"The birth of Wikipedia","slug":"jimmy_wales_on_the_birth_of_wikipedia","duration":1201.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/24d2cdd703346a33bc9d7e6be0b4c9bdc9dd4b9a_1600x1200.jpg?quality=63&w=512","url":"/talks/jimmy_wales_on_the_birth_of_wikipedia","sponsor":false},{"id":"63","title":"The era of open innovation","slug":"charles_leadbeater_on_innovation","duration":1141.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/137_480x360.jpg?quality=63&w=512","url":"/talks/charles_leadbeater_on_innovation","sponsor":false},{"id":"1381","title":"Coding a better government","slug":"jennifer_pahlka_coding_a_better_government","duration":731.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8a3803576b960b90b3f55b6c0edab9eb8eb2f0fa_800x600.jpg?quality=63&w=512","url":"/talks/jennifer_pahlka_coding_a_better_government","sponsor":false},{"id":"1572","title":"The currency of the new economy is trust","slug":"rachel_botsman_the_currency_of_the_new_economy_is_trust","duration":1186.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/57dd4a180def67dc98275172cf5e83eabc061006_1600x1200.jpg?quality=63&w=512","url":"/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust","sponsor":false}]},{"index":5,"slug":"heard-on-ted-radio-hour","id":16,"title":"Heard on TED Radio Hour","items":[{"id":"391","title":"Walk the earth ... my 17-year vow of silence","slug":"john_francis_walks_the_earth","duration":1164.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/58068_800x600.jpg?quality=63&w=512","url":"/talks/john_francis_walks_the_earth","sponsor":false},{"id":"1377","title":"The power of introverts","slug":"susan_cain_the_power_of_introverts","duration":1144.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b542b1ddd2e40cfcf9db3430598bc37cebfec8c1_1600x1200.jpg?quality=63&w=512","url":"/talks/susan_cain_the_power_of_introverts","sponsor":false},{"id":"2054","title":"Why I live in mortal dread of public speaking","slug":"megan_washington_why_i_live_in_mortal_dread_of_public_speaking","duration":778.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/9119913cdebf7f4a8334b5d60cda125c7ed5039a_2400x1800.jpg?quality=63&w=512","url":"/talks/megan_washington_why_i_live_in_mortal_dread_of_public_speaking","sponsor":false},{"id":"1780","title":"Cloudy with a chance of joy","slug":"gavin_pretor_pinney_cloudy_with_a_chance_of_joy","duration":654.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/caaeb15db371a5a5c6bdab39d14cec6bb46e7cee_1600x1200.jpg?quality=63&w=512","url":"/talks/gavin_pretor_pinney_cloudy_with_a_chance_of_joy","sponsor":false},{"id":"2025","title":"The art of stillness","slug":"pico_iyer_the_art_of_stillness","duration":937.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/bd619eb8f9002797413fb4e886808df331e00608_2880x1620.jpg?quality=63&w=512","url":"/talks/pico_iyer_the_art_of_stillness","sponsor":false},{"id":"18469","title":"The nightmare videos of children's YouTube -- and what's wrong with the internet today","slug":"james_bridle_the_nightmare_videos_of_childrens_youtube_and_what_s_wrong_with_the_internet_today","duration":992.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/1ce4facb-b3a9-49f1-be9f-8f351be9107f/JamesBridle_2018-embed.jpg?quality=63&w=512","url":"/talks/james_bridle_the_nightmare_videos_of_childrens_youtube_and_what_s_wrong_with_the_internet_today","sponsor":false},{"id":"16159","title":"Why fascism is so tempting -- and how your data could power it","slug":"yuval_noah_harari_why_fascism_is_so_tempting_and_how_your_data_could_power_it","duration":1102.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/141d2db8-d548-4d4f-8be9-5183b7189215/YuvalNoahHarari_2018-embed.jpg?quality=63&w=512","url":"/talks/yuval_noah_harari_why_fascism_is_so_tempting_and_how_your_data_could_power_it","sponsor":false},{"id":"17237","title":"How technology can fight extremism and online harassment","slug":"yasmin_green_how_technology_can_fight_extremism_and_online_harassment","duration":820.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/810b404b-30c1-415c-b661-e969c212bcdd/YasminGreen_2018-embed.jpg?quality=63&w=512","url":"/talks/yasmin_green_how_technology_can_fight_extremism_and_online_harassment","sponsor":false},{"id":"19927","title":"What your smart devices know (and share) about you","slug":"kashmir_hill_and_surya_mattu_what_your_smart_devices_know_and_share_about_you","duration":545.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/f609862f-00dd-459e-bcb0-f3258c0059b1/KashmirHillandSuryaMattu_2018-embed.jpg?quality=63&w=512","url":"/talks/kashmir_hill_and_surya_mattu_what_your_smart_devices_know_and_share_about_you","sponsor":false},{"id":"1217","title":"Unintended consequences","slug":"edward_tenner_unintended_consequences","duration":970.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/38b938a015a2301fb1a34a389ca8614677b8e2fa_800x600.jpg?quality=63&w=512","url":"/talks/edward_tenner_unintended_consequences","sponsor":false},{"id":"1538","title":"How we can eat our landscapes","slug":"pam_warhurst_how_we_can_eat_our_landscapes","duration":801.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/fde8f7d2016e6b40c8d02d218fd2a96feab6db25_1600x1200.jpg?quality=63&w=512","url":"/talks/pam_warhurst_how_we_can_eat_our_landscapes","sponsor":false},{"id":"263","title":"What's wrong with what we eat","slug":"mark_bittman_on_what_s_wrong_with_what_we_eat","duration":1208.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e53dd444ed289f36275590ba3c93ddc161cf83fa_1600x1200.jpg?quality=63&w=512","url":"/talks/mark_bittman_on_what_s_wrong_with_what_we_eat","sponsor":false},{"id":"1018","title":"Why not eat insects?","slug":"marcel_dicke_why_not_eat_insects","duration":994.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cb149b15cf6c910832370a2cff7959d12e74cd86_2880x1620.jpg?quality=63&w=512","url":"/talks/marcel_dicke_why_not_eat_insects","sponsor":false},{"id":"14471","title":"What if we ended the injustice of bail?","slug":"robin_steinberg_what_if_we_ended_the_injustice_of_bail","duration":864.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/28aa474e-82ed-46f0-9119-7bd1d1a52603/RobinSteinberg_2018-embed.jpg?quality=63&w=512","url":"/talks/robin_steinberg_what_if_we_ended_the_injustice_of_bail","sponsor":false},{"id":"2628","title":"A political party for women's equality","slug":"sandi_toksvig_a_political_party_for_women_s_equality","duration":1188.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/94efb15d-d7ae-4140-ad77-c14a2d32ac04/SandiToksvig_2016W-embed.jpg?quality=63&w=512","url":"/talks/sandi_toksvig_a_political_party_for_women_s_equality","sponsor":false},{"id":"1898","title":"I got 99 problems ... palsy is just one","slug":"maysoon_zayid_i_got_99_problems_palsy_is_just_one","duration":853.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/20901029a2b8ff751fbdf23cabb736b82cadf55e_1600x1200.jpg?quality=63&w=512","url":"/talks/maysoon_zayid_i_got_99_problems_palsy_is_just_one","sponsor":false},{"id":"2521","title":"A highly scientific taxonomy of haters","slug":"negin_farsad_a_highly_scientific_taxonomy_of_haters","duration":485.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/8de76a46-912c-4655-b87d-4f1f6cf8f21c/NeginFarsad_2016U-embed.jpg?quality=63&w=512","url":"/talks/negin_farsad_a_highly_scientific_taxonomy_of_haters","sponsor":false},{"id":"1830","title":"Confessions of a depressed comic","slug":"kevin_breel_confessions_of_a_depressed_comic","duration":660.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f4c2389914be27f7a96c506c59edf935f35c881f_2880x1620.jpg?quality=63&w=512","url":"/talks/kevin_breel_confessions_of_a_depressed_comic","sponsor":false}]},{"index":6,"slug":"making-superheroes-stories-from-tedx","id":132,"title":"making superheroes: stories from TEDx","items":[{"id":"27951","title":"What makes a superhero?","slug":"stan_lee_what_makes_a_superhero","duration":474.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/c093220c-8ba1-420e-92c8-7a07198b7d64/StanLee.jpeg?quality=63&w=512","url":"/talks/stan_lee_what_makes_a_superhero","sponsor":false},{"id":"21381","title":"The story behind Marvel's Muslim-American superheroine","slug":"g_willow_wilson_the_story_behind_marvel_s_muslim_american_superheroine","duration":771.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/2ccc7ee0-270c-4908-91e2-7756ba8e08ce/gwillow.jpeg?quality=63&w=512","url":"/talks/g_willow_wilson_the_story_behind_marvel_s_muslim_american_superheroine","sponsor":false},{"id":"11974","title":"How I change perceptions by drawing comics","slug":"shawn_martinbrough_how_one_black_panther_comic_artist_is_changing_perceptions","duration":677.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/2ab360bb-4813-4f70-aa0b-618a52aebb5e/maxresdefault.jpg?quality=63&w=512","url":"/talks/shawn_martinbrough_how_one_black_panther_comic_artist_is_changing_perceptions","sponsor":false},{"id":"27952","title":"The importance of diversity in the comic book universe","slug":"sana_amanat_the_importance_of_diversity_in_the_comic_book_universe","duration":0.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/6e7638d2-35bd-4a0a-97fa-69be82c2a743/Sana.jpeg?quality=63&w=512","url":"/talks/sana_amanat_the_importance_of_diversity_in_the_comic_book_universe","sponsor":false},{"id":"27953","title":"How I brought Batman to Hollywood (and academia)","slug":"michael_uslan_how_i_brought_batman_to_hollywood_and_academia","duration":1267.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/e6a06956-b0da-4d7f-8041-7ab858a0d477/Michael+Uslan.jpeg?quality=63&w=512","url":"/talks/michael_uslan_how_i_brought_batman_to_hollywood_and_academia","sponsor":false},{"id":"2572","title":"Bring on the female superheroes!","slug":"christopher_bell_bring_on_the_female_superheroes","duration":948.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/0ebb8879-13a3-4368-8a1a-0df90fc277ec/ChristopherBell_2015X-embed.jpg?quality=63&w=512","url":"/talks/christopher_bell_bring_on_the_female_superheroes","sponsor":false}]},{"index":7,"slug":"what-should-i-do-with-my-life","id":15,"title":"What should I do with my life?","items":[{"id":"1384","title":"Why you will fail to have a great career","slug":"larry_smith_why_you_will_fail_to_have_a_great_career","duration":915.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/0ba3ef25abbdde1e88c829366cc1838a1e58d5e2_1600x1200.jpg?quality=63&w=512","url":"/talks/larry_smith_why_you_will_fail_to_have_a_great_career","sponsor":false},{"id":"848","title":"How great leaders inspire action","slug":"simon_sinek_how_great_leaders_inspire_action","duration":1084.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/04916ee6e81065c8333e6546184af512eee37bbe_2880x1620.jpg?quality=63&w=512","url":"/talks/simon_sinek_how_great_leaders_inspire_action","sponsor":false},{"id":"2341","title":"Why some of us don't have one true calling","slug":"emilie_wapnick_why_some_of_us_don_t_have_one_true_calling","duration":746.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/11e3541d75d4afba6badc2c3c058b8cb4bfe5863_2880x1620.jpg?quality=63&w=512","url":"/talks/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling","sponsor":false},{"id":"2332","title":"How to find work you love","slug":"scott_dinsmore_how_to_find_work_you_love","duration":1067.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5023bc560bc149e7aad56c8dca0f47671b005699_2880x1620.jpg?quality=63&w=512","url":"/talks/scott_dinsmore_how_to_find_work_you_love","sponsor":false},{"id":"1553","title":"Before I die I want to ...","slug":"candy_chang_before_i_die_i_want_to","duration":380.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/5159576b119c7f11a8b0f8501ce3b04a6e091c4f_1600x1200.jpg?quality=63&w=512","url":"/talks/candy_chang_before_i_die_i_want_to","sponsor":false},{"id":"1973","title":"Should you live for your résumé ... or your eulogy?","slug":"david_brooks_should_you_live_for_your_resume_or_your_eulogy","duration":301.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/28ce0b5c-21db-421b-85e4-3aa5a2ffc14f/DavidBrooks_2014-embed.jpg?quality=63&w=512","url":"/talks/david_brooks_should_you_live_for_your_resume_or_your_eulogy","sponsor":false},{"id":"947","title":"Keep your goals to yourself","slug":"derek_sivers_keep_your_goals_to_yourself","duration":195.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/195575_800x600.jpg?quality=63&w=512","url":"/talks/derek_sivers_keep_your_goals_to_yourself","sponsor":false},{"id":"553","title":"Don't eat the marshmallow!","slug":"joachim_de_posada_says_don_t_eat_the_marshmallow_yet","duration":358.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/97f044f30b95fdfac851e11fded1d7c93faf3429_2880x1620.jpg?quality=63&w=512","url":"/talks/joachim_de_posada_says_don_t_eat_the_marshmallow_yet","sponsor":false},{"id":"453","title":"Your elusive creative genius","slug":"elizabeth_gilbert_on_genius","duration":1149.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/f2f6d094758c36a61b3ee7992a9b197eb4c07979_2880x1620.jpg?quality=63&w=512","url":"/talks/elizabeth_gilbert_on_genius","sponsor":false},{"id":"1983","title":"Success, failure and the drive to keep creating","slug":"elizabeth_gilbert_success_failure_and_the_drive_to_keep_creating","duration":438.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/aa39c73bae9d19372ed2059e7c8b0b7eb9099865_1600x1200.jpg?quality=63&w=512","url":"/talks/elizabeth_gilbert_success_failure_and_the_drive_to_keep_creating","sponsor":false},{"id":"1733","title":"Grit: The power of passion and perseverance","slug":"angela_lee_duckworth_grit_the_power_of_passion_and_perseverance","duration":372.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ed7fa3c2c9b79234201ef8ed40be228c3e93552c_1600x1200.jpg?quality=63&w=512","url":"/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance","sponsor":false},{"id":"2156","title":"The power of believing that you can improve","slug":"carol_dweck_the_power_of_believing_that_you_can_improve","duration":620.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/85582d553035da22504c315ba5ec7ed727f16354_2880x1620.jpg?quality=63&w=512","url":"/talks/carol_dweck_the_power_of_believing_that_you_can_improve","sponsor":false}]},{"index":8,"slug":"animals-and-us","id":58,"title":"Animals and us","items":[{"id":"340","title":"How humans and animals can live together","slug":"jane_goodall_at_tedglobal_07","duration":1426.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7a21e58e253923a5e9a65718c3103aebaa05b8c0_2880x1620.jpg?quality=63&w=512","url":"/talks/jane_goodall_at_tedglobal_07","sponsor":false},{"id":"1417","title":"Moral behavior in animals","slug":"frans_de_waal_do_animals_have_morals","duration":1012.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/14bb1242eb42fbb9bc1188d8431a247b949f7db4_1600x1200.jpg?quality=63&w=512","url":"/talks/frans_de_waal_do_animals_have_morals","sponsor":false},{"id":"1995","title":"What ants teach us about the brain, cancer and the Internet","slug":"deborah_gordon_what_ants_teach_us_about_the_brain_cancer_and_the_internet","duration":849.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/856d11b361f4de89de9c962613ae3510e6f7c178_1600x1200.jpg?quality=63&w=512","url":"/talks/deborah_gordon_what_ants_teach_us_about_the_brain_cancer_and_the_internet","sponsor":false},{"id":"2254","title":"Chimps have feelings and thoughts. They should also have rights","slug":"steven_wise_chimps_have_feelings_and_thoughts_they_should_also_have_rights","duration":857.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/8e269b19d65573b6b6252345584e8d3b7cde4e6e_2880x1620.jpg?quality=63&w=512","url":"/talks/steven_wise_chimps_have_feelings_and_thoughts_they_should_also_have_rights","sponsor":false},{"id":"927","title":"A monkey economy as irrational as ours","slug":"laurie_santos","duration":1185.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/187437_800x600.jpg?quality=63&w=512","url":"/talks/laurie_santos","sponsor":false},{"id":"2373","title":"What are animals thinking and feeling?","slug":"carl_safina_what_are_animals_thinking_and_feeling","duration":1166.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/7add6dce-f7d5-4d82-a449-385e979cf41b/CarlSafina_2015Z-embed.jpg?quality=63&w=512","url":"/talks/carl_safina_what_are_animals_thinking_and_feeling","sponsor":false}]},{"index":9,"slug":"strange-new-materials","id":133,"title":"strange new materials","items":[{"id":"1142","title":"Silk, the ancient material of the future","slug":"fiorenzo_omenetto_silk_the_ancient_material_of_the_future","duration":580.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1018bad33421b91c77371e5516b63b2bdf4e735c_800x600.jpg?quality=63&w=512","url":"/talks/fiorenzo_omenetto_silk_the_ancient_material_of_the_future","sponsor":false},{"id":"385","title":"Toys and materials from the future","slug":"toys_from_the_future","duration":946.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/186_480x360.jpg?quality=63&w=512","url":"/talks/toys_from_the_future","sponsor":false},{"id":"5138","title":"Graphene: the impressive 2D material full of potential","slug":"mikael_fogelstrom_graphene_from_a_layer_of_atoms_to_applications","duration":698.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/e09a341e-3421-41f7-9ccd-1016e027b38a/MikaelFogelstrom_2014S-embed.JPG?quality=63&w=512","url":"/talks/mikael_fogelstrom_graphene_from_a_layer_of_atoms_to_applications","sponsor":false},{"id":"1700","title":"One very dry demo","slug":"mark_shaw_one_very_dry_demo","duration":331.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a0704cc7e0668d894420fe5ae0f7fe9deba13429_1600x1200.jpg?quality=63&w=512","url":"/talks/mark_shaw_one_very_dry_demo","sponsor":false},{"id":"2544","title":"How we're harnessing nature's hidden superpowers","slug":"oded_shoseyov_how_we_re_harnessing_nature_s_hidden_superpowers","duration":801.0,"thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/277445dd-3981-4ff6-b99c-8f040012c1d3/OdedShoseyov_2016S-embed.jpg?quality=63&w=512","url":"/talks/oded_shoseyov_how_we_re_harnessing_nature_s_hidden_superpowers","sponsor":false},{"id":"2344","title":"Design at the intersection of technology and biology","slug":"neri_oxman_design_at_the_intersection_of_technology_and_biology","duration":1056.0,"thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a4817b9887ab589f58ea7258b3e4cecbafa126c2_2880x1620.jpg?quality=63&w=512","url":"/talks/neri_oxman_design_at_the_intersection_of_technology_and_biology","sponsor":false}]}],"react-container2")</script>
+</div>
+<div class='bg:white p-y:5 p-x:3 p-x:6@sm m-x:r b-t b:black.9'>
+<div class='t-a:c@md m-w:measure m-x:a'>
+<h3 class='d:b c:gray-d f:5 f-w:100 m-b:.6 t-a:c@sm p-b:1@md b-b@md b:black.9@md m-w:measure m-x:a'>
+About TED
+</h3>
+<p class='c:gray-d l-h:n t-a:c@md m-w:measure m-x:a'>
+TED is a nonpartisan nonprofit devoted to spreading ideas, usually in the form of short, powerful talks. TED began in 1984 as a conference where Technology, Entertainment and Design converged, and today covers almost all topics — from science to business to global issues — in more than 110 languages. Meanwhile, independently run TEDx events help share ideas in communities around the world.
+</p>
+</div>
+</div>
+</div>
+</div>
+<script>g("ga.sendNonInteraction","homepage.ribbon","impression","newest:1|trending:2|recommended-today:3|ted-ed-lessons-feed-your-curiosity:4|open-source-open-world:5|heard-on-ted-radio-hour:6|making-superheroes-stories-from-tedx:7|what-should-i-do-with-my-life:8|animals-and-us:9|strange-new-materials:10")</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form class='footer-newsletter footer__section footer__section--form p-r:.8'>
+<h3 class='footer__title'>Want personalized recommendations?</h3>
+<div class='c:black f:.9 m-b:2'>
+Join
+<span class='f-w:700'>
+TED Recommends
+</span>
+and get the perfect ideas selected just for you.
+</div>
+<a class='ga-link bg:gray-dd b-r:.2 c:white hover/c:white d:i-b f:1 f-w:700 p-y:1 p-x:4 t-d:n' data-ga-action='getStarted' data-ga-category='footer' data-ga-label='recommends' href='/recommends'>
+Get started
+</a>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script src='https://pa.tedcdn.com/javascripts/screens/manifest-2aa8976239f781cd2787.js'></script>
+<script src='https://pa.tedcdn.com/javascripts/screens/750758b5212c04c746e1.chunk.js'></script>
+<script async src='https://pa.tedcdn.com/javascripts/screens/13c35b8b57e16a8ad635.chunk.js'></script><script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

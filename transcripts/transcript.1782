@@ -1,0 +1,1474 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Glenn Greenwald: Why privacy matters | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Glenn Greenwald was one of the first reporters to see -- and write about -- the Edward Snowden files, with their revelations about the United States&#39; extensive surveillance of private citizens. In this searing talk, Greenwald makes the case for why you need to care about privacy, even if you&#39;re &quot;not doing anything you need to hide.&quot;" />
+<meta name="author" content="Glenn Greenwald" />
+<link rel="canonical" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=el" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=en" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=vi" />
+<link rel="alternate" hreflang="ca" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=ca" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=pt-br" />
+<link rel="alternate" hreflang="cs" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=cs" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=nl" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=pt" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="hr" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=hr" />
+<link rel="alternate" hreflang="th" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=th" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=ro" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=bg" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=de" />
+<link rel="alternate" hreflang="fi" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=fi" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=hu" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=he" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=sr" />
+<link rel="alternate" hreflang="sq" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=sq" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=ko" />
+<link rel="alternate" hreflang="sv" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=sv" />
+<link rel="alternate" hreflang="uk" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=uk" />
+<link rel="alternate" hreflang="sl" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=sl" />
+<link rel="alternate" hreflang="lt" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=lt" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=pl" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript?language=tr" />
+<meta property="og:title" content="Transcript of &quot;Why privacy matters&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6992aa456af79721f493686c804324356781ddea_2880x1620.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6992aa456af79721f493686c804324356781ddea_2880x1620.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Glenn Greenwald: Why privacy matters" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Glenn Greenwald was one of the first reporters to see -- and write about -- the Edward Snowden files, with their revelations about the United States&#39; extensive surveillance of private citizens. In this searing talk, Greenwald makes the case for why you need to care about privacy, even if you&#39;re &quot;not doing anything you need to hide.&quot;" />
+<meta property="og:url" content="https://www.ted.com/talks/glenn_greenwald_why_privacy_matters/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 2106);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/glenn_greenwald_why_privacy_matters' itemprop='url'>
+<meta content='Why privacy matters' itemprop='name'>
+<meta content='Glenn Greenwald was one of the first reporters to see — and write about — the Edward Snowden files, with their revelations about the United States&#x0027; extensive surveillance of private citizens. In this searing talk, Greenwald makes the case for why you need to care about privacy, even if you&#x0027;re "not doing anything you need to hide."' itemprop='description'>
+<meta content='PT20M37S' itemprop='duration'>
+<meta content='2014-10-10T13:11:03+00:00' itemprop='uploadDate'>
+<meta content='2091787' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6992aa456af79721f493686c804324356781ddea_2880x1620.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/glenn_greenwald' itemprop='url'>
+<meta content='Glenn Greenwald' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/73f404235f02813a88284b36e4834cbda6a904b6_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/glenn_greenwald_why_privacy_matters' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6992aa456af79721f493686c804324356781ddea_2880x1620.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Glenn Greenwald
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					2,091,787
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 20:37</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											There is an entire genre of YouTube videos
+											devoted to an experience which
+											I am certain that everyone in this room has had.
+											It entails an individual who,
+											thinking they&#39;re alone,
+											engages in some expressive behavior —
+											wild singing, gyrating dancing,
+											some mild sexual activity —
+											only to discover that, in fact, they are not alone,
+											that there is a person watching and lurking,
+											the discovery of which causes them
+											to immediately cease what they were doing
+											in horror.
+											The sense of shame and humiliation
+											in their face is palpable.
+											It&#39;s the sense of,
+											&quot;This is something I&#39;m willing to do
+											only if no one else is watching.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is the crux of the work
+											on which I have been singularly focused
+											for the last 16 months,
+											the question of why privacy matters,
+											a question that has arisen
+											in the context of a global debate,
+											enabled by the revelations of Edward Snowden
+											that the United States and its partners,
+											unbeknownst to the entire world,
+											has converted the Internet,
+											once heralded as an unprecedented tool
+											of liberation and democratization,
+											into an unprecedented zone
+											of mass, indiscriminate surveillance.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											There is a very common sentiment
+											that arises in this debate,
+											even among people who are uncomfortable
+											with mass surveillance, which says
+											that there is no real harm
+											that comes from this large-scale invasion
+											because only people who are engaged in bad acts
+											have a reason to want to hide
+											and to care about their privacy.
+											This worldview is implicitly grounded
+											in the proposition that there are
+two kinds of people in the world,
+											good people and bad people.
+											Bad people are those who plot terrorist attacks
+											or who engage in violent criminality
+											and therefore have reasons to
+want to hide what they&#39;re doing,
+											have reasons to care about their privacy.
+											But by contrast, good people
+											are people who go to work,
+											come home, raise their children, watch television.
+											They use the Internet not to plot bombing attacks
+											but to read the news or exchange recipes
+											or to plan their kids&#39; Little League games,
+											and those people are doing nothing wrong
+											and therefore have nothing to hide
+											and no reason to fear
+											the government monitoring them.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The people who are actually saying that
+											are engaged in a very extreme act
+											of self-deprecation.
+											What they&#39;re really saying is,
+											&quot;I have agreed to make myself
+											such a harmless and unthreatening
+											and uninteresting person that I actually don&#39;t fear
+											having the government know what it is that I&#39;m doing.&quot;
+											This mindset has found what I think
+											is its purest expression
+											in a 2009 interview with
+											the longtime CEO of Google, Eric Schmidt, who,
+											when asked about all the different ways his company
+											is causing invasions of privacy
+											for hundreds of millions of people around the world,
+											said this: He said,
+											&quot;If you&#39;re doing something that you don&#39;t want
+											other people to know,
+											maybe you shouldn&#39;t be doing it in the first place.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, there&#39;s all kinds of things to say about
+											that mentality,
+											the first of which is that the people who say that,
+											who say that privacy isn&#39;t really important,
+											they don&#39;t actually believe it,
+											and the way you know that
+they don&#39;t actually believe it
+											is that while they say with their
+words that privacy doesn&#39;t matter,
+											with their actions, they take all kinds of steps
+											to safeguard their privacy.
+											They put passwords on their email
+											and their social media accounts,
+											they put locks on their bedroom
+											and bathroom doors,
+											all steps designed to prevent other people
+											from entering what they consider their private realm
+											and knowing what it is that they
+don&#39;t want other people to know.
+											The very same Eric Schmidt, the CEO of Google,
+											ordered his employees at Google
+											to cease speaking with the online
+											Internet magazine CNET
+											after CNET published an article
+											full of personal, private information
+											about Eric Schmidt,
+											which it obtained exclusively
+through Google searches
+											and using other Google products. (Laughter)
+											This same division can be seen
+											with the CEO of Facebook, Mark Zuckerberg,
+											who in an infamous interview in 2010
+											pronounced that privacy is no longer
+											a &quot;social norm.&quot;
+											Last year, Mark Zuckerberg and his new wife
+											purchased not only their own house
+											but also all four adjacent houses in Palo Alto
+											for a total of 30 million dollars
+											in order to ensure that they enjoyed a zone of privacy
+											that prevented other people from monitoring
+											what they do in their personal lives.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Over the last 16 months, as I&#39;ve
+debated this issue around the world,
+											every single time somebody has said to me,
+											&quot;I don&#39;t really worry about invasions of privacy
+											because I don&#39;t have anything to hide.&quot;
+											I always say the same thing to them.
+											I get out a pen, I write down my email address.
+											I say, &quot;Here&#39;s my email address.
+											What I want you to do when you get home
+											is email me the passwords
+											to all of your email accounts,
+											not just the nice, respectable work one in your name,
+											but all of them,
+											because I want to be able to just troll through
+											what it is you&#39;re doing online,
+											read what I want to read and
+publish whatever I find interesting.
+											After all, if you&#39;re not a bad person,
+											if you&#39;re doing nothing wrong,
+											you should have nothing to hide.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Not a single person has taken me up on that offer.
+											I check and — (Applause)
+											I check that email account religiously all the time.
+											It&#39;s a very desolate place.
+											And there&#39;s a reason for that,
+											which is that we as human beings,
+											even those of us who in words
+											disclaim the importance of our own privacy,
+											instinctively understand
+											the profound importance of it.
+											It is true that as human beings, we&#39;re social animals,
+											which means we have a need for other people
+											to know what we&#39;re doing and saying and thinking,
+											which is why we voluntarily publish
+information about ourselves online.
+											But equally essential to what it means
+											to be a free and fulfilled human being
+											is to have a place that we can go
+											and be free of the judgmental eyes of other people.
+											There&#39;s a reason why we seek that out,
+											and our reason is that all of us —
+											not just terrorists and criminals, all of us —
+											have things to hide.
+											There are all sorts of things that we do and think
+											that we&#39;re willing to tell our physician
+											or our lawyer or our psychologist or our spouse
+											or our best friend that we would be mortified
+											for the rest of the world to learn.
+											We make judgments every single day
+											about the kinds of things that we say and think and do
+											that we&#39;re willing to have other people know,
+											and the kinds of things that we say and think and do
+											that we don&#39;t want anyone else to know about.
+											People can very easily in words claim
+											that they don&#39;t value their privacy,
+											but their actions negate the authenticity of that belief.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, there&#39;s a reason why privacy is so craved
+											universally and instinctively.
+											It isn&#39;t just a reflexive movement
+											like breathing air or drinking water.
+											The reason is that when we&#39;re in a state
+											where we can be monitored,
+where we can be watched,
+											our behavior changes dramatically.
+											The range of behavioral options that we consider
+											when we think we&#39;re being watched
+											severely reduce.
+											This is just a fact of human nature
+											that has been recognized in social science
+											and in literature and in religion
+											and in virtually every field of discipline.
+											There are dozens of psychological studies
+											that prove that when somebody knows
+											that they might be watched,
+											the behavior they engage in
+											is vastly more conformist and compliant.
+											Human shame is a very powerful motivator,
+											as is the desire to avoid it,
+											and that&#39;s the reason why people,
+											when they&#39;re in a state of
+being watched, make decisions
+											not that are the byproduct of their own agency
+											but that are about the expectations
+											that others have of them
+											or the mandates of societal orthodoxy.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This realization was exploited most powerfully
+											for pragmatic ends by the 18th-
+century philosopher Jeremy Bentham,
+											who set out to resolve an important problem
+											ushered in by the industrial age,
+											where, for the first time, institutions had become
+											so large and centralized
+											that they were no longer able to monitor
+											and therefore control each one
+of their individual members,
+											and the solution that he devised
+											was an architectural design
+											originally intended to be implemented in prisons
+											that he called the panopticon,
+											the primary attribute of which was the construction
+											of an enormous tower in the center of the institution
+											where whoever controlled the institution
+											could at any moment watch any of the inmates,
+											although they couldn&#39;t watch all of them at all times.
+											And crucial to this design
+											was that the inmates could not actually
+											see into the panopticon, into the tower,
+											and so they never knew
+											if they were being watched or even when.
+											And what made him so excited about this discovery
+											was that that would mean that the prisoners
+											would have to assume that they were being watched
+											at any given moment,
+											which would be the ultimate enforcer
+											for obedience and compliance.
+											The 20th-century French philosopher Michel Foucault
+											realized that that model could be used
+											not just for prisons but for every institution
+											that seeks to control human behavior:
+											schools, hospitals, factories, workplaces.
+											And what he said was that this mindset,
+											this framework discovered by Bentham,
+											was the key means of societal control
+											for modern, Western societies,
+											which no longer need
+											the overt weapons of tyranny —
+											punishing or imprisoning or killing dissidents,
+											or legally compelling loyalty to a particular party —
+											because mass surveillance creates
+											a prison in the mind
+											that is a much more subtle
+											though much more effective means
+											of fostering compliance with social norms
+											or with social orthodoxy,
+											much more effective
+											than brute force could ever be.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The most iconic work of literature about surveillance
+											and privacy is the George Orwell novel &quot;1984,&quot;
+											which we all learn in school, and
+therefore it&#39;s almost become a cliche.
+											In fact, whenever you bring it up
+in a debate about surveillance,
+											people instantaneously dismiss it
+											as inapplicable, and what they say is,
+											&quot;Oh, well in &#39;1984,&#39; there were
+monitors in people&#39;s homes,
+											they were being watched at every given moment,
+											and that has nothing to do with
+the surveillance state that we face.&quot;
+											That is an actual fundamental misapprehension
+											of the warnings that Orwell issued in &quot;1984.&quot;
+											The warning that he was issuing
+											was about a surveillance state
+											not that monitored everybody at all times,
+											but where people were aware that they could
+											be monitored at any given moment.
+											Here is how Orwell&#39;s narrator, Winston Smith,
+											described the surveillance system
+											that they faced:
+											&quot;There was, of course, no way of knowing
+											whether you were being watched
+at any given moment.&quot;
+											He went on to say,
+											&quot;At any rate, they could plug in your wire
+											whenever they wanted to.
+											You had to live, did live,
+											from habit that became instinct,
+											in the assumption that every sound you made
+											was overheard and except in darkness
+											every movement scrutinized.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The Abrahamic religions similarly posit
+											that there&#39;s an invisible, all-knowing authority
+											who, because of its omniscience,
+											always watches whatever you&#39;re doing,
+											which means you never have a private moment,
+											the ultimate enforcer
+											for obedience to its dictates.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											What all of these seemingly disparate works
+											recognize, the conclusion that they all reach,
+											is that a society in which people
+											can be monitored at all times
+											is a society that breeds conformity
+											and obedience and submission,
+											which is why every tyrant,
+											the most overt to the most subtle,
+											craves that system.
+											Conversely, even more importantly,
+											it is a realm of privacy,
+											the ability to go somewhere where we can think
+											and reason and interact and speak
+											without the judgmental eyes
+of others being cast upon us,
+											in which creativity and exploration
+											and dissent exclusively reside,
+											and that is the reason why,
+											when we allow a society to exist
+											in which we&#39;re subject to constant monitoring,
+											we allow the essence of human freedom
+											to be severely crippled.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The last point I want to observe about this mindset,
+											the idea that only people who 
+are doing something wrong
+											have things to hide and therefore
+reasons to care about privacy,
+											is that it entrenches two very destructive messages,
+											two destructive lessons,
+											the first of which is that
+											the only people who care about privacy,
+											the only people who will seek out privacy,
+											are by definition bad people.
+											This is a conclusion that we should have
+											all kinds of reasons for avoiding,
+											the most important of which is that when you say,
+											&quot;somebody who is doing bad things,&quot;
+											you probably mean things
+like plotting a terrorist attack
+											or engaging in violent criminality,
+											a much narrower conception
+											of what people who wield power mean
+											when they say, &quot;doing bad things.&quot;
+											For them, &quot;doing bad things&quot; typically means
+											doing something that poses meaningful challenges
+											to the exercise of our own power.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The other really destructive
+											and, I think, even more insidious lesson
+											that comes from accepting this mindset
+											is there&#39;s an implicit bargain
+											that people who accept this mindset have accepted,
+											and that bargain is this:
+											If you&#39;re willing to render yourself
+											sufficiently harmless,
+											sufficiently unthreatening
+											to those who wield political power,
+											then and only then can you be free
+											of the dangers of surveillance.
+											It&#39;s only those who are dissidents,
+											who challenge power,
+											who have something to worry about.
+											There are all kinds of reasons why we
+should want to avoid that lesson as well.
+											You may be a person who, right now,
+											doesn&#39;t want to engage in that behavior,
+											but at some point in the future you might.
+											Even if you&#39;re somebody who decides
+											that you never want to,
+											the fact that there are other people
+											who are willing to and able to resist
+											and be adversarial to those in power —
+											dissidents and journalists
+											and activists and a whole range of others —
+											is something that brings us all collective good
+											that we should want to preserve.
+											Equally critical is that the measure
+											of how free a society is
+											is not how it treats its good,
+											obedient, compliant citizens,
+											but how it treats its dissidents
+											and those who resist orthodoxy.
+											But the most important reason
+											is that a system of mass surveillance
+											suppresses our own freedom in all sorts of ways.
+											It renders off-limits
+											all kinds of behavioral choices
+											without our even knowing that it&#39;s happened.
+											The renowned socialist activist Rosa Luxemburg
+											once said, &quot;He who does not move
+											does not notice his chains.&quot;
+											We can try and render the chains
+											of mass surveillance invisible or undetectable,
+											but the constraints that it imposes on us
+											do not become any less potent.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you very much.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Bruno Giussani: Glenn, thank you.
+											The case is rather convincing, I have to say,
+											but I want to bring you back
+											to the last 16 months and to Edward Snowden
+											for a few questions, if you don&#39;t mind.
+											The first one is personal to you.
+											We have all read about the arrest of your partner,
+											David Miranda in London, and other difficulties,
+											but I assume that
+											in terms of personal engagement and risk,
+											that the pressure on you is not that easy
+											to take on the biggest sovereign 
+organizations in the world.
+											Tell us a little bit about that.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Glenn Greenwald: You know, I think
+one of the things that happens
+											is that people&#39;s courage in this regard
+											gets contagious,
+											and so although I and the other
+journalists with whom I was working
+											were certainly aware of the risk —
+											the United States continues to be
+the most powerful country in the world
+											and doesn&#39;t appreciate it when you
+											disclose thousands of their secrets
+											on the Internet at will —
+											seeing somebody who is a 29-year-old
+											ordinary person who grew up in
+											a very ordinary environment
+											exercise the degree of principled
+courage that Edward Snowden risked,
+											knowing that he was going to go
+to prison for the rest of his life
+											or that his life would unravel,
+											inspired me and inspired other journalists
+											and inspired, I think, people around the world,
+											including future whistleblowers,
+											to realize that they can engage
+in that kind of behavior as well.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											BG: I&#39;m curious about your
+relationship with Ed Snowden,
+											because you have spoken with him a lot,
+											and you certainly continue doing so,
+											but in your book, you never call him Edward,
+											nor Ed, you say &quot;Snowden.&quot; How come?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											GG: You know, I&#39;m sure that&#39;s something
+											for a team of psychologists to examine.
+(Laughter)
+											I don&#39;t really know. The reason I think that,
+											one of the important objectives that he actually had,
+											one of his, I think, most important tactics,
+											was that he knew that one of the ways
+											to distract attention from the
+substance of the revelations
+											would be to try and personalize the focus on him,
+											and for that reason, he stayed out of the media.
+											He tried not to ever have his personal life
+											subject to examination,
+											and so I think calling him Snowden
+											is a way of just identifying him
+as this important historical actor
+											rather than trying to personalize him in a way
+											that might distract attention from the substance.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Moderator: So his revelations, your analysis,
+											the work of other journalists,
+											have really developed the debate,
+											and many governments, for example, have reacted,
+											including in Brazil, with projects and programs
+											to reshape a little bit the design of the Internet, etc.
+											There are a lot of things going on in that sense.
+											But I&#39;m wondering, for you personally,
+											what is the endgame?
+											At what point will you think,
+											well, actually, we&#39;ve succeeded 
+in moving the dial?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											GG: Well, I mean, the endgame for me as a journalist
+											is very simple, which is to make sure
+											that every single document that&#39;s newsworthy
+											and that ought to be disclosed
+											ends up being disclosed,
+											and that secrets that should never
+have been kept in the first place
+											end up uncovered.
+											To me, that&#39;s the essence of journalism
+											and that&#39;s what I&#39;m committed to doing.
+											As somebody who finds mass surveillance odious
+											for all the reasons I just talked about and a lot more,
+											I mean, I look at this as work that will never end
+											until governments around the world
+											are no longer able to subject entire populations
+											to monitoring and surveillance
+											unless they convince some court or some entity
+											that the person they&#39;ve targeted
+											has actually done something wrong.
+											To me, that&#39;s the way that
+privacy can be rejuvenated.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											BG: So Snowden is very,
+as we&#39;ve seen at TED,
+											is very articulate in presenting and portraying himself
+											as a defender of democratic values
+											and democratic principles.
+											But then, many people really 
+find it difficult to believe
+											that those are his only motivations.
+											They find it difficult to believe
+											that there was no money involved,
+											that he didn&#39;t sell some of those secrets,
+											even to China and to Russia,
+											which are clearly not the best friends
+											of the United States right now.
+											And I&#39;m sure many people in the room
+											are wondering the same question.
+											Do you consider it possible there is
+											that part of Snowden we&#39;ve not seen yet?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											GG: No, I consider that absurd and idiotic.
+											(Laughter) If you wanted to,
+											and I know you&#39;re just playing devil&#39;s advocate,
+											but if you wanted to sell
+											secrets to another country,
+											which he could have done and become
+											extremely rich doing so,
+											the last thing you would 
+do is take those secrets
+											and give them to journalists and
+ask journalists to publish them,
+											because it makes those secrets worthless.
+											People who want to enrich themselves
+											do it secretly by selling 
+secrets to the government,
+											but I think there&#39;s one important point worth making,
+											which is, that accusation comes from
+											people in the U.S. government,
+											from people in the media who are loyalists
+											to these various governments,
+											and I think a lot of times when people make accusations like that about other people —
+											&quot;Oh, he can&#39;t really be doing this
+											for principled reasons,
+											he must have some corrupt, nefarious reason&quot; —
+											they&#39;re saying a lot more about themselves
+											than they are the target of their accusations,
+											because — (Applause) —
+											those people, the ones who make that accusation,
+											they themselves never act
+											for any reason other than corrupt reasons,
+											so they assume
+											that everybody else is plagued by the same disease
+											of soullessness as they are,
+											and so that&#39;s the assumption.
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											BG: Glenn, thank you very much.
+GG: Thank you very much.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											BG: Glenn Greenwald.
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":26724,"count":402,"talk_id":2106},"threadId":26724,"current_talk":"2106","description":"Glenn Greenwald was one of the first reporters to see -- and write about -- the Edward Snowden files, with their revelations about the United States' extensive surveillance of private citizens. In this searing talk, Greenwald makes the case for why you need to care about privacy, even if you're \"not doing anything you need to hide.\"","event":"TEDGlobal 2014","language":"en","name":"Glenn Greenwald: Why privacy matters","slug":"glenn_greenwald_why_privacy_matters","speakers":[{"id":"2081","slug":"glenn_greenwald","is_published":true,"firstname":"Glenn","lastname":"Greenwald","middleinitial":"","title":"","description":"Journalist","photo_url":"https://pe.tedcdn.com/images/ted/73f404235f02813a88284b36e4834cbda6a904b6_254x191.jpg","whatotherssay":"Greenwald is the fighter—the one you want in your corner when the world comes after you.","whotheyare":"Glenn Greenwald is the journalist who has done the most to expose and explain the Edward Snowden files.","whylisten":"<p>As one of the first journalists privy to NSA whistleblower Edward Snowden&rsquo;s archives, Glenn Greenwald has a unique window into the inner workings of the NSA and Britain&#39;s GCHQ. A vocal advocate for civil liberties in the face of growing post-9/11 authoritarianism, Greenwald was a natural outlet for Snowden, who&rsquo;d admired his combative writing style in Salon and elsewhere. </p><p>Since his original <em>Guardian</em> expos&eacute;s of Snowden&rsquo;s revelations, Pulitzer winner Greenwald continues to stoke public debate on surveillance and privacy both in the media, on <em><a href=\"http://firstlook.org/theintercept\" target=\"_blank\">The Intercept</a></em>, and with his new book&nbsp;<a href=\"http://geni.us/noplacetohide\" target=\"_blank\"><em>No Place to Hide</em></a>&nbsp;-- and suggests that the there are more shocking revelations to come.</p>"}],"url":"https://www.ted.com/talks/glenn_greenwald_why_privacy_matters","viewed_count":2091787,"talks":[{"recommendations":null,"more_resources":[{"status":"approved","headline":"*No Place to Hide*","blurb":null,"link_url":"http://www.amazon.com/No-Place-Hide-Snowden-Surveillance/dp/162779073X/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","image_url":"https://pe.tedcdn.com/images/ted/a1bc524bc91e5f0452ee123507fc74509b21cbbb_1400x2101.jpg","author":"Glenn Greenwald","year":"2014","publisher":"Metropolitan Books","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"book"},{"status":"approved","headline":"Get the full story","blurb":"When Snowden shared NSA documents revealing massive surveillance programs, filmmaker Laura Poitras was there — with her camera. Find out more about her documentary, *Citizenfour*.","link_url":"https://citizenfourfilm.com","image_url":"","visible_url":"","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"external_website"},{"status":"approved","headline":"How to leak documents safely","blurb":"Over at Glenn Greenwald's *The Intercept*, read how his publication supports super-secure leaking.","link_url":"https://firstlook.org/theintercept/2015/01/28/how-to-leak-to-the-intercept/","image_url":"","visible_url":"","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"external_website"}],"corrections":[],"has_citations":false,"take_action":[],"curator_approved":true,"description":"Glenn Greenwald was one of the first reporters to see -- and write about -- the Edward Snowden files, with their revelations about the United States' extensive surveillance of private citizens. In this searing talk, Greenwald makes the case for why you need to care about privacy, even if you're \"not doing anything you need to hide.\"","downloads":{"id":2106,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Catalan","endonym":"Català","languageCode":"ca","ianaCode":"ca","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Finnish","endonym":"Suomi","languageCode":"fi","ianaCode":"fi","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Albanian","endonym":"Shqip","languageCode":"sq","ianaCode":"sq","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Slovenian","endonym":"Slovenščina","languageCode":"sl","ianaCode":"sl","isRtl":false},{"languageName":"Lithuanian","endonym":"Lietuvių kalba","languageCode":"lt","ianaCode":"lt","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/GlennGreenwald_2014G-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/GlennGreenwald_2014G.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"en":{"name":"English","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-en.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-pt-br.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-pt-br.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-he.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-he.mp4"},"hr":{"name":"Croatian","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-hr.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-hr.mp4"},"sv":{"name":"Swedish","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-sv.mp4","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-sv.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-zh-cn.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-zh-cn.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-ja.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-ja.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-sr.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-sr.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-bg.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-bg.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-nl.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-nl.mp4"},"uk":{"name":"Ukrainian","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-uk.mp4","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-uk.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-it.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-it.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-ko.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-ko.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-ar.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-ar.mp4"},"fi":{"name":"Finnish","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-fi.mp4","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-fi.mp4"},"de":{"name":"German","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-de.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-de.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-zh-tw.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-zh-tw.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-ro.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-ro.mp4"},"ru":{"name":"Russian","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-ru.mp4","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-ru.mp4"},"th":{"name":"Thai","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-th.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-th.mp4"},"sq":{"name":"Albanian","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-sq.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-sq.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-el.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-el.mp4"},"fr":{"name":"French","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-fr.mp4","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-fr.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-es.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-es.mp4"},"ca":{"name":"Catalan","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-ca.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-ca.mp4"},"sl":{"name":"Slovenian","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-sl.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-sl.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-vi.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-vi.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-pt.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-pt.mp4"},"cs":{"name":"Czech","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-cs.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-cs.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-hu.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-hu.mp4"},"lt":{"name":"Lithuanian","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-lt.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-lt.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-pl.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-pl.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/GlennGreenwald_2014G-low-tr.mp4","high":"https://download.ted.com/talks/GlennGreenwald_2014G-480p-tr.mp4"}},"audioDownload":"https://download.ted.com/talks/GlennGreenwald_2014G.mp3?apikey=acme-roadrunner"},"duration":1237.0,"event":"TEDGlobal 2014","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/6992aa456af79721f493686c804324356781ddea_2880x1620.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6992aa456af79721f493686c804324356781ddea_2880x1620.jpg?q=50&w=15","id":"2106","player_talks":[{"id":"2106","duration":1237.0,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Catalan","endonym":"Català","languageCode":"ca","ianaCode":"ca","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Finnish","endonym":"Suomi","languageCode":"fi","ianaCode":"fi","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Albanian","endonym":"Shqip","languageCode":"sq","ianaCode":"sq","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Slovenian","endonym":"Slovenščina","languageCode":"sl","ianaCode":"sl","isRtl":false},{"languageName":"Lithuanian","endonym":"Lietuvių kalba","languageCode":"lt","ianaCode":"lt","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2014G/Blank/GlennGreenwald_2014G-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDGlobal%2B2014%26id%3D2106%26tag%3DInternet%2Cgovernment%2Cintelligence%2Cjournalism%2Cprivacy%2Csurveillance%2Cencryption%26talk%3Dglenn_greenwald_why_privacy_matters%26year%3D2014&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"2106","talk":"glenn_greenwald_why_privacy_matters","tag":"Internet,government,intelligence,journalism,privacy,surveillance,encryption","year":"2014","event":"TEDGlobal 2014"},"stream":"https://hls.ted.com/talks/2106.m3u8","metadata":"https://hls.ted.com/talks/2106.json"}},"targeting":{"id":"2106","talk":"glenn_greenwald_why_privacy_matters","tag":"Internet,government,intelligence,journalism,privacy,surveillance,encryption","year":"2014","event":"TEDGlobal 2014"},"canonical":"https://www.ted.com/talks/glenn_greenwald_why_privacy_matters","name":"Glenn Greenwald: Why privacy matters","title":"Why privacy matters","speaker":"Glenn Greenwald","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6992aa456af79721f493686c804324356781ddea_2880x1620.jpg?quality=89&w=600","slug":"glenn_greenwald_why_privacy_matters","event":"TEDGlobal 2014","published":1412946663}],"ratings":[{"id":3,"name":"Courageous","count":1116},{"id":8,"name":"Informative","count":1479},{"id":24,"name":"Persuasive","count":1210},{"id":10,"name":"Inspiring","count":799},{"id":1,"name":"Beautiful","count":113},{"id":23,"name":"Jaw-dropping","count":85},{"id":22,"name":"Fascinating","count":415},{"id":11,"name":"Longwinded","count":50},{"id":25,"name":"OK","count":198},{"id":9,"name":"Ingenious","count":79},{"id":21,"name":"Unconvincing","count":68},{"id":2,"name":"Confusing","count":39},{"id":26,"name":"Obnoxious","count":29},{"id":7,"name":"Funny","count":38}],"recorded_at":"2014-10-02T00:00:00.000+00:00","related_talks":[{"id":"1950","hero":"https://pe.tedcdn.com/images/ted/aadd75a2a5f185ca28179519cab86ff0ad367eb1_1600x1200.jpg","speaker":"Edward Snowden","title":"Here's how we take back the Internet","duration":2102.0,"slug":"edward_snowden_here_s_how_we_take_back_the_internet","viewed_count":4313307},{"id":"1861","hero":"https://pe.tedcdn.com/images/ted/2c04772cdcfe28f51013d3074203cd142b98838a_1600x1200.jpg","speaker":"Mikko Hypponen","title":"How the NSA betrayed the world's trust -- time to act","duration":1158.0,"slug":"mikko_hypponen_how_the_nsa_betrayed_the_world_s_trust_time_to_act","viewed_count":1576687},{"id":"1952","hero":"https://pe.tedcdn.com/images/ted/b4e45bc988d63a0f64d01146505700e1217f7845_1600x1200.jpg","speaker":"Richard Ledgett","title":"The NSA responds to Edward Snowden's TED Talk","duration":2010.0,"slug":"richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk","viewed_count":1214359},{"id":"2204","hero":"https://pe.tedcdn.com/images/ted/f4792554f556e73baab114a2d7b27876bd8ae9c6_2880x1620.jpg","speaker":"Andy Yen","title":"Think your email's private? Think again","duration":729.0,"slug":"andy_yen_think_your_email_s_private_think_again","viewed_count":1657997},{"id":"2685","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/b302e2b1-323c-4b37-b3bf-70036a8a4450/AmyAdeleHasinoff_2016X-embed.jpg","speaker":"Amy Adele Hasinoff","title":"How to practice safe sexting","duration":865.0,"slug":"amy_adele_hasinoff_how_to_practice_safe_sexting","viewed_count":1392994},{"id":"2866","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/cfda3380-337f-4fa5-b787-5e1715bfd222/JenniferGranick_2017X-embed.jpg","speaker":"Jennifer Granick","title":"How the US government spies on people who protest -- including you","duration":865.0,"slug":"jennifer_granick_how_the_us_government_spies_on_people_who_protest_including_you","viewed_count":1149223}],"slug":"glenn_greenwald_why_privacy_matters","speakers":[{"id":"2081","slug":"glenn_greenwald","is_published":true,"firstname":"Glenn","lastname":"Greenwald","middleinitial":"","title":"","description":"Journalist","photo_url":"https://pe.tedcdn.com/images/ted/73f404235f02813a88284b36e4834cbda6a904b6_254x191.jpg","whatotherssay":"Greenwald is the fighter—the one you want in your corner when the world comes after you.","whotheyare":"Glenn Greenwald is the journalist who has done the most to expose and explain the Edward Snowden files.","whylisten":"<p>As one of the first journalists privy to NSA whistleblower Edward Snowden&rsquo;s archives, Glenn Greenwald has a unique window into the inner workings of the NSA and Britain&#39;s GCHQ. A vocal advocate for civil liberties in the face of growing post-9/11 authoritarianism, Greenwald was a natural outlet for Snowden, who&rsquo;d admired his combative writing style in Salon and elsewhere. </p><p>Since his original <em>Guardian</em> expos&eacute;s of Snowden&rsquo;s revelations, Pulitzer winner Greenwald continues to stoke public debate on surveillance and privacy both in the media, on <em><a href=\"http://firstlook.org/theintercept\" target=\"_blank\">The Intercept</a></em>, and with his new book&nbsp;<a href=\"http://geni.us/noplacetohide\" target=\"_blank\"><em>No Place to Hide</em></a>&nbsp;-- and suggests that the there are more shocking revelations to come.</p>"}],"speaker_name":"Glenn Greenwald","tags":["Internet","government","intelligence","journalism","privacy","surveillance","encryption"],"title":"Why privacy matters","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":2091787}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

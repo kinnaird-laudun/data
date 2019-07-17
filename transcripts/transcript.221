@@ -1,0 +1,1265 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Paul Ewald: Can we domesticate germs? | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Evolutionary biologist Paul Ewald drags us into the sewer to discuss germs. Why are some more harmful than others? How could we make the harmful ones benign? Searching for answers, he examines a disgusting, fascinating case: diarrhea." />
+<meta name="author" content="Paul Ewald" />
+<link rel="canonical" href="https://www.ted.com/talks/paul_ewald_asks_can_we_domesticate_germs/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/paul_ewald_asks_can_we_domesticate_germs/transcript" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/paul_ewald_asks_can_we_domesticate_germs/transcript?language=vi" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/paul_ewald_asks_can_we_domesticate_germs/transcript?language=ru" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/paul_ewald_asks_can_we_domesticate_germs/transcript?language=fr" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/paul_ewald_asks_can_we_domesticate_germs/transcript?language=en" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/paul_ewald_asks_can_we_domesticate_germs/transcript?language=nl" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/paul_ewald_asks_can_we_domesticate_germs/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/paul_ewald_asks_can_we_domesticate_germs/transcript?language=tr" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/paul_ewald_asks_can_we_domesticate_germs/transcript?language=ko" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/paul_ewald_asks_can_we_domesticate_germs/transcript?language=it" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/paul_ewald_asks_can_we_domesticate_germs/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/paul_ewald_asks_can_we_domesticate_germs/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/paul_ewald_asks_can_we_domesticate_germs/transcript?language=pt-br" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/paul_ewald_asks_can_we_domesticate_germs/transcript?language=pl" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/paul_ewald_asks_can_we_domesticate_germs/transcript?language=bg" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/paul_ewald_asks_can_we_domesticate_germs/transcript?language=ro" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/paul_ewald_asks_can_we_domesticate_germs/transcript?language=ja" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/paul_ewald_asks_can_we_domesticate_germs/transcript?language=es" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/paul_ewald_asks_can_we_domesticate_germs/transcript?language=he" />
+<meta property="og:title" content="Transcript of &quot;Can we domesticate germs?&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/40964_480x360.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/40964_480x360.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Paul Ewald: Can we domesticate germs?" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Evolutionary biologist Paul Ewald drags us into the sewer to discuss germs. Why are some more harmful than others? How could we make the harmful ones benign? Searching for answers, he examines a disgusting, fascinating case: diarrhea." />
+<meta property="og:url" content="https://www.ted.com/talks/paul_ewald_asks_can_we_domesticate_germs/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 259);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/paul_ewald_asks_can_we_domesticate_germs' itemprop='url'>
+<meta content='Can we domesticate germs?' itemprop='name'>
+<meta content='Evolutionary biologist Paul Ewald drags us into the sewer to discuss germs. Why are some more harmful than others? How could we make the harmful ones benign? Searching for answers, he examines a disgusting, fascinating case: diarrhea.' itemprop='description'>
+<meta content='PT17M51S' itemprop='duration'>
+<meta content='2008-05-07T01:00:00+00:00' itemprop='uploadDate'>
+<meta content='478203' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/40964_480x360.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/paul_ewald' itemprop='url'>
+<meta content='Paul Ewald' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/40993_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/paul_ewald_asks_can_we_domesticate_germs' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/40964_480x360.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Paul Ewald
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					478,203
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 17:51</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											What I&#39;d like to do is just drag us all down into the gutter,
+											and actually all the way down into the sewer
+											because I want to talk about diarrhea.
+											And in particular, I want to talk about
+											the design of diarrhea.
+											And when evolutionary biologists talk about design,
+											they really mean design by natural selection.
+											And that brings me to the title of the talk,
+											&quot;Using Evolution to Design Disease Organisms Intelligently.&quot;
+											And I also have a little bit of a sort of smartass subtitle to this.
+											But I&#39;m not just doing this to be cute.
+											I really think that this subtitle explains
+											what somebody like me, who&#39;s sort of a Darwin wannabe,
+											how they actually look at one&#39;s role in
+											sort of coming into this field of health sciences and medicine.
+											It&#39;s really not a very friendly field for evolutionary biologists.
+											You actually see a great potential,
+											but you see a lot of people who are sort of defending their turf,
+											and may actually be very resistant, when one tries
+											to introduce ideas.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, all of the talk today is going to deal with two general questions.
+											One is that, why are some disease organisms more harmful?
+											And a very closely related question, which is,
+											how can we take control of this situation once we understand
+											the answer to the first question?
+											How can we make the harmful organisms more mild?
+											And I&#39;m going to be talking, to begin with, as I said,
+											about diarrheal disease organisms.
+											And the focus when I&#39;m talking about the diarrheal organisms,
+											as well as the focus when I&#39;m talking about any organisms
+											that cause acute infectious disease,
+											is to think about the problem from a germ&#39;s point of view,
+											germ&#39;s-eye view.
+											And in particular, to think about a fundamental idea
+											which I think makes sense out of a tremendous amount of variation
+											in the harmfulness of disease organisms.
+											And that idea is that from the germ&#39;s-eye point of view,
+											disease organisms have to get from one host to another,
+											and often they have to rely on the well-being of the host
+											to move them to another host.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But not always.
+											Sometimes, you get disease organisms
+											that don&#39;t rely on host mobility at all for transmission.
+											And when you have that, then evolutionary theory tells us
+											that natural selection will favor the more exploitative,
+											more predator-like organisms.
+											So, natural selection will favor organisms
+											that are more likely to cause damage.
+											If instead transmission to another host requires host mobility,
+											then we expect that the winners of the competition
+											will be the milder organisms.
+											So, if the pathogen doesn&#39;t need the host to be healthy and active,
+											and actual selection favors pathogens
+											that take advantage of those hosts,
+											the winners in the competition are those that exploit the hosts
+											for their own reproductive success.
+											But if the host needs to be mobile in order to transmit the pathogen,
+											then it&#39;s the benign ones that tend to be the winners.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, I&#39;m going to begin by applying this idea to diarrheal diseases.
+											Diarrheal disease organisms get transmitted in basically three ways.
+											They can be transmitted from person-to-person contact,
+											person-to-food-then-to-person contact,
+											when somebody eats contaminated food,
+											or they can be transmitted through the water.
+											And when they&#39;re transmitted through the water,
+											unlike the first two modes of transmission,
+											these pathogens don&#39;t rely on a healthy host for transmission.
+											A person can be sick in bed and still infect tens, even hundreds
+											of other individuals.
+											To sort of illustrate that, this diagram emphasizes that
+											if you&#39;ve got a sick person in bed,
+											somebody&#39;s going to be taking out the contaminated materials.
+											They&#39;re going to wash those contaminated materials,
+											and then the water may move into sources of drinking water.
+											People will come in to those places where you&#39;ve got
+											contaminated drinking water,
+											bring things back to the family,
+											may drink right at that point.
+											The whole point is that a person who can&#39;t move
+											can still infect many other individuals.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so, the theory tells us that
+											when diarrheal disease organisms are transported by water,
+											we expect them to be more predator-like, more harmful.
+											And you can test these ideas.
+											So, one way you can test is just look at all diarrheal bacteria,
+											and see whether or not the ones that tend to be
+											more transmitted by water, tend to be more harmful.
+											And the answer is — yep, they are.
+											Now I put those names in there just for the bacteria buffs,
+											but the main point here is that —
+											(Laughter)
+											there&#39;s a lot of them here, I can tell —
+											the main point here is that those data points
+											all show a very strong, positive association between
+											the degree to which a disease organism is transmitted by water,
+											and how harmful they are,
+											how much death they cause per untreated infection.
+											So this suggests we&#39;re on the right track.
+											But this, to me, suggests that we really need
+											to ask some additional questions.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Remember the second question that I raised at the outset was,
+											how can we use this knowledge
+											to make disease organisms evolve to be mild?
+											Now, this suggests that if you could just block waterborne transmission,
+											you could cause disease organisms to shift from
+											the right-hand side of that graph to the left-hand side of the graph.
+											But it doesn&#39;t tell you how long.
+											I mean, if this would require thousands of years,
+											then it&#39;s worthless in terms of controlling of these pathogens.
+											But if it could occur in just a few years,
+											then it might be a very important way to control
+											some of the nasty problems that we haven&#39;t been able to control.
+											In other words, this suggests that we could
+											domesticate these organisms.
+											We could make them evolve to be not so harmful to us.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so, as I was thinking about this, I focused on this organism,
+											which is the El Tor biotype of the organism called Vibrio cholerae.
+											And that is the species of organism that is responsible
+											for causing cholera.
+											And the reason I thought this is a really great organism to look at
+											is that we understand why it&#39;s so harmful.
+											It&#39;s harmful because it produces a toxin,
+											and that toxin is released when the organism
+											gets into our intestinal tract.
+											It causes fluid to flow from the cells that line our intestine
+											into the lumen, the internal chamber of our intestine,
+											and then that fluid goes the only way it can, which is out the other end.
+											And it flushes out thousands of different other competitors
+											that would otherwise make life difficult for the Vibrios.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So what happens, if you&#39;ve got an organism,
+											it produces a lot of toxin.
+											After a few days of infection you end up having —
+											the fecal material really isn&#39;t so disgusting as we might imagine.
+											It&#39;s sort of cloudy water.
+											And if you took a drop of that water,
+											you might find a million diarrheal organisms.
+											If the organism produced a lot of toxin,
+											you might find 10 million, or 100 million.
+											If it didn&#39;t produce a lot of this toxin,
+											then you might find a smaller number.
+											So the task is to try to figure out
+											how to determine whether or not you could get an organism like this
+											to evolve towards mildness by blocking waterborne transmission,
+											thereby allowing the organism only to be transmitted
+											by person-to-person contact,
+											or person-food-person contact —
+											both of which would really require that people be
+											mobile and fairly healthy for transmission.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, I can think of some possible experiments.
+											One would be to take a lot of different strains of this organism —
+											some that produce a lot of toxins, some that produce a little —
+											and take those strains and spew them out in different countries.
+											Some countries that might have clean water supplies,
+											so that you can&#39;t get waterborne transmission:
+											you expect the organism to evolve to mildness there.
+											Other countries, in which you&#39;ve got a lot of waterborne transmission,
+											there you expect these organisms to evolve
+											towards a high level of harmfulness, right?
+											There&#39;s a little ethical problem in this experiment.
+											I was hoping to hear a few gasps at least.
+											That makes me worry a little bit.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But anyhow, the laughter makes me feel a little bit better.
+											And this ethical problem&#39;s a big problem.
+											Just to emphasize this, this is what we&#39;re really talking about.
+											Here&#39;s a girl who&#39;s almost dead.
+											She got rehydration therapy, she perked up,
+											within a few days she was looking like a completely different person.
+											So, we don&#39;t want to run an experiment like that.
+											But interestingly, just that thing happened in 1991.
+											In 1991, this cholera organism got into Lima, Peru,
+											and within two months it had spread to the neighboring areas.
+											Now, I don&#39;t know how that happened,
+											and I didn&#39;t have anything to do with it, I promise you.
+											I don&#39;t think anybody knows,
+											but I&#39;m not averse to, once that&#39;s happened,
+											to see whether or not the prediction that we would make,
+											that I did make before, actually holds up.
+											Did the organism evolve to mildness in a place like Chile,
+											which has some of the most well protected water supplies
+											in Latin America?
+											And did it evolve to be more harmful in a place like Ecuador,
+											which has some of the least well protected?
+											And Peru&#39;s got something sort of in between.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so, with funding from the Bosack-Kruger Foundation,
+											I got a lot of strains from these different countries
+											and we measured their toxin production in the lab.
+											And we found that in Chile — within two months of the invasion of Peru
+											you had strains entering Chile —
+											and when you look at those strains,
+											in the very far left-hand side of this graph,
+											you see a lot of variation in the toxin production.
+											Each dot corresponds to an islet from a different person —
+											a lot of variation on which natural selection can act.
+											But the interesting point is, if you look over the 1990s,
+											within a few years the organisms evolved to be more mild.
+											They evolved to produce less toxin.
+											And to just give you a sense of how important this might be,
+											if we look in 1995, we find that there&#39;s only one case of cholera,
+											on average, reported from Chile every two years.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, it&#39;s controlled.
+											That&#39;s how much we have in America,
+											cholera that&#39;s acquired endemically,
+											and we don&#39;t think we&#39;ve got a problem here.
+											They didn&#39;t — they solved the problem in Chile.
+											But, before we get too confident, we&#39;d better look at some of those other countries,
+											and make sure that this organism doesn&#39;t just always evolve toward mildness.
+											Well, in Peru it didn&#39;t.
+											And in Ecuador — remember, this is the place where it has
+											the highest potential waterborne transmission —
+											it looked like it got more harmful.
+											In every case there&#39;s a lot of variation,
+											but something about the environment the people are living in,
+											and I think the only realistic explanation is that it&#39;s
+											the degree of waterborne transmission,
+											favored the harmful strains in one place, and mild strains in another.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, this is very encouraging,
+											it suggests that something that we might want to do anyhow,
+											if we had enough money, could actually give us a much bigger bang for the buck.
+											It would make these organisms evolve to mildness,
+											so that even though people might be getting infected,
+											they&#39;d be infected with mild strains.
+											It wouldn&#39;t be causing severe disease.
+											But there&#39;s another really interesting aspect of this,
+											and this is that if you could control the evolution of virulence,
+											evolution of harmfulness,
+											then you should be able to control antibiotic resistance.
+											And the idea is very simple.
+											If you&#39;ve got a harmful organism,
+											a high proportion of the people are going to be symptomatic,
+											a high proportion of the people are going to be going to get antibiotics.
+											You&#39;ve got a lot of pressure favoring antibiotic resistance,
+											so you get increased virulence leading to
+											the evolution of increased antibiotic resistance.
+											And once you get increased antibiotic resistance,
+											the antibiotics aren&#39;t knocking out the harmful strains anymore.
+											So, you&#39;ve got a higher level of virulence.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, you get this vicious cycle.
+											The goal is to turn this around.
+											If you could cause an evolutionary decrease in virulence
+											by cleaning up the water supply,
+											you should be able to get an evolutionary decrease
+											in antibiotic resistance.
+											So, we can go to the same countries and look and see.
+											Did Chile avoid the problem of antibiotic resistance,
+											whereas did Ecuador actually have the beginnings of the problem?
+											If we look in the beginning of the 1990s,
+											we see, again, a lot of variation.
+											In this case, on the Y-axis, we&#39;ve just got a measure of antibiotic sensitivity —
+											and I won&#39;t go into that.
+											But we&#39;ve got a lot of variation in antibiotic sensitivity in Chile,
+											Peru and Ecuador, and no trend across the years.
+											But if we look at the end of the 1990s, just half a decade later,
+											we see that in Ecuador they started having a resistance problem.
+											Antibiotic sensitivity was going down.
+											And in Chile, you still had antibiotic sensitivity.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, it looks like Chile dodged two bullets.
+											They got the organism to evolve to mildness,
+											and they got no development of antibiotic resistance.
+											Now, these ideas should apply across the board,
+											as long as you can figure out why some organisms evolved to virulence.
+											And I want to give you just one more example,
+											because we&#39;ve talked a little bit about malaria.
+											And the example I want to deal with is,
+											or the idea I want to deal with, the question is,
+											what can we do to try to get the malarial organism to evolve to mildness?
+											Now, malaria&#39;s transmitted by a mosquito,
+											and normally if you&#39;re infected with malaria, and you&#39;re feeling sick,
+											it makes it even easier for the mosquito to bite you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And you can show, just by looking at data from literature,
+											that vector-borne diseases are more harmful
+											than non-vector-borne diseases.
+											But I think there&#39;s a really fascinating example
+											of what one can do experimentally to try to actually demonstrate this.
+											In the case of waterborne transmission,
+											we&#39;d like to clean up the water supplies,
+											see whether or not we can get those organisms to evolve towards mildness.
+											In the case of malaria, what we&#39;d like to do is mosquito-proof houses.
+											And the logic&#39;s a little more subtle here.
+											If you mosquito-proof houses,
+											when people get sick, they&#39;re sitting in bed —
+											or in mosquito-proof hospitals, they&#39;re sitting in a hospital bed —
+											and the mosquitoes can&#39;t get to them.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, if you&#39;re a harmful variant
+											in a place where you&#39;ve got mosquito-proof housing, then you&#39;re a loser.
+											The only pathogens that get transmitted
+											are the ones that are infecting people that feel healthy enough
+											to walk outside and get mosquito bites.
+											So, if you were to mosquito proof houses,
+											you should be able to get these organisms to evolve to mildness.
+											And there&#39;s a really wonderful experiment that was done
+											that suggests that we really should go ahead and do this.
+											And that experiment was done in Northern Alabama.
+											Just to give you a little perspective on this,
+											I&#39;ve given you a star at the intellectual center of the United States,
+											which is right there in Louisville, Kentucky.
+											And this really cool experiment was done
+											about 200 miles south of there, in Northern Alabama,
+											by the Tennessee Valley Authority.
+											They had dammed up the Tennessee River.
+											They&#39;d caused the water to back up,
+											they needed electric, hydroelectric power.
+											And when you get stagnant water, you get mosquitoes.
+											They found in the late &#39;30s — 10 years after they&#39;d made these dams —
+											that the people in Northern Alabama were infected with malaria,
+											about a third to half of them were infected with malaria.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This shows you the positions of some of these dams.
+											OK, so the Tennessee Valley Authority was in a little bit of a bind.
+											There wasn&#39;t DDT, there wasn&#39;t chloroquines: what do they do?
+											Well, they decided to mosquito proof every house in Northern Alabama.
+											So they did. They divided Northern Alabama into 11 zones,
+											and within three years, about 100 dollars per house,
+											they mosquito proofed every house.
+											And these are the data.
+											Every row across here represents one of those 11 zones.
+											And the asterisks represent the time at which
+											the mosquito proofing was complete.
+											And so what you can see is that
+											just the mosquito-proofed housing, and nothing else,
+											caused the eradication of malaria.
+											And this was, incidentally, published in 1949,
+											in the leading textbook of malaria, called &quot;Boyd&#39;s Malariology.&quot;
+											But almost no malaria experts even know it exists.
+											This is important,
+											because it tells us that if you have moderate biting densities,
+											you can eradicate malaria by mosquito proofing houses.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, I would suggest that you could do this in a lot of places.
+											Like, you know, just as you get into the malaria zone,
+											sub-Saharan Africa.
+											But as you move to really intense biting rate areas, like Nigeria,
+											you&#39;re certainly not going to eradicate.
+											But that&#39;s when you should be favoring evolution towards mildness.
+											So to me, it&#39;s an experiment that&#39;s waiting to happen,
+											and if it confirms the prediction, then
+											we should have a very powerful tool.
+											In a way, much more powerful than the kind of tools we&#39;re looking at,
+											because most of what&#39;s being done today is
+											to rely on things like anti-malarial drugs.
+											And we know that, although it&#39;s great to make those
+											anti-malarial drugs available at really low cost and high frequency,
+											we know that when you make them highly available
+											you&#39;re going to get resistance to those drugs.
+											And so it&#39;s a short-term solution.
+											This is a long-term solution.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											What I&#39;m suggesting here is that we could get evolution
+											working in the direction we want it to go,
+											rather than always having to battle evolution as a problem
+											that stymies our efforts to control the pathogen,
+											for example with anti-malarial drugs.
+											So, this table I&#39;ve given just to emphasize
+											that I&#39;ve only talked about two examples.
+											But as I said earlier, this kind of logic applies across the board
+											for infectious diseases, and it ought to.
+											Because when we&#39;re dealing with infectious diseases, we&#39;re dealing with living systems.
+											We&#39;re dealing with living systems;
+											we&#39;re dealing with systems that evolve.
+											And so if you do something with those systems,
+											they&#39;re going to evolve one way or another.
+											And all I&#39;m saying is that we need to figure out how they&#39;ll evolve,
+											so that — we need to adjust our interventions
+											to get the most bang for the intervention buck,
+											so that we can get these organisms to evolve in the direction we want them to go.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, I don&#39;t really have time to talk about those things,
+											but I did want to put them up there,
+											just to give you a sense that there really are solutions
+											to controlling the evolution of harmfulness
+											of some of the nasty pathogens that we&#39;re confronted with.
+											And this links up with a lot of the other ideas that have been talked about.
+											So, for example, earlier today there was discussion of,
+											how do you really lower sexual transmission of HIV?
+											What this emphasizes is that we need to figure out how it will work.
+											Will it maybe get lowered if we alter the economy of the area?
+											It may get lowered if we intervene in ways that
+											encourage people to stay more faithful to partners, and so on.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But the key thing is to figure out how to lower it,
+											because if we lower it, we&#39;ll get an evolutionary change in the virus.
+											And the data really do support this:
+											that you actually do get the virus evolving towards mildness.
+											And that will just add to the effectiveness of our control efforts.
+											So the other thing I really like about this,
+											besides the fact that it brings a whole new dimension
+											into the study of control of disease,
+											is that often the kinds of interventions that you want,
+											that it indicates should be done,
+											are the kinds of interventions that people want anyhow.
+											But people just haven&#39;t been able to justify the cost.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, this is the kind of thing I&#39;m talking about.
+											If we know that we&#39;re going to get extra bang for the buck from providing clean water,
+											then I think that we can say,
+											let&#39;s push the effort into that aspect of the control,
+											so that we can actually solve the problem,
+											even though, if you just look at the frequency of infection,
+											you would suggest that you can&#39;t solve the problem well enough
+											just by cleaning up water supply.
+											Anyhow, I&#39;ll end that there, and thank you very much.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":235,"count":70,"talk_id":259},"threadId":235,"current_talk":"259","description":"Evolutionary biologist Paul Ewald drags us into the sewer to discuss germs. Why are some more harmful than others? How could we make the harmful ones benign? Searching for answers, he examines a disgusting, fascinating case: diarrhea.","event":"TED2007","language":"en","name":"Paul Ewald: Can we domesticate germs?","slug":"paul_ewald_asks_can_we_domesticate_germs","speakers":[{"id":"230","slug":"paul_ewald","is_published":true,"firstname":"Paul","lastname":"Ewald","middleinitial":"","title":"","description":"Evolutionary biologist","photo_url":"https://pe.tedcdn.com/images/ted/40993_254x191.jpg","whatotherssay":"Ewald smashe[s] the old, and unfortunately still widely accepted, notion that parasites and their hosts inevitably evolve toward a benign coexistence.","whotheyare":"After years of studying illness from the germs' point of view, microbiologist Paul Ewald believes that Big Pharma is wrong about some very big issues. What's right? The leader in evolutionary medicine posits radical new approaches.","whylisten":"<p>Paul Ewald has a problem with modern medicine: It ignores the fact that many diseases of unknown origin can be linked to slow-growing infections caused by viruses, bacteria and other microorganisms.<br /><br />Ewald -- <strong>whose theory stems from both a formal education in biological sciences, ecology, and evolution, and a personal bout with diarrhea in the 1970s</strong> -- aims to change this thinking. To that end, he has written popular news articles, academic papers, and two books (<a href=\"http://geni.us/2vHb\" target=\"_blank\"><em>Evolution of Infectious Disease</em></a>&nbsp;and&nbsp;<a href=\"http://geni.us/20N3\" target=\"_blank\"><em>Plague Time</em></a>) that explain and expand his idea. Ewald is regarded as the leading expert in the emerging field of evolutionary medicine. He directs the evolutionary medicine program in the Biology department at the University of Louisville, Kentucky, and lectures worldwide.<br /><br />Among other honors, Ewald was the first recipient of the Smithsonian Institution&#39;s George E. Burch Fellowship in Theoretic Medicine and Affiliated Sciences, which was established to foster <strong>pioneering work in health sciences</strong>.</p>"}],"url":"https://www.ted.com/talks/paul_ewald_asks_can_we_domesticate_germs","viewed_count":478203,"talks":[{"curator_approved":true,"description":"Evolutionary biologist Paul Ewald drags us into the sewer to discuss germs. Why are some more harmful than others? How could we make the harmful ones benign? Searching for answers, he examines a disgusting, fascinating case: diarrhea.","downloads":{"id":259,"languages":[{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true}],"nativeDownloads":{"low":"https://download.ted.com/talks/PaulEwald_2007-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/PaulEwald_2007.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/PaulEwald_2007-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"fr":{"name":"French","low":"https://download.ted.com/talks/PaulEwald_2007-low-fr.mp4","high":"https://download.ted.com/talks/PaulEwald_2007-480p-fr.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/PaulEwald_2007-low-zh-tw.mp4","high":"https://download.ted.com/talks/PaulEwald_2007-480p-zh-tw.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/PaulEwald_2007-low-zh-cn.mp4","high":"https://download.ted.com/talks/PaulEwald_2007-480p-zh-cn.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/PaulEwald_2007-low-ko.mp4","high":"https://download.ted.com/talks/PaulEwald_2007-480p-ko.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/PaulEwald_2007-low-es.mp4","high":"https://download.ted.com/talks/PaulEwald_2007-480p-es.mp4"},"en":{"name":"English","low":"https://download.ted.com/talks/PaulEwald_2007-low-en.mp4","high":"https://download.ted.com/talks/PaulEwald_2007-480p-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/PaulEwald_2007-low-pt-br.mp4","high":"https://download.ted.com/talks/PaulEwald_2007-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/PaulEwald_2007-low-it.mp4","high":"https://download.ted.com/talks/PaulEwald_2007-480p-it.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/PaulEwald_2007-low-he.mp4","high":"https://download.ted.com/talks/PaulEwald_2007-480p-he.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/PaulEwald_2007-low-bg.mp4","high":"https://download.ted.com/talks/PaulEwald_2007-480p-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/PaulEwald_2007-low-ro.mp4","high":"https://download.ted.com/talks/PaulEwald_2007-480p-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/PaulEwald_2007-low-pl.mp4","high":"https://download.ted.com/talks/PaulEwald_2007-480p-pl.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/PaulEwald_2007-low-nl.mp4","high":"https://download.ted.com/talks/PaulEwald_2007-480p-nl.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/PaulEwald_2007-low-tr.mp4","high":"https://download.ted.com/talks/PaulEwald_2007-480p-tr.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/PaulEwald_2007-low-ar.mp4","high":"https://download.ted.com/talks/PaulEwald_2007-480p-ar.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/PaulEwald_2007-low-ru.mp4","high":"https://download.ted.com/talks/PaulEwald_2007-480p-ru.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/PaulEwald_2007-low-ja.mp4","high":"https://download.ted.com/talks/PaulEwald_2007-480p-ja.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/PaulEwald_2007-low-vi.mp4","high":"https://download.ted.com/talks/PaulEwald_2007-480p-vi.mp4"}},"audioDownload":null},"duration":1071.0,"event":"TED2007","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/40964_480x360.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/40964_480x360.jpg?q=50&w=15","id":"259","player_talks":[{"id":"259","duration":1071.0,"languages":[{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2007/Blank/PaulEwald_2007-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTED2007%26id%3D259%26tag%3Dbacteria%2Cbiology%2Cdisease%2Cevolution%2Cglobal%2Bissues%2Chealth%2Cillness%2Cmedicine%2Cmicrobiology%2Cscience%26talk%3Dpaul_ewald_asks_can_we_domesticate_germs%26year%3D2007&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"259","talk":"paul_ewald_asks_can_we_domesticate_germs","tag":"bacteria,biology,disease,evolution,global issues,health,illness,medicine,microbiology,science","year":"2007","event":"TED2007"},"stream":"https://hls.ted.com/talks/259.m3u8","metadata":"https://hls.ted.com/talks/259.json"}},"targeting":{"id":"259","talk":"paul_ewald_asks_can_we_domesticate_germs","tag":"bacteria,biology,disease,evolution,global issues,health,illness,medicine,microbiology,science","year":"2007","event":"TED2007"},"canonical":"https://www.ted.com/talks/paul_ewald_asks_can_we_domesticate_germs","name":"Paul Ewald: Can we domesticate germs?","title":"Can we domesticate germs?","speaker":"Paul Ewald","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/40964_480x360.jpg?quality=89&w=600","slug":"paul_ewald_asks_can_we_domesticate_germs","event":"TED2007","published":1210122000}],"ratings":[{"id":22,"name":"Fascinating","count":181},{"id":8,"name":"Informative","count":256},{"id":9,"name":"Ingenious","count":136},{"id":24,"name":"Persuasive","count":150},{"id":25,"name":"OK","count":46},{"id":21,"name":"Unconvincing","count":22},{"id":7,"name":"Funny","count":9},{"id":1,"name":"Beautiful","count":11},{"id":10,"name":"Inspiring","count":67},{"id":2,"name":"Confusing","count":19},{"id":11,"name":"Longwinded","count":30},{"id":3,"name":"Courageous","count":18},{"id":23,"name":"Jaw-dropping","count":29},{"id":26,"name":"Obnoxious","count":6}],"recorded_at":"2007-03-03T00:00:00.000+00:00","related_talks":[{"id":"499","hero":"https://pe.tedcdn.com/images/ted/80325_800x600.jpg","speaker":"Nathan Wolfe","title":"The jungle search for viruses","duration":735.0,"slug":"nathan_wolfe_hunts_for_the_next_aids","viewed_count":1153887},{"id":"331","hero":"https://pe.tedcdn.com/images/ted/52117_480x360.jpg","speaker":"Paul Rothemund","title":"DNA folding, in detail","duration":984.0,"slug":"paul_rothemund_details_dna_folding","viewed_count":590348},{"id":"261","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/ef10e3bf-51d8-40bc-9fe3-ac474b4a6e0f/JoshuaKlein_2008-embed.jpg","speaker":"Joshua Klein","title":"A thought experiment on the intelligence of crows","duration":606.0,"slug":"joshua_klein_on_the_intelligence_of_crows","viewed_count":2446286},{"id":"6672","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/4b7b569e-b432-4184-9f70-010c7bedf53c/FredrosOkumu_2017G-embed.jpg","speaker":"Fredros Okumu","title":"Why I study the most dangerous animal on earth -- mosquitoes","duration":769.0,"slug":"fredros_okumu_how_i_study_the_most_dangerous_animal_on_earth_the_mosquito","viewed_count":973550},{"id":"1641","hero":"https://pe.tedcdn.com/images/ted/e5a83197dda31e3be388cbaabb2add1d27ee24ad_1600x1200.jpg","speaker":"Hadyn Parry","title":"Re-engineering mosquitos to fight disease","duration":837.0,"slug":"hadyn_parry_re_engineering_mosquitos_to_fight_disease","viewed_count":973636},{"id":"1819","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/1ef2dbad-b65c-4f9e-a0c9-b0c4c742103a/SoniaShah_2013G-embed.jpg","speaker":"Sonia Shah","title":"3 reasons we still haven’t gotten rid of malaria","duration":918.0,"slug":"sonia_shah_3_reasons_we_still_haven_t_gotten_rid_of_malaria","viewed_count":1156865}],"slug":"paul_ewald_asks_can_we_domesticate_germs","speakers":[{"id":"230","slug":"paul_ewald","is_published":true,"firstname":"Paul","lastname":"Ewald","middleinitial":"","title":"","description":"Evolutionary biologist","photo_url":"https://pe.tedcdn.com/images/ted/40993_254x191.jpg","whatotherssay":"Ewald smashe[s] the old, and unfortunately still widely accepted, notion that parasites and their hosts inevitably evolve toward a benign coexistence.","whotheyare":"After years of studying illness from the germs' point of view, microbiologist Paul Ewald believes that Big Pharma is wrong about some very big issues. What's right? The leader in evolutionary medicine posits radical new approaches.","whylisten":"<p>Paul Ewald has a problem with modern medicine: It ignores the fact that many diseases of unknown origin can be linked to slow-growing infections caused by viruses, bacteria and other microorganisms.<br /><br />Ewald -- <strong>whose theory stems from both a formal education in biological sciences, ecology, and evolution, and a personal bout with diarrhea in the 1970s</strong> -- aims to change this thinking. To that end, he has written popular news articles, academic papers, and two books (<a href=\"http://geni.us/2vHb\" target=\"_blank\"><em>Evolution of Infectious Disease</em></a>&nbsp;and&nbsp;<a href=\"http://geni.us/20N3\" target=\"_blank\"><em>Plague Time</em></a>) that explain and expand his idea. Ewald is regarded as the leading expert in the emerging field of evolutionary medicine. He directs the evolutionary medicine program in the Biology department at the University of Louisville, Kentucky, and lectures worldwide.<br /><br />Among other honors, Ewald was the first recipient of the Smithsonian Institution&#39;s George E. Burch Fellowship in Theoretic Medicine and Affiliated Sciences, which was established to foster <strong>pioneering work in health sciences</strong>.</p>"}],"speaker_name":"Paul Ewald","tags":["bacteria","biology","disease","evolution","global issues","health","illness","medicine","microbiology","science"],"title":"Can we domesticate germs?","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":478203}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

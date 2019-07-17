@@ -1,0 +1,1503 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Don Tapscott: How the blockchain is changing money and business | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: What is the blockchain? If you don&#39;t know, you should; if you do, chances are you still need some clarification on how it actually works. Don Tapscott is here to help, demystifying this world-changing, trust-building technology which, he says, represents nothing less than the second generation of the internet and holds the potential to transform money, business, government and society." />
+<meta name="author" content="Don Tapscott" />
+<link rel="canonical" href="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript?language=bg" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript?language=en" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript?language=pt-br" />
+<link rel="alternate" hreflang="id" href="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript?language=id" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript?language=nl" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript?language=pt" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript?language=tr" />
+<link rel="alternate" hreflang="th" href="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript?language=th" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript?language=he" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript?language=sr" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript?language=hu" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript?language=ko" />
+<link rel="alternate" hreflang="hr" href="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript?language=hr" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript?language=fr" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript?language=vi" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript?language=de" />
+<link rel="alternate" hreflang="sk" href="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript?language=sk" />
+<meta property="og:title" content="Transcript of &quot;How the blockchain is changing money and business&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/fa45ee23-5a84-413a-8d37-c7b73c092a08/DonTapscott_2016T-embed.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/fa45ee23-5a84-413a-8d37-c7b73c092a08/DonTapscott_2016T-embed.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Don Tapscott: How the blockchain is changing money and business" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: What is the blockchain? If you don&#39;t know, you should; if you do, chances are you still need some clarification on how it actually works. Don Tapscott is here to help, demystifying this world-changing, trust-building technology which, he says, represents nothing less than the second generation of the internet and holds the potential to transform money, business, government and society." />
+<meta property="og:url" content="https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 2573);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business' itemprop='url'>
+<meta content='How the blockchain is changing money and business' itemprop='name'>
+<meta content="What is the blockchain? If you don't know, you should; if you do, chances are you still need some clarification on how it actually works. Don Tapscott is here to help, demystifying this world-changing, trust-building technology which, he says, represents nothing less than the second generation of the internet and holds the potential to transform money, business, government and society." itemprop='description'>
+<meta content='PT18M49S' itemprop='duration'>
+<meta content='2016-08-25T14:55:46+00:00' itemprop='uploadDate'>
+<meta content='2993153' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/fa45ee23-5a84-413a-8d37-c7b73c092a08/DonTapscott_2016T-embed.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/don_tapscott' itemprop='url'>
+<meta content='Don Tapscott' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/a3ebb051eceba452cc8b395566bf7190c2d5f6ca_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/fa45ee23-5a84-413a-8d37-c7b73c092a08/DonTapscott_2016T-embed.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Don Tapscott
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					2,993,153
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 18:49</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The technology likely to have
+the greatest impact
+											on the next few decades
+											has arrived.
+											And it&#39;s not social media.
+											It&#39;s not big data.
+											It&#39;s not robotics.
+											It&#39;s not even AI.
+											You&#39;ll be surprised to learn
+											that it&#39;s the underlying technology
+of digital currencies like Bitcoin.
+											It&#39;s called the blockchain. Blockchain.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, it&#39;s not the most sonorous
+word in the world,
+											but I believe that this is now
+											the next generation of the internet,
+											and that it holds vast promise
+for every business, every society
+											and for all of you, individually.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											You know, for the past few decades,
+we&#39;ve had the internet of information.
+											And when I send you an email
+or a PowerPoint file or something,
+											I&#39;m actually not sending you the original,
+											I&#39;m sending you a copy.
+											And that&#39;s great.
+											This is democratized information.
+											But when it comes to assets —
+											things like money,
+											financial assets like stocks and bonds,
+											loyalty points, intellectual property,
+											music, art, a vote,
+											carbon credit and other assets —
+											sending you a copy is a really bad idea.
+											If I send you 100 dollars,
+											it&#39;s really important
+that I don&#39;t still have the money —
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											and that I can&#39;t send it to you.
+											This has been called
+the &quot;double-spend&quot; problem
+											by cryptographers for a long time.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So today, we rely entirely
+on big intermediaries —
+											middlemen like banks, government,
+											big social media companies,
+credit card companies and so on —
+											to establish trust in our economy.
+											And these intermediaries perform
+all the business and transaction logic
+											of every kind of commerce,
+											from authentication,
+identification of people,
+											through to clearing, settling
+and record keeping.
+											And overall, they do a pretty good job.
+											But there are growing problems.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											To begin, they&#39;re centralized.
+											That means they can be hacked,
+and increasingly are —
+											JP Morgan, the US Federal Government,
+											LinkedIn, Home Depot and others
+											found that out the hard way.
+											They exclude billions of people
+from the global economy,
+											for example, people
+who don&#39;t have enough money
+											to have a bank account.
+											They slow things down.
+											It can take a second for an email
+to go around the world,
+											but it can take days or weeks
+											for money to move through
+the banking system across a city.
+											And they take a big piece of the action —
+											10 to 20 percent just to send money
+to another country.
+											They capture our data,
+											and that means we can&#39;t monetize it
+											or use it to better manage our lives.
+											Our privacy is being undermined.
+											And the biggest problem is that overall,
+											they&#39;ve appropriated the largesse
+of the digital age asymmetrically:
+											we have wealth creation,
+but we have growing social inequality.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So what if there were not only
+an internet of information,
+											what if there were an internet of value —
+											some kind of vast, global,
+distributed ledger
+											running on millions of computers
+											and available to everybody.
+											And where every kind of asset,
+from money to music,
+											could be stored, moved, transacted,
+exchanged and managed,
+											all without powerful intermediaries?
+											What if there were
+a native medium for value?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Well, in 2008, the financial
+industry crashed
+											and, perhaps propitiously,
+											an anonymous person or persons
+named Satoshi Nakamoto
+											created a paper where he developed
+a protocol for a digital cash
+											that used an underlying
+cryptocurrency called Bitcoin.
+											And this cryptocurrency enabled people
+to establish trust and do transactions
+											without a third party.
+											And this seemingly simple act
+set off a spark
+											that ignited the world,
+											that has everyone excited
+or terrified or otherwise interested
+											in many places.
+											Now, don&#39;t be confused about Bitcoin —
+											Bitcoin is an asset; it goes up and down,
+											and that should be of interest
+to you if you&#39;re a speculator.
+											More broadly, it&#39;s a cryptocurrency.
+											It&#39;s not a fiat currency
+controlled by a nation-state.
+											And that&#39;s of greater interest.
+											But the real pony here
+is the underlying technology.
+											It&#39;s called blockchain.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So for the first time now
+in human history,
+											people everywhere can trust each other
+											and transact peer to peer.
+											And trust is established,
+not by some big institution,
+											but by collaboration, by cryptography
+											and by some clever code.
+											And because trust is native
+to the technology,
+											I call this, &quot;The Trust Protocol.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, you&#39;re probably wondering:
+How does this thing work?
+											Fair enough.
+											Assets — digital assets like money
+to music and everything in between —
+											are not stored in a central place,
+											but they&#39;re distributed
+across a global ledger,
+											using the highest level of cryptography.
+											And when a transaction is conducted,
+											it&#39;s posted globally,
+											across millions and millions of computers.
+											And out there, around the world,
+											is a group of people called &quot;miners.&quot;
+											These are not young people,
+they&#39;re Bitcoin miners.
+											They have massive computing power
+at their fingertips —
+											10 to 100 times bigger
+than all of Google worldwide.
+											These miners do a lot of work.
+											And every 10 minutes,
+											kind of like the heartbeat of a network,
+											a block gets created
+											that has all the transactions
+from the previous 10 minutes.
+											Then the miners get to work,
+trying to solve some tough problems.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And they compete:
+											the first miner to find out the truth
+and to validate the block,
+											is rewarded in digital currency,
+											in the case of the Bitcoin
+blockchain, with Bitcoin.
+											And then — this is the key part —
+											that block is linked to the previous block
+											and the previous block
+											to create a chain of blocks.
+											And every one is time-stamped,
+											kind of like with a digital waxed seal.
+											So if I wanted to go and hack a block
+											and, say, pay you and you
+with the same money,
+											I&#39;d have to hack that block,
+											plus all the preceding blocks,
+											the entire history of commerce
+on that blockchain,
+											not just on one computer
+but across millions of computers,
+											simultaneously,
+											all using the highest
+levels of encryption,
+											in the light of the most powerful
+computing resource in the world
+											that&#39;s watching me.
+											Tough to do.
+											This is infinitely more secure
+											than the computer systems
+that we have today.
+											Blockchain. That&#39;s how it works.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So the Bitcoin blockchain is just one.
+											There are many.
+											The Ethereum blockchain was developed
+by a Canadian named Vitalik Buterin.
+											He&#39;s [22] years old,
+											and this blockchain
+has some extraordinary capabilities.
+											One of them is that you can
+build smart contracts.
+											It&#39;s kind of what it sounds like.
+											It&#39;s a contract that self-executes,
+											and the contract handles the enforcement,
+the management, performance
+											and payment — the contract kind of has
+a bank account, too, in a sense —
+											of agreements between people.
+											And today, on the Ethereum blockchain,
+											there are projects underway
+to do everything
+											from create a new replacement
+for the stock market
+											to create a new model of democracy,
+											where politicians
+are accountable to citizens.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So to understand what a radical change
+this is going to bring,
+											let&#39;s look at one industry,
+financial services.
+											Recognize this?
+											Rube Goldberg machine.
+											It&#39;s a ridiculously complicated machine
+that does something really simple,
+											like crack an egg or shut a door.
+											Well, it kind of reminds me
+of the financial services industry,
+											honestly.
+											I mean, you tap your card
+in the corner store,
+											and a bitstream goes through
+a dozen companies,
+											each with their own computer system,
+											some of them being 1970s mainframes
+											older than many
+of the people in this room,
+											and three days later, a settlement occurs.
+											Well, with a blockchain
+financial industry,
+											there would be no settlement,
+											because the payment and the settlement
+is the same activity,
+											it&#39;s just a change in the ledger.
+											So Wall Street and all around the world,
+											the financial industry
+is in a big upheaval about this,
+											wondering, can we be replaced,
+											or how do we embrace
+this technology for success?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, why should you care?
+											Well, let me describe some applications.
+											Prosperity.
+											The first era of the internet,
+											the internet of information,
+											brought us wealth
+but not shared prosperity,
+											because social inequality is growing.
+											And this is at the heart
+of all of the anger and extremism
+											and protectionism and xenophobia and worse
+											that we&#39;re seeing growing
+in the world today,
+											Brexit being the most recent case.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So could we develop some new approaches
+to this problem of inequality?
+											Because the only approach today
+is to redistribute wealth,
+											tax people and spread it around more.
+											Could we pre-distribute wealth?
+											Could we change the way that wealth
+gets created in the first place
+											by democratizing wealth creation,
+											engaging more people in the economy,
+											and then ensuring that they got
+fair compensation?
+											Let me describe five ways
+that this can be done.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Number one:
+											Did you know that 70 percent
+of the people in the world who have land
+											have a tenuous title to it?
+											So, you&#39;ve got a little farm in Honduras,
+some dictator comes to power,
+											he says, &quot;I know you&#39;ve got a piece
+of paper that says you own your farm,
+											but the government computer
+says my friend owns your farm.&quot;
+											This happened on a mass scale in Honduras,
+											and this problem exists everywhere.
+											Hernando de Soto, the great
+Latin American economist,
+											says this is the number one
+issue in the world
+											in terms of economic mobility,
+											more important than having a bank account,
+											because if you don&#39;t have
+a valid title to your land,
+											you can&#39;t borrow against it,
+											and you can&#39;t plan for the future.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So today, companies
+are working with governments
+											to put land titles on a blockchain.
+											And once it&#39;s there, this is immutable.
+											You can&#39;t hack it.
+											This creates the conditions for prosperity
+											for potentially billions of people.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Secondly:
+											a lot of writers talk about Uber
+											and Airbnb and TaskRabbit
+and Lyft and so on
+											as part of the sharing economy.
+											This is a very powerful idea,
+											that peers can come together
+and create and share wealth.
+											My view is that ...
+											these companies are not really sharing.
+											In fact, they&#39;re successful
+precisely because they don&#39;t share.
+											They aggregate services together,
+and they sell them.
+											What if, rather than Airbnb
+being a $25 billion corporation,
+											there was a distributed application
+on a blockchain, we&#39;ll call it B-Airbnb,
+											and it was essentially owned
+by all of the people
+											who have a room to rent.
+											And when someone wants to rent a room,
+											they go onto the blockchain
+database and all the criteria,
+											they sift through, it helps
+them find the right room,
+											and then the blockchain helps
+with the contracting,
+											it identifies the party,
+											it handles the payments
+											just through digital payments —
+they&#39;re built into the system.
+											And it even handles reputation,
+											because if she rates a room
+as a five-star room,
+											that room is there,
+											and it&#39;s rated, and it&#39;s immutable.
+											So, the big sharing-economy
+disruptors in Silicon Valley
+											could be disrupted,
+											and this would be good for prosperity.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Number three:
+											the biggest flow of funds
+from the developed world
+											to the developing world
+											is not corporate investment,
+											and it&#39;s not even foreign aid.
+											It&#39;s remittances.
+											This is the global diaspora;
+											people have left their ancestral lands,
+											and they&#39;re sending money back
+to their families at home.
+											This is 600 billion dollars a year,
+and it&#39;s growing,
+											and these people are getting ripped off.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Analie Domingo is a housekeeper.
+											She lives in Toronto,
+											and every month she goes
+to the Western Union office
+											with some cash
+											to send her remittances
+to her mom in Manila.
+											It costs her around 10 percent;
+											the money takes four to seven
+days to get there;
+											her mom never knows
+when it&#39;s going to arrive.
+											It takes five hours
+out of her week to do this.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Six months ago,
+											Analie Domingo used
+a blockchain application called Abra.
+											And from her mobile device,
+she sent 300 bucks.
+											It went directly
+to her mom&#39;s mobile device
+											without going through an intermediary.
+											And then her mom
+looked at her mobile device —
+											it&#39;s kind of like an Uber interface,
+there&#39;s Abra &quot;tellers&quot; moving around.
+											She clicks on a teller
+that&#39;s a five-star teller,
+											who&#39;s seven minutes away.
+											The guy shows up at the door,
+gives her Filipino pesos,
+											she puts them in her wallet.
+											The whole thing took minutes,
+											and it cost her two percent.
+											This is a big opportunity for prosperity.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Number four: the most powerful asset
+of the digital age is data.
+											And data is really a new asset class,
+											maybe bigger than previous asset classes,
+											like land under the agrarian economy,
+											or an industrial plant,
+											or even money.
+											And all of you — we — create this data.
+											We create this asset,
+											and we leave this trail
+of digital crumbs behind us
+											as we go throughout life.
+											And these crumbs are collected
+into a mirror image of you,
+											the virtual you.
+											And the virtual you may know
+more about you than you do,
+											because you can&#39;t remember
+what you bought a year ago,
+											or said a year ago,
+or your exact location a year ago.
+											And the virtual you is not owned by you —
+											that&#39;s the big problem.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So today, there are companies working
+											to create an identity in a black box,
+											the virtual you owned by you.
+											And this black box moves around with you
+											as you travel throughout the world,
+											and it&#39;s very, very stingy.
+											It only gives away
+the shred of information
+											that&#39;s required to do something.
+											A lot of transactions,
+											the seller doesn&#39;t even need
+to know who you are.
+											They just need to know that they got paid.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And then this avatar
+is sweeping up all of this data
+											and enabling you to monetize it.
+											And this is a wonderful thing,
+											because it can also help us
+protect our privacy,
+											and privacy is the foundation
+of a free society.
+											Let&#39;s get this asset that we create
+											back under our control,
+											where we can own our own identity
+											and manage it responsibly.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Finally —
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Finally, number five:
+											there are a whole number
+of creators of content
+											who don&#39;t receive fair compensation,
+											because the system
+for intellectual property is broken.
+											It was broken by the first era
+of the internet.
+											Take music.
+											Musicians are left with crumbs
+at the end of the whole food chain.
+											You know, if you were a songwriter,
+25 years ago, you wrote a hit song,
+											it got a million singles,
+											you could get royalties
+of around 45,000 dollars.
+											Today, you&#39;re a songwriter,
+you write a hit song,
+											it gets a million streams,
+											you don&#39;t get 45k,
+											you get 36 dollars,
+											enough to buy a nice pizza.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So Imogen Heap,
+											the Grammy-winning singer-songwriter,
+											is now putting music
+on a blockchain ecosystem.
+											She calls it &quot;Mycelia.&quot;
+											And the music has
+a smart contract surrounding it.
+											And the music protects
+her intellectual property rights.
+											You want to listen to the song?
+											It&#39;s free, or maybe a few micro-cents
+that flow into a digital account.
+											You want to put the song
+in your movie, that&#39;s different,
+											and the IP rights are all specified.
+											You want to make a ringtone?
+That&#39;s different.
+											She describes that the song
+becomes a business.
+											It&#39;s out there on this platform
+marketing itself,
+											protecting the rights of the author,
+											and because the song has a payment system
+											in the sense of bank account,
+											all the money flows back to the artist,
+											and they control the industry,
+											rather than these powerful intermediaries.
+											Now, this is —
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is not just songwriters,
+											it&#39;s any creator of content,
+											like art,
+											like inventions,
+											scientific discoveries, journalists.
+											There are all kinds of people
+who don&#39;t get fair compensation,
+											and with blockchains,
+											they&#39;re going to be able
+to make it rain on the blockchain.
+											And that&#39;s a wonderful thing.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, these are five opportunities
+											out of a dozen
+											to solve one problem, prosperity,
+											which is one of countless problems
+											that blockchains are applicable to.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, technology doesn&#39;t create
+prosperity, of course — people do.
+											But my case to you is that, once again,
+											the technology genie
+has escaped from the bottle,
+											and it was summoned
+by an unknown person or persons
+											at this uncertain time in human history,
+											and it&#39;s giving us
+another kick at the can,
+											another opportunity to rewrite
+the economic power grid
+											and the old order of things,
+											and solve some of the world&#39;s most
+difficult problems,
+											if we will it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":27190,"count":106,"talk_id":2573},"threadId":27190,"current_talk":"2573","description":"What is the blockchain? If you don't know, you should; if you do, chances are you still need some clarification on how it actually works. Don Tapscott is here to help, demystifying this world-changing, trust-building technology which, he says, represents nothing less than the second generation of the internet and holds the potential to transform money, business, government and society.","event":"TEDSummit","language":"en","name":"Don Tapscott: How the blockchain is changing money and business","slug":"don_tapscott_how_the_blockchain_is_changing_money_and_business","speakers":[{"id":"1298","slug":"don_tapscott","is_published":true,"firstname":"Don","lastname":"Tapscott","middleinitial":"","title":"","description":"Digital strategist","photo_url":"https://pe.tedcdn.com/images/ted/a3ebb051eceba452cc8b395566bf7190c2d5f6ca_254x191.jpg","whatotherssay":"With <em>Blockchain Revolution</em>, the Tapscotts have written the book, literally, on how to survive and thrive in this next wave of technology-driven disruption. Likely to become one of the iconic books of our time.","whotheyare":"Don Tapscott takes the long view on our digital, connected, hyper-collaborative world.","whylisten":"<p>A leading analyst of innovation and the impacts of technology, Don Tapscott has authored or co-authored 15 widely read books about various aspects of the reshaping of our society and economy. His work&nbsp;<a href=\"http://www.amazon.com/Wikinomics-Mass-Collaboration-Changes-Everything/dp/1591843677\" target=\"_blank\"><em>Wikinomics</em></a>&nbsp;counts among the most influential business books of the last decade. His new book&nbsp;<a href=\"http://www.amazon.com/The-Blockchain-Revolution/dp/0241237858\" target=\"_blank\"><em>The Blockchain Revolution</em></a>, co-authored with his son, Alex, discusses the blockchain, the distributed-database technology that&#39;s being deployed well beyond its original application as the public ledger behind Bitcoin. In the book, they analyze why blockchain technology will fundamentally change the internet -- how it works, how to use it and its promises and perils.</p><p>Tapscott is an adjunct professor of management at the Rotman School of Management at the University of Toronto, a Senior Advisor at the World Economic Forum and an Associate of the Berkman Klein Center for Internet and Society at Harvard University.</p>"}],"url":"https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business","viewed_count":2993153,"talks":[{"recommendations":{"status":"approved","headline":"Don Tapscott recommends","blurb":"Check out more resources on the future of currency and the economy, curated by Don Tapscott.","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"recommendation","rec_lists":[{"title":"","description":"","rec_items":[{"label":"READ_Book","headline":"*Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business and the World*","blurb":"My son Alex and I spent two years researching blockchain technology and the opportunities and challenges.  'What a spectacular book. Mind-blowing in its expansiveness and profundity. It makes me think we’re at one of those times in technological, economic and social history where the sky is the limit.' - Steve Wozniak, co-founder, Apple Computer","note":"Don Tapscott, Alex Tapscott\r\nPortfolio, 2016","link_url":"https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":null},{"label":"READ_Article","headline":"The future of financial infrastructure ","blurb":"The World Economic Forum takes an ambitions look at how blockchain can reshape financial services.","note":"The World Economic Forum, 2016","link_url":"http://www3.weforum.org/docs/WEF_The_future_of_financial_infrastructure.pdf","position":null,"is_pdf":false,"eyebrow":null},{"label":"EXPLORE","headline":"Northwest Passage Ventures","blurb":"A source of videos and articles by Alex Tapscott about Fintech and all things blockchain.","note":"","link_url":"http://www.npvinc.com/","position":null,"is_pdf":false,"eyebrow":null},{"label":"EXPLORE","headline":"Coin Desk","blurb":"A great resource for Bitcoin news.","note":"","link_url":"http://www.coindesk.com/","position":null,"is_pdf":false,"eyebrow":null},{"label":"EXPLORE","headline":"Coin Center","blurb":"A leading non-profit focused on the policy issues facing cryptocurrencies like Bitcoin.","note":"","link_url":"http://coincenter.org/","position":null,"is_pdf":false,"eyebrow":null}]}]},"more_resources":[{"status":"approved","headline":"Blockchain Revolution","blurb":null,"link_url":"https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","image_url":"http://pe.tedcdn.com/images/ted/6f030b1136c0cab160ad90141bb83ff4f390e885_1875x2850.jpg","author":"Don Tapscott, Alex Tapscott","year":"2016","publisher":"Portfolio","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"book"}],"corrections":[],"has_citations":false,"take_action":[{"status":"approved","blurb":"**Download a Bitcoin Wallet**, get some Bitcoin and buy something inexpensive to see how cryptocurrencies work.","link_url":"http://www.coindesk.com/information/how-to-store-your-bitcoins/","visible_url":"coindesk.com","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"take_action","verb":"download"}],"curator_approved":true,"description":"What is the blockchain? If you don't know, you should; if you do, chances are you still need some clarification on how it actually works. Don Tapscott is here to help, demystifying this world-changing, trust-building technology which, he says, represents nothing less than the second generation of the internet and holds the potential to transform money, business, government and society.","downloads":{"id":2573,"languages":[{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Slovak","endonym":"Slovenčina","languageCode":"sk","ianaCode":"sk","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/DonTapscott_2016T-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/DonTapscott_2016T.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/DonTapscott_2016T-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"en":{"name":"English","low":"https://download.ted.com/talks/DonTapscott_2016T-low-en.mp4","high":"https://download.ted.com/talks/DonTapscott_2016T-480p-en.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/DonTapscott_2016T-low-es.mp4","high":"https://download.ted.com/talks/DonTapscott_2016T-480p-es.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/DonTapscott_2016T-low-tr.mp4","high":"https://download.ted.com/talks/DonTapscott_2016T-480p-tr.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/DonTapscott_2016T-low-ar.mp4","high":"https://download.ted.com/talks/DonTapscott_2016T-480p-ar.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/DonTapscott_2016T-low-ja.mp4","high":"https://download.ted.com/talks/DonTapscott_2016T-480p-ja.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/DonTapscott_2016T-low-pt-br.mp4","high":"https://download.ted.com/talks/DonTapscott_2016T-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/DonTapscott_2016T-low-it.mp4","high":"https://download.ted.com/talks/DonTapscott_2016T-480p-it.mp4"},"id":{"name":"Indonesian","low":"https://download.ted.com/talks/DonTapscott_2016T-low-id.mp4","high":"https://download.ted.com/talks/DonTapscott_2016T-480p-id.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/DonTapscott_2016T-low-sr.mp4","high":"https://download.ted.com/talks/DonTapscott_2016T-480p-sr.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/DonTapscott_2016T-low-pt.mp4","high":"https://download.ted.com/talks/DonTapscott_2016T-480p-pt.mp4"},"th":{"name":"Thai","low":"https://download.ted.com/talks/DonTapscott_2016T-low-th.mp4","high":"https://download.ted.com/talks/DonTapscott_2016T-480p-th.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/DonTapscott_2016T-low-he.mp4","high":"https://download.ted.com/talks/DonTapscott_2016T-480p-he.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/DonTapscott_2016T-low-nl.mp4","high":"https://download.ted.com/talks/DonTapscott_2016T-480p-nl.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/DonTapscott_2016T-low-ru.mp4","high":"https://download.ted.com/talks/DonTapscott_2016T-480p-ru.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/DonTapscott_2016T-low-bg.mp4","high":"https://download.ted.com/talks/DonTapscott_2016T-480p-bg.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/DonTapscott_2016T-low-zh-cn.mp4","high":"https://download.ted.com/talks/DonTapscott_2016T-480p-zh-cn.mp4"},"zh-tw":{"name":"Chinese, Traditional","high":"https://download.ted.com/talks/DonTapscott_2016T-480p-zh-tw.mp4","low":"https://download.ted.com/talks/DonTapscott_2016T-low-zh-tw.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/DonTapscott_2016T-low-hu.mp4","high":"https://download.ted.com/talks/DonTapscott_2016T-480p-hu.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/DonTapscott_2016T-low-ko.mp4","high":"https://download.ted.com/talks/DonTapscott_2016T-480p-ko.mp4"},"hr":{"name":"Croatian","low":"https://download.ted.com/talks/DonTapscott_2016T-low-hr.mp4","high":"https://download.ted.com/talks/DonTapscott_2016T-480p-hr.mp4"},"fr":{"name":"French","low":"https://download.ted.com/talks/DonTapscott_2016T-low-fr.mp4","high":"https://download.ted.com/talks/DonTapscott_2016T-480p-fr.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/DonTapscott_2016T-low-vi.mp4","high":"https://download.ted.com/talks/DonTapscott_2016T-480p-vi.mp4"},"de":{"name":"German","low":"https://download.ted.com/talks/DonTapscott_2016T-low-de.mp4","high":"https://download.ted.com/talks/DonTapscott_2016T-480p-de.mp4"},"sk":{"name":"Slovak","low":"https://download.ted.com/talks/DonTapscott_2016T-low-sk.mp4","high":"https://download.ted.com/talks/DonTapscott_2016T-480p-sk.mp4"}},"audioDownload":"https://download.ted.com/talks/DonTapscott_2016T.mp3?apikey=acme-roadrunner"},"duration":1129.0,"event":"TEDSummit","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://s3.amazonaws.com/talkstar-photos/uploads/fa45ee23-5a84-413a-8d37-c7b73c092a08/DonTapscott_2016T-embed.jpg","hero_load":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/fa45ee23-5a84-413a-8d37-c7b73c092a08/DonTapscott_2016T-embed.jpg?q=50&w=15","id":"2573","player_talks":[{"id":"2573","duration":1129.0,"languages":[{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Slovak","endonym":"Slovenčina","languageCode":"sk","ianaCode":"sk","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2016T/Blank/DonTapscott_2016T-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDSummit%26id%3D2573%26tag%3Dbusiness%2Ccollaboration%2Ccomputers%2Cdata%2Ceconomics%2Cfuture%2Cinnovation%2CInternet%2Cprivacy%2Csecurity%2Csociety%2Csoftware%2Ctechnology%2Ctrust%2Cblockchain%26talk%3Ddon_tapscott_how_the_blockchain_is_changing_money_and_business%26year%3D2016&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"2573","talk":"don_tapscott_how_the_blockchain_is_changing_money_and_business","tag":"business,collaboration,computers,data,economics,future,innovation,Internet,privacy,security,society,software,technology,trust,blockchain","year":"2016","event":"TEDSummit"},"stream":"https://hls.ted.com/talks/2573.m3u8","metadata":"https://hls.ted.com/talks/2573.json"}},"targeting":{"id":"2573","talk":"don_tapscott_how_the_blockchain_is_changing_money_and_business","tag":"business,collaboration,computers,data,economics,future,innovation,Internet,privacy,security,society,software,technology,trust,blockchain","year":"2016","event":"TEDSummit"},"canonical":"https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business","name":"Don Tapscott: How the blockchain is changing money and business","title":"How the blockchain is changing money and business","speaker":"Don Tapscott","thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/fa45ee23-5a84-413a-8d37-c7b73c092a08/DonTapscott_2016T-embed.jpg?quality=89&w=600","slug":"don_tapscott_how_the_blockchain_is_changing_money_and_business","event":"TEDSummit","published":1472136946}],"ratings":[{"id":8,"name":"Informative","count":1790},{"id":10,"name":"Inspiring","count":860},{"id":22,"name":"Fascinating","count":1023},{"id":1,"name":"Beautiful","count":68},{"id":24,"name":"Persuasive","count":418},{"id":23,"name":"Jaw-dropping","count":184},{"id":25,"name":"OK","count":71},{"id":9,"name":"Ingenious","count":278},{"id":2,"name":"Confusing","count":30},{"id":21,"name":"Unconvincing","count":24},{"id":3,"name":"Courageous","count":65},{"id":11,"name":"Longwinded","count":11},{"id":26,"name":"Obnoxious","count":12},{"id":7,"name":"Funny","count":20}],"recorded_at":"2016-06-28T00:00:00.000+00:00","related_talks":[{"id":"1795","hero":"https://pe.tedcdn.com/images/ted/991a38e61a189f6b8cefd1ad14df7dbc3e5c8114_1600x1200.jpg","speaker":"Paul Kemp-Robertson","title":"Bitcoin. Sweat. Tide. Meet the future of branded currency.","duration":651.0,"slug":"paul_kemp_robertson_bitcoin_sweat_tide_meet_the_future_of_branded_currency","viewed_count":1202327},{"id":"2486","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/ac4ff23d-f682-4844-a854-41201f7334cb/ShivaniSiroya_2016U-embed.jpg","speaker":"Shivani Siroya","title":"A smart loan for people with no credit history (yet)","duration":491.0,"slug":"shivani_siroya_a_smart_loan_for_people_with_no_credit_history_yet","viewed_count":1536843},{"id":"1492","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/23190d2e-8092-422b-8799-4f71f423dac3/DonTapscott_2012G-embed.jpg","speaker":"Don Tapscott","title":"Four principles for the open world","duration":1070.0,"slug":"don_tapscott_four_principles_for_the_open_world_1","viewed_count":1050629},{"id":"2554","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/1eea6d0b-513a-4d54-9b3c-871e612b8be5/NehaNarula_2016S-embed.jpg","speaker":"Neha Narula","title":"The future of money","duration":976.0,"slug":"neha_narula_the_future_of_money","viewed_count":2096054},{"id":"2626","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/42b867cc-b1c4-4daf-9f19-6959a2a0029a/BettinaWarburg_2016T-embed.jpg","speaker":"Bettina Warburg","title":"How the blockchain will radically transform the economy","duration":897.0,"slug":"bettina_warburg_how_the_blockchain_will_radically_transform_the_economy","viewed_count":3093676},{"id":"2604","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/b55d3f2a-bb4c-45e4-9d40-fb46a9e8c415/RachelBotsman_2016T-embed.jpg","speaker":"Rachel Botsman","title":"We've stopped trusting institutions and started trusting strangers","duration":1028.0,"slug":"rachel_botsman_we_ve_stopped_trusting_institutions_and_started_trusting_strangers","viewed_count":1496036}],"slug":"don_tapscott_how_the_blockchain_is_changing_money_and_business","speakers":[{"id":"1298","slug":"don_tapscott","is_published":true,"firstname":"Don","lastname":"Tapscott","middleinitial":"","title":"","description":"Digital strategist","photo_url":"https://pe.tedcdn.com/images/ted/a3ebb051eceba452cc8b395566bf7190c2d5f6ca_254x191.jpg","whatotherssay":"With <em>Blockchain Revolution</em>, the Tapscotts have written the book, literally, on how to survive and thrive in this next wave of technology-driven disruption. Likely to become one of the iconic books of our time.","whotheyare":"Don Tapscott takes the long view on our digital, connected, hyper-collaborative world.","whylisten":"<p>A leading analyst of innovation and the impacts of technology, Don Tapscott has authored or co-authored 15 widely read books about various aspects of the reshaping of our society and economy. His work&nbsp;<a href=\"http://www.amazon.com/Wikinomics-Mass-Collaboration-Changes-Everything/dp/1591843677\" target=\"_blank\"><em>Wikinomics</em></a>&nbsp;counts among the most influential business books of the last decade. His new book&nbsp;<a href=\"http://www.amazon.com/The-Blockchain-Revolution/dp/0241237858\" target=\"_blank\"><em>The Blockchain Revolution</em></a>, co-authored with his son, Alex, discusses the blockchain, the distributed-database technology that&#39;s being deployed well beyond its original application as the public ledger behind Bitcoin. In the book, they analyze why blockchain technology will fundamentally change the internet -- how it works, how to use it and its promises and perils.</p><p>Tapscott is an adjunct professor of management at the Rotman School of Management at the University of Toronto, a Senior Advisor at the World Economic Forum and an Associate of the Berkman Klein Center for Internet and Society at Harvard University.</p>"}],"speaker_name":"Don Tapscott","tags":["business","collaboration","computers","data","economics","future","innovation","Internet","privacy","security","society","software","technology","trust","blockchain"],"title":"How the blockchain is changing money and business","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":2993153}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

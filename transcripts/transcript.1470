@@ -1,0 +1,1204 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Didier Sornette: How we can predict the next financial crisis | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: The 2007-2008 financial crisis, you might think, was an unpredictable one-time crash. But Didier Sornette and his Financial Crisis Observatory have plotted a set of early warning signs for unstable, growing systems, tracking the moment when any bubble is about to pop. (And he&#39;s seeing it happen again, right now.)" />
+<meta name="author" content="Didier Sornette" />
+<link rel="canonical" href="https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis/transcript" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis/transcript?language=el" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis/transcript?language=vi" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis/transcript?language=it" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis/transcript?language=en" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis/transcript?language=pt-br" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis/transcript?language=nl" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis/transcript?language=pt" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="th" href="https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis/transcript?language=th" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis/transcript?language=fr" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis/transcript?language=de" />
+<link rel="alternate" hreflang="da" href="https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis/transcript?language=da" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis/transcript?language=he" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis/transcript?language=ko" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis/transcript?language=ar" />
+<link rel="alternate" hreflang="uk" href="https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis/transcript?language=uk" />
+<meta property="og:title" content="Transcript of &quot;How we can predict the next financial crisis&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a48edfabaf3729e24dc8ad5e7fda6e35fefd97a4_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a48edfabaf3729e24dc8ad5e7fda6e35fefd97a4_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Didier Sornette: How we can predict the next financial crisis" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: The 2007-2008 financial crisis, you might think, was an unpredictable one-time crash. But Didier Sornette and his Financial Crisis Observatory have plotted a set of early warning signs for unstable, growing systems, tracking the moment when any bubble is about to pop. (And he&#39;s seeing it happen again, right now.)" />
+<meta property="og:url" content="https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 1768);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis' itemprop='url'>
+<meta content='How we can predict the next financial crisis' itemprop='name'>
+<meta content="The 2007-2008 financial crisis, you might think, was an unpredictable one-time crash. But Didier Sornette and his Financial Crisis Observatory have plotted a set of early warning signs for unstable, growing systems, tracking the moment when any bubble is about to pop. (And he's seeing it happen again, right now.)" itemprop='description'>
+<meta content='PT17M1S' itemprop='duration'>
+<meta content='2013-06-17T14:57:16+00:00' itemprop='uploadDate'>
+<meta content='1431254' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a48edfabaf3729e24dc8ad5e7fda6e35fefd97a4_1600x1200.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/didier_sornette' itemprop='url'>
+<meta content='Didier Sornette' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/18c2d1beac9d93ce3c8e9e21c4ad234b799fb160_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a48edfabaf3729e24dc8ad5e7fda6e35fefd97a4_1600x1200.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Didier Sornette
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,431,254
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 17:01</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Once upon a time
+											we lived in an economy of financial growth and prosperity.
+											This was called the Great Moderation,
+											the misguided belief by most economists,
+											policymakers and central banks
+											that we have transformed into a new world
+											of never-ending growth and prosperity.
+											This was seen by robust and steady GDP growth,
+											by low and controlled inflation,
+											by low unemployment,
+											and controlled and low financial volatility.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But the Great Recession in 2007 and 2008,
+											the great crash, broke this illusion.
+											A few hundred billion dollars of losses in the financial sector
+											cascaded into five trillion dollars
+											of losses in world GDP
+											and almost $30 trillion losses
+											in the global stock market.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So the understanding of this Great Recession
+											was that this was completely surprising,
+											this came out of the blue,
+											this was like the wrath of the gods.
+											There was no responsibility.
+											So, as a reflection of this,
+											we started the Financial Crisis Observatory.
+											We had the goal to diagnose in real time
+											financial bubbles
+											and identify in advance their critical time.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											What is the underpinning, scientifically, of this financial observatory?
+											We developed a theory called &quot;dragon-kings.&quot;
+											Dragon-kings represent extreme events
+											which are of a class of their own.
+											They are special. They are outliers.
+											They are generated by specific mechanisms
+											that may make them predictable,
+											perhaps controllable.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Consider the financial price time series,
+											a given stock, your perfect stock,
+											or a global index.
+											You have these up-and-downs.
+											A very good measure of the risk of this financial market
+											is the peaks-to-valleys that represent
+											a worst case scenario
+											when you bought at the top and sold at the bottom.
+											You can look at the statistics, the frequency of the occurrence
+											of peak-to-valleys of different sizes,
+											which is represented in this graph.
+											Now, interestingly, 99 percent
+											of the peak-to-valleys of different amplitudes
+											can be represented by a universal power law
+											represented by this red line here.
+											More interestingly, there are outliers, there are exceptions
+											which are above this red line,
+											occur 100 times more frequently, at least,
+											than the extrapolation would predict them to occur
+											based on the calibration of the 99 percent remaining
+											peak-to-valleys.
+											They are due to trenchant dependancies
+											such that a loss is followed by a loss
+											which is followed by a loss which is followed by a loss.
+											These kinds of dependencies
+											are largely missed by standard risk management tools,
+											which ignore them and see lizards
+											when they should see dragon-kings.
+											The root mechanism of a dragon-king
+											is a slow maturation towards instability,
+											which is the bubble,
+											and the climax of the bubble is often the crash.
+											This is similar to the slow heating of water
+											in this test tube reaching the boiling point,
+											where the instability of the water occurs
+											and you have the phase transition to vapor.
+											And this process, which is absolutely non-linear —
+											cannot be predicted by standard techniques —
+											is the reflection of a collective emergent behavior
+											which is fundamentally endogenous.
+											So the cause of the crash, the cause of the crisis
+											has to be found in an inner instability of the system,
+											and any tiny perturbation will make this instability occur.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, some of you may have come to the mind
+											that is this not related to the black swan concept
+											you have heard about frequently?
+											Remember, black swan is this rare bird
+											that you see once and suddenly shattered your belief
+											that all swans should be white,
+											so it has captured the idea of unpredictability,
+											unknowability, that the extreme events
+											are fundamentally unknowable.
+											Nothing can be further
+											from the dragon-king concept I propose,
+											which is exactly the opposite, that most extreme events
+											are actually knowable and predictable.
+											So we can be empowered and take responsibility
+											and make predictions about them.
+											So let&#39;s have my dragon-king burn this black swan concept.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											There are many early warning signals
+											that are predicted by this theory.
+											Let me just focus on one of them:
+											the super-exponential growth with positive feedback.
+											What does it mean?
+											Imagine you have an investment
+											that returns the first year five percent,
+											the second year 10 percent, the third year 20 percent,
+											the next year 40 percent. Is that not marvelous?
+											This is a super-exponential growth.
+											A standard exponential growth corresponds
+											to a constant growth rate, let&#39;s say, of 10 percent
+											The point is that, many times during bubbles,
+											there are positive feedbacks which can be of many times,
+											such that previous growths enhance,
+											push forward, increase the next growth
+											through this kind of super-exponential growth,
+											which is very trenchant, not sustainable.
+											And the key idea is that the mathematical solution
+											of this class of models exhibit finite-time singularities,
+											which means that there is a critical time
+											where the system will break, will change regime.
+											It may be a crash. It may be just a plateau, something else.
+											And the key idea is that the critical time,
+											the information about the critical time is contained
+											in the early development of this super-exponential growth.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We have applied this theory early on, that was our first success,
+											to the diagnostic of the rupture of key elements
+											on the iron rocket.
+											Using acoustic emission, you know, this little noise
+											that you hear a structure emit, sing to you
+											when they are stressed, and reveal the damage going on,
+											there&#39;s a collective phenomenon of positive feedback,
+											the more damage gives the more damage,
+											so you can actually predict,
+											within, of course, a probability band,
+											when the rupture will occur.
+											So this is now so successful that it is used
+											in the initial phase of [unclear] the flight.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Perhaps more surprisingly, the same type of theory
+											applies to biology and medicine,
+											parturition, the act of giving birth, epileptic seizures.
+											From seven months of pregnancy, a mother
+											starts to feel episodic precursory contractions of the uterus
+											that are the sign of these maturations
+											toward the instability, giving birth to the baby,
+											the dragon-king.
+											So if you measure the precursor signal,
+											you can actually identify pre- and post-maturity problems
+											in advance.
+											Epileptic seizures also come in a large variety of size,
+											and when the brain goes to a super-critical state,
+											you have dragon-kings which have a degree of predictability
+											and this can help the patient to deal with this illness.
+											We have applied this theory to many systems,
+											landslides, glacier collapse,
+											even to the dynamics of prediction of success:
+											blockbusters, YouTube videos, movies, and so on.
+											But perhaps the most important application
+											is for finance, and this theory
+											illuminates, I believe, the deep reason
+											for the financial crisis that we have gone through.
+											This is rooted in 30 years of history of bubbles,
+											starting in 1980, with the global bubble
+											crashing in 1987,
+											followed by many other bubbles.
+											The biggest one was the &quot;new economy&quot; Internet bubble
+											in 2000, crashing in 2000,
+											the real estate bubbles in many countries,
+											financial derivative bubbles everywhere,
+											stock market bubbles also everywhere,
+											commodity and all bubbles, debt and credit bubbles —
+											bubbles, bubbles, bubbles.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We had a global bubble.
+											This is a measure of global overvaluation
+											of all markets, expressing what I call
+											an illusion of a perpetual money machine
+											that suddenly broke in 2007.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The problem is that we see the same process,
+											in particular through quantitative easing,
+											of a thinking of a perpetual money machine nowadays
+											to tackle the crisis since 2008 in the U.S., in Europe,
+											in Japan.
+											This has very important implications
+											to understand the failure of quantitative easing
+											as well as austerity measures
+											as long as we don&#39;t attack the core,
+											the structural cause of this perpetual money machine thinking.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, these are big claims.
+											Why would you believe me?
+											Well, perhaps because, in the last 15 years
+											we have come out of our ivory tower,
+											and started to publish ex ante —
+											and I stress the term ex ante, it means &quot;in advance&quot; —
+											before the crash confirmed
+											the existence of the bubble or the financial excesses.
+											These are a few of the major bubbles
+											that we have lived through in recent history.
+											Again, many interesting stories for each of them.
+											Let me tell you just one or two stories
+											that deal with massive bubbles.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We all know the Chinese miracle.
+											This is the expression of the stock market
+											of a massive bubble, a factor of three,
+											300 percent in just a few years.
+											In September 2007,
+											I was invited as a keynote speaker of a macro hedge fund
+											management conference,
+											and I showed to the conference a prediction
+											that by the end of 2007, this bubble
+											would change regime.
+											There might be a crash. Certainly not sustainable.
+											Now, how do you believe the very smart,
+											very motivated, very informed macro hedge fund managers
+											reacted to this prediction?
+											You know, they had made billions
+											just surfing this bubble until now.
+											They told me, &quot;Didier,
+											yeah, the market might be overvalued,
+											but you forget something.
+											There is the Beijing Olympic Games coming
+											in August 2008, and it&#39;s very clear that
+											the Chinese government is controlling the economy
+											and doing what it takes
+											to also avoid any wave and control the stock market.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Three weeks after my presentation,
+											the markets lost 20 percent
+											and went through a phase of volatility,
+											upheaval, and a total market loss of
+											70 percent until the end of the year.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So how can we be so collectively wrong
+											by misreading or ignoring the science
+											of the fact that when an instability has developed,
+											and the system is ripe, any perturbation
+											makes it essentially impossible to control?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The Chinese market collapsed, but it rebounded.
+											In 2009, we also identified that this new bubble,
+											a smaller one, was unsustainable,
+											so we published again a prediction, in advance,
+											stating that by August 2009, the market will correct,
+											will not continue on this track.
+											Our critics, reading the prediction,
+											said, &quot;No, it&#39;s not possible.
+											The Chinese government is there.
+											They have learned their lesson. They will control.
+											They want to benefit from the growth.&quot;
+											Perhaps these critics have not learned their lesson previously.
+											So the crisis did occur. The market corrected.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The same critics then said, &quot;Ah, yes,
+											but you published your prediction.
+											You influenced the market.
+											It was not a prediction.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Maybe I am very powerful then.
+											Now, this is interesting.
+											It shows that it&#39;s essentially impossible until now
+											to develop a science of economics
+											because we are sentient beings who anticipate
+											and there is a problem of self-fulfilling prophesies.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So we invented a new way of doing science.
+											We created the Financial Bubble Experiment.
+											The idea is the following. We monitor the markets.
+											We identify excesses, bubbles.
+											We do our work. We write a report
+											in which we put our prediction of the critical time.
+											We don&#39;t release the report. It&#39;s kept secret.
+											But with modern encrypting techniques,
+											we have a hash, we publish a public key,
+											and six months later, we release the report,
+											and there is authentication.
+											And all this is done on an international archive
+											so that we cannot be accused of just releasing the successes.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Let me tease you with a very recent analysis.
+											17th of May, 2013, just two weeks ago,
+											we identified that the U.S. stock market
+											was on an unsustainable path
+											and we released this on our website on the 21st of May
+											that there will be a change of regime.
+											The next day, the market started to change regime, course.
+											This is not a crash.
+											This is just the third or fourth act
+											of a massive bubble in the making.
+											Scaling up the discussion at the size of the planet,
+											we see the same thing.
+											Wherever we look, it&#39;s observable:
+											in the biosphere, in the atmosphere, in the ocean,
+											showing these super-exponential trajectories
+											characterizing an unsustainable path
+											and announcing a phase transition.
+											This diagram on the right
+											shows a very beautiful compilation of studies
+											suggesting indeed that there is a nonlinear — possibility
+											for a nonlinear transition just in the next few decades.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So there are bubbles everywhere.
+											From one side, this is exciting
+											for me, as a professor who chases bubbles
+											and slays dragons, as the media has sometimes called me.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But can we really slay the dragons?
+											Very recently, with collaborators,
+											we studied a dynamical system
+											where you see the dragon-king as these big loops
+											and we were able to apply tiny perturbations at the right times
+											that removed, when control is on, these dragons.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											&quot;Gouverner, c&#39;est prévoir.&quot;
+											Governing is the art of planning and predicting.
+											But is it not the case that this is probably
+											one of the biggest gaps of mankind,
+											which has the responsibility to steer
+											our societies and our planet toward sustainability
+											in the face of growing challenges and crises?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But the dragon-king theory gives hope.
+											We learn that most systems have pockets of predictability.
+											It is possible to develop advance diagnostics of crises
+											so that we can be prepared, we can take measures,
+											we can take responsibility,
+											and so that never again will
+											extremes and crises like the Great Recession
+											or the European crisis take us by surprise.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":20701,"count":162,"talk_id":1768},"threadId":20701,"current_talk":"1768","description":"The 2007-2008 financial crisis, you might think, was an unpredictable one-time crash. But Didier Sornette and his Financial Crisis Observatory have plotted a set of early warning signs for unstable, growing systems, tracking the moment when any bubble is about to pop. (And he's seeing it happen again, right now.)","event":"TEDGlobal 2013","language":"en","name":"Didier Sornette: How we can predict the next financial crisis","slug":"didier_sornette_how_we_can_predict_the_next_financial_crisis","speakers":[{"id":"1572","slug":"didier_sornette","is_published":true,"firstname":"Didier","lastname":"Sornette","middleinitial":"","title":"","description":"Risk economist","photo_url":"https://pe.tedcdn.com/images/ted/18c2d1beac9d93ce3c8e9e21c4ad234b799fb160_254x191.jpg","whatotherssay":"Didier Sornette has immersed his life in risk.","whotheyare":"Didier Sornette studies whether it is possible to anticipate big changes or predict crises in complex systems.","whylisten":"<p>While financial crashes, recessions, earthquakes and other extreme events appear chaotic, Didier Sornette&#39;s research is focused on finding out whether they are, in fact, predictable. They may happen often as a surprise, he suggests, but they don&#39;t come out of the blue: the most extreme risks (and gains) are what he calls &quot;dragon kings&quot; that almost always result from a visible drift toward a critical instability. In his hypothesis, this instability has measurable technical and/or socio-economical precursors. As he says: &quot;Crises are not <em>external</em> shocks.&quot; <br /><br />An expert on complex systems, Sornette is the chair of entrepreneurial risk at the Swiss Federal Institute of Technology, and director of the Financial Crisis Observatory, a project to test the hypothesis that markets can be predictable, especially during bubbles. He&#39;s the author of <em><a href=\"http://geni.us/stockmarketscrash\" target=\"_blank\">Why Stock Markets Crash: Critical Events in Complex Financial Systems</a>.</em></p>"}],"url":"https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis","viewed_count":1431253,"talks":[{"recommendations":null,"more_resources":[{"status":"approved","headline":"What will upend the economy next?","blurb":"The economist shares his forecast for upcoming market bubbles and the likelihood of a future crash.","link_url":"http://ideas.ted.com/2013/06/17/turbulent-times-ahead-qa-with-economist-didier-sornette/","image_url":"","visible_url":"","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"from_the_blog"}],"corrections":[],"has_citations":false,"take_action":[],"curator_approved":true,"description":"The 2007-2008 financial crisis, you might think, was an unpredictable one-time crash. But Didier Sornette and his Financial Crisis Observatory have plotted a set of early warning signs for unstable, growing systems, tracking the moment when any bubble is about to pop. (And he's seeing it happen again, right now.)","downloads":{"id":1768,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Danish","endonym":"Dansk","languageCode":"da","ianaCode":"da","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/DidierSornette_2013G-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/DidierSornette_2013G.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/DidierSornette_2013G-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"en":{"name":"English","high":"https://download.ted.com/talks/DidierSornette_2013G-480p-en.mp4","low":"https://download.ted.com/talks/DidierSornette_2013G-low-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/DidierSornette_2013G-low-pt-br.mp4","high":"https://download.ted.com/talks/DidierSornette_2013G-480p-pt-br.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/DidierSornette_2013G-low-es.mp4","high":"https://download.ted.com/talks/DidierSornette_2013G-480p-es.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/DidierSornette_2013G-low-he.mp4","high":"https://download.ted.com/talks/DidierSornette_2013G-480p-he.mp4"},"fr":{"name":"French","low":"https://download.ted.com/talks/DidierSornette_2013G-low-fr.mp4","high":"https://download.ted.com/talks/DidierSornette_2013G-480p-fr.mp4"},"ro":{"name":"Romanian","high":"https://download.ted.com/talks/DidierSornette_2013G-480p-ro.mp4","low":"https://download.ted.com/talks/DidierSornette_2013G-low-ro.mp4"},"it":{"name":"Italian","high":"https://download.ted.com/talks/DidierSornette_2013G-480p-it.mp4","low":"https://download.ted.com/talks/DidierSornette_2013G-low-it.mp4"},"ko":{"name":"Korean","high":"https://download.ted.com/talks/DidierSornette_2013G-480p-ko.mp4","low":"https://download.ted.com/talks/DidierSornette_2013G-low-ko.mp4"},"ar":{"name":"Arabic","high":"https://download.ted.com/talks/DidierSornette_2013G-480p-ar.mp4","low":"https://download.ted.com/talks/DidierSornette_2013G-low-ar.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/DidierSornette_2013G-low-zh-cn.mp4","high":"https://download.ted.com/talks/DidierSornette_2013G-480p-zh-cn.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/DidierSornette_2013G-low-pl.mp4","high":"https://download.ted.com/talks/DidierSornette_2013G-480p-pl.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/DidierSornette_2013G-low-nl.mp4","high":"https://download.ted.com/talks/DidierSornette_2013G-480p-nl.mp4"},"de":{"name":"German","low":"https://download.ted.com/talks/DidierSornette_2013G-low-de.mp4","high":"https://download.ted.com/talks/DidierSornette_2013G-480p-de.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/DidierSornette_2013G-low-ja.mp4","high":"https://download.ted.com/talks/DidierSornette_2013G-480p-ja.mp4"},"uk":{"name":"Ukrainian","low":"https://download.ted.com/talks/DidierSornette_2013G-low-uk.mp4","high":"https://download.ted.com/talks/DidierSornette_2013G-480p-uk.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/DidierSornette_2013G-low-ru.mp4","high":"https://download.ted.com/talks/DidierSornette_2013G-480p-ru.mp4"},"da":{"name":"Danish","low":"https://download.ted.com/talks/DidierSornette_2013G-low-da.mp4","high":"https://download.ted.com/talks/DidierSornette_2013G-480p-da.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/DidierSornette_2013G-low-zh-tw.mp4","high":"https://download.ted.com/talks/DidierSornette_2013G-480p-zh-tw.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/DidierSornette_2013G-low-el.mp4","high":"https://download.ted.com/talks/DidierSornette_2013G-480p-el.mp4"},"th":{"name":"Thai","low":"https://download.ted.com/talks/DidierSornette_2013G-low-th.mp4","high":"https://download.ted.com/talks/DidierSornette_2013G-480p-th.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/DidierSornette_2013G-low-pt.mp4","high":"https://download.ted.com/talks/DidierSornette_2013G-480p-pt.mp4"}},"audioDownload":"https://download.ted.com/talks/DidierSornette_2013G.mp3?apikey=acme-roadrunner"},"duration":1021.0,"event":"TEDGlobal 2013","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/a48edfabaf3729e24dc8ad5e7fda6e35fefd97a4_1600x1200.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a48edfabaf3729e24dc8ad5e7fda6e35fefd97a4_1600x1200.jpg?q=50&w=15","id":"1768","player_talks":[{"id":"1768","duration":1021.0,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Danish","endonym":"Dansk","languageCode":"da","ianaCode":"da","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2013G/Blank/DidierSornette_2013G-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDGlobal%2B2013%26id%3D1768%26tag%3Dbusiness%2Ceconomics%2Cglobal%2Bissues%2Cprediction%2Cmarkets%26talk%3Ddidier_sornette_how_we_can_predict_the_next_financial_crisis%26year%3D2013&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"1768","talk":"didier_sornette_how_we_can_predict_the_next_financial_crisis","tag":"business,economics,global issues,prediction,markets","year":"2013","event":"TEDGlobal 2013"},"stream":"https://hls.ted.com/talks/1768.m3u8","metadata":"https://hls.ted.com/talks/1768.json"}},"targeting":{"id":"1768","talk":"didier_sornette_how_we_can_predict_the_next_financial_crisis","tag":"business,economics,global issues,prediction,markets","year":"2013","event":"TEDGlobal 2013"},"canonical":"https://www.ted.com/talks/didier_sornette_how_we_can_predict_the_next_financial_crisis","name":"Didier Sornette: How we can predict the next financial crisis","title":"How we can predict the next financial crisis","speaker":"Didier Sornette","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a48edfabaf3729e24dc8ad5e7fda6e35fefd97a4_1600x1200.jpg?quality=89&w=600","slug":"didier_sornette_how_we_can_predict_the_next_financial_crisis","event":"TEDGlobal 2013","published":1371481036}],"ratings":[{"id":10,"name":"Inspiring","count":77},{"id":8,"name":"Informative","count":241},{"id":22,"name":"Fascinating","count":143},{"id":21,"name":"Unconvincing","count":75},{"id":24,"name":"Persuasive","count":152},{"id":3,"name":"Courageous","count":24},{"id":11,"name":"Longwinded","count":19},{"id":26,"name":"Obnoxious","count":14},{"id":2,"name":"Confusing","count":36},{"id":9,"name":"Ingenious","count":58},{"id":25,"name":"OK","count":47},{"id":23,"name":"Jaw-dropping","count":22},{"id":1,"name":"Beautiful","count":11},{"id":7,"name":"Funny","count":1}],"recorded_at":"2013-06-11T00:00:00.000+00:00","related_talks":[{"id":"1054","hero":"https://pe.tedcdn.com/images/ted/506f267eb47b9c3c6c7cf09369d853ec02d3e06e_800x600.jpg","speaker":"Naomi Klein","title":"Addicted to risk","duration":1189.0,"slug":"naomi_klein_addicted_to_risk","viewed_count":944789},{"id":"927","hero":"https://pe.tedcdn.com/images/ted/187437_800x600.jpg","speaker":"Laurie Santos","title":"A monkey economy as irrational as ours","duration":1185.0,"slug":"laurie_santos","viewed_count":1320136},{"id":"1318","hero":"https://pe.tedcdn.com/images/ted/e263f99b7ffddc91cffc3927c99c69c8e01c8810_800x600.jpg","speaker":"Tyler Cowen","title":"Be suspicious of simple stories","duration":957.0,"slug":"tyler_cowen_be_suspicious_of_stories","viewed_count":412135},{"id":"15537","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/948a970c-46fc-4e4d-9aed-aace7d90abdf/KateRaworth_2018-embed.jpg","speaker":"Kate Raworth","title":"A healthy economy should be designed to thrive, not grow","duration":953.0,"slug":"kate_raworth_a_healthy_economy_should_be_designed_to_thrive_not_grow","viewed_count":807827},{"id":"1374","hero":"https://pe.tedcdn.com/images/ted/ad96593a0c834ba9394c16c7d0e1892c4f50a7c9_800x600.jpg","speaker":"Paul Gilding","title":"The Earth is full","duration":1006.0,"slug":"paul_gilding_the_earth_is_full","viewed_count":1216775},{"id":"972","hero":"https://pe.tedcdn.com/images/ted/204601_800x600.jpg","speaker":"Tim Jackson","title":"An economic reality check","duration":1223.0,"slug":"tim_jackson_s_economic_reality_check","viewed_count":939540}],"slug":"didier_sornette_how_we_can_predict_the_next_financial_crisis","speakers":[{"id":"1572","slug":"didier_sornette","is_published":true,"firstname":"Didier","lastname":"Sornette","middleinitial":"","title":"","description":"Risk economist","photo_url":"https://pe.tedcdn.com/images/ted/18c2d1beac9d93ce3c8e9e21c4ad234b799fb160_254x191.jpg","whatotherssay":"Didier Sornette has immersed his life in risk.","whotheyare":"Didier Sornette studies whether it is possible to anticipate big changes or predict crises in complex systems.","whylisten":"<p>While financial crashes, recessions, earthquakes and other extreme events appear chaotic, Didier Sornette&#39;s research is focused on finding out whether they are, in fact, predictable. They may happen often as a surprise, he suggests, but they don&#39;t come out of the blue: the most extreme risks (and gains) are what he calls &quot;dragon kings&quot; that almost always result from a visible drift toward a critical instability. In his hypothesis, this instability has measurable technical and/or socio-economical precursors. As he says: &quot;Crises are not <em>external</em> shocks.&quot; <br /><br />An expert on complex systems, Sornette is the chair of entrepreneurial risk at the Swiss Federal Institute of Technology, and director of the Financial Crisis Observatory, a project to test the hypothesis that markets can be predictable, especially during bubbles. He&#39;s the author of <em><a href=\"http://geni.us/stockmarketscrash\" target=\"_blank\">Why Stock Markets Crash: Critical Events in Complex Financial Systems</a>.</em></p>"}],"speaker_name":"Didier Sornette","tags":["business","economics","global issues","prediction","markets"],"title":"How we can predict the next financial crisis","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":1431253}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

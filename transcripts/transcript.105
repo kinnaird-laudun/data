@@ -1,0 +1,1836 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Jeff Hawkins: How brain science will change computing | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Treo creator Jeff Hawkins urges us to take a new look at the brain -- to see it not as a fast processor, but as a memory system that stores and plays back experiences to help us predict, intelligently, what will happen next." />
+<meta name="author" content="Jeff Hawkins" />
+<link rel="canonical" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=el" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=en" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=vi" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=pt-br" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=nl" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=pt" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="nb" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=nb" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=tr" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=bg" />
+<link rel="alternate" hreflang="hr" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=hr" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=de" />
+<link rel="alternate" hreflang="da" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=da" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=fa" />
+<link rel="alternate" hreflang="fi" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=fi" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=hu" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=he" />
+<link rel="alternate" hreflang="ka" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=ka" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=ko" />
+<link rel="alternate" hreflang="mk" href="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript?language=mk" />
+<meta property="og:title" content="Transcript of &quot;How brain science will change computing&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/dfc244d5b81ab35ce80a3c4f19877b23f8be7a27_2880x1620.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/dfc244d5b81ab35ce80a3c4f19877b23f8be7a27_2880x1620.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Jeff Hawkins: How brain science will change computing" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Treo creator Jeff Hawkins urges us to take a new look at the brain -- to see it not as a fast processor, but as a memory system that stores and plays back experiences to help us predict, intelligently, what will happen next." />
+<meta property="og:url" content="https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 125);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing' itemprop='url'>
+<meta content='How brain science will change computing' itemprop='name'>
+<meta content='Treo creator Jeff Hawkins urges us to take a new look at the brain — to see it not as a fast processor, but as a memory system that stores and plays back experiences to help us predict, intelligently, what will happen next.' itemprop='description'>
+<meta content='PT20M11S' itemprop='duration'>
+<meta content='2007-05-21T15:08:00+00:00' itemprop='uploadDate'>
+<meta content='1436928' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/dfc244d5b81ab35ce80a3c4f19877b23f8be7a27_2880x1620.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/jeff_hawkins' itemprop='url'>
+<meta content='Jeff Hawkins' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/8623_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/dfc244d5b81ab35ce80a3c4f19877b23f8be7a27_2880x1620.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Jeff Hawkins
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,436,928
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 20:11</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I do two things:
+											I design mobile computers
+and I study brains.
+											Today&#39;s talk is about brains
+and — (Audience member cheers)
+											Yay! I have a brain fan out there.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+											If I could have my first slide,
+											you&#39;ll see the title of my talk
+and my two affiliations.
+											So what I&#39;m going to talk about is why
+we don&#39;t have a good brain theory,
+											why it is important
+that we should develop one
+											and what we can do about it.
+											I&#39;ll try to do all that in 20 minutes.
+											I have two affiliations.
+											Most of you know me
+from my Palm and Handspring days,
+											but I also run a nonprofit
+scientific research institute
+											called the Redwood Neuroscience
+Institute in Menlo Park.
+											We study theoretical neuroscience
+and how the neocortex works.
+											I&#39;m going to talk all about that.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I have one slide on my other life,
+the computer life,
+											and that&#39;s this slide here.
+											These are some of the products
+I&#39;ve worked on over the last 20 years,
+											starting from the very original laptop
+											to some of the first tablet computers
+											and so on, ending up
+most recently with the Treo,
+											and we&#39;re continuing to do this.
+											I&#39;ve done this because
+I believe mobile computing
+											is the future of personal computing,
+											and I&#39;m trying to make
+the world a little bit better
+											by working on these things.
+											But this was, I admit, all an accident.
+											I really didn&#39;t want to do
+any of these products.
+											Very early in my career
+											I decided I was not going to be
+in the computer industry.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Before that, I just have to tell you
+											about this picture of Graffiti
+I picked off the web the other day.
+											I was looking for a picture for Graffiti
+that&#39;ll text input language.
+											I found a website dedicated to teachers
+who want to make script-writing things
+											across the top of their blackboard,
+											and they had added Graffiti to it,
+and I&#39;m sorry about that.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So what happened was,
+											when I was young and got out
+of engineering school at Cornell in &#39;79,
+											I went to work for Intel
+and was in the computer industry,
+											and three months into that,
+I fell in love with something else.
+											I said, &quot;I made
+the wrong career choice here,&quot;
+											and I fell in love with brains.
+											This is not a real brain.
+											This is a picture of one, a line drawing.
+											And I don&#39;t remember
+exactly how it happened,
+											but I have one recollection,
+which was pretty strong in my mind.
+											In September of 1979,
+											Scientific American came out
+with a single-topic issue about the brain.
+											It was one of their best issues ever.
+											They talked about the neuron,
+development, disease, vision
+											and all the things you might want
+to know about brains.
+											It was really quite impressive.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											One might&#39;ve had the impression
+we knew a lot about brains.
+											But the last article in that issue
+was written by Francis Crick of DNA fame.
+											Today is, I think, the 50th anniversary
+of the discovery of DNA.
+											And he wrote a story basically saying,
+this is all well and good,
+											but you know, we don&#39;t know
+diddly squat about brains,
+											and no one has a clue how they work,
+											so don&#39;t believe what anyone tells you.
+											This is a quote
+from that article, he says:
+											&quot;What is conspicuously lacking&quot; —
+he&#39;s a very proper British gentleman —
+											&quot;What is conspicuously lacking
+is a broad framework of ideas
+											in which to interpret
+these different approaches.&quot;
+											I thought the word &quot;framework&quot; was great.
+											He didn&#39;t say we didn&#39;t have a theory.
+											He says we don&#39;t even know
+how to begin to think about it.
+											We don&#39;t even have a framework.
+											We are in the pre-paradigm days,
+if you want to use Thomas Kuhn.
+											So I fell in love with this.
+											I said, look: We have all this knowledge
+about brains — how hard can it be?
+											It&#39;s something we can work on
+in my lifetime; I could make a difference.
+											So I tried to get out of the computer
+business, into the brain business.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											First, I went to MIT,
+the AI lab was there.
+											I said, I want to build
+intelligent machines too,
+											but I want to study how brains work first.
+											And they said, &quot;Oh, you
+don&#39;t need to do that.
+											You&#39;re just going to program
+computers, that&#39;s all.
+											I said, you really ought to study brains.
+											They said, &quot;No, you&#39;re wrong.&quot;
+											I said, &quot;No, you&#39;re wrong,&quot;
+and I didn&#39;t get in.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I was a little disappointed —
+pretty young —
+											but I went back again a few years later,
+											this time in California,
+and I went to Berkeley.
+											And I said, I&#39;ll go
+in from the biological side.
+											So I got in the PhD program in biophysics.
+											I was like, I&#39;m studying brains now.
+Well, I want to study theory.
+											They said, &quot;You can&#39;t
+study theory about brains.
+											You can&#39;t get funded for that.
+											And as a graduate student,
+you can&#39;t do that.&quot;
+											So I said, oh my gosh.
+											I was depressed; I said, but I can
+make a difference in this field.
+											I went back in the computer industry
+											and said, I&#39;ll have to work
+here for a while.
+											That&#39;s when I designed
+all those computer products.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I said, I want to do this
+for four years, make some money,
+											I was having a family,
+and I would mature a bit,
+											and maybe the business
+of neuroscience would mature a bit.
+											Well, it took longer than four years.
+It&#39;s been about 16 years.
+											But I&#39;m doing it now,
+and I&#39;m going to tell you about it.
+											So why should we have a good brain theory?
+											Well, there&#39;s lots of reasons
+people do science.
+											The most basic one is,
+people like to know things.
+											We&#39;re curious, and we go out
+and get knowledge.
+											Why do we study ants? It&#39;s interesting.
+											Maybe we&#39;ll learn something useful,
+but it&#39;s interesting and fascinating.
+											But sometimes a science
+has other attributes
+											which makes it really interesting.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Sometimes a science will tell
+something about ourselves;
+											it&#39;ll tell us who we are.
+											Evolution did this
+and Copernicus did this,
+											where we have a new
+understanding of who we are.
+											And after all, we are our brains.
+My brain is talking to your brain.
+											Our bodies are hanging along for the ride,
+											but my brain is talking to your brain.
+											And if we want to understand
+who we are and how we feel and perceive,
+											we need to understand brains.
+											Another thing is sometimes science leads
+to big societal benefits, technologies,
+											or businesses or whatever.
+											This is one, too, because
+when we understand how brains work,
+											we&#39;ll be able to build
+intelligent machines.
+											That&#39;s a good thing on the whole,
+											with tremendous benefits to society,
+											just like a fundamental technology.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So why don&#39;t we have
+a good theory of brains?
+											People have been working
+on it for 100 years.
+											Let&#39;s first take a look
+at what normal science looks like.
+											This is normal science.
+											Normal science is a nice balance
+between theory and experimentalists.
+											The theorist guy says,
+&quot;I think this is what&#39;s going on,&quot;
+											the experimentalist says, &quot;You&#39;re wrong.&quot;
+											It goes back and forth,
+this works in physics, this in geology.
+											But if this is normal science,
+what does neuroscience look like?
+											This is what neuroscience looks like.
+											We have this mountain of data,
+											which is anatomy, physiology and behavior.
+											You can&#39;t imagine how much detail
+we know about brains.
+											There were 28,000 people who went
+to the neuroscience conference this year,
+											and every one of them
+is doing research in brains.
+											A lot of data, but no theory.
+											There&#39;s a little wimpy box on top there.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And theory has not played a role
+in any sort of grand way
+											in the neurosciences.
+											And it&#39;s a real shame.
+											Now, why has this come about?
+											If you ask neuroscientists
+why is this the state of affairs,
+											first, they&#39;ll admit it.
+											But if you ask them, they say,
+											there&#39;s various reasons
+we don&#39;t have a good brain theory.
+											Some say we still don&#39;t have enough data,
+											we need more information,
+there&#39;s all these things we don&#39;t know.
+											Well, I just told you there&#39;s data
+coming out of your ears.
+											We have so much information,
+we don&#39;t even know how to organize it.
+											What good is more going to do?
+											Maybe we&#39;ll be lucky and discover
+some magic thing, but I don&#39;t think so.
+											This is a symptom of the fact
+that we just don&#39;t have a theory.
+											We don&#39;t need more data,
+we need a good theory.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Another one is sometimes people say,
+											&quot;Brains are so complex,
+it&#39;ll take another 50 years.&quot;
+											I even think Chris said something
+like this yesterday, something like,
+											it&#39;s one of the most complicated
+things in the universe.
+											That&#39;s not true — you&#39;re more
+complicated than your brain.
+											You&#39;ve got a brain.
+											And although the brain
+looks very complicated,
+											things look complicated
+until you understand them.
+											That&#39;s always been the case.
+											So we can say, my neocortex,
+the part of the brain I&#39;m interested in,
+											has 30 billion cells.
+											But, you know what?
+It&#39;s very, very regular.
+											In fact, it looks like it&#39;s the same thing
+repeated over and over again.
+											It&#39;s not as complex as it looks.
+That&#39;s not the issue.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Some people say,
+brains can&#39;t understand brains.
+											Very Zen-like. Woo.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											You know, it sounds good, but why?
+I mean, what&#39;s the point?
+											It&#39;s just a bunch of cells.
+You understand your liver.
+											It&#39;s got a lot of cells in it too, right?
+											So, you know, I don&#39;t think
+there&#39;s anything to that.
+											And finally, some people say,
+											&quot;I don&#39;t feel like a bunch
+of cells — I&#39;m conscious.
+											I&#39;ve got this experience,
+I&#39;m in the world.
+											I can&#39;t be just a bunch of cells.&quot;
+											Well, people used to believe
+there was a life force to be living,
+											and we now know
+that&#39;s really not true at all.
+											And there&#39;s really no evidence,
+											other than that people just disbelieve
+that cells can do what they do.
+											So some people have fallen
+into the pit of metaphysical dualism,
+											some really smart people, too,
+but we can reject all that.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											No, there&#39;s something else,
+											something really fundamental, and it is:
+											another reason why we don&#39;t have
+a good brain theory
+											is because we have an intuitive,
+strongly held but incorrect assumption
+											that has prevented us
+from seeing the answer.
+											There&#39;s something we believe that just,
+it&#39;s obvious, but it&#39;s wrong.
+											Now, there&#39;s a history of this in science
+and before I tell you what it is,
+											I&#39;ll tell you about the history
+of it in science.
+											Look at other scientific revolutions —
+											the solar system, that&#39;s Copernicus,
+											Darwin&#39;s evolution,
+and tectonic plates, that&#39;s Wegener.
+											They all have a lot in common
+with brain science.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											First, they had a lot
+of unexplained data. A lot of it.
+											But it got more manageable
+once they had a theory.
+											The best minds were stumped —
+really smart people.
+											We&#39;re not smarter now than they were then;
+											it just turns out it&#39;s really
+hard to think of things,
+											but once you&#39;ve thought of them,
+it&#39;s easy to understand.
+											My daughters understood
+these three theories,
+											in their basic framework, in kindergarten.
+											It&#39;s not that hard —
+here&#39;s the apple, here&#39;s the orange,
+											the Earth goes around, that kind of stuff.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Another thing is the answer
+was there all along,
+											but we kind of ignored it
+because of this obvious thing.
+											It was an intuitive,
+strongly held belief that was wrong.
+											In the case of the solar system,
+											the idea that the Earth is spinning,
+											the surface is going
+a thousand miles an hour,
+											and it&#39;s going through the solar system
+at a million miles an hour —
+											this is lunacy; we all know
+the Earth isn&#39;t moving.
+											Do you feel like you&#39;re moving
+a thousand miles an hour?
+											If you said Earth was spinning
+around in space and was huge —
+											they would lock you up,
+that&#39;s what they did back then.
+											So it was intuitive and obvious.
+Now, what about evolution?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Evolution, same thing.
+											We taught our kids the Bible says
+God created all these species,
+											cats are cats; dogs are dogs;
+people are people; plants are plants;
+											they don&#39;t change.
+											Noah put them on the ark
+in that order, blah, blah.
+											The fact is, if you believe in evolution,
+we all have a common ancestor.
+											We all have a common ancestor
+with the plant in the lobby!
+											This is what evolution tells us.
+And it&#39;s true. It&#39;s kind of unbelievable.
+											And the same thing about tectonic plates.
+											All the mountains and the continents
+											are kind of floating around
+on top of the Earth.
+											It doesn&#39;t make any sense.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So what is the intuitive,
+but incorrect assumption,
+											that&#39;s kept us from understanding brains?
+											I&#39;ll tell you. It&#39;ll seem obvious
+that it&#39;s correct. That&#39;s the point.
+											Then I&#39;ll make an argument why
+you&#39;re incorrect on the other assumption.
+											The intuitive but obvious thing is:
+											somehow, intelligence
+is defined by behavior;
+											we&#39;re intelligent
+because of how we do things
+											and how we behave intelligently.
+											And I&#39;m going to tell you that&#39;s wrong.
+											Intelligence is defined by prediction.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I&#39;m going to work you
+through this in a few slides,
+											and give you an example
+of what this means.
+											Here&#39;s a system.
+											Engineers and scientists
+like to look at systems like this.
+											They say, we have a thing in a box.
+We have its inputs and outputs.
+											The AI people said, the thing in the box
+is a programmable computer,
+											because it&#39;s equivalent to a brain.
+											We&#39;ll feed it some inputs and get it
+to do something, have some behavior.
+											Alan Turing defined the Turing test,
+which essentially says,
+											we&#39;ll know if something&#39;s intelligent
+if it behaves identical to a human —
+											a behavioral metric
+of what intelligence is
+											that has stuck in our minds
+for a long time.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Reality, though —
+I call it real intelligence.
+											Real intelligence
+is built on something else.
+											We experience the world
+through a sequence of patterns,
+											and we store them, and we recall them.
+											When we recall them,
+we match them up against reality,
+											and we&#39;re making predictions all the time.
+											It&#39;s an internal metric;
+there&#39;s an internal metric about us,
+											saying, do we understand the world,
+am I making predictions, and so on.
+											You&#39;re all being intelligent now,
+but you&#39;re not doing anything.
+											Maybe you&#39;re scratching yourself,
+but you&#39;re not doing anything.
+											But you&#39;re being intelligent;
+you&#39;re understanding what I&#39;m saying.
+											Because you&#39;re intelligent
+and you speak English,
+											you know the word at the end of this
+											sentence.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The word came to you;
+you make these predictions all the time.
+											What I&#39;m saying is,
+											the internal prediction
+is the output in the neocortex,
+											and somehow, prediction
+leads to intelligent behavior.
+											Here&#39;s how that happens:
+											Let&#39;s start with a non-intelligent brain.
+											I&#39;ll argue a non-intelligent brain,
+we&#39;ll call it an old brain.
+											And we&#39;ll say it&#39;s
+a non-mammal, like a reptile,
+											say, an alligator; we have an alligator.
+											And the alligator has
+some very sophisticated senses.
+											It&#39;s got good eyes and ears
+and touch senses and so on,
+											a mouth and a nose.
+											It has very complex behavior.
+											It can run and hide. It has fears
+and emotions. It can eat you.
+											It can attack.
+It can do all kinds of stuff.
+											But we don&#39;t consider
+the alligator very intelligent,
+											not in a human sort of way.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But it has all this complex
+behavior already.
+											Now in evolution, what happened?
+											First thing that happened
+in evolution with mammals
+											is we started to develop a thing
+called the neocortex.
+											I&#39;m going to represent the neocortex
+by this box on top of the old brain.
+											Neocortex means &quot;new layer.&quot;
+It&#39;s a new layer on top of your brain.
+											It&#39;s the wrinkly thing
+on the top of your head
+											that got wrinkly because it got shoved
+in there and doesn&#39;t fit.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Literally, it&#39;s about the size
+of a table napkin
+											and doesn&#39;t fit, so it&#39;s wrinkly.
+											Now, look at how I&#39;ve drawn this.
+											The old brain is still there.
+											You still have that alligator brain.
+You do. It&#39;s your emotional brain.
+											It&#39;s all those gut reactions you have.
+											On top of it, we have this memory system
+called the neocortex.
+											And the memory system is sitting
+over the sensory part of the brain.
+											So as the sensory input
+comes in and feeds from the old brain,
+											it also goes up into the neocortex.
+											And the neocortex is just memorizing.
+											It&#39;s sitting there saying, I&#39;m going
+to memorize all the things going on:
+											where I&#39;ve been, people I&#39;ve seen,
+things I&#39;ve heard, and so on.
+											And in the future, when it sees
+something similar to that again,
+											in a similar environment,
+or the exact same environment,
+											it&#39;ll start playing it back:
+&quot;Oh, I&#39;ve been here before,&quot;
+											and when you were here before,
+this happened next.
+											It allows you to predict the future.
+											It literally feeds back
+the signals into your brain;
+											they&#39;ll let you see
+what&#39;s going to happen next,
+											will let you hear the word
+&quot;sentence&quot; before I said it.
+											And it&#39;s this feeding
+back into the old brain
+											that will allow you to make
+more intelligent decisions.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is the most important slide
+of my talk, so I&#39;ll dwell on it a little.
+											And all the time you say,
+&quot;Oh, I can predict things,&quot;
+											so if you&#39;re a rat and you go
+through a maze, and you learn the maze,
+											next time you&#39;re in one,
+you have the same behavior.
+											But suddenly, you&#39;re smarter;
+you say, &quot;I recognize this maze,
+											I know which way to go; I&#39;ve been here
+before; I can envision the future.&quot;
+											That&#39;s what it&#39;s doing.
+											This is true for all mammals —
+											in humans, it got a lot worse.
+											Humans actually developed
+the front of the neocortex,
+											called the anterior part of the neocortex.
+											And nature did a little trick.
+											It copied the posterior,
+the back part, which is sensory,
+											and put it in the front.
+											Humans uniquely have
+the same mechanism on the front,
+											but we use it for motor control.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So we&#39;re now able to do very sophisticated
+motor planning, things like that.
+											I don&#39;t have time to explain,
+but to understand how a brain works,
+											you have to understand how the first part
+of the mammalian neocortex works,
+											how it is we store patterns
+and make predictions.
+											Let me give you
+a few examples of predictions.
+											I already said the word &quot;sentence.&quot;
+											In music, if you&#39;ve heard a song before,
+											when you hear it, the next note
+pops into your head already —
+											you anticipate it.
+											With an album, at the end of a song,
+the next song pops into your head.
+											It happens all the time,
+you make predictions.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I have this thing called
+the &quot;altered door&quot; thought experiment.
+											It says, you have a door at home;
+											when you&#39;re here, I&#39;m changing it —
+											I&#39;ve got a guy back at your house
+right now, moving the door around,
+											moving your doorknob over two inches.
+											When you go home tonight, you&#39;ll put
+your hand out, reach for the doorknob,
+											notice it&#39;s in the wrong spot
+											and go, &quot;Whoa, something happened.&quot;
+											It may take a second,
+but something happened.
+											I can change your doorknob
+in other ways —
+											make it larger, smaller, change
+its brass to silver, make it a lever,
+											I can change the door;
+put colors on, put windows in.
+											I can change a thousand things
+about your door
+											and in the two seconds
+you take to open it,
+											you&#39;ll notice something has changed.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, the engineering approach,
+the AI approach to this,
+											is to build a door database
+with all the door attributes.
+											And as you go up to the door,
+we check them off one at time:
+											door, door, color ...
+											We don&#39;t do that.
+Your brain doesn&#39;t do that.
+											Your brain is making
+constant predictions all the time
+											about what will happen
+in your environment.
+											As I put my hand on this table,
+I expect to feel it stop.
+											When I walk, every step,
+if I missed it by an eighth of an inch,
+											I&#39;ll know something has changed.
+											You&#39;re constantly making predictions
+about your environment.
+											I&#39;ll talk about vision, briefly.
+											This is a picture of a woman.
+											When we look at people, our eyes saccade
+over two to three times a second.
+											We&#39;re not aware of it,
+but our eyes are always moving.
+											When we look at a face, we typically
+go from eye to eye to nose to mouth.
+											When your eye moves from eye to eye,
+											if there was something
+else there like a nose,
+											you&#39;d see a nose where an eye
+is supposed to be and go, &quot;Oh, shit!&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											&quot;There&#39;s something wrong
+about this person.&quot;
+											That&#39;s because you&#39;re making a prediction.
+											It&#39;s not like you just look over and say,
+&quot;What am I seeing? A nose? OK.&quot;
+											No, you have an expectation
+of what you&#39;re going to see.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Every single moment.
+											And finally, let&#39;s think
+about how we test intelligence.
+											We test it by prediction:
+What is the next word in this ...?
+											This is to this as this is to this.
+What is the next number in this sentence?
+											Here&#39;s three visions of an object.
+What&#39;s the fourth one?
+											That&#39;s how we test it.
+It&#39;s all about prediction.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So what is the recipe for brain theory?
+											First of all, we have to have
+the right framework.
+											And the framework is a memory framework,
+											not a computational or behavior framework,
+											it&#39;s a memory framework.
+											How do you store and recall
+these sequences of patterns?
+											It&#39;s spatiotemporal patterns.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Then, if in that framework,
+you take a bunch of theoreticians —
+											biologists generally
+are not good theoreticians.
+											Not always, but generally, there&#39;s not
+a good history of theory in biology.
+											I&#39;ve found the best people
+to work with are physicists,
+											engineers and mathematicians,
+											who tend to think algorithmically.
+											Then they have to learn
+the anatomy and the physiology.
+											You have to make these theories
+very realistic in anatomical terms.
+											Anyone who tells you their theory
+about how the brain works
+											and doesn&#39;t tell you exactly
+how it&#39;s working
+											and how the wiring works —
+											it&#39;s not a theory.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And that&#39;s what we do
+at the Redwood Neuroscience Institute.
+											I&#39;d love to tell you we&#39;re making
+fantastic progress in this thing,
+											and I expect to be back on this stage
+sometime in the not too distant future,
+											to tell you about it.
+											I&#39;m really excited;
+this is not going to take 50 years.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											What will brain theory look like?
+											First of all, it&#39;s going
+to be about memory.
+											Not like computer memory —
+not at all like computer memory.
+											It&#39;s very different.
+											It&#39;s a memory of very
+high-dimensional patterns,
+											like the things that come from your eyes.
+											It&#39;s also memory of sequences:
+											you cannot learn or recall anything
+outside of a sequence.
+											A song must be heard
+in sequence over time,
+											and you must play it back
+in sequence over time.
+											And these sequences
+are auto-associatively recalled,
+											so if I see something, I hear something,
+it reminds me of it,
+											and it plays back automatically.
+											It&#39;s an automatic playback.
+											And prediction of future inputs
+is the desired output.
+											And as I said, the theory
+must be biologically accurate,
+											it must be testable
+and you must be able to build it.
+											If you don&#39;t build it,
+you don&#39;t understand it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											One more slide.
+											What is this going to result in?
+											Are we going to really build
+intelligent machines?
+											Absolutely. And it&#39;s going to be
+different than people think.
+											No doubt that it&#39;s going
+to happen, in my mind.
+											First of all, we&#39;re going to build
+this stuff out of silicon.
+											The same techniques we use to build
+silicon computer memories,
+											we can use here.
+											But they&#39;re very different
+types of memories.
+											And we&#39;ll attach
+these memories to sensors,
+											and the sensors will experience
+real-live, real-world data,
+											and learn about their environment.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, it&#39;s very unlikely the first things
+you&#39;ll see are like robots.
+											Not that robots aren&#39;t useful;
+people can build robots.
+											But the robotics part is the hardest part.
+That&#39;s old brain. That&#39;s really hard.
+											The new brain is easier
+than the old brain.
+											So first we&#39;ll do things
+that don&#39;t require a lot of robotics.
+											So you&#39;re not going to see C-3PO.
+											You&#39;re going to see things
+more like intelligent cars
+											that really understand
+what traffic is, what driving is
+											and have learned that cars
+with the blinkers on for half a minute
+											probably aren&#39;t going to turn.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We can also do intelligent
+security systems.
+											Anytime we&#39;re basically using our brain
+but not doing a lot of mechanics —
+											those are the things
+that will happen first.
+											But ultimately, the world&#39;s the limit.
+											I don&#39;t know how this will turn out.
+											I know a lot of people who invented
+the microprocessor.
+											And if you talk to them,
+											they knew what they were doing
+was really significant,
+											but they didn&#39;t really know
+what was going to happen.
+											They couldn&#39;t anticipate
+cell phones and the Internet
+											and all this kind of stuff.
+											They just knew like,
+&quot;We&#39;re going to build calculators
+											and traffic-light controllers.
+											But it&#39;s going to be big!&quot;
+											In the same way, brain science
+and these memories
+											are going to be a very
+fundamental technology,
+											and it will lead to unbelievable changes
+in the next 100 years.
+											And I&#39;m most excited about
+how we&#39;re going to use them in science.
+											So I think that&#39;s all my time — I&#39;m over,
+											and I&#39;m going to end my talk right there.
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":117,"count":233,"talk_id":125},"threadId":117,"current_talk":"125","description":"Treo creator Jeff Hawkins urges us to take a new look at the brain -- to see it not as a fast processor, but as a memory system that stores and plays back experiences to help us predict, intelligently, what will happen next.","event":"TED2003","language":"en","name":"Jeff Hawkins: How brain science will change computing","slug":"jeff_hawkins_on_how_brain_science_will_change_computing","speakers":[{"id":"112","slug":"jeff_hawkins","is_published":true,"firstname":"Jeff","lastname":"Hawkins","middleinitial":"","title":"","description":"Computer designer, brain researcher","photo_url":"https://pe.tedcdn.com/images/ted/8623_254x191.jpg","whatotherssay":"Even if Hawkins finds only a small sliver of the Holy Grail he seeks [in brain research], he'll add yet another industry-moving startup to his resume.","whotheyare":"Jeff Hawkins pioneered the development of PDAs such as the Palm and Treo. Now he's trying to understand how the human brain really works, and adapt its method -- which he describes as a deep system for storing memory -- to create new kinds of computers and tools.","whylisten":"<p>Jeff Hawkins&#39; <a href=\"http://www.palm.com\" target=\"_blank\">Palm</a>  PDA became such a widely used productivity tool during the 1990s that some fanatical users claimed it replaced their brains. But Hawkins&#39; deepest interest was in the brain itself. So after the success of the Palm and Treo, which he brought to market at Handspring, <strong>Hawkins delved into brain research</strong> at the <a href=\"http://redwood.berkeley.edu/\" target=\"_blank\">Redwood Center for Theoretical Neuroscience</a>  in Berkeley, Calif., and a new company called <a href=\"http://www.numenta.com/\" target=\"_blank\">Numenta</a>. </p><p>Hawkins&#39; dual goal is to achieve an understanding of how the human brain actually works -- and then develop software to mimic its functionality, <strong>delivering true artificial intelligence</strong>. In his book <em><a href=\"http://www.onintelligence.org/\" target=\"_blank\">On Intelligence</a></em> (2004) he lays out his compelling, controversial theory: Contrary to popular AI wisdom, the human neocortex doesn&#39;t work like a processor; rather, it relies on <strong>a memory system that stores and plays back experiences to help us predict, intelligently, what will happen next</strong>. He thinks that &quot;hierarchical temporal memory&quot; computer platforms, which mimic this functionality (and which Numenta might pioneer), could enable groundbreaking new applications that could powerfully extend human intelligence.</p>"}],"url":"https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing","viewed_count":1436928,"talks":[{"curator_approved":true,"description":"Treo creator Jeff Hawkins urges us to take a new look at the brain -- to see it not as a fast processor, but as a memory system that stores and plays back experiences to help us predict, intelligently, what will happen next.","downloads":{"id":125,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Norwegian Bokmal","endonym":"Norsk bokmål","languageCode":"nb","ianaCode":"nb","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Danish","endonym":"Dansk","languageCode":"da","ianaCode":"da","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Finnish","endonym":"Suomi","languageCode":"fi","ianaCode":"fi","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Georgian","endonym":"ქართული","languageCode":"ka","ianaCode":"ka","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Macedonian","endonym":"македонски","languageCode":"mk","ianaCode":"mk","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/JeffHawkins_2003-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/JeffHawkins_2003.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/JeffHawkins_2003-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"fr":{"name":"French","low":"https://download.ted.com/talks/JeffHawkins_2003-low-fr.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-fr.mp4"},"zh-tw":{"name":"Chinese, Traditional","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-zh-tw.mp4","low":"https://download.ted.com/talks/JeffHawkins_2003-low-zh-tw.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/JeffHawkins_2003-low-ja.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-ja.mp4"},"de":{"name":"German","low":"https://download.ted.com/talks/JeffHawkins_2003-low-de.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-de.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/JeffHawkins_2003-low-zh-cn.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-zh-cn.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/JeffHawkins_2003-low-ko.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-ko.mp4"},"es":{"name":"Spanish","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-es.mp4","low":"https://download.ted.com/talks/JeffHawkins_2003-low-es.mp4"},"en":{"name":"English","low":"https://download.ted.com/talks/JeffHawkins_2003-low-en.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/JeffHawkins_2003-low-pt-br.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/JeffHawkins_2003-low-it.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-it.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/JeffHawkins_2003-low-he.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-he.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/JeffHawkins_2003-low-bg.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/JeffHawkins_2003-low-ro.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/JeffHawkins_2003-low-pl.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-pl.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/JeffHawkins_2003-low-nl.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-nl.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/JeffHawkins_2003-low-tr.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-tr.mp4"},"hr":{"name":"Croatian","low":"https://download.ted.com/talks/JeffHawkins_2003-low-hr.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-hr.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/JeffHawkins_2003-low-ru.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-ru.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/JeffHawkins_2003-low-hu.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-hu.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/JeffHawkins_2003-low-vi.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-vi.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/JeffHawkins_2003-low-el.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-el.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/JeffHawkins_2003-low-ar.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-ar.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/JeffHawkins_2003-low-fa.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-fa.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/JeffHawkins_2003-low-pt.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-pt.mp4"},"da":{"name":"Danish","low":"https://download.ted.com/talks/JeffHawkins_2003-low-da.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-da.mp4"},"nb":{"name":"Norwegian Bokmal","low":"https://download.ted.com/talks/JeffHawkins_2003-low-nb.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-nb.mp4"},"ka":{"name":"Georgian","low":"https://download.ted.com/talks/JeffHawkins_2003-low-ka.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-ka.mp4"},"fi":{"name":"Finnish","low":"https://download.ted.com/talks/JeffHawkins_2003-low-fi.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-fi.mp4"},"mk":{"name":"Macedonian","low":"https://download.ted.com/talks/JeffHawkins_2003-low-mk.mp4","high":"https://download.ted.com/talks/JeffHawkins_2003-480p-mk.mp4"}},"audioDownload":null},"duration":1211.0,"event":"TED2003","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/dfc244d5b81ab35ce80a3c4f19877b23f8be7a27_2880x1620.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/dfc244d5b81ab35ce80a3c4f19877b23f8be7a27_2880x1620.jpg?q=50&w=15","id":"125","player_talks":[{"id":"125","duration":1211.0,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Norwegian Bokmal","endonym":"Norsk bokmål","languageCode":"nb","ianaCode":"nb","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Danish","endonym":"Dansk","languageCode":"da","ianaCode":"da","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Finnish","endonym":"Suomi","languageCode":"fi","ianaCode":"fi","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Georgian","endonym":"ქართული","languageCode":"ka","ianaCode":"ka","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Macedonian","endonym":"македонски","languageCode":"mk","ianaCode":"mk","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2003/Blank/JeffHawkins_2003-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTED2003%26id%3D125%26tag%3DAI%2Cbrain%2Ccognitive%2Bscience%2Ccomputers%2Cintelligence%2Cmemory%2Cscience%2Ctechnology%26talk%3Djeff_hawkins_on_how_brain_science_will_change_computing%26year%3D2003&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"125","talk":"jeff_hawkins_on_how_brain_science_will_change_computing","tag":"AI,brain,cognitive science,computers,intelligence,memory,science,technology","year":"2003","event":"TED2003"},"stream":"https://hls.ted.com/talks/125.m3u8","metadata":"https://hls.ted.com/talks/125.json"}},"targeting":{"id":"125","talk":"jeff_hawkins_on_how_brain_science_will_change_computing","tag":"AI,brain,cognitive science,computers,intelligence,memory,science,technology","year":"2003","event":"TED2003"},"canonical":"https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing","name":"Jeff Hawkins: How brain science will change computing","title":"How brain science will change computing","speaker":"Jeff Hawkins","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/dfc244d5b81ab35ce80a3c4f19877b23f8be7a27_2880x1620.jpg?quality=89&w=600","slug":"jeff_hawkins_on_how_brain_science_will_change_computing","event":"TED2003","published":1179760080}],"ratings":[{"id":3,"name":"Courageous","count":75},{"id":9,"name":"Ingenious","count":386},{"id":7,"name":"Funny","count":267},{"id":1,"name":"Beautiful","count":41},{"id":21,"name":"Unconvincing","count":44},{"id":11,"name":"Longwinded","count":38},{"id":10,"name":"Inspiring","count":562},{"id":8,"name":"Informative","count":648},{"id":22,"name":"Fascinating","count":765},{"id":2,"name":"Confusing","count":22},{"id":24,"name":"Persuasive","count":272},{"id":23,"name":"Jaw-dropping","count":155},{"id":26,"name":"Obnoxious","count":28},{"id":25,"name":"OK","count":43}],"recorded_at":"2003-02-02T00:00:00.000+00:00","related_talks":[{"id":"184","hero":"https://pe.tedcdn.com/images/ted/ca8d90c65e9e596127b720b648a07dfd2ea45e7d_2880x1620.jpg","speaker":"VS Ramachandran","title":"3 clues to understanding your brain","duration":1414.0,"slug":"vilayanur_ramachandran_on_your_mind","viewed_count":4229924},{"id":"236","hero":"https://pe.tedcdn.com/images/ted/35408_480x360.jpg","speaker":"Christopher deCharms","title":"A look inside the brain in real time","duration":242.0,"slug":"christopher_decharms_scans_the_brain_in_real_time","viewed_count":1632083},{"id":"320","hero":"https://pe.tedcdn.com/images/ted/49376_480x360.jpg","speaker":"Kwabena Boahen","title":"A computer that works like the brain","duration":982.0,"slug":"kwabena_boahen_on_a_computer_that_works_like_the_brain","viewed_count":604549},{"id":"2798","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/7ed3c4a8-38c2-4e10-b8d9-d07dc4030c55/MehdiOrdikhaniSeyedlar_2017-embed.jpg","speaker":"Mehdi Ordikhani-Seyedlar","title":"What happens in your brain when you pay attention?","duration":392.0,"slug":"mehdi_ordikhani_seyedlar_what_happens_in_your_brain_when_you_pay_attention","viewed_count":2440719},{"id":"2015","hero":"https://pe.tedcdn.com/images/ted/9bd2cc9f4130b1c408721e3d755e13d168cb38a0_1600x1200.jpg","speaker":"Ray Kurzweil","title":"Get ready for hybrid thinking","duration":592.0,"slug":"ray_kurzweil_get_ready_for_hybrid_thinking","viewed_count":2125003},{"id":"10362","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/5063f9ae-75ed-4c66-a1aa-38956ba57591/WendySuzuki_2017W-embed.jpg","speaker":"Wendy Suzuki","title":"The brain-changing benefits of exercise","duration":782.0,"slug":"wendy_suzuki_the_brain_changing_benefits_of_exercise","viewed_count":3038432}],"slug":"jeff_hawkins_on_how_brain_science_will_change_computing","speakers":[{"id":"112","slug":"jeff_hawkins","is_published":true,"firstname":"Jeff","lastname":"Hawkins","middleinitial":"","title":"","description":"Computer designer, brain researcher","photo_url":"https://pe.tedcdn.com/images/ted/8623_254x191.jpg","whatotherssay":"Even if Hawkins finds only a small sliver of the Holy Grail he seeks [in brain research], he'll add yet another industry-moving startup to his resume.","whotheyare":"Jeff Hawkins pioneered the development of PDAs such as the Palm and Treo. Now he's trying to understand how the human brain really works, and adapt its method -- which he describes as a deep system for storing memory -- to create new kinds of computers and tools.","whylisten":"<p>Jeff Hawkins&#39; <a href=\"http://www.palm.com\" target=\"_blank\">Palm</a>  PDA became such a widely used productivity tool during the 1990s that some fanatical users claimed it replaced their brains. But Hawkins&#39; deepest interest was in the brain itself. So after the success of the Palm and Treo, which he brought to market at Handspring, <strong>Hawkins delved into brain research</strong> at the <a href=\"http://redwood.berkeley.edu/\" target=\"_blank\">Redwood Center for Theoretical Neuroscience</a>  in Berkeley, Calif., and a new company called <a href=\"http://www.numenta.com/\" target=\"_blank\">Numenta</a>. </p><p>Hawkins&#39; dual goal is to achieve an understanding of how the human brain actually works -- and then develop software to mimic its functionality, <strong>delivering true artificial intelligence</strong>. In his book <em><a href=\"http://www.onintelligence.org/\" target=\"_blank\">On Intelligence</a></em> (2004) he lays out his compelling, controversial theory: Contrary to popular AI wisdom, the human neocortex doesn&#39;t work like a processor; rather, it relies on <strong>a memory system that stores and plays back experiences to help us predict, intelligently, what will happen next</strong>. He thinks that &quot;hierarchical temporal memory&quot; computer platforms, which mimic this functionality (and which Numenta might pioneer), could enable groundbreaking new applications that could powerfully extend human intelligence.</p>"}],"speaker_name":"Jeff Hawkins","tags":["AI","brain","cognitive science","computers","intelligence","memory","science","technology"],"title":"How brain science will change computing","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":1436928}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

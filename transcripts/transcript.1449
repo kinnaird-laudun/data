@@ -1,0 +1,1283 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Jay Silver: Hack a banana, make a keyboard! | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Why can&#39;t two slices of pizza be used as a slide clicker? Why shouldn&#39;t you make music with ketchup? In this charming talk, inventor Jay Silver talks about the urge to play with the world around you. He shares some of his messiest inventions, and demos MaKey MaKey, a kit for hacking everyday objects." />
+<meta name="author" content="Jay Silver" />
+<link rel="canonical" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=el" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=en" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=vi" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=pt-br" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=nl" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=tr" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="lt" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=lt" />
+<link rel="alternate" hreflang="th" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=th" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=bg" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=de" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=hu" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=fa" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=he" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=sr" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=ko" />
+<link rel="alternate" hreflang="sv" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=sv" />
+<link rel="alternate" hreflang="uk" href="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript?language=uk" />
+<meta property="og:title" content="Transcript of &quot;Hack a banana, make a keyboard!&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cb0aee115b8488a71c0a932ad05feb8df23def61_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cb0aee115b8488a71c0a932ad05feb8df23def61_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Jay Silver: Hack a banana, make a keyboard!" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Why can&#39;t two slices of pizza be used as a slide clicker? Why shouldn&#39;t you make music with ketchup? In this charming talk, inventor Jay Silver talks about the urge to play with the world around you. He shares some of his messiest inventions, and demos MaKey MaKey, a kit for hacking everyday objects." />
+<meta property="og:url" content="https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 1743);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard' itemprop='url'>
+<meta content='Hack a banana, make a keyboard!' itemprop='name'>
+<meta content="Why can't two slices of pizza be used as a slide clicker? Why shouldn't you make music with ketchup? In this charming talk, inventor Jay Silver talks about the urge to play with the world around you. He shares some of his messiest inventions, and demos MaKey MaKey, a kit for hacking everyday objects." itemprop='description'>
+<meta content='PT13M15S' itemprop='duration'>
+<meta content='2013-05-16T15:06:19+00:00' itemprop='uploadDate'>
+<meta content='1362549' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cb0aee115b8488a71c0a932ad05feb8df23def61_1600x1200.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/jay_silver' itemprop='url'>
+<meta content='Jay Silver' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/664f1def76cb03f83f27168d093b90348b3d0bf0_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cb0aee115b8488a71c0a932ad05feb8df23def61_1600x1200.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Jay Silver
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,362,549
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 13:15</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Hey guys.
+											It&#39;s funny, someone just mentioned MacGyver,
+											because that was, like, I loved it,
+											and when I was seven, I taped a fork to a drill
+											and I was like, &quot;Hey, Mom, I&#39;m going to Olive Garden.&quot;
+											And — (Drilling noise) (Laughter)
+											And it worked really well there.
+											And you know, it had a profound effect on me.
+											It sounds silly, but I thought, okay,
+											the way the world works can be changed,
+											and it can be changed by me in these small ways.
+											And my relationship to
+											especially human-made objects
+											which someone else said they work like this,
+											well, I can say they work a different way, a little bit.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so, about 20 years later,
+											I didn&#39;t realize the full effect of this,
+											but I went to Costa Rica
+											and I stayed with these Guaymí natives there,
+											and they could pull leaves off of trees and make shingles out of them,
+											and they could make beds out of trees,
+											and they could — I watched this woman for three days.
+											I was there. She was peeling this palm frond apart,
+											these little threads off of it, and she&#39;d roll the threads together
+											and make little thicker threads, like strings,
+											and she would weave the strings together,
+											and as the materiality of this exact very bag
+											formed before my eyes over those three days,
+											the materiality of the way the world works,
+											of reality, kind of started to unravel in my mind,
+											because I realized that this bag and these clothes
+											and the trampoline you have at home and the pencil sharpener,
+											everything you have is made out of either a tree or a rock
+											or something we dug out of the ground and did some process to,
+											maybe a more complicated one, but still, everything was made that way.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so I had to start studying,
+											who is it that&#39;s making these decisions?
+											Who&#39;s making these things? How did they make them?
+											What stops us from making them?
+											Because this is how reality is created.
+											So I started right away. I was at MIT Media Lab,
+											and I was studying the maker movement
+											and makers and creativity.
+											And I started in nature, because I saw these Guaymís
+											doing it in nature, and there just seems to be less barriers.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So I went to Vermont to Not Back to School Camp,
+											where there&#39;s unschoolers who are just kind of hanging out
+											and willing to try anything.
+											So I said, &quot;Let&#39;s go into the woods near this stream
+											and just put stuff together, you know, make something,
+											I don&#39;t care, geometrical shapes, just grab some junk from around you.
+											We won&#39;t bring anything with us.
+											And, like, within minutes, this is very easy for adults
+											and teens to do.
+											Here&#39;s a triangle that was being formed underneath a flowing stream,
+											and the shape of an oak leaf being made
+											by other small oak leaves being put together.
+											A leaf tied to a stick with a blade of grass.
+											The materiality and fleshiness and meat of the mushroom
+											being explored by how it can hold up different objects being stuck into it.
+											And after about 45 minutes, you get really intricate projects
+											like leaves sorted by hue, so you get a color fade
+											and put in a circle like a wreath.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And the creator of this, he said,
+											&quot;This is fire. I call this fire.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And someone asked him, &quot;How do you get those sticks
+											to stay on that tree?&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And he&#39;s like, &quot;I don&#39;t know, but I can show you.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And I&#39;m like, &quot;Wow, that&#39;s really amazing.
+											He doesn&#39;t know, but he can show you.&quot;
+											So his hands know and his intuition knows,
+											but sometimes what we know gets in the way
+											of what could be, especially
+											when it comes to the human-made, human-built world.
+											We think we already know how something works,
+											so we can&#39;t imagine how it could work.
+											We know how it&#39;s supposed to work,
+											so we can&#39;t suppose all the things that could be possible.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So kids don&#39;t have as hard of a time with this,
+											and I saw in my own son, I gave him this book.
+											I&#39;m a good hippie dad, so I&#39;m like,
+											&quot;Okay, you&#39;re going to learn to love the moon.
+											I&#39;m going to give you some building blocks
+											and they&#39;re nonrectilinear cactus building blocks,
+											so it&#39;s totally legit.&quot;
+											But he doesn&#39;t really know what to do with these.
+											I didn&#39;t show him.
+											And so he&#39;s like, &quot;Okay, I&#39;ll just mess around with this.&quot;
+											This is no different than the sticks are to the teens in the forest.
+											Just going to try to put them in shapes
+											and push on them and stuff.
+											And before long, he&#39;s kind of got this mechanism
+											where you can almost launch and catapult objects around,
+											and he enlists us in helping him.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And at this point, I&#39;m starting to wonder,
+											what kind of tools can we give people,
+											especially adults, who know too much,
+											so that they can see the world as malleable,
+											so they see themselves as agents of change
+											in their everyday lives.
+											Because the most advanced scientists are really
+											just kind of pushing the way the world itself works,
+											pushing what matter can do,
+											the most advanced artists are just pushing the medium,
+											and any sufficiently complicated task,
+											whether you&#39;re a cook or a carpenter or you&#39;re raising a child —
+											anything that&#39;s complicated —
+											comes up with problems that aren&#39;t solved in the middle of it,
+											and you can&#39;t do a good job getting it done unless you can say,
+											&quot;Okay, well we&#39;re just going to have to refigure this.
+											I don&#39;t care that pencils are supposed to be for writing.
+											I&#39;m going to use them a different way.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So let me show you a little demo.
+											This is a little piano circuit right in here,
+											and this is an ordinary paintbrush
+											that I smashed it together with. (Beeping)
+											And so, with some ketchup,
+											— (musical notes) —
+											and then I can kind of
+											— (musical notes) —
+											(Laughter) (Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And that&#39;s awesome, right?
+											But this is not what&#39;s awesome.
+											What&#39;s awesome is what happens
+											when you give the piano circuit to people.
+											A pencil is not just a pencil.
+											Look what it has in the middle of it.
+											That&#39;s a wire running down the middle,
+											and not only is it a wire,
+											if you take that piano circuit, you can thumbtack
+											into the middle of a pencil,
+											and you can lay out wire on the page, too,
+											and get electrical current to run through it.
+											And so you can kind of hack a pencil,
+											just by thumbtacking into it with a little piano electrical circuit.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And the electricity runs through your body too.
+											And then you can take the little piano circuit off the pencil.
+											You can make one of these brushes just on the fly.
+											All you do is connect to the bristles,
+											and the bristles are wet, so they conduct,
+											and the person&#39;s body conducts,
+											and leather is great to paint on,
+											and then you can start hooking to everything,
+											even the kitchen sink.
+											The metal in the sink is conductive.
+											Flowing water acts like a theremin or a violin.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Musical notes)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And you can even hook to the trees.
+											Anything in the world is either conductive or not conductive,
+											and you can use those together.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So — (Laughter) —
+											I took this to those same teens, because those teens are
+											really awesome, and they&#39;ll try things that I won&#39;t try.
+											I don&#39;t even have access to a facial piercing if I wanted to.
+											And this young woman, she made what she called a hula-looper,
+											and as the hula hoop traveled around her body,
+											she has a circuit taped to her shirt right there.
+											You can see her pointing to it in the picture.
+											And every time the hula hoop would smush against her body,
+											it would connect two little pieces of copper tape,
+											and it would make a sound, and the next sound,
+											and it would loop the same sounds over and over again.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I ran these workshops everywhere.
+											In Taiwan, at an art museum, this 12-year-old girl
+											made a mushroom organ out of some mushrooms that were from Taiwan
+											and some electrical tape and hot glue.
+											And professional designers were making artifacts
+											with this thing strapped onto it.
+											And big companies like Intel
+											or smaller design firms like Ideo or startups like Bump,
+											were inviting me to give workshops,
+											just to practice this idea of smashing electronics
+											and everyday objects together.
+											And then we came up with this idea
+											to not just use electronics,
+											but let&#39;s just smash computers with everyday objects
+											and see how that goes over.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so I just want to do a quick demo.
+											So this is the MaKey MaKey circuit,
+											and I&#39;m just going to set it up from the beginning in front of you.
+											So I&#39;ll just plug it in, and now it&#39;s on by USB.
+											And I&#39;ll just hook up the forward arrow.
+											You guys are facing that way, so I&#39;ll hook it to this one.
+											And I&#39;ll just hook up a little ground wire to it.
+											And now, if I touch this piece of pizza,
+											the slides that I showed you before should go forward.
+											And now if I hook up this wire just by connecting it
+											to the left arrow, I&#39;m kind of programming it by where I hook it up,
+											now I have a left arrow and a right arrow,
+											so I should be able to go forwards and backwards
+											and forwards and backwards. Awesome.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so we&#39;re like, &quot;We gotta put a video out about this.&quot;
+											Because no one really believed that this was important
+											or meaningful except me and, like, one other guy.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So we made a video to prove that
+											there&#39;s lots of stuff you can do.
+											You can kind of sketch with Play-Doh
+											and just Google for game controllers.
+											Just ordinary Play-Doh, nothing special.
+											And you can literally draw joysticks
+											and just find Pacman on your computer and then just hook it up. (Video game noises)
+											And you know the little plastic drawers you can get at Target?
+											Well, if you take those out, they hold water great,
+											but you can totally cut your toes,
+											so yeah, just be careful.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											You know the Happiness Project, where the experts
+											are setting up the piano stairs, and how cool that is?
+											Well, I think it&#39;s cool,
+											but we should be doing that stuff ourselves.
+											It shouldn&#39;t be a set of experts engineering the way the world works.
+											We should all be participating
+											in changing the way the world works together.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Aluminum foil. Everybody has a cat.
+											Get a bowl of water. This is just Photo Booth on your Mac OS.
+											Hover the mouse over the &quot;take a photo&quot; button,
+											and you&#39;ve got a little cat photo booth.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so we needed hundreds of people to buy this.
+											If hundreds of people didn&#39;t buy this, we couldn&#39;t put it on the market.
+											And so we put it up on Kickstarter,
+											and hundreds of people bought it in the first day.
+											And then 30 days later,
+											11,000 people had backed the project.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And then what the best part is, we started getting
+											a flood of videos in of people doing crazy things with it.
+											So this is &quot;The Star-Spangled Banner&quot; by eating lunch,
+											including drinking Listerine.
+											And we actually sent this guy materials.
+											We&#39;re like, &quot;We&#39;re sponsoring you, man.
+											You&#39;re, like, a pro maker.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Okay, just wait for this one. This is good.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And these guys at the exploratorium are
+											playing house plants as if they were drums.
+											And dads and daughters are completing circuits in special ways.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And then this brother — look at this diagram.
+											See where it says &quot;sister&quot;?
+											I love when people put humans on the diagram.
+											I always add humans to any technical —
+											if you&#39;re drawing a technical diagram, put a human in it.
+											And this kid is so sweet. He made this trampoline slideshow advancer for his sister
+											so that on her birthday, she could be the star of the show,
+											jumping on the trampoline to advance the slides.
+											And this guy rounded up his dogs and he made a dog piano.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And this is fun,
+											and what could be more useful than feeling alive and fun?
+											But it&#39;s also very serious because
+											all this accessibility stuff started coming up,
+											where people can&#39;t use computers, necessarily.
+											Like this dad who wrote us, his son has cerebral palsy
+											and he can&#39;t use a normal keyboard.
+											And so his dad couldn&#39;t necessarily afford
+											to buy all these custom controllers.
+											And so, with the MaKey MaKey, he planned to make
+											these gloves to allow him to navigate the web.
+											And a huge eruption of discussion
+											around accessibility came, and we&#39;re really excited about that.
+											We didn&#39;t plan for that at all.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And then all these professional musicians started using it,
+											like at Coachella, just this weekend
+											Jurassic 5 was using this onstage,
+											and this D.J. is just from Brooklyn, right around here,
+											and he put this up last month.
+											And I love the carrot on the turntable.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music: Massive Attack — &quot;Teardrop&quot;)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Most people cannot play them that way. (Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And when this started to get serious,
+											I thought, I&#39;d better put a really serious warning label on the box that this comes in,
+											because otherwise people are going to be getting this
+											and they&#39;re going to be turning into agents of creative change,
+											and governments will be crumbling,
+											and I wouldn&#39;t have told people, so I thought I&#39;d better warn them.
+											And I also put this little surprise. When you open the lid
+											of the box, it says, &quot;The world is a construction kit.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And as you start to mess around this way,
+											I think that, in some small ways, you do start to see
+											the landscape of your everyday life
+											a little bit more like something you could express yourself with,
+											and a little bit more like you could participate
+											in designing the future of the way the world works.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so next time you&#39;re on an escalator
+											and you drop an M&amp;M by accident,
+											you know, maybe that&#39;s an M&amp;M surfboard, not an escalator,
+											so don&#39;t pick it up right away.
+											Maybe take some more stuff out of your pockets
+											and throw it down, and maybe some chapstick, whatever.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I used to want to design a utopian society
+											or a perfect world or something like that.
+											But as I&#39;m kind of getting older
+											and kind of messing with all this stuff,
+											I&#39;m realizing that my idea of a perfect world
+											really can&#39;t be designed by one person
+											or even by a million experts.
+											It&#39;s really going to be seven billion pairs of hands,
+											each following their own passions,
+											and each kind of like a mosaic coming up
+											and creating this world in their backyards
+											and in their kitchens.
+											And that&#39;s the world I really want to live in.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":20106,"count":146,"talk_id":1743},"threadId":20106,"current_talk":"1743","description":"Why can't two slices of pizza be used as a slide clicker? Why shouldn't you make music with ketchup? In this charming talk, inventor Jay Silver talks about the urge to play with the world around you. He shares some of his messiest inventions, and demos MaKey MaKey, a kit for hacking everyday objects.","event":"TEDSalon NY2013","language":"en","name":"Jay Silver: Hack a banana, make a keyboard!","slug":"jay_silver_hack_a_banana_make_a_keyboard","speakers":[{"id":"1650","slug":"jay_silver","is_published":true,"firstname":"Jay","lastname":"Silver","middleinitial":"","title":"","description":"Inventor","photo_url":"https://pe.tedcdn.com/images/ted/664f1def76cb03f83f27168d093b90348b3d0bf0_254x191.jpg","whatotherssay":"This childlike sense of play, curiosity and discovery -- one that many people lose as they move through adulthood -- has informed Silver's life and work ever since. ","whotheyare":"Jay Silver and Eric Rosenbaum's MaKey MaKey kit lets you turn everyday objects into computer interfaces -- inspiring both fun and practical new inventions.","whylisten":"<p>Jay Silver is the founder/director of JoyLabz and a Maker Research Scientist at Intel  Labs. With Eric Rosenbaum, he&#39;s the co-inventor of&nbsp;<a href=\"http://www.makeymakey.com/\" target=\"_blank\">MaKey MaKey</a>. He also runs digital prototyping  workshops for many companies such as IDEO and youth centers such as  Computer Clubhouses. </p><p>Silver studied electrical engineering at Georgia Tech, where he was named  Engineer of the Year. He was awarded a Gates Scholarship to earn a  master&rsquo;s in Internet Technology from Cambridge University. He also holds  a master&rsquo;s in Media Arts and Sciences from MIT Media Lab where he was  an NSF Fellow. At MIT Media  Lab&#39;s Lifelong Kindergarten, he won a Lemelson Student Prize.</p><p><em>Photo: Thatcher Cook</em>&nbsp;</p>"}],"url":"https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard","viewed_count":1362549,"talks":[{"curator_approved":true,"description":"Why can't two slices of pizza be used as a slide clicker? Why shouldn't you make music with ketchup? In this charming talk, inventor Jay Silver talks about the urge to play with the world around you. He shares some of his messiest inventions, and demos MaKey MaKey, a kit for hacking everyday objects.","downloads":{"id":1743,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Lithuanian","endonym":"Lietuvių kalba","languageCode":"lt","ianaCode":"lt","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/JaySilver_2013S-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/JaySilver_2013S.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/JaySilver_2013S-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"en":{"name":"English","high":"https://download.ted.com/talks/JaySilver_2013S-480p-en.mp4","low":"https://download.ted.com/talks/JaySilver_2013S-low-en.mp4"},"fr":{"name":"French","low":"https://download.ted.com/talks/JaySilver_2013S-low-fr.mp4","high":"https://download.ted.com/talks/JaySilver_2013S-480p-fr.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/JaySilver_2013S-low-ar.mp4","high":"https://download.ted.com/talks/JaySilver_2013S-480p-ar.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/JaySilver_2013S-low-pt-br.mp4","high":"https://download.ted.com/talks/JaySilver_2013S-480p-pt-br.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/JaySilver_2013S-low-he.mp4","high":"https://download.ted.com/talks/JaySilver_2013S-480p-he.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/JaySilver_2013S-low-bg.mp4","high":"https://download.ted.com/talks/JaySilver_2013S-480p-bg.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/JaySilver_2013S-low-hu.mp4","high":"https://download.ted.com/talks/JaySilver_2013S-480p-hu.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/JaySilver_2013S-low-es.mp4","high":"https://download.ted.com/talks/JaySilver_2013S-480p-es.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/JaySilver_2013S-low-sr.mp4","high":"https://download.ted.com/talks/JaySilver_2013S-480p-sr.mp4"},"uk":{"name":"Ukrainian","low":"https://download.ted.com/talks/JaySilver_2013S-low-uk.mp4","high":"https://download.ted.com/talks/JaySilver_2013S-480p-uk.mp4"},"lt":{"name":"Lithuanian","low":"https://download.ted.com/talks/JaySilver_2013S-low-lt.mp4","high":"https://download.ted.com/talks/JaySilver_2013S-480p-lt.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/JaySilver_2013S-low-nl.mp4","high":"https://download.ted.com/talks/JaySilver_2013S-480p-nl.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/JaySilver_2013S-low-ru.mp4","high":"https://download.ted.com/talks/JaySilver_2013S-480p-ru.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/JaySilver_2013S-low-ro.mp4","high":"https://download.ted.com/talks/JaySilver_2013S-480p-ro.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/JaySilver_2013S-low-ko.mp4","high":"https://download.ted.com/talks/JaySilver_2013S-480p-ko.mp4"},"it":{"name":"Italian","high":"https://download.ted.com/talks/JaySilver_2013S-480p-it.mp4","low":"https://download.ted.com/talks/JaySilver_2013S-low-it.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/JaySilver_2013S-low-vi.mp4","high":"https://download.ted.com/talks/JaySilver_2013S-480p-vi.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/JaySilver_2013S-low-tr.mp4","high":"https://download.ted.com/talks/JaySilver_2013S-480p-tr.mp4"},"th":{"name":"Thai","low":"https://download.ted.com/talks/JaySilver_2013S-low-th.mp4","high":"https://download.ted.com/talks/JaySilver_2013S-480p-th.mp4"},"de":{"name":"German","low":"https://download.ted.com/talks/JaySilver_2013S-low-de.mp4","high":"https://download.ted.com/talks/JaySilver_2013S-480p-de.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/JaySilver_2013S-low-el.mp4","high":"https://download.ted.com/talks/JaySilver_2013S-480p-el.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/JaySilver_2013S-low-fa.mp4","high":"https://download.ted.com/talks/JaySilver_2013S-480p-fa.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/JaySilver_2013S-low-ja.mp4","high":"https://download.ted.com/talks/JaySilver_2013S-480p-ja.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/JaySilver_2013S-low-zh-cn.mp4","high":"https://download.ted.com/talks/JaySilver_2013S-480p-zh-cn.mp4"},"sv":{"name":"Swedish","low":"https://download.ted.com/talks/JaySilver_2013S-low-sv.mp4","high":"https://download.ted.com/talks/JaySilver_2013S-480p-sv.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/JaySilver_2013S-low-zh-tw.mp4","high":"https://download.ted.com/talks/JaySilver_2013S-480p-zh-tw.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/JaySilver_2013S-low-pl.mp4","high":"https://download.ted.com/talks/JaySilver_2013S-480p-pl.mp4"}},"audioDownload":"https://download.ted.com/talks/JaySilver_2013S.mp3?apikey=acme-roadrunner"},"duration":795.0,"event":"TEDSalon NY2013","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/cb0aee115b8488a71c0a932ad05feb8df23def61_1600x1200.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cb0aee115b8488a71c0a932ad05feb8df23def61_1600x1200.jpg?q=50&w=15","id":"1743","player_talks":[{"id":"1743","duration":795.0,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Lithuanian","endonym":"Lietuvių kalba","languageCode":"lt","ianaCode":"lt","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2013S/Blank/JaySilver_2013S-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDSalon%2BNY2013%26id%3D1743%26tag%3Dcreativity%2Cinvention%2Ctechnology%2Ctoy%26talk%3Djay_silver_hack_a_banana_make_a_keyboard%26year%3D2013&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"1743","talk":"jay_silver_hack_a_banana_make_a_keyboard","tag":"creativity,invention,technology,toy","year":"2013","event":"TEDSalon NY2013"},"stream":"https://hls.ted.com/talks/1743.m3u8","metadata":"https://hls.ted.com/talks/1743.json"}},"targeting":{"id":"1743","talk":"jay_silver_hack_a_banana_make_a_keyboard","tag":"creativity,invention,technology,toy","year":"2013","event":"TEDSalon NY2013"},"canonical":"https://www.ted.com/talks/jay_silver_hack_a_banana_make_a_keyboard","name":"Jay Silver: Hack a banana, make a keyboard!","title":"Hack a banana, make a keyboard!","speaker":"Jay Silver","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/cb0aee115b8488a71c0a932ad05feb8df23def61_1600x1200.jpg?quality=89&w=600","slug":"jay_silver_hack_a_banana_make_a_keyboard","event":"TEDSalon NY2013","published":1368716779}],"ratings":[{"id":9,"name":"Ingenious","count":527},{"id":22,"name":"Fascinating","count":368},{"id":1,"name":"Beautiful","count":83},{"id":21,"name":"Unconvincing","count":17},{"id":7,"name":"Funny","count":301},{"id":10,"name":"Inspiring","count":522},{"id":8,"name":"Informative","count":79},{"id":23,"name":"Jaw-dropping","count":204},{"id":11,"name":"Longwinded","count":5},{"id":24,"name":"Persuasive","count":58},{"id":26,"name":"Obnoxious","count":10},{"id":3,"name":"Courageous","count":33},{"id":25,"name":"OK","count":24},{"id":2,"name":"Confusing","count":14}],"recorded_at":"2013-04-24T00:00:00.000+00:00","related_talks":[{"id":"1404","hero":"https://pe.tedcdn.com/images/ted/f43e72d00a155fcfb1db0959a161e26ea3faa3a7_800x600.jpg","speaker":"Ayah Bdeir","title":"Building blocks that blink, beep and teach","duration":327.0,"slug":"ayah_bdeir_building_blocks_that_blink_beep_and_teach","viewed_count":1201427},{"id":"1692","hero":"https://pe.tedcdn.com/images/ted/74ce5adfd6b1f92a8ff24a51538eedd2207d359c_1600x1200.jpg","speaker":"Catarina Mota","title":"Play with smart materials","duration":595.0,"slug":"catarina_mota_play_with_smart_materials","viewed_count":1084494},{"id":"1707","hero":"https://pe.tedcdn.com/images/ted/5067e7078880030b41aea9eb2b6fbddbdedc7728_1600x1200.jpg","speaker":"Skylar Tibbits","title":"The emergence of \"4D printing\"","duration":502.0,"slug":"skylar_tibbits_the_emergence_of_4d_printing","viewed_count":2589209},{"id":"12348","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/4576e915-6a4d-47a1-bf3c-da46d5b2f42f/CarolineWeaver_2018V-embed.jpg","speaker":"Caroline Weaver","title":"Why the pencil is perfect","duration":219.0,"slug":"caroline_weaver_why_the_pencil_is_perfect","viewed_count":347355},{"id":"329","hero":"https://pe.tedcdn.com/images/ted/50992_480x360.jpg","speaker":"John Q. Walker","title":"Great piano performances, recreated","duration":821.0,"slug":"john_walker_re_creates_great_performances","viewed_count":339606},{"id":"385","hero":"https://pe.tedcdn.com/images/ted/186_480x360.jpg","speaker":"Zach Kaplan + Keith Schacht","title":"Toys and materials from the future","duration":946.0,"slug":"toys_from_the_future","viewed_count":420889}],"slug":"jay_silver_hack_a_banana_make_a_keyboard","speakers":[{"id":"1650","slug":"jay_silver","is_published":true,"firstname":"Jay","lastname":"Silver","middleinitial":"","title":"","description":"Inventor","photo_url":"https://pe.tedcdn.com/images/ted/664f1def76cb03f83f27168d093b90348b3d0bf0_254x191.jpg","whatotherssay":"This childlike sense of play, curiosity and discovery -- one that many people lose as they move through adulthood -- has informed Silver's life and work ever since. ","whotheyare":"Jay Silver and Eric Rosenbaum's MaKey MaKey kit lets you turn everyday objects into computer interfaces -- inspiring both fun and practical new inventions.","whylisten":"<p>Jay Silver is the founder/director of JoyLabz and a Maker Research Scientist at Intel  Labs. With Eric Rosenbaum, he&#39;s the co-inventor of&nbsp;<a href=\"http://www.makeymakey.com/\" target=\"_blank\">MaKey MaKey</a>. He also runs digital prototyping  workshops for many companies such as IDEO and youth centers such as  Computer Clubhouses. </p><p>Silver studied electrical engineering at Georgia Tech, where he was named  Engineer of the Year. He was awarded a Gates Scholarship to earn a  master&rsquo;s in Internet Technology from Cambridge University. He also holds  a master&rsquo;s in Media Arts and Sciences from MIT Media Lab where he was  an NSF Fellow. At MIT Media  Lab&#39;s Lifelong Kindergarten, he won a Lemelson Student Prize.</p><p><em>Photo: Thatcher Cook</em>&nbsp;</p>"}],"speaker_name":"Jay Silver","tags":["creativity","invention","technology","toy"],"title":"Hack a banana, make a keyboard!","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":1362549}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

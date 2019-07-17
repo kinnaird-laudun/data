@@ -1,0 +1,1042 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Andrew Blum: Discover the physical side of the internet | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: When a squirrel chewed through a cable and knocked him offline,  journalist Andrew Blum started wondering what the Internet was really made of. So he set out to go see it -- the underwater cables, secret switches and other physical bits that make up the net." />
+<meta name="author" content="Andrew Blum" />
+<link rel="canonical" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=el" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=vi" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=pt-br" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=nl" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=pt" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=tr" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=en" />
+<link rel="alternate" hreflang="th" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=th" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=bg" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=de" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=hu" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=fa" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=he" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=sr" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=ko" />
+<link rel="alternate" hreflang="sk" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=sk" />
+<link rel="alternate" hreflang="uk" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=uk" />
+<link rel="alternate" hreflang="sl" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=sl" />
+<link rel="alternate" hreflang="lv" href="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript?language=lv" />
+<meta property="og:title" content="Transcript of &quot;Discover the physical side of the internet&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b0102fcf-5c85-41a8-bcfd-2d642216e033/AndrewBlum_2012G-embed.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b0102fcf-5c85-41a8-bcfd-2d642216e033/AndrewBlum_2012G-embed.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Andrew Blum: Discover the physical side of the internet" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: When a squirrel chewed through a cable and knocked him offline,  journalist Andrew Blum started wondering what the Internet was really made of. So he set out to go see it -- the underwater cables, secret switches and other physical bits that make up the net." />
+<meta property="og:url" content="https://www.ted.com/talks/andrew_blum_what_is_the_internet_really/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 1576);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/andrew_blum_what_is_the_internet_really' itemprop='url'>
+<meta content='Discover the physical side of the internet' itemprop='name'>
+<meta content='When a squirrel chewed through a cable and knocked him offline,  journalist Andrew Blum started wondering what the Internet was really made of. So he set out to go see it — the underwater cables, secret switches and other physical bits that make up the net.' itemprop='description'>
+<meta content='PT11M59S' itemprop='duration'>
+<meta content='2012-09-19T15:08:38+00:00' itemprop='uploadDate'>
+<meta content='1399156' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b0102fcf-5c85-41a8-bcfd-2d642216e033/AndrewBlum_2012G-embed.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/andrew_blum' itemprop='url'>
+<meta content='Andrew Blum' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/e3d82672c6f91a4ff51ea44515b329366d5291e8_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/andrew_blum_what_is_the_internet_really' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b0102fcf-5c85-41a8-bcfd-2d642216e033/AndrewBlum_2012G-embed.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Andrew Blum
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,399,156
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 11:59</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I&#39;ve always written primarily about architecture,
+											about buildings, and writing about architecture
+											is based on certain assumptions.
+											An architect designs a building, and it becomes a place,
+											or many architects design many buildings, and it becomes
+											a city, and regardless of this complicated mix of forces
+											of politics and culture and economics that shapes
+											these places, at the end of the day, you can go
+											and you can visit them. You can walk around them.
+											You can smell them. You can get a feel for them.
+											You can experience their sense of place.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But what was striking to me over the last several years
+											was that less and less was I going out into the world,
+											and more and more, I was sitting in front of my computer screen.
+											And especially since about 2007, when I got an iPhone,
+											I was not only sitting in front of my screen all day,
+											but I was also getting up at the end of the day
+											and looking at this little screen that I carried in my pocket.
+											And what was surprising to me was how quickly
+											my relationship to the physical world had changed.
+											In this very short period of time, you know, whether you
+											call it the last 15 years or so of being online, or the last,
+											you know, four or five years of being online all the time,
+											our relationship to our surroundings had changed in that
+											our attention is constantly divided. You know,
+											we&#39;re both looking inside the screens and we&#39;re looking
+											out in the world around us.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And what was even more striking to me, and what I really
+											got hung up on, was that the world inside the screen
+											seemed to have no physical reality of its own.
+											If you went and looked for images of the Internet,
+											this was all that you found, this famous image by Opte
+											of the Internet as the kind of Milky Way, this infinite expanse
+											where we don&#39;t seem to be anywhere on it.
+											We can never seem to grasp it in its totality.
+											It&#39;s always reminded me of the Apollo image of the Earth,
+											the blue marble picture, and it&#39;s similarly meant to suggest,
+											I think, that we can&#39;t really understand it as a whole.
+											We&#39;re always sort of small in the face of its expanse.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So if there was this world and this screen, and if there was
+											the physical world around me, I couldn&#39;t ever get them
+											together in the same place.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And then this happened.
+											My Internet broke one day, as it occasionally does,
+											and the cable guy came to fix it, and he started with
+											the dusty clump of cables behind the couch,
+											and he followed it to the front of my building and into the basement and out to the back yard,
+											and there was this big jumble of cables against the wall.
+											And then he saw a squirrel running along the wire,
+											and he said, &quot;There&#39;s your problem.
+											A squirrel is chewing on your Internet.&quot; (Laughter)
+											And this seemed astounding. The Internet is
+											a transcendent idea. It&#39;s a set of protocols that has changed
+											everything from shopping to dating to revolutions.
+											It was unequivocally not something
+											a squirrel could chew on. (Laughter)
+											But that in fact seemed to be the case.
+											A squirrel had in fact chewed on my Internet. (Laughter)
+											And then I got this image in my head of what would happen
+											if you yanked the wire from the wall and if you started
+											to follow it. Where would it go?
+											Was the Internet actually a place that you could visit?
+											Could I go there? Who would I meet?
+											You know, was there something actually out there?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And the answer, by all accounts, was no.
+											This was the Internet, this black box with a red light on it,
+											as represented in the sitcom &quot;The IT Crowd.&quot;
+											Normally it lives on the top of Big Ben,
+											because that&#39;s where you get the best reception,
+											but they had negotiated that their colleague could borrow it
+											for the afternoon to use in an office presentation.
+											The elders of the Internet were willing to part with it
+											for a short while, and she looks at it and she says,
+											&quot;This is the Internet? The whole Internet? Is it heavy?&quot;
+											They say, &quot;Of course not, the Internet doesn&#39;t weigh anything.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And I was embarrassed. I was looking for this thing
+											that only fools seem to look for.
+											The Internet was that amorphous blob, or it was a silly
+											black box with a blinking red light on it.
+											It wasn&#39;t a real world out there.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But, in fact, it is. There is a real world of the Internet out there,
+											and that&#39;s what I spent about two years visiting,
+											these places of the Internet. I was in large data centers
+											that use as much power as the cities in which they sit,
+											and I visited places like this, 60 Hudson Street in New York,
+											which is one of the buildings in the world,
+											one of a very short list of buildings, about a dozen buildings,
+											where more networks of the Internet connect to each other
+											than anywhere else.
+											And that connection is an unequivocally physical process.
+											It&#39;s about the router of one network, a Facebook or
+											a Google or a B.T. or a Comcast or a Time Warner, whatever it is,
+											connecting with usually a yellow fiber optic cable up into
+											the ceiling and down into the router of another network,
+											and that&#39;s unequivocally physical, and it&#39;s surprisingly intimate.
+											A building like 60 Hudson, and a dozen or so others,
+											has 10 times more networks connecting within it
+											than the next tier of buildings.
+											There&#39;s a very short list of these places.
+											And 60 Hudson in particular is interesting because it&#39;s home
+											to about a half a dozen very important networks,
+											which are the networks which serve the undersea cables
+											that travel underneath the ocean
+											that connect Europe and America and connect all of us.
+											And it&#39;s those cables in particular that I want to focus on.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											If the Internet is a global phenomenon, if we live
+											in a global village, it&#39;s because there are cables underneath
+											the ocean, cables like this.
+											And in this dimension, they are incredibly small.
+											You can you hold them in your hand. They&#39;re like a garden hose.
+											But in the other dimension they are incredibly expansive,
+											as expansive as you can imagine.
+											They stretch across the ocean. They&#39;re three or five
+											or eight thousand miles in length, and
+											if the material science and the computational technology
+											is incredibly complicated, the basic physical process
+											is shockingly simple. Light goes in on one end of the ocean
+											and comes out on the other, and it usually comes
+											from a building called a landing station that&#39;s often
+											tucked away inconspicuously in a little seaside neighborhood,
+											and there are amplifiers that sit on the ocean floor
+											that look kind of like bluefin tuna, and every 50 miles
+											they amplify the signal, and since the rate of transmission
+											is incredibly fast, the basic unit is a 10-gigabit-per-second
+											wavelength of light, maybe a thousand times your own
+											connection, or capable of carrying 10,000 video streams,
+											but not only that, but you&#39;ll put not just one wavelength of light
+											through one of the fibers, but you&#39;ll put maybe
+											50 or 60 or 70 different wavelengths or colors of light
+											through a single fiber, and then you&#39;ll have maybe
+											eight fibers in a cable, four going in each direction.
+											And they&#39;re tiny. They&#39;re the thickness of a hair.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And then they connect to the continent somewhere.
+											They connect in a manhole like this. Literally,
+											this is where the 5,000-mile cable plugs in.
+											This is in Halifax, a cable that stretches from Halifax to Ireland.
+											And the landscape is changing. Three years ago,
+											when I started thinking about this, there was one cable
+											down the Western coast of Africa, represented
+											in this map by Steve Song as that thin black line.
+											Now there are six cables and more coming, three down each coast.
+											Because once a country gets plugged in by one cable,
+											they realize that it&#39;s not enough. If they&#39;re going to build
+											an industry around it, they need to know that their connection
+											isn&#39;t tenuous but permanent, because if a cable breaks,
+											you have to send a ship out into the water, throw
+											a grappling hook over the side, pick it up, find the other end,
+											and then fuse the two ends back together and then dump it over.
+											It&#39;s an intensely, intensely physical process.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So this is my friend Simon Cooper, who until very recently
+											worked for Tata Communications, the communications wing
+											of Tata, the big Indian industrial conglomerate.
+											And I&#39;ve never met him. We&#39;ve only communicated
+											via this telepresence system, which always makes me
+											think of him as the man inside the Internet. (Laughter)
+											And he is English. The undersea cable industry
+											is dominated by Englishmen, and they all seem to be 42.
+											(Laughter) Because they all started at the same time
+											with the boom about 20 years ago.
+											And Tata had gotten its start as a communications business
+											when they bought two cables, one across the Atlantic
+											and one across the Pacific, and proceeded to add pieces
+											onto them, until they had built a belt around the world,
+											which means they will send your bits to the East or the West.
+											They have — this is literally a beam of light around the world,
+											and if a cable breaks in the Pacific, it&#39;ll send it around
+											the other direction. And then having done that,
+											they started to look for places to wire next.
+											They looked for the unwired places, and that&#39;s meant
+											North and South, primarily these cables to Africa.
+											But what amazes me is Simon&#39;s incredible geographic imagination.
+											He thinks about the world with this incredible expansiveness.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And I was particularly interested because I wanted to see
+											one of these cables being built. See, you know, all the time
+											online we experience these fleeting moments of connection,
+											these sort of brief adjacencies, a tweet or a Facebook post
+											or an email, and it seemed like there was a physical corollary to that.
+											It seemed like there was a moment when the continent
+											was being plugged in, and I wanted to see that.
+											And Simon was working on a new cable,
+											WACS, the West Africa Cable System, that stretched
+											from Lisbon down the west coast of Africa,
+											to Cote d&#39;Ivoire, to Ghana, to Nigeria, to Cameroon.
+											And he said there was coming soon, depending
+											on the weather, but he&#39;d let me know when,
+											and so with about four days notice, he said to go
+											to this beach south of Lisbon, and a little after 9,
+											this guy will walk out of the water. (Laughter)
+											And he&#39;ll be carrying a green nylon line, a lightweight line,
+											called a messenger line, and that was the first link
+											between sea and land, this link that would then be
+											leveraged into this 9,000-mile path of light.
+											Then a bulldozer began to pull the cable in from this
+											specialized cable landing ship, and it was floated
+											on these buoys until it was in the right place.
+											Then you can see the English engineers looking on.
+											And then, once it was in the right place, he got back
+											in the water holding a big knife, and he cut each buoy off,
+											and the buoy popped up into the air, and the cable
+											dropped to the sea floor, and he did that all the way out
+											to the ship, and when he got there,
+											they gave him a glass of juice and a cookie,
+											and then he jumped back in, and he swam back to shore,
+											and then he lit a cigarette. (Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And then once that cable was on shore,
+											they began to prepare to connect it to the other side,
+											for the cable that had been brought down from the landing station.
+											And first they got it with a hacksaw, and then they start
+											sort of shaving away at this plastic interior with a —
+											sort of working like chefs, and then finally they&#39;re working
+											like jewelers to get these hair-thin fibers to line up
+											with the cable that had come down,
+											and with this hole-punch machine they fuse it together.
+											And when you see these guys going at this cable with a hacksaw,
+											you stop thinking about the Internet as a cloud.
+											It starts to seem like an incredibly physical thing.
+											And what surprised me as well was that as much as this
+											is based on the most sophisticated technology, as much
+											as this is an incredibly new thing, the physical process
+											itself has been around for a long time, and the culture is the same.
+											You see the local laborers. You see the English engineer
+											giving directions in the background. And more importantly,
+											the places are the same. These cables still connect
+											these classic port cities, places like Lisbon, Mombasa,
+											Mumbai, Singapore, New York.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And then the process on shore takes around three or four days,
+											and then, when it&#39;s done, they put the manhole cover
+											back on top, and they push the sand over that,
+											and we all forget about it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And it seems to me that we talk a lot about the cloud,
+											but every time we put something on the cloud,
+											we give up some responsibility for it.
+											We are less connected to it. We let other people worry about it.
+											And that doesn&#39;t seem right.
+											There&#39;s a great Neal Stephenson line where he says
+											that wired people should know something about wires.
+											And we should know, I think, we should know
+											where our Internet comes from, and we should know
+											what it is that physically, physically connects us all.
+											Thank you. (Applause)
+											(Applause)
+											Thanks. (Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":15450,"count":95,"talk_id":1576},"threadId":15450,"current_talk":"1576","description":"When a squirrel chewed through a cable and knocked him offline,  journalist Andrew Blum started wondering what the Internet was really made of. So he set out to go see it -- the underwater cables, secret switches and other physical bits that make up the net.","event":"TEDGlobal 2012","language":"en","name":"Andrew Blum: Discover the physical side of the internet","slug":"andrew_blum_what_is_the_internet_really","speakers":[{"id":"1290","slug":"andrew_blum","is_published":true,"firstname":"Andrew","lastname":"Blum","middleinitial":"","title":"","description":"Network author","photo_url":"https://pe.tedcdn.com/images/ted/e3d82672c6f91a4ff51ea44515b329366d5291e8_254x191.jpg","whatotherssay":"Like some heroic cartographer from a Borges story, Andrew Blum plunges into the unseen ether of the Internet. You will never open an e-mail in quite the same way again.","whotheyare":"For his new book, \"Tubes,\" Andrew Blum visited the places where the internet exists in physical form: the cables and switches and servers that virtually connect us.","whylisten":"<p>In his book <em><a href=\"http://andrewblum.net/\" target=\"_blank\">Tubes: A Journey to the Center of the Internet</a>,</em> Andrew Blum wanted to capture the &quot;spirit of place&quot; of the Internet. Because as far-reaching and virtual as our connection to the Net is, the signals travel on good old-fashioned cabling, glass fibers jacketed in polymer, running through conduit under streets. The immaterial Internet runs on a very material, industry-like infrastructure. So that when Alaska senator Ted Stevens called the Internet &quot;a series of tubes&quot; ... well, he was kind of right, and he did inspire the title of this utterly fascinating book, which explores the switches, data centers, sea crossings and many, many tubes that make up our online reality. </p><p>Blum is a writer for <em>Newsweek</em>, and has written for <em>Wired,&nbsp;Popular Science,&nbsp;Metropolis</em> and more.</p><p>Learn more about <em>Tubes</em>: </p><p>Read excerpts on <a href=\"http://online.wsj.com/article/SB10001424052702304840904577422370903409342.html\" target=\"_blank\">submarine cables</a> and <a href=\"http://gizmodo.com/5913934/the-bullseye-of-americas-internet\" target=\"_blank\">Internet exchange points</a>  (like 60 Hudson in NYC).</p><p>Browse <a href=\"https://www.amherst.edu/aboutamherst/magazine/bookclub/featurehome\" target=\"_blank\">book club materials</a>  (from the Amherst Reads book club)</p><p>Listen to Andrew Blum&#39;s audio interview on <a href=\"http://www.npr.org/2012/05/31/153701673/the-internet-a-series-of-tubes-and-then-some\" target=\"_blank\">Fresh Air</a>  </p><p>&nbsp;</p>"}],"url":"https://www.ted.com/talks/andrew_blum_what_is_the_internet_really","viewed_count":1399156,"talks":[{"curator_approved":true,"description":"When a squirrel chewed through a cable and knocked him offline,  journalist Andrew Blum started wondering what the Internet was really made of. So he set out to go see it -- the underwater cables, secret switches and other physical bits that make up the net.","downloads":{"id":1576,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Slovak","endonym":"Slovenčina","languageCode":"sk","ianaCode":"sk","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Slovenian","endonym":"Slovenščina","languageCode":"sl","ianaCode":"sl","isRtl":false},{"languageName":"Latvian","endonym":"Latviešu","languageCode":"lv","ianaCode":"lv","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/AndrewBlum_2012G-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/AndrewBlum_2012G.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-bg.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-bg.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-nl.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-nl.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-zh-tw.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-zh-tw.mp4"},"fr":{"name":"French","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-fr.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-fr.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-hu.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-hu.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-sr.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-sr.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-ar.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-ar.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-ko.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-ko.mp4"},"de":{"name":"German","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-de.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-de.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-pt.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-pt.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-he.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-he.mp4"},"en":{"name":"English","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-en.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-en.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-zh-cn.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-zh-cn.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-es.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-es.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-it.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-it.mp4"},"sk":{"name":"Slovak","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-sk.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-sk.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-ro.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-ro.mp4"},"th":{"name":"Thai","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-th.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-th.mp4"},"fa":{"name":"Persian","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-fa.mp4","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-fa.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-pt-br.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-pt-br.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-tr.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-tr.mp4"},"uk":{"name":"Ukrainian","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-uk.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-uk.mp4"},"sl":{"name":"Slovenian","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-sl.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-sl.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-ja.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-ja.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-ru.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-ru.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-pl.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-pl.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-el.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-el.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-vi.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-vi.mp4"},"lv":{"name":"Latvian","low":"https://download.ted.com/talks/AndrewBlum_2012G-low-lv.mp4","high":"https://download.ted.com/talks/AndrewBlum_2012G-480p-lv.mp4"}},"audioDownload":"https://download.ted.com/talks/AndrewBlum_2012G.mp3?apikey=acme-roadrunner"},"duration":719.0,"event":"TEDGlobal 2012","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://s3.amazonaws.com/talkstar-photos/uploads/b0102fcf-5c85-41a8-bcfd-2d642216e033/AndrewBlum_2012G-embed.jpg","hero_load":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b0102fcf-5c85-41a8-bcfd-2d642216e033/AndrewBlum_2012G-embed.jpg?q=50&w=15","id":"1576","player_talks":[{"id":"1576","duration":719.0,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Slovak","endonym":"Slovenčina","languageCode":"sk","ianaCode":"sk","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Slovenian","endonym":"Slovenščina","languageCode":"sl","ianaCode":"sl","isRtl":false},{"languageName":"Latvian","endonym":"Latviešu","languageCode":"lv","ianaCode":"lv","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2012G/Blank/AndrewBlum_2012G-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDGlobal%2B2012%26id%3D1576%26tag%3DInternet%2Cbusiness%2Cexploration%2Ctechnology%26talk%3Dandrew_blum_what_is_the_internet_really%26year%3D2012&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"1576","talk":"andrew_blum_what_is_the_internet_really","tag":"Internet,business,exploration,technology","year":"2012","event":"TEDGlobal 2012"},"stream":"https://hls.ted.com/talks/1576.m3u8","metadata":"https://hls.ted.com/talks/1576.json"}},"targeting":{"id":"1576","talk":"andrew_blum_what_is_the_internet_really","tag":"Internet,business,exploration,technology","year":"2012","event":"TEDGlobal 2012"},"canonical":"https://www.ted.com/talks/andrew_blum_what_is_the_internet_really","name":"Andrew Blum: Discover the physical side of the internet","title":"Discover the physical side of the internet","speaker":"Andrew Blum","thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/b0102fcf-5c85-41a8-bcfd-2d642216e033/AndrewBlum_2012G-embed.jpg?quality=89&w=600","slug":"andrew_blum_what_is_the_internet_really","event":"TEDGlobal 2012","published":1348067318}],"ratings":[{"id":25,"name":"OK","count":118},{"id":22,"name":"Fascinating","count":274},{"id":1,"name":"Beautiful","count":38},{"id":8,"name":"Informative","count":479},{"id":11,"name":"Longwinded","count":49},{"id":10,"name":"Inspiring","count":53},{"id":24,"name":"Persuasive","count":25},{"id":26,"name":"Obnoxious","count":13},{"id":21,"name":"Unconvincing","count":21},{"id":7,"name":"Funny","count":57},{"id":9,"name":"Ingenious","count":30},{"id":2,"name":"Confusing","count":12},{"id":23,"name":"Jaw-dropping","count":31},{"id":3,"name":"Courageous","count":11}],"recorded_at":"2012-06-27T00:00:00.000+00:00","related_talks":[{"id":"1194","hero":"https://pe.tedcdn.com/images/ted/7c41d305ffe47c0f605eeef6974e98ed27de1390_800x600.jpg","speaker":"Kevin Slavin","title":"How algorithms shape our world","duration":922.0,"slug":"kevin_slavin_how_algorithms_shape_our_world","viewed_count":3791224},{"id":"1202","hero":"https://pe.tedcdn.com/images/ted/8a3a6ed1d04200a0c9bedfd42f0bd9cfae022041_800x600.jpg","speaker":"Harald Haas","title":"Wireless data from every light bulb","duration":771.0,"slug":"harald_haas_wireless_data_from_every_light_bulb","viewed_count":2562646},{"id":"1268","hero":"https://pe.tedcdn.com/images/ted/20a5bb362acb312c69d3d17f2c563e2c1b10d438_800x600.jpg","speaker":"Roger McNamee","title":"6 ways to save the internet","duration":933.0,"slug":"roger_mcnamee_six_ways_to_save_the_internet","viewed_count":309480},{"id":"1693","hero":"https://pe.tedcdn.com/images/ted/fc7b6c0a7974f84b6fd218a3409eb5248d214aad_1600x1200.jpg","speaker":"Danny Hillis","title":"The Internet could crash. We need a Plan B","duration":751.0,"slug":"danny_hillis_the_internet_could_crash_we_need_a_plan_b","viewed_count":1321332},{"id":"1770","hero":"https://pe.tedcdn.com/images/ted/b2dc8e60a1f11d3138c4943b91756f2bb6703ff9_1600x1200.jpg","speaker":"Juliana Rotich","title":"Meet BRCK, Internet access built for Africa","duration":573.0,"slug":"juliana_rotich_meet_brck_internet_access_built_for_africa","viewed_count":642323},{"id":"916","hero":"https://pe.tedcdn.com/images/ted/183882_800x600.jpg","speaker":"Ethan Zuckerman","title":"Listening to global voices","duration":1185.0,"slug":"ethan_zuckerman","viewed_count":728214}],"slug":"andrew_blum_what_is_the_internet_really","speakers":[{"id":"1290","slug":"andrew_blum","is_published":true,"firstname":"Andrew","lastname":"Blum","middleinitial":"","title":"","description":"Network author","photo_url":"https://pe.tedcdn.com/images/ted/e3d82672c6f91a4ff51ea44515b329366d5291e8_254x191.jpg","whatotherssay":"Like some heroic cartographer from a Borges story, Andrew Blum plunges into the unseen ether of the Internet. You will never open an e-mail in quite the same way again.","whotheyare":"For his new book, \"Tubes,\" Andrew Blum visited the places where the internet exists in physical form: the cables and switches and servers that virtually connect us.","whylisten":"<p>In his book <em><a href=\"http://andrewblum.net/\" target=\"_blank\">Tubes: A Journey to the Center of the Internet</a>,</em> Andrew Blum wanted to capture the &quot;spirit of place&quot; of the Internet. Because as far-reaching and virtual as our connection to the Net is, the signals travel on good old-fashioned cabling, glass fibers jacketed in polymer, running through conduit under streets. The immaterial Internet runs on a very material, industry-like infrastructure. So that when Alaska senator Ted Stevens called the Internet &quot;a series of tubes&quot; ... well, he was kind of right, and he did inspire the title of this utterly fascinating book, which explores the switches, data centers, sea crossings and many, many tubes that make up our online reality. </p><p>Blum is a writer for <em>Newsweek</em>, and has written for <em>Wired,&nbsp;Popular Science,&nbsp;Metropolis</em> and more.</p><p>Learn more about <em>Tubes</em>: </p><p>Read excerpts on <a href=\"http://online.wsj.com/article/SB10001424052702304840904577422370903409342.html\" target=\"_blank\">submarine cables</a> and <a href=\"http://gizmodo.com/5913934/the-bullseye-of-americas-internet\" target=\"_blank\">Internet exchange points</a>  (like 60 Hudson in NYC).</p><p>Browse <a href=\"https://www.amherst.edu/aboutamherst/magazine/bookclub/featurehome\" target=\"_blank\">book club materials</a>  (from the Amherst Reads book club)</p><p>Listen to Andrew Blum&#39;s audio interview on <a href=\"http://www.npr.org/2012/05/31/153701673/the-internet-a-series-of-tubes-and-then-some\" target=\"_blank\">Fresh Air</a>  </p><p>&nbsp;</p>"}],"speaker_name":"Andrew Blum","tags":["Internet","business","exploration","technology"],"title":"Discover the physical side of the internet","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":1399156}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

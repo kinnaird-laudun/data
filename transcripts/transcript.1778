@@ -1,0 +1,1426 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Thomas Piketty: New thoughts on capital in the twenty-first century | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: French economist Thomas Piketty caused a sensation in early 2014 with his book on a simple, brutal formula explaining economic inequality: r &amp;gt; g (meaning that return on capital is generally higher than economic growth). Here, he talks through the massive data set that led him to conclude: Economic inequality is not new, but it is getting worse, with radical possible impacts." />
+<meta name="author" content="Thomas Piketty" />
+<link rel="canonical" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript?language=el" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript?language=en" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript?language=vi" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript?language=pt-br" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript?language=ru" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="hr" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript?language=hr" />
+<link rel="alternate" hreflang="lt" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript?language=lt" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript?language=fr" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript?language=hu" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript?language=fa" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript?language=he" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript?language=sr" />
+<link rel="alternate" hreflang="mn" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript?language=mn" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript?language=ko" />
+<link rel="alternate" hreflang="uk" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript?language=uk" />
+<link rel="alternate" hreflang="sl" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript?language=sl" />
+<link rel="alternate" hreflang="th" href="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript?language=th" />
+<meta property="og:title" content="Transcript of &quot;New thoughts on capital in the twenty-first century&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/74081a227343162987b7a5c2abe97194387dd0f0_2880x1620.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/74081a227343162987b7a5c2abe97194387dd0f0_2880x1620.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Thomas Piketty: New thoughts on capital in the twenty-first century" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: French economist Thomas Piketty caused a sensation in early 2014 with his book on a simple, brutal formula explaining economic inequality: r &amp;gt; g (meaning that return on capital is generally higher than economic growth). Here, he talks through the massive data set that led him to conclude: Economic inequality is not new, but it is getting worse, with radical possible impacts." />
+<meta property="og:url" content="https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 2101);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century' itemprop='url'>
+<meta content='New thoughts on capital in the twenty-first century' itemprop='name'>
+<meta content='French economist Thomas Piketty caused a sensation in early 2014 with his book on a simple, brutal formula explaining economic inequality: r &gt; g (meaning that return on capital is generally higher than economic growth). Here, he talks through the massive data set that led him to conclude: Economic inequality is not new, but it is getting worse, with radical possible impacts.' itemprop='description'>
+<meta content='PT21M' itemprop='duration'>
+<meta content='2014-10-06T14:26:39+00:00' itemprop='uploadDate'>
+<meta content='1424264' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/74081a227343162987b7a5c2abe97194387dd0f0_2880x1620.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/thomas_piketty' itemprop='url'>
+<meta content='Thomas Piketty' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/e358ccd6d6f1a2e6b6215d7436db64b292ef1e44_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/74081a227343162987b7a5c2abe97194387dd0f0_2880x1620.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Thomas Piketty
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,424,264
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 21:00</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It&#39;s very nice to be here tonight.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So I&#39;ve been working on the history of income
+											and wealth distribution for the past 15 years,
+											and one of the interesting lessons
+											coming from this historical evidence
+											is indeed that, in the long run,
+											there is a tendency for 
+the rate of return of capital
+											to exceed the economy&#39;s growth rate,
+											and this tends to lead to 
+high concentration of wealth.
+											Not infinite concentration of wealth,
+											but the higher the gap between r and g,
+											the higher the level of inequality of wealth
+											towards which society tends to converge.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So this is a key force that
+I&#39;m going to talk about today,
+											but let me say right away
+											that this is not the only important force
+											in the dynamics of income 
+and wealth distribution,
+											and there are many other forces that play
+											an important role in the long-run dynamics
+											of income and wealth distribution.
+											Also there is a lot of data
+											that still needs to be collected.
+											We know a little bit more today
+											than we used to know, 
+but we still know too little,
+											and certainly there are 
+many different processes —
+											economic, social, political —
+											that need to be studied more.
+											And so I&#39;m going to focus today on this simple force,
+											but that doesn&#39;t mean that other important forces
+											do not exist.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So most of the data I&#39;m going to present
+											comes from this database
+											that&#39;s available online:
+											the World Top Incomes Database.
+											So this is the largest existing
+											historical database on inequality,
+											and this comes from the effort
+											of over 30 scholars from several dozen countries.
+											So let me show you a couple of facts
+											coming from this database,
+											and then we&#39;ll return to r bigger than g.
+											So fact number one is that there has been
+											a big reversal in the ordering of income inequality
+											between the United States and Europe
+											over the past century.
+											So back in 1900, 1910, income inequality was actually
+											much higher in Europe than in the United States,
+											whereas today, it is a lot higher in the United States.
+											So let me be very clear:
+											The main explanation for this is not r bigger than g.
+											It has more to do with changing supply and demand
+											for skill, the race between education and technology,
+											globalization, probably more unequal access
+											to skills in the U.S.,
+											where you have very good, very top universities
+											but where the bottom part of the educational system
+											is not as good,
+											so very unequal access to skills,
+											and also an unprecedented rise
+											of top managerial compensation of the United States,
+											which is difficult to account for
+just on the basis of education.
+											So there is more going on here,
+											but I&#39;m not going to talk too much about this today,
+											because I want to focus on wealth inequality.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So let me just show you a very simple indicator
+											about the income inequality part.
+											So this is the share of total income
+											going to the top 10 percent.
+											So you can see that one century ago,
+											it was between 45 and 50 percent in Europe
+											and a little bit above 40 percent in the U.S.,
+											so there was more inequality in Europe.
+											Then there was a sharp decline
+											during the first half of the 20th century,
+											and in the recent decade, you can see that
+											the U.S. has become more unequal than Europe,
+											and this is the first fact I just talked about.
+											Now, the second fact is more about wealth inequality,
+											and here the central fact is that wealth inequality
+											is always a lot higher than income inequality,
+											and also that wealth inequality,
+											although it has also increased in recent decades,
+											is still less extreme today
+											than what it was a century ago,
+											although the total quantity of wealth
+											relative to income has now recovered
+											from the very large shocks
+											caused by World War I, the Great Depression,
+											World War II.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So let me show you two graphs
+											illustrating fact number two and fact number three.
+											So first, if you look at the level of wealth inequality,
+											this is the share of total wealth
+											going to the top 10 percent of wealth holders,
+											so you can see the same kind of reversal
+											between the U.S. and Europe that we had before
+											for income inequality.
+											So wealth concentration was higher
+											in Europe than in the U.S. a century ago,
+											and now it is the opposite.
+											But you can also show two things:
+											First, the general level of wealth inequality
+											is always higher than income inequality.
+											So remember, for income inequality,
+											the share going to the top 10 percent
+											was between 30 and 50 percent of total income,
+											whereas for wealth, the share is always
+											between 60 and 90 percent.
+											Okay, so that&#39;s fact number one,
+											and that&#39;s very important for what follows.
+											Wealth concentration is always
+											a lot higher than income concentration.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Fact number two is that the rise
+											in wealth inequality in recent decades
+											is still not enough to get us back to 1910.
+											So the big difference today,
+											wealth inequality is still very large,
+											with 60, 70 percent of total wealth for the top 10,
+											but the good news is that it&#39;s actually
+											better than one century ago,
+											where you had 90 percent in
+Europe going to the top 10.
+											So today what you have
+											is what I call the middle 40 percent,
+											the people who are not in the top 10
+											and who are not in the bottom 50,
+											and what you can view as the wealth middle class
+											that owns 20 to 30 percent
+											of total wealth, national wealth,
+											whereas they used to be poor, a century ago,
+											when there was basically no wealth middle class.
+											So this is an important change,
+											and it&#39;s interesting to see that wealth inequality
+											has not fully recovered to pre-World War I levels,
+											although the total quantity of wealth has recovered.
+											Okay? So this is the total value
+											of wealth relative to income,
+											and you can see that in particular in Europe,
+											we are almost back to the pre-World War I level.
+											So there are really two
+											different parts of the story here.
+											One has to do with
+											the total quantity of wealth that we accumulate,
+											and there is nothing bad per se, of course,
+											in accumulating a lot of wealth,
+											and in particular if it is more diffuse
+											and less concentrated.
+											So what we really want to focus on
+											is the long-run evolution of wealth inequality,
+											and what&#39;s going to happen in the future.
+											How can we account for the fact that
+											until World War I, wealth inequality was so high
+											and, if anything, was rising to even higher levels,
+											and how can we think about the future?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So let me come to some of the explanations
+											and speculations about the future.
+											Let me first say that
+											probably the best model to explain
+											why wealth is so much
+											more concentrated than income
+											is a dynamic, dynastic model
+											where individuals have a long horizon
+											and accumulate wealth for all sorts of reasons.
+											If people were accumulating wealth
+											only for life cycle reasons,
+											you know, to be able to consume
+											when they are old,
+											then the level of wealth inequality
+											should be more or less in line
+											with the level of income inequality.
+											But it will be very difficult to explain
+											why you have so much more wealth inequality
+											than income inequality
+											with a pure life cycle model,
+											so you need a story
+											where people also care
+											about wealth accumulation for other reasons.
+											So typically, they want to transmit
+											wealth to the next generation, to their children,
+											or sometimes they want to accumulate wealth
+											because of the prestige, the
+power that goes with wealth.
+											So there must be other reasons
+											for accumulating wealth than just life cycle
+											to explain what we see in the data.
+											Now, in a large class of dynamic models
+											of wealth accumulation
+											with such dynastic motive for accumulating wealth,
+											you will have all sorts of random,
+											multiplicative shocks.
+											So for instance, some families
+											have a very large number of children,
+											so the wealth will be divided.
+											Some families have fewer children.
+											You also have shocks to rates of return.
+											Some families make huge capital gains.
+											Some made bad investments.
+											So you will always have some mobility
+											in the wealth process.
+											Some people will move up,
+some people will move down.
+											The important point is that,
+											in any such model,
+											for a given variance of such shocks,
+											the equilibrium level of wealth inequality
+											will be a steeply rising function of r minus g.
+											And intuitively, the reason why the difference
+											between the rate of return to wealth
+											and the growth rate is important
+											is that initial wealth inequalities
+											will be amplified at a faster pace
+											with a bigger r minus g.
+											So take a simple example,
+											with r equals five percent and g equals one percent,
+											wealth holders only need to reinvest
+											one fifth of their capital income to ensure
+											that their wealth rises as fast
+											as the size of the economy.
+											So this makes it easier
+											to build and perpetuate large fortunes
+											because you can consume four fifths,
+											assuming zero tax,
+											and you can just reinvest one fifth.
+											So of course some families
+will consume more than that,
+											some will consume less, so there will be
+											some mobility in the distribution,
+											but on average, they only need to reinvest one fifth,
+											so this allows high wealth inequalities to be sustained.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, you should not be surprised
+											by the statement that r can be bigger than g forever,
+											because, in fact, this is what happened
+											during most of the history of mankind.
+											And this was in a way very obvious to everybody
+											for a simple reason, which is that growth
+											was close to zero percent
+											during most of the history of mankind.
+											Growth was maybe 0.1, 0.2, 0.3 percent,
+											but very slow growth of population
+											and output per capita,
+											whereas the rate of return on capital
+											of course was not zero percent.
+											It was, for land assets, which was
+											the traditional form
+											of assets in preindustrial societies,
+											it was typically five percent.
+											Any reader of Jane Austen would know that.
+											If you want an annual income of 1,000 pounds,
+											you should have a capital value
+											of 20,000 pounds so that
+											five percent of 20,000 is 1,000.
+											And in a way, this was
+											the very foundation of society,
+											because r bigger than g
+											was what allowed holders of wealth and assets
+											to live off their capital income
+											and to do something else in life
+											than just to care about their own survival.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, one important conclusion
+											of my historical research is that
+											modern industrial growth did not change
+											this basic fact as much as one might have expected.
+											Of course, the growth rate
+											following the Industrial Revolution
+											rose, typically from zero to one to two percent,
+											but at the same time, the rate of return
+											to capital also rose
+											so that the gap between the two
+											did not really change.
+											So during the 20th century,
+											you had a very unique combination of events.
+											First, a very low rate of return
+											due to the 1914 and 1945 war shocks,
+											destruction of wealth, inflation,
+											bankruptcy during the Great Depression,
+											and all of this reduced
+											the private rate of return to wealth
+											to unusually low levels
+											between 1914 and 1945.
+											And then, in the postwar period,
+											you had unusually high growth rate,
+											partly due to the reconstruction.
+											You know, in Germany, in France, in Japan,
+											you had five percent growth rate
+											between 1950 and 1980
+											largely due to reconstruction,
+											and also due to very large demographic growth,
+											the Baby Boom Cohort effect.
+											Now, apparently that&#39;s not going to last for very long,
+											or at least the population growth
+											is supposed to decline in the future,
+											and the best projections we have is that
+											the long-run growth is going to be closer
+											to one to two percent
+											rather than four to five percent.
+											So if you look at this,
+											these are the best estimates we have
+											of world GDP growth
+											and rate of return on capital,
+											average rates of return on capital,
+											so you can see that during most
+											of the history of mankind,
+											the growth rate was very small,
+											much lower than the rate of return,
+											and then during the 20th century,
+											it is really the population growth,
+											very high in the postwar period,
+											and the reconstruction process
+											that brought growth
+											to a smaller gap with the rate of return.
+											Here I use the United Nations population projections,
+											so of course they are uncertain.
+											It could be that we all start
+											having a lot of children in the future,
+											and the growth rates are going to be higher,
+											but from now on,
+											these are the best projections we have,
+											and this will make global growth
+											decline and the gap between
+											the rate of return go up.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, the other unusual event
+											during the 20th century
+											was, as I said,
+											destruction, taxation of capital,
+											so this is the pre-tax rate of return.
+											This is the after-tax rate of return,
+											and after destruction,
+											and this is what brought
+											the average rate of return
+											after tax, after destruction,
+											below the growth rate during a long time period.
+											But without the destruction,
+											without the taxation, this 
+would not have happened.
+											So let me say that the balance between
+											returns on capital and growth
+											depends on many different factors
+											that are very difficult to predict:
+											technology and the development
+											of capital-intensive techniques.
+											So right now, the most capital-intensive sectors
+											in the economy are the real estate sector, housing,
+											the energy sector, but it could be in the future
+											that we have a lot more robots in a number of sectors
+											and that this would be a bigger share
+											of the total capital stock that it is today.
+											Well, we are very far from this,
+											and from now, what&#39;s going on
+											in the real estate sector, the energy sector,
+											is much more important for the total capital stock
+											and capital share.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The other important issue
+											is that there are scale effects
+in portfolio management,
+											together with financial complexity,
+											financial deregulation,
+											that make it easier to get higher rates of return
+											for a large portfolio,
+											and this seems to be particularly strong
+											for billionaires, large capital endowments.
+											Just to give you one example,
+											this comes from the Forbes billionaire rankings
+											over the 1987-2013 period,
+											and you can see the very top wealth holders
+											have been going up at six, seven percent per year
+											in real terms above inflation,
+											whereas average income in the world,
+											average wealth in the world,
+											have increased at only two percent per year.
+											And you find the same
+											for large university endowments —
+											the bigger the initial endowments,
+											the bigger the rate of return.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, what could be done?
+											The first thing is that I think we need
+											more financial transparency.
+											We know too little about global wealth dynamics,
+											so we need international transmission
+											of bank information.
+											We need a global registry of financial assets,
+											more coordination on wealth taxation,
+											and even wealth tax with a small tax rate
+											will be a way to produce information
+											so that then we can adapt our policies
+											to whatever we observe.
+											And to some extent, the fight
+											against tax havens
+											and automatic transmission of information
+											is pushing us in this direction.
+											Now, there are other ways to redistribute wealth,
+											which it can be tempting to use.
+											Inflation:
+											it&#39;s much easier to print money
+											than to write a tax code, so that&#39;s very tempting,
+											but sometimes you don&#39;t know
+what you do with the money.
+											This is a problem.
+											Expropriation is very tempting.
+											Just when you feel some people get too wealthy,
+											you just expropriate them.
+											But this is not a very efficient way
+											to organize a regulation of wealth dynamics.
+											So war is an even less efficient way,
+											so I tend to prefer progressive taxation,
+											but of course, history — (Laughter) —
+											history will invent its own best ways,
+											and it will probably involve
+											a combination of all of these.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Bruno Giussani: Thomas Piketty. Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thomas, I want to ask you two or three questions,
+											because it&#39;s impressive how you&#39;re
+in command of your data, of course,
+											but basically what you suggest is
+											growing wealth concentration is kind of
+											a natural tendency of capitalism,
+											and if we leave it to its own devices,
+											it may threaten the system itself,
+											so you&#39;re suggesting that we need to act
+											to implement policies that redistribute wealth,
+											including the ones we just saw:
+											progressive taxation, etc.
+											In the current political context,
+											how realistic are those?
+											How likely do you think that it is
+											that they will be implemented?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thomas Piketty: Well, you know, I think
+											if you look back through time,
+											the history of income, wealth and taxation
+											is full of surprise.
+											So I am not terribly impressed
+											by those who know in advance
+											what will or will not happen.
+											I think one century ago,
+											many people would have said
+											that progressive income taxation would never happen
+											and then it happened.
+											And even five years ago,
+											many people would have said that bank secrecy
+											will be with us forever in Switzerland,
+											that Switzerland was too powerful
+											for the rest of the world,
+											and then suddenly it took a few U.S. sanctions
+											against Swiss banks for a big change to happen,
+											and now we are moving toward
+											more financial transparency.
+											So I think it&#39;s not that difficult
+											to better coordinate politically.
+											We are going to have a treaty
+											with half of the world GDP around the table
+											with the U.S. and the European Union,
+											so if half of the world GDP is not enough
+											to make progress on financial transparency
+											and minimal tax for multinational corporate profits,
+											what does it take?
+											So I think these are not technical difficulties.
+											I think we can make progress
+											if we have a more pragmatic
+approach to these questions
+											and we have the proper sanctions
+											on those who benefit from financial opacity.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											BG: One of the arguments
+											against your point of view
+											is that economic inequality
+											is not only a feature of capitalism
+but is actually one of its engines.
+											So we take measures to lower inequality,
+											and at the same time we lower growth, potentially.
+											What do you answer to that?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											TP: Yeah, I think inequality
+											is not a problem per se.
+											I think inequality up to a point
+											can actually be useful for innovation and growth.
+											The problem is, it&#39;s a question of degree.
+											When inequality gets too extreme,
+											then it becomes useless for growth
+											and it can even become bad
+											because it tends to lead to high perpetuation
+											of inequality over time
+											and low mobility.
+											And for instance, the kind of wealth concentrations
+											that we had in the 19th century
+											and pretty much until World War I
+											in every European country
+											was, I think, not useful for growth.
+											This was destroyed by a combination
+											of tragic events and policy changes,
+											and this did not prevent growth from happening.
+											And also, extreme inequality can be bad
+											for our democratic institutions
+											if it creates very unequal access to political voice,
+											and the influence of private money
+											in U.S. politics, I think,
+											is a matter of concern right now.
+											So we don&#39;t want to return to that kind of extreme,
+											pre-World War I inequality.
+											Having a decent share of the national wealth
+											for the middle class is not bad for growth.
+											It is actually useful
+											both for equity and efficiency reasons.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											BG: I said at the beginning
+											that your book has been criticized.
+											Some of your data has been criticized.
+											Some of your choice of data sets has been criticized.
+											You have been accused of cherry-picking data
+											to make your case. What do you answer to that?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											TP: Well, I answer that I am very happy
+											that this book is stimulating debate.
+											This is part of what it is intended for.
+											Look, the reason why I put all the data online
+											with all of the detailed computation
+											is so that we can have 
+an open and transparent
+											debate about this.
+											So I have responded point by point
+											to every concern.
+											Let me say that if I was to rewrite the book today,
+											I would actually conclude
+											that the rise in wealth inequality,
+											particularly in the United States,
+											has been actually higher
+than what I report in my book.
+											There is a recent study by Saez and Zucman
+											showing, with new data
+											which I didn&#39;t have at the time of the book,
+											that wealth concentration in the U.S. has risen
+											even more than what I report.
+											And there will be other data in the future.
+											Some of it will go in different directions.
+											Look, we put online almost every week
+											new, updated series on the
+World Top Income Database
+											and we will keep doing so in the future,
+											in particular in emerging countries,
+											and I welcome all of those who want to contribute
+											to this data collection process.
+											In fact, I certainly agree
+											that there is not enough
+											transparency about wealth dynamics,
+											and a good way to have better data
+											would be to have a wealth tax
+											with a small tax rate to begin with
+											so that we can all agree
+											about this important evolution
+											and adapt our policies to whatever we observe.
+											So taxation is a source of knowledge,
+											and that&#39;s what we need the most right now.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											BG: Thomas Piketty, merci beaucoup.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+TP: Thank you. (Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":26718,"count":120,"talk_id":2101},"threadId":26718,"current_talk":"2101","description":"French economist Thomas Piketty caused a sensation in early 2014 with his book on a simple, brutal formula explaining economic inequality: r > g (meaning that return on capital is generally higher than economic growth). Here, he talks through the massive data set that led him to conclude: Economic inequality is not new, but it is getting worse, with radical possible impacts.","event":"TEDSalon Berlin 2014","language":"en","name":"Thomas Piketty: New thoughts on capital in the twenty-first century","slug":"thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century","speakers":[{"id":"1942","slug":"thomas_piketty","is_published":true,"firstname":"Thomas","lastname":"Piketty","middleinitial":"","title":"","description":"Economist","photo_url":"https://pe.tedcdn.com/images/ted/e358ccd6d6f1a2e6b6215d7436db64b292ef1e44_254x191.jpg","whatotherssay":"","whotheyare":"Thomas Piketty is an economist and professor at the Paris School of Economics. His 2014 book, \"Capital in the Twenty-first Century,\" caused a sensation upon publication.","whylisten":"Is the global economy accelerating toward a future that&rsquo;s incompatible with democracy? In this provocative talk about inequality and wealth, economist Thomas Piketty provides new context for his groundbreaking book,&nbsp;<a href=\"http://geni.us/capital\" target=\"_blank\"><em>Capital in the Twenty-First Century</em></a>."}],"url":"https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century","viewed_count":1424264,"talks":[{"recommendations":null,"more_resources":[{"status":"approved","headline":"*Capital in the Twenty-First Century*","blurb":null,"link_url":"http://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/067443000X/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","image_url":"https://pe.tedcdn.com/images/ted/52191f9284afc8dedf90f4f5fe4e1262caee66c6_450x702.jpg","author":"Thomas Piketty","year":"2014","publisher":"Belknap Press","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"book"},{"status":"approved","headline":"r > g: explained","blurb":"A breakdown of Thomas Piketty's ideas on capital in the 21st century, with a handy infographic.","link_url":"http://ideas.ted.com/2014/10/06/thomas-pikettys-capital-in-the-twenty-first-century-explained/","image_url":"","visible_url":"","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"from_the_blog"},{"status":"approved","headline":"Did you really understand this talk?","blurb":"Read our explainer then test out your knowledge with a short quiz.","link_url":"http://ed.ted.com/on/YwmpnyIn#review","image_url":"","visible_url":"","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"from_the_blog"}],"corrections":[],"has_citations":false,"take_action":[],"curator_approved":true,"description":"French economist Thomas Piketty caused a sensation in early 2014 with his book on a simple, brutal formula explaining economic inequality: r > g (meaning that return on capital is generally higher than economic growth). Here, he talks through the massive data set that led him to conclude: Economic inequality is not new, but it is getting worse, with radical possible impacts.","downloads":{"id":2101,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"Lithuanian","endonym":"Lietuvių kalba","languageCode":"lt","ianaCode":"lt","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Mongolian","endonym":"Монгол","languageCode":"mn","ianaCode":"mn","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Slovenian","endonym":"Slovenščina","languageCode":"sl","ianaCode":"sl","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/ThomasPiketty_2014S-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/ThomasPiketty_2014S.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/ThomasPiketty_2014S-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"en":{"name":"English","low":"https://download.ted.com/talks/ThomasPiketty_2014S-low-en.mp4","high":"https://download.ted.com/talks/ThomasPiketty_2014S-480p-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/ThomasPiketty_2014S-low-pt-br.mp4","high":"https://download.ted.com/talks/ThomasPiketty_2014S-480p-pt-br.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/ThomasPiketty_2014S-low-he.mp4","high":"https://download.ted.com/talks/ThomasPiketty_2014S-480p-he.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/ThomasPiketty_2014S-low-es.mp4","high":"https://download.ted.com/talks/ThomasPiketty_2014S-480p-es.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/ThomasPiketty_2014S-low-ja.mp4","high":"https://download.ted.com/talks/ThomasPiketty_2014S-480p-ja.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/ThomasPiketty_2014S-low-ko.mp4","high":"https://download.ted.com/talks/ThomasPiketty_2014S-480p-ko.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/ThomasPiketty_2014S-low-hu.mp4","high":"https://download.ted.com/talks/ThomasPiketty_2014S-480p-hu.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/ThomasPiketty_2014S-low-sr.mp4","high":"https://download.ted.com/talks/ThomasPiketty_2014S-480p-sr.mp4"},"uk":{"name":"Ukrainian","low":"https://download.ted.com/talks/ThomasPiketty_2014S-low-uk.mp4","high":"https://download.ted.com/talks/ThomasPiketty_2014S-480p-uk.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/ThomasPiketty_2014S-low-zh-cn.mp4","high":"https://download.ted.com/talks/ThomasPiketty_2014S-480p-zh-cn.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/ThomasPiketty_2014S-low-zh-tw.mp4","high":"https://download.ted.com/talks/ThomasPiketty_2014S-480p-zh-tw.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/ThomasPiketty_2014S-low-it.mp4","high":"https://download.ted.com/talks/ThomasPiketty_2014S-480p-it.mp4"},"lt":{"name":"Lithuanian","low":"https://download.ted.com/talks/ThomasPiketty_2014S-low-lt.mp4","high":"https://download.ted.com/talks/ThomasPiketty_2014S-480p-lt.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/ThomasPiketty_2014S-low-ru.mp4","high":"https://download.ted.com/talks/ThomasPiketty_2014S-480p-ru.mp4"},"sl":{"name":"Slovenian","low":"https://download.ted.com/talks/ThomasPiketty_2014S-low-sl.mp4","high":"https://download.ted.com/talks/ThomasPiketty_2014S-480p-sl.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/ThomasPiketty_2014S-low-el.mp4","high":"https://download.ted.com/talks/ThomasPiketty_2014S-480p-el.mp4"},"hr":{"name":"Croatian","high":"https://download.ted.com/talks/ThomasPiketty_2014S-480p-hr.mp4","low":"https://download.ted.com/talks/ThomasPiketty_2014S-low-hr.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/ThomasPiketty_2014S-low-ar.mp4","high":"https://download.ted.com/talks/ThomasPiketty_2014S-480p-ar.mp4"},"mn":{"name":"Mongolian","low":"https://download.ted.com/talks/ThomasPiketty_2014S-low-mn.mp4","high":"https://download.ted.com/talks/ThomasPiketty_2014S-480p-mn.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/ThomasPiketty_2014S-low-fa.mp4","high":"https://download.ted.com/talks/ThomasPiketty_2014S-480p-fa.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/ThomasPiketty_2014S-low-pl.mp4","high":"https://download.ted.com/talks/ThomasPiketty_2014S-480p-pl.mp4"},"fr":{"name":"French","low":"https://download.ted.com/talks/ThomasPiketty_2014S-low-fr.mp4","high":"https://download.ted.com/talks/ThomasPiketty_2014S-480p-fr.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/ThomasPiketty_2014S-low-vi.mp4","high":"https://download.ted.com/talks/ThomasPiketty_2014S-480p-vi.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/ThomasPiketty_2014S-low-ro.mp4","high":"https://download.ted.com/talks/ThomasPiketty_2014S-480p-ro.mp4"},"th":{"name":"Thai","low":"https://download.ted.com/talks/ThomasPiketty_2014S-low-th.mp4","high":"https://download.ted.com/talks/ThomasPiketty_2014S-480p-th.mp4"}},"audioDownload":"https://download.ted.com/talks/ThomasPiketty_2014S.mp3?apikey=acme-roadrunner"},"duration":1260.0,"event":"TEDSalon Berlin 2014","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/74081a227343162987b7a5c2abe97194387dd0f0_2880x1620.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/74081a227343162987b7a5c2abe97194387dd0f0_2880x1620.jpg?q=50&w=15","id":"2101","player_talks":[{"id":"2101","duration":1260.0,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"Lithuanian","endonym":"Lietuvių kalba","languageCode":"lt","ianaCode":"lt","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Mongolian","endonym":"Монгол","languageCode":"mn","ianaCode":"mn","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Slovenian","endonym":"Slovenščina","languageCode":"sl","ianaCode":"sl","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2014S/Blank/ThomasPiketty_2014S-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDSalon%2BBerlin%2B2014%26id%3D2101%26tag%3Deconomics%2Cglobal%2Bissues%2Cinequality%26talk%3Dthomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century%26year%3D2014&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"2101","talk":"thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century","tag":"economics,global issues,inequality","year":"2014","event":"TEDSalon Berlin 2014"},"stream":"https://hls.ted.com/talks/2101.m3u8","metadata":"https://hls.ted.com/talks/2101.json"}},"targeting":{"id":"2101","talk":"thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century","tag":"economics,global issues,inequality","year":"2014","event":"TEDSalon Berlin 2014"},"canonical":"https://www.ted.com/talks/thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century","name":"Thomas Piketty: New thoughts on capital in the twenty-first century","title":"New thoughts on capital in the twenty-first century","speaker":"Thomas Piketty","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/74081a227343162987b7a5c2abe97194387dd0f0_2880x1620.jpg?quality=89&w=600","slug":"thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century","event":"TEDSalon Berlin 2014","published":1412605599}],"ratings":[{"id":8,"name":"Informative","count":363},{"id":22,"name":"Fascinating","count":176},{"id":24,"name":"Persuasive","count":113},{"id":25,"name":"OK","count":55},{"id":26,"name":"Obnoxious","count":20},{"id":2,"name":"Confusing","count":62},{"id":3,"name":"Courageous","count":21},{"id":23,"name":"Jaw-dropping","count":21},{"id":11,"name":"Longwinded","count":34},{"id":9,"name":"Ingenious","count":30},{"id":10,"name":"Inspiring","count":59},{"id":1,"name":"Beautiful","count":13},{"id":21,"name":"Unconvincing","count":22},{"id":7,"name":"Funny","count":7}],"recorded_at":"2014-06-23T00:00:00.000+00:00","related_talks":[{"id":"2055","hero":"https://pe.tedcdn.com/images/ted/2a0622d03c2b2a6c673657a5b72ca83b0f48212e_2400x1800.jpg","speaker":"Nick Hanauer","title":"Beware, fellow plutocrats, the pitchforks are coming","duration":1222.0,"slug":"nick_hanauer_beware_fellow_plutocrats_the_pitchforks_are_coming","viewed_count":1798920},{"id":"2090","hero":"https://pe.tedcdn.com/images/ted/5a950989e5d388e85fb0f0363789268aab3c3c43_2400x1800.jpg","speaker":"Hans and Ola Rosling","title":"How not to be ignorant about the world","duration":1145.0,"slug":"hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world","viewed_count":4062404},{"id":"140","hero":"https://pe.tedcdn.com/images/ted/bf09302366bde885c86350145b87cd2b265f1f12_1600x1200.jpg","speaker":"Hans Rosling","title":"New insights on poverty","duration":1137.0,"slug":"hans_rosling_reveals_new_insights_on_poverty","viewed_count":3370108},{"id":"2229","hero":"https://pe.tedcdn.com/images/ted/5bbf3caa1481cb088563f07cd670376e4cf032f6_2880x1620.jpg","speaker":"Dan Ariely","title":"How equal do we want the world to be? You'd be surprised","duration":533.0,"slug":"dan_ariely_how_equal_do_we_want_the_world_to_be_you_d_be_surprised","viewed_count":1777406},{"id":"1791","hero":"https://pe.tedcdn.com/images/ted/fec904a142c611df903d9d3d0ecd6cd4755dadfc_1600x1200.jpg","speaker":"Chrystia Freeland","title":"The rise of the new global super-rich","duration":924.0,"slug":"chrystia_freeland_the_rise_of_the_new_global_super_rich","viewed_count":1982126},{"id":"1253","hero":"https://pe.tedcdn.com/images/ted/a148d40e8e14c96fab2092c7838cfbc719b23815_800x600.jpg","speaker":"Richard Wilkinson","title":"How economic inequality harms societies","duration":1014.0,"slug":"richard_wilkinson","viewed_count":2687529}],"slug":"thomas_piketty_new_thoughts_on_capital_in_the_twenty_first_century","speakers":[{"id":"1942","slug":"thomas_piketty","is_published":true,"firstname":"Thomas","lastname":"Piketty","middleinitial":"","title":"","description":"Economist","photo_url":"https://pe.tedcdn.com/images/ted/e358ccd6d6f1a2e6b6215d7436db64b292ef1e44_254x191.jpg","whatotherssay":"","whotheyare":"Thomas Piketty is an economist and professor at the Paris School of Economics. His 2014 book, \"Capital in the Twenty-first Century,\" caused a sensation upon publication.","whylisten":"Is the global economy accelerating toward a future that&rsquo;s incompatible with democracy? In this provocative talk about inequality and wealth, economist Thomas Piketty provides new context for his groundbreaking book,&nbsp;<a href=\"http://geni.us/capital\" target=\"_blank\"><em>Capital in the Twenty-First Century</em></a>."}],"speaker_name":"Thomas Piketty","tags":["economics","global issues","inequality"],"title":"New thoughts on capital in the twenty-first century","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":1424264}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

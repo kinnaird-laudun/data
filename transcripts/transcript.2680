@@ -1,0 +1,1393 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Eve Abrams: The human stories behind mass incarceration | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: The United States locks up more people than any other country in the world, says documentarian Eve Abrams, and somewhere between one and four percent of those in prison are likely innocent. That&#39;s 87,000 brothers, sisters, mothers and fathers -- predominantly African American -- unnecessarily separated from their families, their lives and dreams put on hold. Using audio from her interviews with incarcerated people and their families, Abrams shares touching stories of those impacted by mass incarceration and calls on us all to take a stand and ensure that the justice system works for everyone." />
+<meta name="author" content="Eve Abrams" />
+<link rel="canonical" href="https://www.ted.com/talks/eve_abrams_the_human_stories_behind_mass_incarceration/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/eve_abrams_the_human_stories_behind_mass_incarceration/transcript" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/eve_abrams_the_human_stories_behind_mass_incarceration/transcript?language=en" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/eve_abrams_the_human_stories_behind_mass_incarceration/transcript?language=it" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/eve_abrams_the_human_stories_behind_mass_incarceration/transcript?language=vi" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/eve_abrams_the_human_stories_behind_mass_incarceration/transcript?language=fr" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/eve_abrams_the_human_stories_behind_mass_incarceration/transcript?language=es" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/eve_abrams_the_human_stories_behind_mass_incarceration/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/eve_abrams_the_human_stories_behind_mass_incarceration/transcript?language=pt-br" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/eve_abrams_the_human_stories_behind_mass_incarceration/transcript?language=ko" />
+<meta property="og:title" content="Transcript of &quot;The human stories behind mass incarceration&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/6a31ca6f-e62f-4290-b09d-b555fe3f4d38/EveAbrams_2017W-embed.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/6a31ca6f-e62f-4290-b09d-b555fe3f4d38/EveAbrams_2017W-embed.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Eve Abrams: The human stories behind mass incarceration" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: The United States locks up more people than any other country in the world, says documentarian Eve Abrams, and somewhere between one and four percent of those in prison are likely innocent. That&#39;s 87,000 brothers, sisters, mothers and fathers -- predominantly African American -- unnecessarily separated from their families, their lives and dreams put on hold. Using audio from her interviews with incarcerated people and their families, Abrams shares touching stories of those impacted by mass incarceration and calls on us all to take a stand and ensure that the justice system works for everyone." />
+<meta property="og:url" content="https://www.ted.com/talks/eve_abrams_the_human_stories_behind_mass_incarceration/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 12060);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/eve_abrams_the_human_stories_behind_mass_incarceration' itemprop='url'>
+<meta content='The human stories behind mass incarceration' itemprop='name'>
+<meta content="The United States locks up more people than any other country in the world, says documentarian Eve Abrams, and somewhere between one and four percent of those in prison are likely innocent. That's 87,000 brothers, sisters, mothers and fathers — predominantly African American — unnecessarily separated from their families, their lives and dreams put on hold. Using audio from her interviews with incarcerated people and their families, Abrams shares touching stories of those impacted by mass incarceration and calls on us all to take a stand and ensure that the justice system works for everyone." itemprop='description'>
+<meta content='PT13M39S' itemprop='duration'>
+<meta content='2018-03-22T19:48:49+00:00' itemprop='uploadDate'>
+<meta content='681882' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/6a31ca6f-e62f-4290-b09d-b555fe3f4d38/EveAbrams_2017W-embed.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/eve_abrams' itemprop='url'>
+<meta content='Eve Abrams' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/a44c1ad1a2edc7145c5411ee87f71f8682805524_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/eve_abrams_the_human_stories_behind_mass_incarceration' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/6a31ca6f-e62f-4290-b09d-b555fe3f4d38/EveAbrams_2017W-embed.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Eve Abrams
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					681,882
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 13:39</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I have never been arrested,
+											never spent a night in jail,
+											never had a loved one
+thrown into the back of a squad car
+											or behind bars,
+											or be at the mercy of a scary,
+confusing system
+											that at best sees them with indifference,
+											and at worst as monstrous.
+											The United States of America locks up
+more people than any other nation
+											on the planet,
+											and Louisiana is our biggest incarcerator.
+											Most of you are probably like me —
+											lucky.
+											The closest we get to crime and punishment
+is likely what we see on TV.
+											While making &quot;Unprisoned,&quot;
+											I met a woman who used to be like us —
+											Sheila Phipps.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Recording) Sheila Phipps:
+Before my son went to jail,
+											I used to see people be on television,
+											fighting, saying, &quot;Oh, this person
+didn&#39;t do it and this person is innocent.&quot;
+											And you know, you snub them
+or you dismiss them,
+											and like, &quot;Yeah, whatever.&quot;
+											Don&#39;t get me wrong,
+											there&#39;s a lot of people
+who deserve to be in prison.
+											There&#39;s a lot of criminals out here.
+											But there are a lot of innocent
+people that&#39;s in jail.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											EA: Sheila&#39;s son, McKinley,
+is one of those innocent people.
+											He served 17 years of a 30-year sentence
+on a manslaughter charge.
+											He had no previous convictions,
+											there was no forensic
+evidence in the case.
+											He was convicted solely
+on the basis of eyewitness testimony,
+											and decades of research have shown
+											that eyewitness testimony
+isn&#39;t as reliable
+											as we once believed it to be.
+											Scientists say that memory isn&#39;t precise.
+											It&#39;s less like playing back a video,
+											and more like putting together a puzzle.
+											Since 1989, when DNA testing
+was first used to free innocent people,
+											over 70 percent of overturned convictions
+were based on eyewitness testimony.
+											Last year,
+											the district attorney whose office
+prosecuted McKinley&#39;s case
+											was convicted of unrelated
+corruption charges.
+											When this district attorney
+of 30 years stepped down,
+											the eyewitnesses
+from McKinley&#39;s case came forward
+											and said that they had been pressured
+into testifying by the district attorneys,
+											pressure which included
+the threat of jail time.
+											Despite this, McKinley is still in prison.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Recording) SP: Before this happened,
+											I never would&#39;ve thought it.
+											And well, I guess it&#39;s hard
+for me to imagine
+											that these things is going on, you know,
+											until this happened to my son.
+											It really opened my eyes.
+											It really, really opened my eyes.
+											I ain&#39;t gonna lie to you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											EA: Estimates of how many innocent
+people are locked up
+											range between one and four percent,
+											which maybe doesn&#39;t sound like a lot,
+											except that it amounts
+to around 87,000 people:
+											mothers, fathers, sons locked up,
+											often for decades,
+											for crimes they did not commit.
+											And that&#39;s not even counting
+the roughly half a million people
+											who have been convicted of nothing —
+											those presumed innocent,
+											but who are too poor to bail out of jail
+											and therefore sit behind bars
+for weeks upon months,
+											waiting for their case to come to trial —
+											or much more likely,
+											waiting to take a plea just to get out.
+											All of those people
+have family on the outside.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Recording) Kortney Williams: My brother
+missed my high school graduation
+											because the night before,
+											he went to jail.
+											My brother missed my birthday dinner
+											because that day, actually,
+he went to jail.
+											My brother missed his own birthday dinner
+											because he was in the wrong place
+at the wrong time.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Recording) EA: So all these times
+when he ended up going to jail,
+											were charges pressed
+or did he just get taken to jail?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KW: The charges would be pressed
+											and it would have a bond posted,
+											then the charges will get dropped ...
+											because there was no evidence.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											EA: I met Kortney Williams
+when I went to her college classroom
+											to talk about &quot;Unprisoned.&quot;
+											She ended up interviewing her aunt,
+Troylynn Robertson,
+											for an episode.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Recording) KW: With everything
+that you went through
+											with your children,
+											what is any advice that you would give me
+											if I had any kids?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Recording) Troylynn Roberston:
+I would tell you when you have them,
+											you know the first thing
+that will initially come to mind is love
+											and protection,
+											but I would tell you,
+											even much with the protection
+to raise them
+											with knowledge of the judicial system —
+											you know, we always tell our kids
+about the boogeyman,
+											the bad people, who to watch out for,
+											but we don&#39;t teach them
+how to watch out for the judicial system.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											EA: Because of the way
+our criminal legal system
+											disproportionately targets
+people of color,
+											it&#39;s not uncommon for young people
+like Kortney to know about it.
+											When I started going into high schools
+to talk to students about &quot;Unprisoned,&quot;
+											I found that roughly one-third
+of the young people I spoke with
+											had a loved one behind bars.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Recording) Girl: The hardest part
+is like finding out where he&#39;s at,
+											or like, when his court date is.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Girl: Yeah, he went to jail
+on my first birthday.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Girl: My dad works as a guard.
+											He saw my uncle in jail.
+											He&#39;s in there for life.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											EA: According to the Annie E.
+Casey Foundation,
+											the number of young people with a father
+incarcerated rose 500 percent
+											between 1980 and 2000.
+											Over five million of today&#39;s children
+will see a parent incarcerated
+											at some point in their childhoods.
+											But this number disproportionately
+affects African American children.
+											By the time they reach the age of 14,
+											one in four black children
+will see their dad go off to prison.
+											That&#39;s compared to a rate
+of one in 30 for white children.
+											One key factor determining the future
+success of both inmates and their children
+											is whether they can maintain ties
+during the parent&#39;s incarceration,
+											but prisoners&#39; phone calls home
+can cost 20 to 30 times more
+											than regular phone calls,
+											so many families
+keep in touch through letters.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Recording: Letter being unfolded)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Anissa Christmas: Dear big brother,
+											I&#39;m making that big 16 this year, LOL.
+											Guess I&#39;m not a baby anymore.
+											You still taking me to prom?
+											I really miss you.
+											You&#39;re the only guy
+that kept it real with me.
+											I wish you were here so I can vent to you.
+											So much has happened since
+the last time I seen you.
+											(Voice breaking up) I have some good news.
+											I won first place in the science fair.
+											I&#39;m a geek.
+											We&#39;re going to regionals,
+can&#39;t you believe it?
+											High school is going by super fast.
+											In less than two years,
+											I hope you&#39;ll be able to see me
+walk across the stage.
+											I thought to write to you
+because I know it&#39;s boring in there.
+											I want to put a smile on your face.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Anissa wrote these letters to her brother
+											when she was a sophomore in high school.
+											She keeps the letters he writes to her
+tucked into the frame
+											of her bedroom mirror,
+											and reads them over and over again.
+											I&#39;d like to think
+that there&#39;s a good reason
+											why Anissa&#39;s brother is locked up.
+											We all want the wheels of justice
+to properly turn,
+											but we&#39;re coming to understand
+											that the lofty ideals we learned
+in school look really different
+											in our nation&#39;s prisons
+and jails and courtrooms.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Recording) Danny Engelberg: You walk
+into that courtroom and you&#39;re just —
+											I&#39;ve been doing this for a quite a while,
+and it still catches your breath.
+											You&#39;re like, &quot;There are so many
+people of color here,&quot;
+											and yet I know that the city is not
+made up of 90 percent African Americans,
+											so why is it that 90 percent
+of the people who are in orange
+											are African American?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Recording) EA: Public defender Danny
+Engelberg isn&#39;t the only one noticing
+											how many black people
+are in municipal court —
+											or in any court.
+											It&#39;s hard to miss.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Who&#39;s sitting in court
+waiting to see the judge?
+											What do they look like?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Recording) Man: Mostly
+African-Americans, like me.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Man: It&#39;s mostly, I could say,
+85 percent black.
+											That&#39;s all you see in the orange,
+in the box back there, who locked up.
+											Man: Who&#39;s waiting? Mostly black.
+											I mean, there was a couple
+of white people in there.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Woman: I think it was about
+85 percent African-American
+											that was sitting there.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											EA: How does a young black person
+growing up in America today
+											come to understand justice?
+											Another &quot;Unprisoned&quot; story
+was about a troupe of dancers
+											who choreographed a piece
+called &quot;Hoods Up,&quot;
+											which they performed
+in front of city council.
+											Dawonta White was in the seventh grade
+for that performance.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Recording) Dawonta White: We was wearing
+black with hoodies because Trayvon Martin,
+											when he was wearing his hoodie,
+he was killed.
+											So we looked upon that,
+											and we said we&#39;re going to wear
+hoodies like Trayvon Martin.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Recording) EA: Who came up
+with that idea?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											DW: The group. We all agreed on it.
+											I was a little nervous,
+but I had stick through it though,
+											but I felt like it was a good thing
+so they could notice what we do.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Recording) EA: Shraivell Brown
+was another choreographer and dancer
+											in &quot;Hoods Up.&quot;
+											He says the police criticize
+people who look like him.
+											He feels judged based on things
+other black people may have done.
+											How would you want
+the police to look at you,
+											and what would you want them to think?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											SB: That I&#39;m not no threat.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											EA: Why would they think
+you&#39;re threatening?
+											What did you say, you&#39;re 14?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											SB: Yes, I&#39;m 14, but because he said
+a lot of black males
+											are thugs or gangsters and all that,
+											but I don&#39;t want them thinking
+that about me.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											EA: For folks who look like me,
+											the easiest and most comfortable
+thing to do is to not pay attention —
+											to assume our criminal
+legal system is working.
+											But if it&#39;s not our responsibility
+to question those assumptions,
+											whose responsibility is it?
+											There&#39;s a synagogue here that&#39;s taken on
+learning about mass incarceration,
+											and many congregants have concluded
+											that because mass incarceration
+throws so many lives into chaos,
+											it actually creates more crime —
+											makes people less safe.
+											Congregant Teri Hunter says
+											the first step towards action
+has to be understanding.
+											She says it&#39;s crucial for all of us
+to understand our connection to this issue
+											even if it&#39;s not immediately obvious.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Recording) Teri Hunter:
+It&#39;s on our shoulders
+											to make sure that we&#39;re not
+just closing that door
+											and saying, &quot;Well, it&#39;s not us.&quot;
+											And I think as Jews, you know,
+we&#39;ve lived that history:
+											&quot;It&#39;s not us.&quot;
+											And so if a society
+closes their back on one section,
+											we&#39;ve seen what happens.
+											And so it is our responsibility as Jews
+											and as members of this community
+											to educate our community —
+											at least our congregation —
+											to the extent that we&#39;re able.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											EA: I&#39;ve been using
+the pronouns &quot;us&quot; and &quot;we&quot;
+											because this is our criminal legal system
+											and our children.
+											We elect the district attorneys,
+											the judges and the legislators
+who operate these systems
+											for we the people.
+											As a society,
+											we are more willing to risk
+locking up innocent people
+											than we are to let guilty people go free.
+											We elect politicians
+who fear being labeled &quot;soft on crime,&quot;
+											encouraging them to pass harsh legislation
+											and allocate enormous resources
+toward locking people up.
+											When a crime is committed,
+											our hunger for swift retribution
+has fed a police culture
+											bent on finding culprits fast,
+											often without adequate resources
+to conduct thorough investigations
+											or strict scrutiny
+of those investigations.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We don&#39;t put checks on prosecutors.
+											Across the country,
+over the last couple of decades,
+											as property and violent crimes
+have both fell,
+											the number of prosecutors employed
+and cases they have filed has risen.
+											Prosecutors decide
+whether or not to take legal action
+											against the people police arrest
+											and they decide what charges to file,
+											directly impacting how much time
+a defendant potentially faces behind bars.
+											One check we do have
+on prosecutors is defense.
+											Imagine Lady Liberty:
+											the blindfolded woman holding the scale
+											meant to symbolize the balance
+in our judicial system.
+											Unfortunately, that scale is tipped.
+											The majority of defendants in our country
+											are represented by
+government-appointed attorneys.
+											These public defenders
+receive around 30 percent less funding
+											than district attorneys do,
+											and they often have caseloads
+far outnumbering
+											what the American Bar
+Association recommends.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											As Sheila Phipps said,
+											there are people who belong in prison,
+											but it&#39;s hard to tell
+the guilty from the innocent
+											when everyone&#39;s outcomes are so similar.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We all want justice.
+											But with the process weighed
+so heavily against defendants,
+											justice is hard to come by.
+											Our criminal legal system
+operates for we the people.
+											If we don&#39;t like what&#39;s going on,
+											it is up to us to change it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you very much.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":27834,"count":2,"talk_id":12060},"threadId":27834,"current_talk":"12060","description":"The United States locks up more people than any other country in the world, says documentarian Eve Abrams, and somewhere between one and four percent of those in prison are likely innocent. That's 87,000 brothers, sisters, mothers and fathers -- predominantly African American -- unnecessarily separated from their families, their lives and dreams put on hold. Using audio from her interviews with incarcerated people and their families, Abrams shares touching stories of those impacted by mass incarceration and calls on us all to take a stand and ensure that the justice system works for everyone.","event":"TEDWomen 2017","language":"en","name":"Eve Abrams: The human stories behind mass incarceration","slug":"eve_abrams_the_human_stories_behind_mass_incarceration","speakers":[{"id":"3609","slug":"eve_abrams","is_published":true,"firstname":"Eve","lastname":"Abrams","middleinitial":"","title":"","description":"Audio documentarian","photo_url":"https://pe.tedcdn.com/images/ted/a44c1ad1a2edc7145c5411ee87f71f8682805524_254x191.jpg","whatotherssay":"","whotheyare":"Eve Abrams makes radio stories, mostly about her adopted hometown, New Orleans.","whylisten":"<p>Eve Abrams is an award-winning radio producer, writer, audio documentarian and educator. She produces the audio project <em>Unprisoned</em>, piloted through AIR&rsquo;s Finding America initiative, which tells how mass incarceration affects people serving time outside and investigates why Louisiana is the world&rsquo;s per-capita incarceration capital. <em>Unprisoned</em> received a Gabriel Award and was a 2017 Peabody Finalist. Abrams&#39;s 2015 documentary <em>Along Saint Claude</em> chronicles 300 years of change in New Orleans and received an Edward R. Murrow award. Her project <em>Documenting Preservation Hall </em>was exhibited at the Louisiana State Museum and became a book.</p><p>Abrams&#39;s writing appears in <em>Unfathomable City: A New Orleans Atlas, Fourth Genre&nbsp;</em>and<em> Louisiana Cultural Vistas,</em> and her radio works can be heard on a host of national programs including &quot;Morning Edition&quot; and &quot;Reveal.&quot; Abrams is a Robert Rauschenberg Foundation Artist as Activist Fellow. She has been teaching for 25 years and currently teaches for the Society for Relief of Destitute Orphan Boys.</p><p>&nbsp;</p>"}],"url":"https://www.ted.com/talks/eve_abrams_the_human_stories_behind_mass_incarceration","viewed_count":681882,"talks":[{"recommendations":{"status":"approved","headline":"Eve Abrams recommends","blurb":"More resources curated by Eve Abrams","start_at":null,"end_at":null,"published":true,"eyebrow":"","type":"recommendation","rec_lists":[{"title":"","description":"","rec_items":[{"label":"READ_Book","headline":"*Locked In: The True Causes of Mass Incarceration and How to Achieve Real Reform*","blurb":"This book is easy-to-read and offers a masterful, data-driven window into our criminal legal system -- illuminating the precise locations of the systems’ power imbalances and offering reforms which could make our systems more worthy of the word \"justice.\"","note":"John F. Pfaff\r\nBasic Books, 2017","link_url":"https://www.amazon.com/Locked-Causes-Incarceration-Achieve-Reform/dp/0465096913/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Book","headline":"*The New Jim Crow: Mass Incarceration in the Age of Colorblindness*","blurb":"The legacy of slavery gave way to Jim Crow, which gave way to our current state of mass incarceration.  Alexander’s book is essential reading: a relentless examination into the racist foundations and wide-ranging ramifications of our current carceral system.","note":"Michelle Alexander\r\nThe New Press, 2010","link_url":"https://www.amazon.com/New-Jim-Crow-Incarceration-Colorblindness/dp/1595586431/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Book","headline":"*Just Mercy: A Story of Justice and Redemption*","blurb":"Gorgeously written, grounded in stories of people entangled with the criminal legal system, this book does brilliantly what Stevenson calls us all to do writ large: become proximate to the issue. This beautiful work grounds readers in the bigger values at play: our humanity and moral obligations.","note":"Bryan Stevenson\r\nSpiegel & Grau, 2014","link_url":"https://www.amazon.com/Just-Mercy-Story-Justice-Redemption/dp/081298496X/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Book","headline":"*Worse than Slavery: Parchman Farm and the Ordeal of Jim Crow Justice*","blurb":"In heart-wrenching examples, this book filled in a crucial gap in my understanding of history: the era of convict leasing, which followed slavery and gave rise to our modern prison industrial complex.","note":"David M. Oshinsky\r\nSimon & Schuster, 1996","link_url":"https://www.amazon.com/Worse-than-Slavery-Parchman-Justice/dp/0684830957/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":""},{"label":"WATCH","headline":"*13th*","blurb":"Named after the 13th Amendment to the US constitution, which abolished slavery except when used as punishment for a crime, this film dives into how slavery is effectively perpetuated through this legal loophole, intrinsically enmeshing race and justice in our system of mass incarceration.","note":"Ava DuVernay\r\nNetflix, 2016","link_url":"https://www.imdb.com/title/tt5895028/","position":null,"is_pdf":false,"eyebrow":""}]}]},"more_resources":[],"corrections":[],"has_citations":true,"take_action":[{"status":"approved","blurb":"**Serve** on juries.","link_url":"http://www.thejurorproject.org/","visible_url":"thejurorproject.org","start_at":null,"end_at":null,"published":true,"eyebrow":"","type":"take_action","verb":"organize"},{"status":"approved","blurb":"**Support** *Unprisoned*, a radio show and podcast that tells the stories behind the statistics about our criminal justice system.","link_url":"https://www.unprisoned.org/support","visible_url":"unprisoned.org","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"take_action","verb":"participate"},{"status":"approved","blurb":"**Help** Mckinley Phipps's family continue to fight for his freedom.","link_url":"https://www.razoo.com/story/Freemacfund","visible_url":"razoo.com/story/Freemacfund","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"take_action","verb":"participate"},{"status":"approved","blurb":"**Elect** legislators, judges, and district attorneys with platforms to: demand equal funding for public defenders and DAs; abolish money bail; reform three strikes laws; and abolish elected judges.","link_url":"http://prospect.org/article/new-reformer-das","visible_url":"prospect.org","start_at":null,"end_at":null,"published":true,"eyebrow":"","type":"take_action","verb":"participate"}],"curator_approved":true,"description":"The United States locks up more people than any other country in the world, says documentarian Eve Abrams, and somewhere between one and four percent of those in prison are likely innocent. That's 87,000 brothers, sisters, mothers and fathers -- predominantly African American -- unnecessarily separated from their families, their lives and dreams put on hold. Using audio from her interviews with incarcerated people and their families, Abrams shares touching stories of those impacted by mass incarceration and calls on us all to take a stand and ensure that the justice system works for everyone.","downloads":{"id":12060,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/EveAbrams_2017W-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/EveAbrams_2017W.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/EveAbrams_2017W-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"en":{"name":"English","low":"https://download.ted.com/talks/EveAbrams_2017W-low-en.mp4","high":"https://download.ted.com/talks/EveAbrams_2017W-480p-en.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/EveAbrams_2017W-low-it.mp4","high":"https://download.ted.com/talks/EveAbrams_2017W-480p-it.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/EveAbrams_2017W-low-vi.mp4","high":"https://download.ted.com/talks/EveAbrams_2017W-480p-vi.mp4"},"fr":{"name":"French","low":"https://download.ted.com/talks/EveAbrams_2017W-low-fr.mp4","high":"https://download.ted.com/talks/EveAbrams_2017W-480p-fr.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/EveAbrams_2017W-low-zh-cn.mp4","high":"https://download.ted.com/talks/EveAbrams_2017W-480p-zh-cn.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/EveAbrams_2017W-low-es.mp4","high":"https://download.ted.com/talks/EveAbrams_2017W-480p-es.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/EveAbrams_2017W-low-pt-br.mp4","high":"https://download.ted.com/talks/EveAbrams_2017W-480p-pt-br.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/EveAbrams_2017W-low-ko.mp4","high":"https://download.ted.com/talks/EveAbrams_2017W-480p-ko.mp4"}},"audioDownload":"https://download.ted.com/talks/EveAbrams_2017W.mp3?apikey=acme-roadrunner"},"duration":819.0,"event":"TEDWomen 2017","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://s3.amazonaws.com/talkstar-photos/uploads/6a31ca6f-e62f-4290-b09d-b555fe3f4d38/EveAbrams_2017W-embed.jpg","hero_load":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/6a31ca6f-e62f-4290-b09d-b555fe3f4d38/EveAbrams_2017W-embed.jpg?q=50&w=15","id":"12060","player_talks":[{"id":"12060","duration":819.0,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2017W/Blank/EveAbrams_2017W-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDWomen%2B2017%26id%3D12060%26tag%3Dactivism%2Ccommunity%2Cfamily%2Cjustice%2Bsystem%2Claw%2Cinequality%2Csocial%2Bchange%2Cprison%2Csociety%26talk%3Deve_abrams_the_human_stories_behind_mass_incarceration%26year%3D2017&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"12060","talk":"eve_abrams_the_human_stories_behind_mass_incarceration","tag":"activism,community,family,justice system,law,inequality,social change,prison,society","year":"2017","event":"TEDWomen 2017"},"stream":"https://hls.ted.com/talks/12060.m3u8","metadata":"https://hls.ted.com/talks/12060.json"}},"targeting":{"id":"12060","talk":"eve_abrams_the_human_stories_behind_mass_incarceration","tag":"activism,community,family,justice system,law,inequality,social change,prison,society","year":"2017","event":"TEDWomen 2017"},"canonical":"https://www.ted.com/talks/eve_abrams_the_human_stories_behind_mass_incarceration","name":"Eve Abrams: The human stories behind mass incarceration","title":"The human stories behind mass incarceration","speaker":"Eve Abrams","thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/6a31ca6f-e62f-4290-b09d-b555fe3f4d38/EveAbrams_2017W-embed.jpg?quality=89&w=600","slug":"eve_abrams_the_human_stories_behind_mass_incarceration","event":"TEDWomen 2017","published":1521748129}],"ratings":[{"id":8,"name":"Informative","count":66},{"id":10,"name":"Inspiring","count":20},{"id":23,"name":"Jaw-dropping","count":7},{"id":25,"name":"OK","count":12},{"id":3,"name":"Courageous","count":20},{"id":24,"name":"Persuasive","count":21},{"id":21,"name":"Unconvincing","count":12},{"id":11,"name":"Longwinded","count":4},{"id":26,"name":"Obnoxious","count":8},{"id":22,"name":"Fascinating","count":2},{"id":9,"name":"Ingenious","count":2},{"id":1,"name":"Beautiful","count":0},{"id":2,"name":"Confusing","count":0},{"id":7,"name":"Funny","count":0}],"recorded_at":"2017-11-01T00:00:00.000+00:00","related_talks":[{"id":"11486","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/7319cbab-e9ef-4eb6-8a4f-34f3b84cf4cf/DeannaVanBuren_2017W-embed.jpg","speaker":"Deanna Van Buren","title":"What a world without prisons could look like","duration":919.0,"slug":"deanna_van_buren_what_a_world_without_prisons_could_look_like","viewed_count":880973},{"id":"2453","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/d24977ca-2920-4436-a0ed-a2fa4cd41922/AdamFoss_2016-embed.jpg","speaker":"Adam Foss","title":"A prosecutor's vision for a better justice system","duration":957.0,"slug":"adam_foss_a_prosecutor_s_vision_for_a_better_justice_system","viewed_count":1917401},{"id":"1378","hero":"https://pe.tedcdn.com/images/ted/537e4f8ab618be6cf3d40287aa04df004f543c2f_1600x1200.jpg","speaker":"Bryan Stevenson","title":"We need to talk about an injustice","duration":1421.0,"slug":"bryan_stevenson_we_need_to_talk_about_an_injustice","viewed_count":5006629},{"id":"2831","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/aa876193-8609-480c-ac66-96f7ebaf67c2/RonaldSullivan_2016X-embed.jpg","speaker":"Ronald Sullivan","title":"How I help free innocent people from prison","duration":714.0,"slug":"ronald_sullivan_how_i_help_free_innocent_people_from_prison","viewed_count":787866},{"id":"2247","hero":"https://pe.tedcdn.com/images/ted/15eec689c9a2eed8c471eb5ce5dda72de49a6cac_2880x1620.jpg","speaker":"Alice Goffman","title":"How we're priming some kids for college — and others for prison","duration":964.0,"slug":"alice_goffman_college_or_prison_two_destinies_one_blatant_injustice","viewed_count":1667065},{"id":"3612","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/599c410d-ff8b-4028-8397-7df1494093df/VictoriaPratt_2017S-embed.jpg","speaker":"Victoria Pratt","title":"How judges can show respect","duration":963.0,"slug":"victoria_pratt_how_judges_can_show_respect","viewed_count":1057124}],"slug":"eve_abrams_the_human_stories_behind_mass_incarceration","speakers":[{"id":"3609","slug":"eve_abrams","is_published":true,"firstname":"Eve","lastname":"Abrams","middleinitial":"","title":"","description":"Audio documentarian","photo_url":"https://pe.tedcdn.com/images/ted/a44c1ad1a2edc7145c5411ee87f71f8682805524_254x191.jpg","whatotherssay":"","whotheyare":"Eve Abrams makes radio stories, mostly about her adopted hometown, New Orleans.","whylisten":"<p>Eve Abrams is an award-winning radio producer, writer, audio documentarian and educator. She produces the audio project <em>Unprisoned</em>, piloted through AIR&rsquo;s Finding America initiative, which tells how mass incarceration affects people serving time outside and investigates why Louisiana is the world&rsquo;s per-capita incarceration capital. <em>Unprisoned</em> received a Gabriel Award and was a 2017 Peabody Finalist. Abrams&#39;s 2015 documentary <em>Along Saint Claude</em> chronicles 300 years of change in New Orleans and received an Edward R. Murrow award. Her project <em>Documenting Preservation Hall </em>was exhibited at the Louisiana State Museum and became a book.</p><p>Abrams&#39;s writing appears in <em>Unfathomable City: A New Orleans Atlas, Fourth Genre&nbsp;</em>and<em> Louisiana Cultural Vistas,</em> and her radio works can be heard on a host of national programs including &quot;Morning Edition&quot; and &quot;Reveal.&quot; Abrams is a Robert Rauschenberg Foundation Artist as Activist Fellow. She has been teaching for 25 years and currently teaches for the Society for Relief of Destitute Orphan Boys.</p><p>&nbsp;</p>"}],"speaker_name":"Eve Abrams","tags":["activism","community","family","justice system","law","inequality","social change","prison","society"],"title":"The human stories behind mass incarceration","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":681882}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

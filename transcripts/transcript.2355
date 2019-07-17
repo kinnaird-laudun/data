@@ -1,0 +1,1297 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Simon Anholt: Who would the rest of the world vote for in your country&#39;s election? | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Wish you could vote in another country&#39;s election? Simon Anholt unveils the Global Vote, an online platform that lets anybody, anywhere in the world, &quot;vote&quot; in the election of any country on earth (with surprising results)." />
+<meta name="author" content="Simon Anholt" />
+<link rel="canonical" href="https://www.ted.com/talks/simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election/transcript" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election/transcript?language=en" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election/transcript?language=ru" />
+<link rel="alternate" hreflang="da" href="https://www.ted.com/talks/simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election/transcript?language=da" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election/transcript?language=fr" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election/transcript?language=sr" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election/transcript?language=ko" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election/transcript?language=hu" />
+<link rel="alternate" hreflang="sq" href="https://www.ted.com/talks/simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election/transcript?language=sq" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election/transcript?language=el" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election/transcript?language=it" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election/transcript?language=pt-br" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election/transcript?language=ja" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election/transcript?language=pt" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election/transcript?language=vi" />
+<link rel="alternate" hreflang="uk" href="https://www.ted.com/talks/simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election/transcript?language=uk" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election/transcript?language=es" />
+<meta property="og:title" content="Transcript of &quot;Who would the rest of the world vote for in your country&#39;s election?&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/031e9648-eea2-49ee-9cc8-ee595cccd708/SimonAnholt_2016X-embed.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/031e9648-eea2-49ee-9cc8-ee595cccd708/SimonAnholt_2016X-embed.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Simon Anholt: Who would the rest of the world vote for in your country&#39;s election?" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Wish you could vote in another country&#39;s election? Simon Anholt unveils the Global Vote, an online platform that lets anybody, anywhere in the world, &quot;vote&quot; in the election of any country on earth (with surprising results)." />
+<meta property="og:url" content="https://www.ted.com/talks/simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 2714);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election' itemprop='url'>
+<meta content="Who would the rest of the world vote for in your country's election?" itemprop='name'>
+<meta content='Wish you could vote in another country&#x0027;s election? Simon Anholt unveils the Global Vote, an online platform that lets anybody, anywhere in the world, "vote" in the election of any country on earth (with surprising results).' itemprop='description'>
+<meta content='PT14M55S' itemprop='duration'>
+<meta content='2017-03-23T15:19:43+00:00' itemprop='uploadDate'>
+<meta content='1079550' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/031e9648-eea2-49ee-9cc8-ee595cccd708/SimonAnholt_2016X-embed.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/simon_anholt' itemprop='url'>
+<meta content='Simon Anholt' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/58da27637077f4b043736457ef3102684eaf20bb_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/031e9648-eea2-49ee-9cc8-ee595cccd708/SimonAnholt_2016X-embed.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Simon Anholt
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,079,550
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 14:55</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Well, as many of you know,
+											the results of the recent
+election were as follows:
+											Hillary Clinton, the Democratic candidate
+											won a landslide victory
+											with 52 percent of the overall vote.
+											Jill Stein, the Green candidate,
+											came a distant second, with 19 percent.
+											Donald J. Trump, the Republic candidate,
+											was hot on her heels with 14 percent,
+											and the remainder of the vote
+were shared between abstainers
+											and Gary Johnson,
+the Libertarian candidate.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, what parallel universe
+do you suppose I live in?
+											Well, I don&#39;t live in a parallel universe.
+											I live in the world,
+and that is how the world voted.
+											So let me take you back
+and explain what I mean by that.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											In June this year,
+											I launched something
+called the Global Vote.
+											And the Global Vote
+does exactly what it says on the tin.
+											For the first time in history,
+											it lets anybody, anywhere in the world,
+											vote in the elections
+of other people&#39;s countries.
+											Now, why would you do that?
+											What&#39;s the point?
+											Well, let me show you what it looks like.
+											You go to a website,
+											rather a beautiful website,
+											and then you select an election.
+											Here&#39;s a bunch that we&#39;ve already covered.
+											We do about one a month, or thereabouts.
+											So you can see Bulgaria,
+the United States of America,
+											Secretary-General of the United Nations,
+											the Brexit referendum at the end there.
+											You select the election
+that you&#39;re interested in,
+											and you pick the candidates.
+											These are the candidates
+from the recent presidential election
+											in the tiny island nation
+of São Tomé and Príncipe,
+											199,000 inhabitants,
+											off the coast of West Africa.
+											And then you can look at the brief summary
+of each of those candidates
+											which I dearly hope is very neutral,
+											very informative and very succinct.
+											And when you&#39;ve found
+the one you like, you vote.
+											These were the candidates
+											in the recent Icelandic
+presidential election,
+											and that&#39;s the way it goes.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So why on earth would you want to vote
+in another country&#39;s election?
+											Well, the reason
+that you wouldn&#39;t want to do it,
+											let me reassure you,
+											is in order to interfere in the democratic
+processes of another country.
+											That&#39;s not the purpose at all.
+											In fact, you can&#39;t,
+											because usually what I do
+is I release the results
+											after the electorate in each
+individual country has already voted,
+											so there&#39;s no way that we could
+interfere in that process.
+											But more importantly,
+											I&#39;m not particularly interested
+											in the domestic issues
+of individual countries.
+											That&#39;s not what we&#39;re voting on.
+											So what Donald J. Trump or Hillary Clinton
+proposed to do for the Americans
+											is frankly none of our business.
+											That&#39;s something that only
+the Americans can vote on.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											No, in the global vote,
+you&#39;re only considering one aspect of it,
+											which is what are those leaders
+going to do for the rest of us?
+											And that&#39;s so very important
+because we live,
+											as no doubt you&#39;re sick
+of hearing people tell you,
+											in a globalized, hyperconnected,
+massively interdependent world
+											where the political decisions
+of people in other countries
+											can and will have an impact on our lives
+											no matter who we are,
+no matter where we live.
+											Like the wings of the butterfly
+											beating on one side of the Pacific
+											that can apparently create
+a hurricane on the other side,
+											so it is with the world
+that we live in today
+											and the world of politics.
+											There is no longer a dividing line between
+domestic and international affairs.
+											Any country, no matter how small,
+											even if it&#39;s São Tomé and Príncipe,
+											could produce the next Nelson Mandela
+											or the next Stalin.
+											They could pollute the atmosphere
+and the oceans, which belong to all of us,
+											or they could be responsible
+and they could help all of us.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And yet, the system is so strange
+											because the system hasn&#39;t caught up
+with this globalized reality.
+											Only a small number of people
+are allowed to vote for those leaders,
+											even though their impact is gigantic
+											and almost universal.
+											What number was it?
+											140 million Americans voted
+											for the next president
+of the United States,
+											and yet, as all of us knows,
+in a few weeks time,
+											somebody is going to hand over
+the nuclear launch codes
+											to Donald J. Trump.
+											Now, if that isn&#39;t having
+a potential impact on all of us,
+											I don&#39;t know what is.
+											Similarly, the election
+for the referendum on the Brexit vote,
+											a small number of millions
+of British people voted on that,
+											but the outcome of the vote,
+whichever way it went,
+											would have had a significant impact
+											on the lives of tens, hundreds of millions
+of people around the world.
+											And yet, only a tiny number could vote.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											What kind of democracy is that?
+											Huge decisions that affect all of us
+											being decided by relatively
+very small numbers of people.
+											And I don&#39;t know about you,
+											but I don&#39;t think
+that sounds very democratic.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So I&#39;m trying to clear it up.
+											But as I say,
+											we don&#39;t ask about domestic questions.
+											In fact, I only ever ask two questions
+of all of the candidates.
+											I send them the same
+two questions every single time.
+											I say, one,
+											if you get elected, what are you
+going to do for the rest of us,
+											for the remainder of the seven billion
+who live on this planet?
+											Second question:
+											What is your vision
+for your country&#39;s future in the world?
+											What role do you see it playing?
+											Every candidate,
+I send them those questions.
+											They don&#39;t all answer. Don&#39;t get me wrong.
+											I reckon if you&#39;re standing
+											to become the next president
+of the United States,
+											you&#39;re probably pretty tied up
+most of the time,
+											so I&#39;m not altogether surprised
+that they don&#39;t all answer, but many do.
+											More every time.
+											And some of them do much more than answer.
+											Some of them answer in the most
+enthusiastic and most exciting way
+											you could imagine.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I just want to say a word here
+for Saviour Chishimba,
+											who was one of the candidates
+											in the recent Zambian
+presidential election.
+											His answers to those two questions
+were basically an 18-page dissertation
+											on his view of Zambia&#39;s
+potential role in the world
+											and in the international community.
+											I posted it on the website
+so anybody could read it.
+											Now, Saviour won the global vote,
+											but he didn&#39;t win the Zambian election.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So I found myself wondering,
+											what am I going to do
+with this extraordinary group of people?
+											I&#39;ve got some wonderful people here
+who won the global vote.
+											We always get it wrong, by the way.
+											The one that we elect
+											is never the person who&#39;s elected
+by the domestic electorate.
+											That may be partly because
+we always seem to go for the woman.
+											But I think it may also be a sign
+											that the domestic electorate
+is still thinking very nationally.
+											They&#39;re still thinking very inwardly.
+											They&#39;re still asking themselves:
+What&#39;s in it for me? ...
+											instead of what
+they should be asking today,
+											which is, what&#39;s in it for we?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But there you go.
+											So suggestions, please, not right now,
+											but send me an email if you&#39;ve got an idea
+											about what we can do
+with this amazing team of glorious losers.
+											(Laughter)
+											We&#39;ve got Saviour Chishimba,
+who I mentioned before.
+											We&#39;ve got Halla Tómasdóttir,
+											who was the runner up
+in the Icelandic presidential election.
+											Many of you may have seen
+her amazing talk at TEDWomen
+											just a few weeks ago
+											where she spoke about the need
+for more women to get into politics.
+											We&#39;ve got Maria das Neves
+from São Tomé and Príncipe.
+											We&#39;ve got Hillary Clinton.
+											I don&#39;t know if she&#39;s available.
+											We&#39;ve got Jill Stein.
+											And we covered also the election
+											for the next Secretary-General
+of the United Nations.
+											We&#39;ve got the ex-prime minister
+of New Zealand,
+											who would be a wonderful
+member of the team.
+											So I think maybe those people,
+											the glorious loser&#39;s club,
+could travel around the world
+											wherever there&#39;s an election
+											and remind people
+of the necessity in our modern age
+											of thinking a little bit outwards
+											and thinking of
+the international consequences.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So what comes next for the global vote?
+											Well, obviously,
+											the Donald and Hillary show
+is a bit of a difficult one to follow,
+											but there are some other
+really important elections coming up.
+											In fact, they seem to be multiplying.
+											There&#39;s something going on,
+I&#39;m sure you&#39;ve noticed, in the world.
+											And the next row of elections
+are all critically important.
+											In just a few day&#39;s time
+											we&#39;ve got the rerun
+of the Austrian presidential election,
+											with the prospect of Norbert Hofer
+											becoming what is commonly described
+											as the first far-right head of state
+in Europe since the Second World War.
+											Next year we&#39;ve got Germany,
+											we&#39;ve got France,
+											we&#39;ve got presidential elections in Iran
+											and a dozen others.
+											It doesn&#39;t get less important.
+											It gets more and more important.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Clearly, the global vote
+is not a stand-alone project.
+											It&#39;s not just there on its own.
+											It has some background.
+											It&#39;s part of a project
+which I launched back in 2014,
+											which I call the Good Country.
+											The idea of the Good Country
+is basically very simple.
+											It&#39;s my simple diagnosis
+of what&#39;s wrong with the world
+											and how we can fix it.
+											What&#39;s wrong with the world
+I&#39;ve already hinted at.
+											Basically, we face
+an enormous and growing number
+											of gigantic, existential
+global challenges:
+											climate change, human rights abuses,
+											mass migration, terrorism,
+economic chaos, weapons proliferation.
+											All of these problems
+which threaten to wipe us out
+											are by their very nature
+globalized problems.
+											No individual country has the capability
+of tackling them on its own.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so very obviously
+											we have to cooperate
+and we have to collaborate as nations
+											if we&#39;re going to solve these problems.
+											It&#39;s so obvious, and yet we don&#39;t.
+											We don&#39;t do it nearly often enough.
+											Most of the time,
+countries still persist in behaving
+											as if they were warring, selfish tribes
+battling against each other,
+											much as they have done
+since the nation-state was invented
+											hundreds of years ago.
+											And this has got to change.
+											This is not a change in political systems
+or a change in ideology.
+											This is a change in culture.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We, all of us, have to understand
+											that thinking inwards is not the solution
+to the world&#39;s problems.
+											We have to learn how to cooperate
+and collaborate a great deal more
+											and compete just a tiny bit less.
+											Otherwise things
+are going to carry on getting bad
+											and they&#39;re going to get much worse,
+much sooner than we anticipate.
+											This change will only happen
+											if we ordinary people
+											tell our politicians
+that things have changed.
+											We have to tell them
+that the culture has changed.
+											We have to tell them
+that they&#39;ve got a new mandate.
+											The old mandate
+was very simple and very single:
+											if you&#39;re in a position
+of power or authority,
+											you&#39;re responsible for your own people
+and your own tiny slice of territory,
+											and that&#39;s it.
+											And if in order to do
+the best thing for your own people,
+											you screw over everybody else
+on the planet, that&#39;s even better.
+											That&#39;s considered to be a bit macho.
+											Today, I think everybody
+in a position of power and responsibility
+											has got a dual mandate,
+											which says if you&#39;re in a position
+of power and responsibility,
+											you&#39;re responsible for your own people
+											and for every single man, woman,
+child and animal on the planet.
+											You&#39;re responsible
+for your own slice of territory
+											and for every single square mile
+of the earth&#39;s surface
+											and the atmosphere above it.
+											And if you don&#39;t like that responsibility,
+you should not be in power.
+											That for me is the rule of the modern age,
+											and that&#39;s the message that we&#39;ve got
+to get across to our politicians,
+											and show them that that&#39;s the way
+things are done these days.
+											Otherwise, we&#39;re all screwed.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I don&#39;t have a problem, actually,
+											with Donald Trump&#39;s credo
+of &quot;America first.&quot;
+											It seems to me that that&#39;s
+a pretty banal statement
+											of what politicians have always done
+and probably should always do.
+											Of course they&#39;re elected to represent
+the interests of their own people.
+											But what I find so boring
+and so old-fashioned
+											and so unimaginative
+about his take on that
+											is that America first
+means everyone else last,
+											that making America great again
+means making everybody else small again,
+											and it&#39;s just not true.
+											In my job as a policy advisor
+over the last 20 years or so,
+											I&#39;ve seen so many hundreds
+of examples of policies
+											that harmonize the international
+and the domestic needs,
+											and they make better policy.
+											I&#39;m not asking nations
+to be altruistic or self-sacrificing.
+											That would be ridiculous.
+											No nation would ever do that.
+											I&#39;m asking them to wake up and understand
+that we need a new form of governance,
+											which is possible
+											and which harmonizes those two needs,
+											those good for our own people
+and those good for everybody else.
+											Since the US election and since Brexit
+											it&#39;s become more and more obvious to me
+											that those old distinctions
+of left wing and right wing
+											no longer make sense.
+											They really don&#39;t fit the pattern.
+											What does seem to matter today
+											is very simple,
+											whether your view of the world is
+											that you take comfort
+from looking inwards and backwards,
+											or whether, like me, you find hope
+in looking forwards and outwards.
+											That&#39;s the new politics.
+											That&#39;s the new division that is
+splitting the world right down the middle.
+											Now, that may sound judgmental,
+but it&#39;s not meant to be.
+											I don&#39;t at all misunderstand
+											why so many people find their comfort
+in looking inwards and backwards.
+											When times are difficult,
+when you&#39;re short of money,
+											when you&#39;re feeling
+insecure and vulnerable,
+											it&#39;s almost a natural
+human tendency to turn inwards,
+											to think of your own needs
+											and to discard everybody else&#39;s,
+											and perhaps to start to imagine
+that the past was somehow better
+											than the present or the future
+could ever be.
+											But I happen to believe
+that that&#39;s a dead end.
+											History shows us that it&#39;s a dead end.
+											When people turn inwards
+and turn backwards,
+											human progress becomes reversed
+											and things get worse for everybody
+very quickly indeed.
+											If you&#39;re like me
+											and you believe in forwards and outwards,
+											and you believe that the best thing
+about humanity is its diversity,
+											and the best thing about globalization
+											is the way that it stirs up
+that diversity, that cultural mixture
+											to make something more creative,
+more exciting, more productive
+											than there&#39;s ever been before
+in human history,
+											then, my friends,
+we&#39;ve got a job on our hands,
+											because the inwards and backwards brigade
+											are uniting as never before,
+											and that creed of inwards and backwards,
+											that fear, that anxiety,
+											playing on the simplest instincts,
+											is sweeping across the world.
+											Those of us who believe,
+											as I believe, in forwards and outwards,
+											we have to get ourselves organized,
+											because time is running out
+very, very quickly.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":27331,"count":85,"talk_id":2714},"threadId":27331,"current_talk":"2714","description":"Wish you could vote in another country's election? Simon Anholt unveils the Global Vote, an online platform that lets anybody, anywhere in the world, \"vote\" in the election of any country on earth (with surprising results).","event":"TEDxFrankfurt","language":"en","name":"Simon Anholt: Who would the rest of the world vote for in your country's election?","slug":"simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election","speakers":[{"id":"1945","slug":"simon_anholt","is_published":true,"firstname":"Simon","lastname":"Anholt","middleinitial":"","title":"","description":"Policy advisor","photo_url":"https://pe.tedcdn.com/images/ted/58da27637077f4b043736457ef3102684eaf20bb_254x191.jpg","whatotherssay":"","whotheyare":"After 20 years working with the presidents and prime ministers of 54 countries, Simon Anholt has a plan to make the world work better.","whylisten":"<p>For 20 years, Simon Anholt has worked with the presidents, prime ministers and governments of more than fifty nations, devising strategies and policies to help them to engage more imaginatively and productively with the international community.&nbsp;</p><p>In 2014, impatient to do better, Anholt founded the&nbsp;<a href=\"http://www.goodcountry.org\" target=\"_blank\">Good Country</a>, a project aimed at helping countries work together to tackle global challenges like climate change, poverty, migration and terrorism, by mobilizing&nbsp;&quot;the only superpower left on the planet: global public opinion.&quot;</p><p>According to&nbsp;<a href=\"http://www.independent.co.uk/news/uk/home-news/ireland-is-the-best-country-in-the-world-according-to-good-country-index-9557358.html\" target=\"_blank\">The Independent</a>, Anholt&#39;s aim is to change the way countries, cities and companies work &quot;...by us all encouraging their leaders to think about the global impact of their actions, rather than cut-throat self-interest.&quot;</p><p>Measurement of Good Country progress is done through Anholt&#39;s&nbsp;<a href=\"https://goodcountry.org/index/overall-rankings\" target=\"_blank\">Good Country Index</a>, the only survey to rank countries according to their contribution to humanity and the planet rather than their domestic performance. According to&nbsp;<a href=\"https://www.theguardian.com/politics/2014/nov/30/simon-anholt-good-country-party-global-superpower-public-opinion\" target=\"_blank\">The Guardian</a>,&nbsp;&quot;He has built his career in part as a formidable cruncher of data.&quot; Since 2005, his research into global perceptions of nations and cities has collected and analyzed over 300 billion data points.&nbsp;</p><p>In 2016, Anholt launched the&nbsp;<a href=\"http://www.globalvote.org/\" target=\"_blank\">Global Vote</a>, a project that enables anybody in the world to vote in other countries&#39; elections, choosing the candidate who is likely to do most for humanity and the planet: three months later over 100,000 people from 130 countries took part in the Global Vote on the US Presidential Election. The Global Vote now covers an election somewhere in the world almost every month.</p><p>Anholt is an Honorary Professor of Political Science and the author of five books about countries, cultures and globalisation. He is the founder and Editor Emeritus of a leading academic journal focused on public diplomacy and perceptions of places.</p><p>&nbsp;</p>"}],"url":"https://www.ted.com/talks/simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election","viewed_count":1079550,"talks":[{"recommendations":{"status":"approved","headline":"Simon Anholt recommends","blurb":"Check out these extra resources and inspiration, curated by Simon Anholt.","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"recommendation","rec_lists":[{"title":"","description":"","rec_items":[{"label":"READ_Article","headline":"\"Pied Beauty\"","blurb":"A poem that says everything about why mashed-up things are more beautiful than straightforward things. Exactly what I think about culture …","note":"Gerard Manley Hopkins","link_url":"https://www.poetryfoundation.org/poems-and-poets/poems/detail/44399","position":null,"is_pdf":false,"eyebrow":null},{"label":"LISTEN","headline":"\"Stir it Up\"","blurb":"If I started a new country, this would be our national anthem.","note":"Bob Marley","link_url":"https://www.youtube.com/watch?v=S3UqvWk8-uw","position":null,"is_pdf":false,"eyebrow":null},{"label":"READ_Book","headline":"*The Empathic Civilization*","blurb":"To cheer you up when you’re wondering why the whole world seems so selfish these days: it’s not true. Human beings are fundamentally empathic, and this book proves it.","note":"Jeremy Rifkin\r\nTarcherPerigee, 2009","link_url":"https://www.amazon.com/Empathic-Civilization-Global-Consciousness-Crisis/dp/1585427659/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":null},{"label":"READ_Book","headline":"*The Authoritarians*","blurb":"A fascinating but very readable study of the personality type that tends to produce despotic governments. And it’s a free download.","note":"Bob Altemeyer","link_url":"http://home.cc.umanitoba.ca/~altemey/","position":null,"is_pdf":false,"eyebrow":null},{"label":"READ_Book","headline":"*Cosmopolitanism: Ethics in a World of Strangers*","blurb":"This is a truly refreshing read in the current climate of inward-looking, backward-looking, put-up-a-wall-and-keep-out-the-foreigners selfishness. A wonderful guide to the ethical and practical issues of living in a multicultural world.","note":"Kwame Anthony Appiah\r\nW. W. Norton & Company, 2007","link_url":"https://www.amazon.com/Cosmopolitanism-Ethics-World-Strangers-Issues/dp/039332933X/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":null},{"label":"READ_Book","headline":"*Tolstoy*","blurb":"The only biography I’ve read that’s not only as good as a novel but actually as good as its subject’s novels.","note":"Henri Troyat\r\nGrove Press, 2001","link_url":"https://www.amazon.com/Tolstoy-Henri-Troyat/dp/0802137687/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":null},{"label":"READ_Book","headline":"*Capital*","blurb":"I’m proud to say that my politics are neither left-wing, right-wing nor centrist, and I’m certainly no socialist, but you can’t fail to be touched by the goodness of the human spirit when you read this – and equally dismayed when you think about what it all led to. ","note":"Karl Marx\r\nCreateSpace Independent Publishing Platform, 2010","link_url":"https://www.amazon.com/Capital-Critique-Political-Economy-Vol/dp/1453716548/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":null},{"label":"READ_Book","headline":"*Glimpses of Unfamiliar Japan*","blurb":"A largely forgotten author, Hearn has always seemed to me to be the perfect model of cultural sensitivity and unprejudiced openness to new cultural experiences.","note":"Lafcadio Hearn\r\nDodo Press, 2007","link_url":"https://www.amazon.com/Glimpses-Unfamiliar-Japan-First-Lafcadio/dp/1406544329/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":null},{"label":"READ_Book","headline":"*Musicophilia*","blurb":"A fascinating journey into the overlap between neuroscience and music.","note":"Oliver Sacks","link_url":"https://www.amazon.com/Musicophilia-Tales-Music-Revised-Expanded/dp/1400033535/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":null},{"label":"READ_Book","headline":"*Moominsummer Madness*","blurb":"If you have children, don’t deny them Moomins. It’s gentle Nordic madness that will kindle their sense of magic.","note":"Tove Jansson","link_url":"https://www.amazon.com/Moominsummer-Madness-Tove-Jansson/dp/0312608918/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":null},{"label":"READ_Book","headline":"*Why Globalization Works*","blurb":"Not a quick or easy read, but a masterful summary of the processes of globalization. Angry anti-globalists will find it makes them angrier, but they can always put it down.","note":"Martin Wolfe\r\nYale University Press, 2005","link_url":"https://www.amazon.com/Globalization-Works-Yale-Nota-Bene/dp/030010777/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":null}]}]},"more_resources":[],"corrections":[],"has_citations":true,"take_action":[{"status":"approved","blurb":"**Vote now** in the French presidential election.","link_url":"https://goodcountry.org/global-vote/elections/france","visible_url":"goodcountry.org","start_at":null,"end_at":"2017-05-07T10:00:00.000-04:00","published":true,"eyebrow":null,"type":"take_action","verb":"sign_up"},{"status":"approved","blurb":"**Find out** how much good your country contributes to humanity and the planet.","link_url":"https://goodcountry.org/index/overall-rankings","visible_url":"goodcountry.org","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"take_action","verb":"learn"}],"curator_approved":true,"description":"Wish you could vote in another country's election? Simon Anholt unveils the Global Vote, an online platform that lets anybody, anywhere in the world, \"vote\" in the election of any country on earth (with surprising results).","downloads":{"id":2714,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Danish","endonym":"Dansk","languageCode":"da","ianaCode":"da","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Albanian","endonym":"Shqip","languageCode":"sq","ianaCode":"sq","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/SimonAnholt_2016X-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/SimonAnholt_2016X.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/SimonAnholt_2016X-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"en":{"name":"English","low":"https://download.ted.com/talks/SimonAnholt_2016X-low-en.mp4","high":"https://download.ted.com/talks/SimonAnholt_2016X-480p-en.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/SimonAnholt_2016X-low-ru.mp4","high":"https://download.ted.com/talks/SimonAnholt_2016X-480p-ru.mp4"},"da":{"name":"Danish","low":"https://download.ted.com/talks/SimonAnholt_2016X-low-da.mp4","high":"https://download.ted.com/talks/SimonAnholt_2016X-480p-da.mp4"},"fr":{"name":"French","low":"https://download.ted.com/talks/SimonAnholt_2016X-low-fr.mp4","high":"https://download.ted.com/talks/SimonAnholt_2016X-480p-fr.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/SimonAnholt_2016X-low-sr.mp4","high":"https://download.ted.com/talks/SimonAnholt_2016X-480p-sr.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/SimonAnholt_2016X-low-ko.mp4","high":"https://download.ted.com/talks/SimonAnholt_2016X-480p-ko.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/SimonAnholt_2016X-low-hu.mp4","high":"https://download.ted.com/talks/SimonAnholt_2016X-480p-hu.mp4"},"sq":{"name":"Albanian","low":"https://download.ted.com/talks/SimonAnholt_2016X-low-sq.mp4","high":"https://download.ted.com/talks/SimonAnholt_2016X-480p-sq.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/SimonAnholt_2016X-low-it.mp4","high":"https://download.ted.com/talks/SimonAnholt_2016X-480p-it.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/SimonAnholt_2016X-low-el.mp4","high":"https://download.ted.com/talks/SimonAnholt_2016X-480p-el.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/SimonAnholt_2016X-low-pt-br.mp4","high":"https://download.ted.com/talks/SimonAnholt_2016X-480p-pt-br.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/SimonAnholt_2016X-low-ja.mp4","high":"https://download.ted.com/talks/SimonAnholt_2016X-480p-ja.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/SimonAnholt_2016X-low-pt.mp4","high":"https://download.ted.com/talks/SimonAnholt_2016X-480p-pt.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/SimonAnholt_2016X-low-vi.mp4","high":"https://download.ted.com/talks/SimonAnholt_2016X-480p-vi.mp4"},"uk":{"name":"Ukrainian","low":"https://download.ted.com/talks/SimonAnholt_2016X-low-uk.mp4","high":"https://download.ted.com/talks/SimonAnholt_2016X-480p-uk.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/SimonAnholt_2016X-low-es.mp4","high":"https://download.ted.com/talks/SimonAnholt_2016X-480p-es.mp4"}},"audioDownload":"https://download.ted.com/talks/SimonAnholt_2016X.mp3?apikey=acme-roadrunner"},"duration":895.0,"event":"TEDxFrankfurt","event_blurb":"This talk was presented to a local audience at TEDxFrankfurt, an independent event. TED's editors chose to feature it for you.","event_badge":null,"hero":"https://s3.amazonaws.com/talkstar-photos/uploads/031e9648-eea2-49ee-9cc8-ee595cccd708/SimonAnholt_2016X-embed.jpg","hero_load":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/031e9648-eea2-49ee-9cc8-ee595cccd708/SimonAnholt_2016X-embed.jpg?q=50&w=15","id":"2714","player_talks":[{"id":"2714","duration":895.0,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Danish","endonym":"Dansk","languageCode":"da","ianaCode":"da","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Albanian","endonym":"Shqip","languageCode":"sq","ianaCode":"sq","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2016X/Blank/SimonAnholt_2016X-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDxFrankfurt%26id%3D2714%26tag%3Dcollaboration%2Ccommunication%2Ccommunity%2Cdemocracy%2CForeign%2BPolicy%2Cglobal%2Bissues%2Ceconomics%2Cfuture%2Cgovernment%2Chistory%2Cinnovation%2Cpolicy%2Csocial%2Bchange%2Cpolitics%2Csociety%2CTEDx%2Cworld%2Bcultures%26talk%3Dsimon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election%26year%3D2016&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"2714","talk":"simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election","tag":"collaboration,communication,community,democracy,Foreign Policy,global issues,economics,future,government,history,innovation,policy,social change,politics,society,TEDx,world cultures","year":"2016","event":"TEDxFrankfurt"},"stream":"https://hls.ted.com/talks/2714.m3u8","metadata":"https://hls.ted.com/talks/2714.json"}},"targeting":{"id":"2714","talk":"simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election","tag":"collaboration,communication,community,democracy,Foreign Policy,global issues,economics,future,government,history,innovation,policy,social change,politics,society,TEDx,world cultures","year":"2016","event":"TEDxFrankfurt"},"canonical":"https://www.ted.com/talks/simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election","name":"Simon Anholt: Who would the rest of the world vote for in your country's election?","title":"Who would the rest of the world vote for in your country's election?","speaker":"Simon Anholt","thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/031e9648-eea2-49ee-9cc8-ee595cccd708/SimonAnholt_2016X-embed.jpg?quality=89&w=600","slug":"simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election","event":"TEDxFrankfurt","published":1490282383}],"ratings":[{"id":3,"name":"Courageous","count":71},{"id":9,"name":"Ingenious","count":57},{"id":10,"name":"Inspiring","count":4489},{"id":24,"name":"Persuasive","count":157},{"id":8,"name":"Informative","count":132},{"id":22,"name":"Fascinating","count":63},{"id":11,"name":"Longwinded","count":14},{"id":21,"name":"Unconvincing","count":32},{"id":25,"name":"OK","count":18},{"id":7,"name":"Funny","count":10},{"id":26,"name":"Obnoxious","count":11},{"id":1,"name":"Beautiful","count":9},{"id":23,"name":"Jaw-dropping","count":16},{"id":2,"name":"Confusing","count":2}],"recorded_at":"2016-11-29T00:00:00.000+00:00","related_talks":[{"id":"2036","hero":"https://pe.tedcdn.com/images/ted/e960b23ccb1772403a5cfe928bd74908c6dd413c_2400x1800.jpg","speaker":"Simon Anholt","title":"Which country does the most good for the world?","duration":1074.0,"slug":"simon_anholt_which_country_does_the_most_good_for_the_world","viewed_count":5121348},{"id":"2621","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/b696e5a1-4547-4bb7-9460-fe519f3626d8/HallaTomasdottir_2016W-embed.jpg","speaker":"Halla Tómasdóttir","title":"It's time for women to run for office","duration":1158.0,"slug":"halla_tomasdottir_it_s_time_for_women_to_run_for_office","viewed_count":935037},{"id":"2669","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/994fd285-072e-4202-add9-b3adee314268/RobbWiller_2016X-embed.jpg","speaker":"Robb Willer","title":"How to have better political conversations","duration":721.0,"slug":"robb_willer_how_to_have_better_political_conversations","viewed_count":1373451},{"id":"997","hero":"https://pe.tedcdn.com/images/ted/210355_800x600.jpg","speaker":"David Bismark","title":"E-voting without fraud","duration":422.0,"slug":"david_bismark_e_voting_without_fraud","viewed_count":557874},{"id":"2587","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/cebb3b64-496b-4f31-b6c0-35e741234615/EricLiu_2016S-embed.jpg","speaker":"Eric Liu","title":"There's no such thing as not voting","duration":813.0,"slug":"eric_liu_there_s_no_such_thing_as_not_voting","viewed_count":826698},{"id":"2596","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/fdb3963f-30e3-4ef3-81b4-b91a04bef023/SayuBhojwani_2016S-embed.jpg","speaker":"Sayu Bhojwani","title":"Immigrant voices make democracy stronger","duration":762.0,"slug":"sayu_bhojwani_how_immigrant_voices_make_democracy_stronger","viewed_count":870730}],"slug":"simon_anholt_how_would_the_rest_of_the_world_vote_in_your_country_s_election","speakers":[{"id":"1945","slug":"simon_anholt","is_published":true,"firstname":"Simon","lastname":"Anholt","middleinitial":"","title":"","description":"Policy advisor","photo_url":"https://pe.tedcdn.com/images/ted/58da27637077f4b043736457ef3102684eaf20bb_254x191.jpg","whatotherssay":"","whotheyare":"After 20 years working with the presidents and prime ministers of 54 countries, Simon Anholt has a plan to make the world work better.","whylisten":"<p>For 20 years, Simon Anholt has worked with the presidents, prime ministers and governments of more than fifty nations, devising strategies and policies to help them to engage more imaginatively and productively with the international community.&nbsp;</p><p>In 2014, impatient to do better, Anholt founded the&nbsp;<a href=\"http://www.goodcountry.org\" target=\"_blank\">Good Country</a>, a project aimed at helping countries work together to tackle global challenges like climate change, poverty, migration and terrorism, by mobilizing&nbsp;&quot;the only superpower left on the planet: global public opinion.&quot;</p><p>According to&nbsp;<a href=\"http://www.independent.co.uk/news/uk/home-news/ireland-is-the-best-country-in-the-world-according-to-good-country-index-9557358.html\" target=\"_blank\">The Independent</a>, Anholt&#39;s aim is to change the way countries, cities and companies work &quot;...by us all encouraging their leaders to think about the global impact of their actions, rather than cut-throat self-interest.&quot;</p><p>Measurement of Good Country progress is done through Anholt&#39;s&nbsp;<a href=\"https://goodcountry.org/index/overall-rankings\" target=\"_blank\">Good Country Index</a>, the only survey to rank countries according to their contribution to humanity and the planet rather than their domestic performance. According to&nbsp;<a href=\"https://www.theguardian.com/politics/2014/nov/30/simon-anholt-good-country-party-global-superpower-public-opinion\" target=\"_blank\">The Guardian</a>,&nbsp;&quot;He has built his career in part as a formidable cruncher of data.&quot; Since 2005, his research into global perceptions of nations and cities has collected and analyzed over 300 billion data points.&nbsp;</p><p>In 2016, Anholt launched the&nbsp;<a href=\"http://www.globalvote.org/\" target=\"_blank\">Global Vote</a>, a project that enables anybody in the world to vote in other countries&#39; elections, choosing the candidate who is likely to do most for humanity and the planet: three months later over 100,000 people from 130 countries took part in the Global Vote on the US Presidential Election. The Global Vote now covers an election somewhere in the world almost every month.</p><p>Anholt is an Honorary Professor of Political Science and the author of five books about countries, cultures and globalisation. He is the founder and Editor Emeritus of a leading academic journal focused on public diplomacy and perceptions of places.</p><p>&nbsp;</p>"}],"speaker_name":"Simon Anholt","tags":["collaboration","communication","community","democracy","Foreign Policy","global issues","economics","future","government","history","innovation","policy","social change","politics","society","TEDx","world cultures"],"title":"Who would the rest of the world vote for in your country's election?","video_type":{"id":"2","name":"TEDx Talk"},"viewed_count":1079550}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

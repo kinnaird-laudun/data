@@ -1,0 +1,1210 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Kevin Kelly: The next 5,000 days of the web | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: At the 2007 EG conference, Kevin Kelly shares a fun stat: The World Wide Web, as we know it, is only 5,000 days old. Now, Kelly asks, how can we predict what&#39;s coming in the next 5,000 days?" />
+<meta name="author" content="Kevin Kelly" />
+<link rel="canonical" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=el" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=en" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=pt-br" />
+<link rel="alternate" hreflang="eu" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=eu" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=nl" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="nb" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=nb" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=tr" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=bg" />
+<link rel="alternate" hreflang="hr" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=hr" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=de" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=hu" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=fa" />
+<link rel="alternate" hreflang="fi" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=fi" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=he" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=ko" />
+<link rel="alternate" hreflang="sv" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=sv" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript?language=vi" />
+<meta property="og:title" content="Transcript of &quot;The next 5,000 days of the web&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/84760000a82ad48289066aeca95e7a776e8f39ef_1200x900.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/84760000a82ad48289066aeca95e7a776e8f39ef_1200x900.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Kevin Kelly: The next 5,000 days of the web" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: At the 2007 EG conference, Kevin Kelly shares a fun stat: The World Wide Web, as we know it, is only 5,000 days old. Now, Kelly asks, how can we predict what&#39;s coming in the next 5,000 days?" />
+<meta property="og:url" content="https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 319);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web' itemprop='url'>
+<meta content='The next 5,000 days of the web' itemprop='name'>
+<meta content="At the 2007 EG conference, Kevin Kelly shares a fun stat: The World Wide Web, as we know it, is only 5,000 days old. Now, Kelly asks, how can we predict what's coming in the next 5,000 days?" itemprop='description'>
+<meta content='PT19M34S' itemprop='duration'>
+<meta content='2008-07-28T14:01:00+00:00' itemprop='uploadDate'>
+<meta content='1449583' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/84760000a82ad48289066aeca95e7a776e8f39ef_1200x900.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/kevin_kelly' itemprop='url'>
+<meta content='Kevin Kelly' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/acb97e31618fc6a9e367baec3659e198d5dea0db_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/84760000a82ad48289066aeca95e7a776e8f39ef_1200x900.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Kevin Kelly
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,449,583
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 19:34</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The Internet, the Web as we know it,
+											the kind of Web — the things we&#39;re all talking about —
+											is already less than 5,000 days old.
+											So all of the things that we&#39;ve seen come about,
+											starting, say, with satellite images of the whole Earth,
+											which we couldn&#39;t even imagine happening before,
+											all these things rolling into our lives,
+											just this abundance of things that are right before us,
+											sitting in front of our laptop, or our desktop.
+											This kind of cornucopia of stuff
+											just coming and never ending is amazing, and we&#39;re not amazed.
+											It&#39;s really amazing that all this stuff is here.
+											(Laughter)
+											It&#39;s in 5,000 days, all this stuff has come.
+											And I know that 10 years ago,
+											if I had told you that this was all coming,
+											you would have said that that&#39;s impossible.
+											There&#39;s simply no economic model that that would be possible.
+											And if I told you it was all coming for free,
+											you would say, this is simply — you&#39;re dreaming.
+											You&#39;re a Californian utopian. You&#39;re a wild-eyed optimist.
+											And yet it&#39;s here.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The other thing that we know about it was that 10 years ago,
+											as I looked at what even Wired was talking about,
+											we thought it was going to be TV, but better.
+											That was the model. That was what everybody was suggesting
+											was going to be coming.
+											And it turns out that that&#39;s not what it was.
+											First of all, it was impossible, and it&#39;s not what it was.
+											And so one of the things that I think we&#39;re learning —
+											if you think about, like, Wikipedia,
+											it&#39;s something that was simply impossible.
+											It&#39;s impossible in theory, but possible in practice.
+											And if you take all these things that are impossible,
+											I think one of the things that we&#39;re learning from this era,
+											from this last decade, is that we have to get good at believing in the impossible,
+											because we&#39;re unprepared for it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, I&#39;m curious about what&#39;s going to happen in the next 5,000 days.
+											But if that&#39;s happened in the last 5,000 days,
+											what&#39;s going to happen in the next 5,000 days?
+											So, I have a kind of a simple story,
+											and it suggests that what we want to think about is this thing that we&#39;re making,
+											this thing that has happened in 5,000 days —
+											that&#39;s all these computers, all these handhelds,
+											all these cell phones, all these laptops, all these servers —
+											basically what we&#39;re getting out of all these connections
+											is we&#39;re getting one machine.
+											If there is only one machine, and our little handhelds and devices
+											are actually just little windows into those machines,
+											but that we&#39;re basically constructing a single, global machine.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so I began to think about that.
+											And it turned out that this machine happens to be
+											the most reliable machine that we&#39;ve ever made.
+											It has not crashed; it&#39;s running uninterrupted.
+											And there&#39;s almost no other machine that we&#39;ve ever made
+											that runs the number of hours, the number of days.
+											5,000 days without interruption — that&#39;s just unbelievable.
+											And of course, the Internet is longer than just 5,000 days;
+											the Web is only 5,000 days.
+											So, I was trying to basically make measurements.
+											What are the dimensions of this machine?
+											And I started off by calculating how many billions of clicks there are
+											all around the globe on all the computers.
+											And there is a 100 billion clicks per day.
+											And there&#39;s 55 trillion links between all the Web pages of the world.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so I began thinking more about other kinds of dimensions,
+											and I made a quick list. Was it Chris Jordan, the photographer,
+											talking about numbers being so large that they&#39;re meaningless?
+											Well, here&#39;s a list of them. They&#39;re hard to tell,
+											but there&#39;s one billion PC chips on the Internet,
+											if you count all the chips in all the computers on the Internet.
+											There&#39;s two million emails per second.
+											So it&#39;s a very big number.
+											It&#39;s just a huge machine,
+											and it uses five percent of the global electricity on the planet.
+											So here&#39;s the specifications,
+											just as if you were to make up a spec sheet for it:
+											170 quadrillion transistors, 55 trillion links,
+											emails running at two megahertz itself,
+											31 kilohertz text messaging,
+											246 exabyte storage. That&#39;s a big disk.
+											That&#39;s a lot of storage, memory. Nine exabyte RAM.
+											And the total traffic on this
+											is running at seven terabytes per second.
+											Brewster was saying the Library of Congress is about twenty terabytes.
+											So every second, half of the Library of Congress
+											is swooshing around in this machine. It&#39;s a big machine.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So I did something else. I figured out 100 billion clicks per day,
+											55 trillion links is almost the same
+											as the number of synapses in your brain.
+											A quadrillion transistors is almost the same
+											as the number of neurons in your brain.
+											So to a first approximation, we have these things —
+											twenty petahertz synapse firings.
+											Of course, the memory is really huge.
+											But to a first approximation, the size of this machine is the size —
+											and its complexity, kind of — to your brain.
+											Because in fact, that&#39;s how your brain works — in kind of the same way that the Web works.
+											However, your brain isn&#39;t doubling every two years.
+											So if we say this machine right now that we&#39;ve made
+											is about one HB, one human brain,
+											if we look at the rate that this is increasing,
+											30 years from now, there&#39;ll be six billion HBs.
+											So by the year 2040, the total processing of this machine
+											will exceed a total processing power of humanity,
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											in raw bits and stuff. And this is, I think, where
+											Ray Kurzweil and others get this little chart saying that we&#39;re going to cross.
+											So, what about that? Well, here&#39;s a couple of things.
+											I have three kind of general things
+											I would like to say, three consequences of this.
+											First, that basically what this machine is doing is embodying.
+											We&#39;re giving it a body. And that&#39;s what we&#39;re going to do
+											in the next 5,000 days — we&#39;re going to give this machine a body.
+											And the second thing is, we&#39;re going to restructure its architecture.
+											And thirdly, we&#39;re going to become completely codependent upon it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So let me go through those three things.
+											First of all, we have all these things in our hands.
+											We think they&#39;re all separate devices,
+											but in fact, every screen in the world
+											is looking into the one machine.
+											These are all basically portals into that one machine.
+											The second thing is that — some people call this the cloud,
+											and you&#39;re kind of touching the cloud with this.
+											And so in some ways, all you really need is a cloudbook.
+											And the cloudbook doesn&#39;t have any storage.
+											It&#39;s wireless. It&#39;s always connected.
+											There&#39;s many things about it. It becomes very simple,
+											and basically what you&#39;re doing is you&#39;re just touching the machine,
+											you&#39;re touching the cloud and you&#39;re going to compute that way.
+											So the machine is computing.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And in some ways, it&#39;s sort of back
+											to the kind of old idea of centralized computing.
+											But everything, all the cameras, and the microphones,
+											and the sensors in cars
+											and everything is connected to this machine.
+											And everything will go through the Web.
+											And we&#39;re seeing that already with, say, phones.
+											Right now, phones don&#39;t go through the Web,
+											but they are beginning to, and they will.
+											And if you imagine what, say, just as an example, what Google Labs has
+											in terms of experiments with Google Docs, Google Spreadsheets, blah, blah, blah —
+											all these things are going to become Web based.
+											They&#39;re going through the machine.
+											And I am suggesting that every bit will be owned by the Web.
+											Right now, it&#39;s not. If you do spreadsheets and things at work,
+											a Word document, they aren&#39;t on the Web,
+											but they are going to be. They&#39;re going to be part of this machine.
+											They&#39;re going to speak the Web language.
+											They&#39;re going to talk to the machine.
+											The Web, in some sense, is kind of like a black hole
+											that&#39;s sucking up everything into it.
+											And so every thing will be part of the Web.
+											So every item, every artifact that we make, will have embedded in it
+											some little sliver of Web-ness and connection,
+											and it will be part of this machine,
+											so that our environment — kind of in that ubiquitous computing sense —
+											our environment becomes the Web. Everything is connected.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, with RFIDs and other things — whatever technology it is,
+											it doesn&#39;t really matter. The point is that everything
+											will have embedded in it some sensor connecting it to the machine,
+											and so we have, basically, an Internet of things.
+											So you begin to think of a shoe as a chip with heels,
+											and a car as a chip with wheels,
+											because basically most of the cost of manufacturing cars
+											is the embedded intelligence and electronics in it, and not the materials.
+											A lot of people think about the new economy
+											as something that was going to be a disembodied,
+											alternative, virtual existence,
+											and that we would have the old economy of atoms.
+											But in fact, what the new economy really is
+											is the marriage of those two, where we embed the information,
+											and the digital nature of things into the material world.
+											That&#39;s what we&#39;re looking forward to. That is where we&#39;re going —
+											this union, this convergence of the atomic and the digital.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so one of the consequences of that, I believe,
+											is that where we have this sort of spectrum of media right now —
+											TV, film, video — that basically becomes one media platform.
+											And while there&#39;s many differences in some senses,
+											they will share more and more in common with each other.
+											So that the laws of media, such as the fact that copies have no value,
+											the value&#39;s in the uncopiable things,
+											the immediacy, the authentication, the personalization.
+											The media wants to be liquid.
+											The reason why things are free is so that you can manipulate them,
+											not so that they are &quot;free&quot; as in &quot;beer,&quot; but &quot;free&quot; as in &quot;freedom.&quot;
+											And the network effects rule,
+											meaning that the more you have, the more you get.
+											The first fax machine — the person who bought the first fax machine
+											was an idiot, because there was nobody to fax to.
+											But here she became an evangelist, recruiting others
+											to get the fax machines because it made their purchase more valuable.
+											Those are the effects that we&#39;re going to see.
+											Attention is the currency.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So those laws are going to kind of spread throughout all media.
+											And the other thing about this embodiment
+											is that there&#39;s kind of what I call the McLuhan reversal.
+											McLuhan was saying, &quot;Machines are the extensions of the human senses.&quot;
+											And I&#39;m saying, &quot;Humans are now going to be
+											the extended senses of the machine,&quot; in a certain sense.
+											So we have a trillion eyes, and ears, and touches,
+											through all our digital photographs and cameras.
+											And we see that in things like Flickr,
+											or Photosynth, this program from Microsoft
+											that will allow you to assemble a view of a touristy place
+											from the thousands of tourist snapshots of it.
+											In a certain sense, the machine is seeing through the pixels of individual cameras.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, the second thing that I want to talk about was this idea of restructuring,
+											that what the Web is doing is restructuring.
+											And I have to warn you, that what we&#39;ll talk about is —
+											I&#39;m going to give my explanation of a term you&#39;re hearing, which is a &quot;semantic Web.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So first of all, the first stage that we&#39;ve seen
+											of the Internet was that it was going to link computers.
+											And that&#39;s what we called the Net; that was the Internet of nets.
+											And we saw that, where you have all the computers of the world.
+											And if you remember, it was a kind of green screen with cursors,
+											and there was really not much to do, and if you wanted to connect it,
+											you connected it from one computer to another computer.
+											And what you had to do was — if you wanted to participate in this,
+											you had to share packets of information.
+											So you were forwarding on. You didn&#39;t have control.
+											It wasn&#39;t like a telephone system where you had control of a line:
+											you had to share packets.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The second stage that we&#39;re in now is the idea of linking pages.
+											So in the old one, if I wanted to go on to an airline Web page,
+											I went from my computer, to an FTP site, to another airline computer.
+											Now we have pages — the unit has been resolved into pages,
+											so one page links to another page.
+											And if I want to go in to book a flight,
+											I go into the airline&#39;s flight page, the website of the airline,
+											and I&#39;m linking to that page.
+											And what we&#39;re sharing were links, so you had to be kind of open with links.
+											You couldn&#39;t deny — if someone wanted to link to you,
+											you couldn&#39;t stop them. You had to participate in this idea
+											of opening up your pages to be linked by anybody.
+											So that&#39;s what we were doing.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We&#39;re now entering to the third stage, which is what I&#39;m talking about,
+											and that is where we link the data.
+											So, I don&#39;t know what the name of this thing is.
+											I&#39;m calling it the one machine. But we&#39;re linking data.
+											So we&#39;re going from machine to machine,
+											from page to page, and now data to data.
+											So the difference is, is that rather than linking from page to page,
+											we&#39;re actually going to link from one idea on a page
+											to another idea, rather than to the other page.
+											So every idea is basically being supported —
+											or every item, or every noun — is being supported by the entire Web.
+											It&#39;s being resolved at the level of items, or ideas, or words, if you want.
+											So besides physically coming out again into this idea
+											that it&#39;s not just virtual, it&#39;s actually going out to things.
+											So something will resolve down to the information
+											about a particular person, so every person will have a unique ID.
+											Every person, every item will have a something
+											that will be very specific, and will link
+											to a specific representation of that idea or item.
+											So now, in this new one, when I link to it,
+											I would link to my particular flight, my particular seat.
+											And so, giving an example of this thing,
+											I live in Pacifica, rather than — right now Pacifica
+											is just sort of a name on the Web somewhere.
+											The Web doesn&#39;t know that that is actually a town,
+											and that it&#39;s a specific town that I live in,
+											but that&#39;s what we&#39;re going to be talking about.
+											It&#39;s going to link directly to —
+											it will know, the Web will be able to read itself
+											and know that that actually is a place,
+											and that whenever it sees that word, &quot;Pacifica,&quot;
+											it knows that it actually has a place,
+											latitude, longitude, a certain population.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So here are some of the technical terms, all three-letter things,
+											that you&#39;ll see a lot more of.
+											All these things are about enabling this idea of linking to the data.
+											So I&#39;ll give you one kind of an example.
+											There&#39;s like a billion social sites on the Web.
+											Each time you go into there, you have to tell it again who you are
+											and all your friends are.
+											Why should you be doing that? You should just do that once,
+											and it should know who all your friends are.
+											So that&#39;s what you want, is all your friends are identified,
+											and you should just carry these relationships around.
+											All this data about you should just be conveyed,
+											and you should do it once and that&#39;s all that should happen.
+											And you should have all the networks
+											of all the relationships between those pieces of data.
+											That&#39;s what we&#39;re moving into — where it sort of knows these things down to that level.
+											A semantic Web, Web 3.0, giant global graph —
+											we&#39;re kind of trying out what we want to call this thing.
+											But what&#39;s it&#39;s doing is sharing data.
+											So you have to be open to having your data shared, which is a much bigger step
+											than just sharing your Web page, or your computer.
+											And all these things that are going to be on this
+											are not just pages, they are things.
+											Everything we&#39;ve described, every artifact or place,
+											will be a specific representation,
+											will have a specific character that can be linked to directly.
+											So we have this database of things.
+											And so there&#39;s actually a fourth thing that we have not get to,
+											that we won&#39;t see in the next 10 years, or 5,000 days,
+											but I think that&#39;s where we&#39;re going to. And as the Internet of things —
+											where I&#39;m linking directly to the particular things of my seat on the plane —
+											that that physical thing becomes part of the Web.
+											And so we are in the middle of this thing
+											that&#39;s completely linked, down to every object
+											in the little sliver of a connection that it has.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, the last thing I want to talk about is this idea
+											that we&#39;re going to be codependent.
+											It&#39;s always going to be there, and the closer it is, the better.
+											If you allow Google to, it will tell you your search history.
+											And I found out by looking at it
+											that I search most at 11 o&#39;clock in the morning.
+											So I am open, and being transparent to that.
+											And I think total personalization in this new world will require total transparency.
+											That is going to be the price.
+											If you want to have total personalization,
+											you have to be totally transparent.
+											Google. I can&#39;t remember my phone number, I&#39;ll just ask Google.
+											We&#39;re so dependent on this that I have now gotten to the point
+											where I don&#39;t even try to remember things —
+											I&#39;ll just Google it. It&#39;s easier to do that.
+											And we kind of object at first, saying, &quot;Oh, that&#39;s awful.&quot;
+											But if we think about the dependency that we have on this other technology,
+											called the alphabet, and writing,
+											we&#39;re totally dependent on it, and it&#39;s transformed culture.
+											We cannot imagine ourselves without the alphabet and writing.
+											And so in the same way, we&#39;re going to not imagine ourselves
+											without this other machine being there.
+											And what is happening with this is
+											some kind of AI, but it&#39;s not the AI in conscious AI,
+											as being an expert, Larry Page told me
+											that that&#39;s what they&#39;re trying to do,
+											and that&#39;s what they&#39;re trying to do.
+											But when six billion humans are Googling,
+											who&#39;s searching who? It goes both ways.
+											So we are the Web, that&#39;s what this thing is.
+											We are going to be the machine.
+											So the next 5,000 days, it&#39;s not going to be the Web and only better.
+											Just like it wasn&#39;t TV and only better.
+											The next 5,000 days, it&#39;s not just going to be the Web
+											but only better — it&#39;s going to be something different.
+											And I think it&#39;s going to be smarter.
+											It&#39;ll have an intelligence in there, that&#39;s not, again, conscious.
+											But it&#39;ll anticipate what we&#39;re doing, in a good sense.
+											Secondly, it&#39;s become much more personalized.
+											It will know us, and that&#39;s good.
+											And again, the price of that will be transparency.
+											And thirdly, it&#39;s going to become more ubiquitous
+											in terms of filling your entire environment, and we will be in the middle of it.
+											And all these devices will be portals into that.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So the single idea that I wanted to leave with you
+											is that we have to begin to think about this as not just &quot;the Web, only better,&quot;
+											but a new kind of stage in this development.
+											It looks more global. If you take this whole thing,
+											it is a very big machine, very reliable machine,
+											more reliable than its parts.
+											But we can also think about it as kind of a large organism.
+											So we might respond to it more as if this was a whole system,
+											more as if this wasn&#39;t a large organism
+											that we are going to be interacting with. It&#39;s a &quot;One.&quot;
+											And I don&#39;t know what else to call it, than the One.
+											We&#39;ll have a better word for it.
+											But there&#39;s a unity of some sort that&#39;s starting to emerge.
+											And again, I don&#39;t want to talk about consciousness,
+											I want to talk about it just as if it was a little bacteria,
+											or a volvox, which is what that organism is.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, to do, action, take-away. So, here&#39;s what I would say:
+											there&#39;s only one machine, and the Web is its OS.
+											All screens look into the One. No bits will live outside the Web.
+											To share is to gain. Let the One read it.
+											It&#39;s going to be machine-readable.
+											You want to make something that the machine can read.
+											And the One is us. We are in the One.
+											I appreciate your time.
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":278,"count":236,"talk_id":319},"threadId":278,"current_talk":"319","description":"At the 2007 EG conference, Kevin Kelly shares a fun stat: The World Wide Web, as we know it, is only 5,000 days old. Now, Kelly asks, how can we predict what's coming in the next 5,000 days?","event":"EG 2007","language":"en","name":"Kevin Kelly: The next 5,000 days of the web","slug":"kevin_kelly_on_the_next_5_000_days_of_the_web","speakers":[{"id":"20","slug":"kevin_kelly","is_published":true,"firstname":"Kevin","lastname":"Kelly","middleinitial":"","title":"","description":"Digital visionary","photo_url":"https://pe.tedcdn.com/images/ted/acb97e31618fc6a9e367baec3659e198d5dea0db_254x191.jpg","whatotherssay":"Thinker, environmentalist and philosopher extraordinaire ... A one-man force of nature.","whotheyare":"There may be no one better to contemplate the meaning of cultural change than Kevin Kelly, whose life story reads like a treatise on the value and impacts of technology.","whylisten":"<p>Kelly has been publisher of the <em>Whole Earth Review</em>, executive editor at <em>Wired</em> magazine (which he co-founded, and where he now holds the title of Senior Maverick), founder of visionary nonprofits and writer on biology, business and &ldquo;cool tools.&rdquo; He&rsquo;s renounced all material things save his bicycle (which he then rode 3,000 miles), founded an organization (the All-Species Foundation) to catalog all life on Earth, championed projects that look 10,000 years into the future (at the Long Now Foundation), and more. He&rsquo;s admired for his acute perspectives on technology and its relevance to history, biology and society. His new book,&nbsp;<a href=\"http://www.amazon.com/Inevitable-Understanding-Technological-Forces-Future/dp/0525428089\" target=\"_blank\"><em>The Inevitable</em></a>, just published, explores 12 technological forces that will shape our future.</p>"}],"url":"https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web","viewed_count":1449583,"talks":[{"curator_approved":true,"description":"At the 2007 EG conference, Kevin Kelly shares a fun stat: The World Wide Web, as we know it, is only 5,000 days old. Now, Kelly asks, how can we predict what's coming in the next 5,000 days?","downloads":{"id":319,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Basque","endonym":"Euskara","languageCode":"eu","ianaCode":"eu","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Norwegian Bokmal","endonym":"Norsk bokmål","languageCode":"nb","ianaCode":"nb","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Finnish","endonym":"Suomi","languageCode":"fi","ianaCode":"fi","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/KevinKelly_2007P-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/KevinKelly_2007P.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/KevinKelly_2007P-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"fr":{"name":"French","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-fr.mp4","low":"https://download.ted.com/talks/KevinKelly_2007P-low-fr.mp4"},"zh-tw":{"name":"Chinese, Traditional","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-zh-tw.mp4","low":"https://download.ted.com/talks/KevinKelly_2007P-low-zh-tw.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/KevinKelly_2007P-low-ja.mp4","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-ja.mp4"},"de":{"name":"German","low":"https://download.ted.com/talks/KevinKelly_2007P-low-de.mp4","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-de.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/KevinKelly_2007P-low-zh-cn.mp4","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-zh-cn.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/KevinKelly_2007P-low-ko.mp4","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-ko.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/KevinKelly_2007P-low-es.mp4","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-es.mp4"},"en":{"name":"English","low":"https://download.ted.com/talks/KevinKelly_2007P-low-en.mp4","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/KevinKelly_2007P-low-pt-br.mp4","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/KevinKelly_2007P-low-it.mp4","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-it.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/KevinKelly_2007P-low-he.mp4","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-he.mp4"},"bg":{"name":"Bulgarian","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-bg.mp4","low":"https://download.ted.com/talks/KevinKelly_2007P-low-bg.mp4"},"ro":{"name":"Romanian","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-ro.mp4","low":"https://download.ted.com/talks/KevinKelly_2007P-low-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/KevinKelly_2007P-low-pl.mp4","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-pl.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/KevinKelly_2007P-low-nl.mp4","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-nl.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/KevinKelly_2007P-low-tr.mp4","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-tr.mp4"},"hr":{"name":"Croatian","low":"https://download.ted.com/talks/KevinKelly_2007P-low-hr.mp4","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-hr.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/KevinKelly_2007P-low-ru.mp4","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-ru.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/KevinKelly_2007P-low-el.mp4","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-el.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/KevinKelly_2007P-low-ar.mp4","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-ar.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/KevinKelly_2007P-low-fa.mp4","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-fa.mp4"},"eu":{"name":"Basque","low":"https://download.ted.com/talks/KevinKelly_2007P-low-eu.mp4","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-eu.mp4"},"nb":{"name":"Norwegian Bokmal","low":"https://download.ted.com/talks/KevinKelly_2007P-low-nb.mp4","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-nb.mp4"},"sv":{"name":"Swedish","low":"https://download.ted.com/talks/KevinKelly_2007P-low-sv.mp4","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-sv.mp4"},"fi":{"name":"Finnish","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-fi.mp4","low":"https://download.ted.com/talks/KevinKelly_2007P-low-fi.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/KevinKelly_2007P-low-hu.mp4","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-hu.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/KevinKelly_2007P-low-vi.mp4","high":"https://download.ted.com/talks/KevinKelly_2007P-480p-vi.mp4"}},"audioDownload":null},"duration":1174.0,"event":"EG 2007","event_blurb":null,"event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/84760000a82ad48289066aeca95e7a776e8f39ef_1200x900.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/84760000a82ad48289066aeca95e7a776e8f39ef_1200x900.jpg?q=50&w=15","id":"319","player_talks":[{"id":"319","duration":1174.0,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Basque","endonym":"Euskara","languageCode":"eu","ianaCode":"eu","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Norwegian Bokmal","endonym":"Norsk bokmål","languageCode":"nb","ianaCode":"nb","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Finnish","endonym":"Suomi","languageCode":"fi","ianaCode":"fi","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2007P/Blank/KevinKelly_2007P-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DEG%2B2007%26id%3D319%26tag%3Dcommunication%2Ccomplexity%2Cfuture%2Ctechnology%2Cweb%26talk%3Dkevin_kelly_on_the_next_5_000_days_of_the_web%26year%3D2007&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"319","talk":"kevin_kelly_on_the_next_5_000_days_of_the_web","tag":"communication,complexity,future,technology,web","year":"2007","event":"EG 2007"},"stream":"https://hls.ted.com/talks/319.m3u8","metadata":"https://hls.ted.com/talks/319.json"}},"targeting":{"id":"319","talk":"kevin_kelly_on_the_next_5_000_days_of_the_web","tag":"communication,complexity,future,technology,web","year":"2007","event":"EG 2007"},"canonical":"https://www.ted.com/talks/kevin_kelly_on_the_next_5_000_days_of_the_web","name":"Kevin Kelly: The next 5,000 days of the web","title":"The next 5,000 days of the web","speaker":"Kevin Kelly","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/84760000a82ad48289066aeca95e7a776e8f39ef_1200x900.jpg?quality=89&w=600","slug":"kevin_kelly_on_the_next_5_000_days_of_the_web","event":"EG 2007","published":1217253660}],"ratings":[{"id":9,"name":"Ingenious","count":192},{"id":24,"name":"Persuasive","count":200},{"id":8,"name":"Informative","count":546},{"id":25,"name":"OK","count":171},{"id":22,"name":"Fascinating","count":656},{"id":10,"name":"Inspiring","count":359},{"id":23,"name":"Jaw-dropping","count":219},{"id":11,"name":"Longwinded","count":97},{"id":21,"name":"Unconvincing","count":123},{"id":26,"name":"Obnoxious","count":29},{"id":3,"name":"Courageous","count":68},{"id":7,"name":"Funny","count":31},{"id":2,"name":"Confusing","count":45},{"id":1,"name":"Beautiful","count":35}],"recorded_at":"2007-12-12T00:00:00.000+00:00","related_talks":[{"id":"19","hero":"https://pe.tedcdn.com/images/ted/7ddac8199e485dc8fe198d34b726f76680e7b86e_2880x1620.jpg","speaker":"Kevin Kelly","title":"How technology evolves","duration":1200.0,"slug":"kevin_kelly_on_how_technology_evolves","viewed_count":1718631},{"id":"362","hero":"https://pe.tedcdn.com/images/ted/371_480x360.jpg","speaker":"Steven Johnson","title":"The Web as a city","duration":990.0,"slug":"steven_johnson_on_the_web_as_a_city","viewed_count":361623},{"id":"216","hero":"https://pe.tedcdn.com/images/ted/8cea3025b2122cfdc2ba6a72f832565716946034_1600x1200.jpg","speaker":"Howard Rheingold","title":"The new power of collaboration","duration":1171.0,"slug":"howard_rheingold_on_collaboration","viewed_count":1011115},{"id":"2061","hero":"https://pe.tedcdn.com/images/ted/39a923a807cd8dfac8bfcd867963ebf99c3be2fd_2400x1800.jpg","speaker":"Tim Berners-Lee","title":"A Magna Carta for the web","duration":403.0,"slug":"tim_berners_lee_a_magna_carta_for_the_web","viewed_count":1090624},{"id":"1581","hero":"https://pe.tedcdn.com/images/ted/436bcf78e4406a81d162e90015032c45330e9ef3_1600x1200.jpg","speaker":"Ryan Merkley","title":"Online video -- annotated, remixed and popped","duration":265.0,"slug":"ryan_merkley_online_video_annotated_remixed_and_popped","viewed_count":713287},{"id":"1091","hero":"https://pe.tedcdn.com/images/ted/0f550197b90f20147576a51962258dc5ac7ac82d_800x600.jpg","speaker":"Eli Pariser","title":"Beware online \"filter bubbles\"","duration":544.0,"slug":"eli_pariser_beware_online_filter_bubbles","viewed_count":4290174}],"slug":"kevin_kelly_on_the_next_5_000_days_of_the_web","speakers":[{"id":"20","slug":"kevin_kelly","is_published":true,"firstname":"Kevin","lastname":"Kelly","middleinitial":"","title":"","description":"Digital visionary","photo_url":"https://pe.tedcdn.com/images/ted/acb97e31618fc6a9e367baec3659e198d5dea0db_254x191.jpg","whatotherssay":"Thinker, environmentalist and philosopher extraordinaire ... A one-man force of nature.","whotheyare":"There may be no one better to contemplate the meaning of cultural change than Kevin Kelly, whose life story reads like a treatise on the value and impacts of technology.","whylisten":"<p>Kelly has been publisher of the <em>Whole Earth Review</em>, executive editor at <em>Wired</em> magazine (which he co-founded, and where he now holds the title of Senior Maverick), founder of visionary nonprofits and writer on biology, business and &ldquo;cool tools.&rdquo; He&rsquo;s renounced all material things save his bicycle (which he then rode 3,000 miles), founded an organization (the All-Species Foundation) to catalog all life on Earth, championed projects that look 10,000 years into the future (at the Long Now Foundation), and more. He&rsquo;s admired for his acute perspectives on technology and its relevance to history, biology and society. His new book,&nbsp;<a href=\"http://www.amazon.com/Inevitable-Understanding-Technological-Forces-Future/dp/0525428089\" target=\"_blank\"><em>The Inevitable</em></a>, just published, explores 12 technological forces that will shape our future.</p>"}],"speaker_name":"Kevin Kelly","tags":["communication","complexity","future","technology","web"],"title":"The next 5,000 days of the web","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":1449583}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

@@ -1,0 +1,1415 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Aaron Koblin: Visualizing ourselves ... with crowd-sourced data | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Artist Aaron Koblin takes vast amounts of data -- and at times vast numbers of people -- and weaves them into stunning visualizations. From elegant lines tracing airline flights to landscapes of cell phone data, from a Johnny Cash video assembled from crowd-sourced drawings to the &quot;Wilderness Downtown&quot; video that customizes for the user, his works brilliantly explore how modern technology can make us more human." />
+<meta name="author" content="Aaron Koblin" />
+<link rel="canonical" href="https://www.ted.com/talks/aaron_koblin/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/aaron_koblin/transcript" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/aaron_koblin/transcript?language=el" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/aaron_koblin/transcript?language=en" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/aaron_koblin/transcript?language=vi" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/aaron_koblin/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/aaron_koblin/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/aaron_koblin/transcript?language=pt-br" />
+<link rel="alternate" hreflang="cs" href="https://www.ted.com/talks/aaron_koblin/transcript?language=cs" />
+<link rel="alternate" hreflang="id" href="https://www.ted.com/talks/aaron_koblin/transcript?language=id" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/aaron_koblin/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/aaron_koblin/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/aaron_koblin/transcript?language=nl" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/aaron_koblin/transcript?language=pt" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/aaron_koblin/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/aaron_koblin/transcript?language=tr" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/aaron_koblin/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/aaron_koblin/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/aaron_koblin/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/aaron_koblin/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/aaron_koblin/transcript?language=bg" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/aaron_koblin/transcript?language=de" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/aaron_koblin/transcript?language=hu" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/aaron_koblin/transcript?language=fa" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/aaron_koblin/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/aaron_koblin/transcript?language=he" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/aaron_koblin/transcript?language=sr" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/aaron_koblin/transcript?language=ko" />
+<link rel="alternate" hreflang="uk" href="https://www.ted.com/talks/aaron_koblin/transcript?language=uk" />
+<meta property="og:title" content="Transcript of &quot;Visualizing ourselves ... with crowd-sourced data&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1c3f327a456360b2846b9ee8f15788ef99f93dd8_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1c3f327a456360b2846b9ee8f15788ef99f93dd8_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Aaron Koblin: Visualizing ourselves ... with crowd-sourced data" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Artist Aaron Koblin takes vast amounts of data -- and at times vast numbers of people -- and weaves them into stunning visualizations. From elegant lines tracing airline flights to landscapes of cell phone data, from a Johnny Cash video assembled from crowd-sourced drawings to the &quot;Wilderness Downtown&quot; video that customizes for the user, his works brilliantly explore how modern technology can make us more human." />
+<meta property="og:url" content="https://www.ted.com/talks/aaron_koblin/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 1152);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/aaron_koblin' itemprop='url'>
+<meta content='Visualizing ourselves ... with crowd-sourced data' itemprop='name'>
+<meta content='Artist Aaron Koblin takes vast amounts of data — and at times vast numbers of people — and weaves them into stunning visualizations. From elegant lines tracing airline flights to landscapes of cell phone data, from a Johnny Cash video assembled from crowd-sourced drawings to the "Wilderness Downtown" video that customizes for the user, his works brilliantly explore how modern technology can make us more human.' itemprop='description'>
+<meta content='PT18M18S' itemprop='duration'>
+<meta content='2011-05-23T01:00:00+00:00' itemprop='uploadDate'>
+<meta content='1535712' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1c3f327a456360b2846b9ee8f15788ef99f93dd8_800x600.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/aaron_koblin' itemprop='url'>
+<meta content='Aaron Koblin' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/f5dd915dfbc45a4d6e4d214b79a10a2eae43120f_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/aaron_koblin' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1c3f327a456360b2846b9ee8f15788ef99f93dd8_800x600.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Aaron Koblin
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,535,712
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 18:18</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So I think data can actually make us more human.
+											We&#39;re collecting and creating all kinds of data about how we&#39;re living our lives,
+											and it&#39;s enabling us to tell some amazing stories.
+											Recently, a wise media theorist Tweeted,
+											&quot;The 19th century culture was defined by the novel,
+											the 20th century culture was defined by the cinema,
+											and the culture of the 21st century
+											will be defined by the interface.&quot;
+											And I believe this is going to prove true.
+											Our lives are being driven by data,
+											and the presentation of that data is an opportunity
+											for us to make some amazing interfaces that tell great stories.
+											So I&#39;m going to show you a few of the projects
+											that I&#39;ve been working on over the last couple years
+											that reflect on our lives and our systems.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is a project called Flight Patterns.
+											What you&#39;re looking at is airplane traffic
+											over North America for a 24-hour period.
+											As you see, everything starts to fade to black,
+											and you see people going to sleep.
+											Followed by that, you see on the West coast
+											planes moving across, the red-eye flights to the East coast.
+											And you&#39;ll see everybody waking up on the East coast,
+											followed by European flights coming in the upper right-hand corner.
+											Everybody&#39;s moving from the East coast to the West coast.
+											You see San Francisco and Los Angeles
+											start to make their journeys down to Hawaii in the lower left-hand corner.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I think it&#39;s one thing to say there&#39;s 140,000 planes
+											being monitored by the federal government at any one time,
+											and it&#39;s another thing to see that system as it ebbs and flows.
+											This is a time-lapse image of that exact same data,
+											but I&#39;ve color-coded it by type,
+											so you can see the diversity of aircraft that are in the skies above us.
+											And I started making these, and I put them into Google Maps
+											and allow you to zoom in and see individual airports
+											and the patterns that are occurring there.
+											So here we can see the white represents low altitudes,
+											and the blue are higher altitudes.
+											And you can zoom in. This is taking a look at Atlanta.
+											You can see this is a major shipping airport,
+											and there&#39;s all kinds of activity there.
+											You can also toggle between altitude
+											for model and manufacturer.
+											See again, the diversity.
+											And you can scroll around and see
+											some of the different airports and the different patterns that they have.
+											This is scrolling up the East coast.
+											You can see some of the chaos that&#39;s happening in New York
+											with the air traffic controllers
+											having to deal with all those major airports next to each other.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So zooming back out real quick,
+											we see, again, the U.S. — you get Florida down in the right-hand corner.
+											Moving across to the West coast,
+											you see San Francisco and Los Angeles —
+											big low-traffic zones
+											across Nevada and Arizona.
+											And that&#39;s us down there in L.A. and Long Beach on the bottom.
+											I started taking a look as well at different perimeters,
+											because you can choose what you want to pull out from the data.
+											This is looking at ascending versus descending flights.
+											And you can see, over time, the ways the airports change.
+											You see the holding patterns that start to develop
+											in the bottom of the screen.
+											And you can see, eventually the airport actually flips directions.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So this is another project that I worked on with the Sensible Cities Lab at MIT.
+											This is visualizing international communications.
+											So it&#39;s how New York communicates
+											with other international cities.
+											And we set this up as a live globe in the Museum of Modern Art in New York
+											for the Design the Elastic Mind exhibition.
+											And it had a live feed with a 24-hour offset,
+											so you could see the changing relationship
+											and some demographic info
+											coming through AT&amp;T&#39;s data and revealing itself.
+											This is another project I worked on with Sensible Cities Lab
+											and CurrentCity.org.
+											And it&#39;s visualizing SMS messages being sent in the city of Amsterdam.
+											So you&#39;re seeing the daily ebb and flow
+											of people sending SMS messages from different parts of the city,
+											until we approach New Year&#39;s Eve, where everybody says, &quot;Happy New Year!&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So this is an interactive tool
+											that you can move around and see different parts of the city.
+											This is looking at another event. This is called Queen&#39;s Day.
+											So again, you get this daily ebb and flow
+											of people sending SMS messages from different parts of the city.
+											And then you&#39;re going to see people start to gather in the center of the city
+											to celebrate the night before,
+											which happens right here.
+											And then you can see people celebrating the next day.
+											And you can pause it and step back and forth and see different phases.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So now on to something completely different.
+											Some of you may recognize this.
+											This is Baron Wolfgang von Kempelen&#39;s mechanical chess playing machine.
+											And it&#39;s this amazing robot that plays chess extremely well,
+											except for one thing: it&#39;s not a robot at all.
+											There&#39;s actually a legless man that sits in that box
+											and controls this chess player.
+											This was the inspiration for a web service by Amazon
+											called the Mechanical Turk — named after this guy.
+											And it&#39;s based on the premise that there are certain things
+											that are easy for people, but really difficult for computers.
+											So they made this web service and said,
+											&quot;Any programmer can write a piece of software
+											and tap into the minds of thousands of people.&quot;
+											The nerdy side of me thought, &quot;Wow, this is amazing.
+											I can tap into thousands of people&#39;s minds.&quot;
+											And the other nerdy side of me thought,
+											&quot;This is horrible. This is completely bizarre.
+											What does this mean for the future of mankind,
+											where we&#39;re all plugged into this borg?&quot;
+											I was probably being a little extreme.
+											But what does this mean when we have no context for what it is that we&#39;re working on,
+											and we&#39;re just doing these little labors?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So I created this drawing tool.
+											I asked people to draw a sheep facing to the left.
+											And I said, &quot;I&#39;ll pay you two cents for your contribution.&quot;
+											And I started collecting sheep.
+											And I collected a lot, a lot of different sheep.
+											Lots of sheep.
+											I took the first 10,000 sheep that I collected,
+											and I put them on a website called TheSheepMarket.com
+											where you can actually buy collections of 20 sheep.
+											You can&#39;t pick individual sheep,
+											but you can buy a single plate block of stamps as a commodity.
+											And juxtaposed against this grid,
+											you see actually, by rolling over each individual one,
+											the humanity behind this hugely mechanical process.
+											I think there&#39;s something really interesting
+											to watching people as they go through this creative toil —
+											something we can all relate to,
+											this creative process of trying to come up with something from nothing.
+											I think it was really interesting to juxtapose this humanity
+											versus this massive distributed grid.
+											Kind of amazing what some people did.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So here&#39;s a few statistics from the project.
+											Approximate collection rate of 11 sheep per hour,
+											which would make a working wage of 69 cents per hour.
+											There were 662 rejected sheep
+											that didn&#39;t meet &quot;sheep-like&quot; criteria and were thrown out of the flock.
+											(Laughter)
+											The amount of time spent drawing ranged from four seconds to 46 minutes.
+											That gives you an idea of the different types of motivations and dedication.
+											And there were 7,599 people that contributed to the project,
+											or were unique IP addresses —
+											so about how many people contributed.
+											But only one of them out of the 7,599 said this.
+											(Laughter)
+											Which I was pretty surprised by.
+											I expected people to be wondering, &quot;Why did I draw a sheep?&quot;
+											And I think it&#39;s a pretty valid question.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And there&#39;s a lot of reasons why I chose sheep.
+											Sheep were the first animal
+											to be raised from mechanically processed byproducts,
+											the first to be selectively bred for production traits,
+											the first animal to be cloned.
+											Obviously, we think of sheep as followers.
+											And there&#39;s this reference to &quot;Le Petit Prince&quot;
+											where the narrator asks the prince to draw a sheep.
+											He draws sheep after sheep.
+											The narrator&#39;s only appeased when he draws a box.
+											And he says, &quot;It&#39;s not about a scientific rendering of a sheep.
+											It&#39;s about your own interpretation and doing something different.&quot;
+											And I like that.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So this is a clip from Charlie Chaplin&#39;s &quot;Modern Times.&quot;
+											It&#39;s showing Charlie Chaplin dealing with some of the major changes
+											during the Industrial Revolution.
+											So there were no longer shoe makers,
+											but now there are people slapping soles on people&#39;s shoes.
+											And the whole idea of one&#39;s relationship to their work changed a lot.
+											So I thought this was an interesting clip
+											to divide into 16 pieces
+											and feed into the Mechanical Turk with a drawing tool.
+											This basically allowed — what you see on the left side is the original frame,
+											and on the right side you see that frame
+											as interpreted by 16 people
+											who have no idea what it is they&#39;re doing.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And this was the inspiration for a project
+											that I worked on with my friend Takashi Kawashima.
+											We decided to use the Mechanical Turk for exactly what it was meant for,
+											which is making money.
+											So we took a hundred dollar bill and divided it into 10,000 teeny pieces,
+											and we fed those into the Mechanical Turk.
+											We asked people to draw what it was that they saw.
+											But here there was no sheep-like criteria.
+											People, if they drew a stick figure or a smiley face,
+											it actually made it into the bill.
+											So what you see is actually a representation of how well people did
+											what it was they were asked to do.
+											So we took these hundred dollar bills,
+											and we put them on a website called TenThousandsCents.com,
+											where you can browse through and see all the individual contributions.
+											And you can also trade real hundred-dollar bills for fake hundred-dollar bills
+											and make a donation to the Hundred Dollar Laptop Project,
+											which is now known as One Laptop Per Child.
+											This is again showing all the different contributions.
+											You see some people did beautiful stipple renderings,
+											like this one on top —
+											spent a long time making realistic versions.
+											And other people would draw stick figures or smiley faces.
+											Here on the right-hand side in the middle
+											you see this one guy writing, &quot;$0.01!!! Really?&quot;
+											That&#39;s all I&#39;m getting paid for this?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So the last Mechanical Turk project I&#39;m going to talk to you about
+											is called Bicycle Built for 2000.
+											This is a collaboration with my friend Daniel Massey.
+											You may recognize these two guys.
+											This is Max Mathews and John Kelly from Bell Labs in the &#39;60s,
+											where they created the song &quot;Daisy Bell,&quot;
+											which was the world&#39;s first singing computer.
+											You may recognize it from &quot;2001: A Space Odyssey.&quot;
+											When HAL&#39;s dying at the end of the film he starts singing this song,
+											as a reference to when computers became human.
+											So we resynthesized this song.
+											This is what that sounded like.
+											We broke down all the individual notes
+											in the singing as well as the phonemes in the singing.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Daisy Bell: ♫ Daisy, Daisy ... ♫
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Aaron Koblin: And we took all of those individual pieces,
+											and we fed them into another Turk request.
+											This is what it would look like if you went to the site.
+											You type in your code,
+											but you first test your mic.
+											You&#39;d be fed a simple audio clip.
+											(Honk)
+											And then you&#39;d do your best to recreate that with your own voice.
+											After previewing it and confirming it&#39;s what you submitted,
+											you could submit it into the Mechanical Turk with no other context.
+											And this is what we first got back from the very first set of submissions.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Recording: ♫ Daisy, Daisy ♫
+											♫ give me your answer do ♫
+											♫ I&#39;m half crazy ♫
+											♫ all for the love of you ♫
+											♫ It can&#39;t be a stylish marriage ♫
+											♫ I can&#39;t afford a carriage ♫
+											♫ But you&#39;ll look sweet upon the seat ♫
+											♫ of a bicycle built for two ♫
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AK: So James Surowieki has this idea of the wisdom of crowds,
+											that says that a whole bunch of people are smarter than any individual.
+											We wanted to see how this applies to collaborative, distributed music making,
+											where nobody has any idea what it is they&#39;re working on.
+											So if you go to the BicycleBuiltforTwoThousand.com
+											you can actually hear what all this sounds like together.
+											I&#39;m sorry for this.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Noise)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Chorus: ♫ Daisy, Daisy ♫
+											♫ Give me your answer do ♫
+											♫ I&#39;m half crazy ♫
+											♫ all for the love of you ♫
+											♫ It can&#39;t be a stylish marriage ♫
+											♫ I can&#39;t afford a carriage ♫
+											♫ But you&#39;d look sweet upon the seat ♫
+											♫ of a bicycle built for two ♫
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AK: So stepping back for a quick second,
+											when I was at UCLA going to grad school,
+											I was also working at a place called the Center for Embedded Network Sensing.
+											And I was writing software to visualize laser scanners.
+											So basically motion through 3D space.
+											And this was seen by a director in L.A. named James Frost
+											who said, &quot;Wait a minute.
+											You mean we can shoot a music video without actually using any video?&quot;
+											So we did exactly that.
+											We made a music video for one of my favorite bands, Radiohead.
+											And I think one of my favorite parts of this project
+											was not just shooting a video with lasers,
+											but we also open sourced it,
+											and we made it released as a Google Code project,
+											where people could download a bunch of the data and some source code
+											to build their own versions of it.
+											And people were making some amazing things.
+											This is actually two of my favorites:
+											the pin-board Thom Yorke and a LEGO Thom Yorke.
+											A whole YouTube channel of people submitting really interesting content.
+											More recently, somebody even 3D-printed Thom Yorke&#39;s head,
+											which is a little creepy, but pretty cool.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So with everybody making so much amazing stuff
+											and actually understanding what it was they were working on,
+											I was really interested in trying to make a collaborative project
+											where people were working together to build something.
+											And I met a music video director named Chris Milk.
+											And we started bouncing around ideas
+											to make a collaborative music video project.
+											But we knew we really needed the right person
+											to kind of rally behind and build something for.
+											So we put the idea on the back burner for a few months.
+											And he ended up talking to Rick Rubin,
+											who was finishing up Johnny Cash&#39;s final album
+											called &quot;Ain&#39;t No Grave.&quot;
+											The lyrics to the leading track are &quot;Ain&#39;t no grave can hold my body down.&quot;
+											So we thought this was the perfect
+											project to build a collaborative memorial
+											and a virtual resurrection for Johnny Cash.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So I teamed up with my good friend Ricardo Cabello, also known as Mr. doob,
+											who&#39;s a much better programmer than I am,
+											and he made this amazing Flash drawing tool.
+											As you know,
+											an animation is a series of images.
+											So what we did was cross-cut a bunch of archival footage of Johnny Cash,
+											and at eight frames a second,
+											we allowed individuals to draw a single frame
+											that would get woven into
+											this dynamically changing music video.
+											So I don&#39;t have time to play the entire thing for you,
+											but I want to show you two short clips.
+											One is the beginning of the music video.
+											And that&#39;s going to be followed by a short clip
+											of people who have already contributed to the project
+											talking about it briefly.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Video) Johnny Cash: ♫ There ain&#39;t no grave ♫
+											♫ can hold my body down ♫
+											♫ There ain&#39;t no grave ♫
+											♫ can hold body down ♫
+											♫ When I hear the trumpet sound ♫
+											♫ I&#39;m going to ride right out of the ground ♫
+											♫ Ain&#39;t no grave ♫
+											♫ can hold my body ... ♫
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AK: What better way to pay tribute to the man
+											than to make something for one of his songs.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Collaborator: I felt really sad when he died.
+											And I just thought it&#39;d be wonderful,
+											it&#39;d be really nice to contribute something to his memory.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Collaborator Two: It really allows
+											this last recording of his
+											to be a living, breathing memorial.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Collaborator Three: For all of the frames to be drawn by fans,
+											each individual frame,
+											it&#39;s got a very powerful feeling to it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Collaborator Four: I&#39;ve seen everybody
+											from Japan, Venezuela, to the States,
+											to Knoxville, Tennessee.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Collaborator Five: As much as is different from frame to frame,
+											it really is personal.
+											Collaborator Six: Watching the video in my room,
+											I could see me not understanding at the beginning of it.
+											And I just worked and worked through problems,
+											until my little wee battles that I was fighting within the picture
+											all began to resolve themselves.
+											You can actually see the point when I know what I&#39;m doing,
+											and a lot of light and dark comes into it.
+											And in a weird way,
+											that&#39;s what I actually like about Johnny Cash&#39;s music as well.
+											It&#39;s the sum total of his life,
+											all the things that had happened —
+											the bad things, the good things.
+											You&#39;re hearing a person&#39;s life.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AK: So if you go to the website JohnnyCashProject.com,
+											what you&#39;ll see is the video playing above.
+											And below it are all the individual frames
+											that people have been submitting to the project.
+											So this isn&#39;t finished at all,
+											but it&#39;s an ongoing project where people can continue to collaborate.
+											If you roll over any one of those individual thumbnails,
+											you can see the person who drew that individual thumbnail
+											and where they were located.
+											And if you find one that you&#39;re interested in,
+											you can actually click on it and open up an information panel
+											where you&#39;re able to rate that frame,
+											which helps it bubble up to the top.
+											And you can also see the way that it was drawn.
+											Again, you can get the playback and personal contribution.
+											In addition to that, it&#39;s listed, the artist&#39;s name, the location,
+											how long they spent drawing it.
+											And you can pick a style. So this one was tagged &quot;Abstract.&quot;
+											But there&#39;s a bunch of different styles.
+											And you can sort the video a number of different ways.
+											You can say, &quot;I want to see the pointillist version
+											or the sketchy version or the realistic version.
+											And then this is, again, the abstract version,
+											which ends up getting a little bit crazy.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So the last project I want to talk to you about is another collaboration with Chris Milk.
+											And this is called &quot;The Wilderness Downtown.&quot;
+											It&#39;s an online music video for the Arcade Fire.
+											Chris and I were really amazed
+											by the potential now with modern web browsers,
+											where you have HTML5 audio and video
+											and the power of JavaScript to render amazingly fast.
+											And we wanted to push the idea of the music video that was meant for the Web
+											beyond the four-by-three or sixteen-by-nine window
+											and try to make it play out and choreograph throughout the screen.
+											But most importantly, I think,
+											we really wanted to make an experience that was unlike the Johnny Cash Project,
+											where you had a small group of people spending a lot of time
+											to contribute something for everyone.
+											What if we had a very low commitment,
+											but delivered something individually unique to each person who contributed?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So the project starts off by asking you to enter the address
+											of the home where you grew up.
+											And you type in the address —
+											it actually creates a music video specifically for you,
+											pulling in Google maps and Streetview images
+											into the experience itself.
+											So this should really be seen at home with you typing in your own address,
+											but I&#39;m going to give you a little preview of what you can expect.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Video) Win Butler: ♫ Now our lives are changing fast ♫
+											♫ Now our lives are changing fast ♫
+											♫ Hope that something pure can last ♫
+											♫ Hope that something pure can last ♫
+											♫ Ooh we used to wait ♫
+											♫ Ooh we used to wait ♫
+											♫ Ooh we used to wait ♫
+											♫ Sometimes it never came ♫
+											♫ Sometimes it never came ♫
+											♫ Still moving through the pain ♫
+											♫ We used to wait for it ♫
+											♫ We used to wait for it ♫
+											♫ We used to wait for it ♫
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AK: So I think, if there&#39;s one thing to take away from my talk today,
+											it&#39;s that an interface can be a powerful narrative device.
+											And as we collect more and more personally and socially relevant data,
+											we have an opportunity, and maybe even an obligation,
+											to maintain the humanity and tell some amazing stories
+											as we explore and collaborate together.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thanks a lot.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":4158,"count":83,"talk_id":1152},"threadId":4158,"current_talk":"1152","description":"Artist Aaron Koblin takes vast amounts of data -- and at times vast numbers of people -- and weaves them into stunning visualizations. From elegant lines tracing airline flights to landscapes of cell phone data, from a Johnny Cash video assembled from crowd-sourced drawings to the \"Wilderness Downtown\" video that customizes for the user, his works brilliantly explore how modern technology can make us more human.","event":"TED2011","language":"en","name":"Aaron Koblin: Visualizing ourselves ... with crowd-sourced data","slug":"aaron_koblin","speakers":[{"id":"883","slug":"aaron_koblin","is_published":true,"firstname":"Aaron","lastname":"Koblin","middleinitial":"","title":"","description":"Data artist","photo_url":"https://pe.tedcdn.com/images/ted/f5dd915dfbc45a4d6e4d214b79a10a2eae43120f_254x191.jpg","whatotherssay":"He likes his data ‘super fun’ -- that is, messy.","whotheyare":"Aaron Koblin is an artist specializing in data and digital technologies. His work takes real world and community-generated data and uses it to reflect on cultural trends and the changing relationship between humans and technology.","whylisten":"<p>Aaron Koblin finds art through the unlikely confluence of massive data sets and personal intimacy. His work ranges from animating the paths of every North American airline flight, to using Amazon&rsquo;s Mechanical Turk crowdsourcing platform to pay workers to &ldquo;draw a sheep facing left,&rdquo; which were then placed in &quot;The Sheep Market.&quot;<br /><br />Koblin was creative director for Johnny Cash&#39;s final music video, &quot;Ain&#39;t No Grave,&quot; and worked on Radiohead&rsquo;s video &ldquo;House of Cards,&rdquo; both of which received a Grammy nomination. He is now the Creative Director of the Data Arts team in Google&#39;s Creative Lab. His team collaborated with Arcade Fire to produce an online music video that allows viewers to incorporate images of their home neighborhood into the experience using Google Street View.</p>"}],"url":"https://www.ted.com/talks/aaron_koblin","viewed_count":1535712,"talks":[{"recommendations":{"status":"approved","headline":"Aaron Koblin recommends","blurb":"Find out more about the process behind Koblin's crowdsourced data visualizations.","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"recommendation","rec_lists":[{"title":"reading list","description":"","rec_items":[{"label":"READ_Article","headline":"Building Radiohead's House of Cards","blurb":"An essay about the making of Radiohead’s 'House of Cards' music video.\r\n","note":"Aaron Koblin with Valdean Klump\r\nin *Beautiful Data*\r\nToby Segaran and Jeff Hammerbacher (Editors)\r\nO'Reilly Media, 2009","link_url":"http://www.amazon.com/Beautiful-Data-Stories-Elegant-Solutions/dp/0596157118/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":null},{"label":"READ_Article","headline":"Flight Patterns: A Deep Dive","blurb":"An essay about the making of Flight Patterns.","note":"Aaron Koblin with Valdean Klump\r\nin *Beautiful Visualization*\r\nJulie Steele and Noah Iliinsky (Editors)\r\nO'Reilly Media, 2010","link_url":"http://www.amazon.com/Beautiful-Visualization-Looking-through-Practice/dp/1449379869/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":null}]}]},"more_resources":[],"corrections":[],"has_citations":true,"take_action":[],"curator_approved":true,"description":"Artist Aaron Koblin takes vast amounts of data -- and at times vast numbers of people -- and weaves them into stunning visualizations. From elegant lines tracing airline flights to landscapes of cell phone data, from a Johnny Cash video assembled from crowd-sourced drawings to the \"Wilderness Downtown\" video that customizes for the user, his works brilliantly explore how modern technology can make us more human.","downloads":{"id":1152,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/AaronKoblin_2011-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/AaronKoblin_2011.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/AaronKoblin_2011-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"fr":{"name":"French","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-fr.mp4","low":"https://download.ted.com/talks/AaronKoblin_2011-low-fr.mp4"},"de":{"name":"German","low":"https://download.ted.com/talks/AaronKoblin_2011-low-de.mp4","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-de.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/AaronKoblin_2011-low-ja.mp4","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-ja.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/AaronKoblin_2011-low-zh-tw.mp4","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-zh-tw.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/AaronKoblin_2011-low-zh-cn.mp4","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-zh-cn.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/AaronKoblin_2011-low-ko.mp4","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-ko.mp4"},"es":{"name":"Spanish","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-es.mp4","low":"https://download.ted.com/talks/AaronKoblin_2011-low-es.mp4"},"en":{"name":"English","low":"https://download.ted.com/talks/AaronKoblin_2011-low-en.mp4","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/AaronKoblin_2011-low-pt-br.mp4","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/AaronKoblin_2011-low-it.mp4","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-it.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/AaronKoblin_2011-low-he.mp4","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-he.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/AaronKoblin_2011-low-bg.mp4","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/AaronKoblin_2011-low-ro.mp4","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/AaronKoblin_2011-low-pl.mp4","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-pl.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/AaronKoblin_2011-low-nl.mp4","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-nl.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/AaronKoblin_2011-low-tr.mp4","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-tr.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/AaronKoblin_2011-low-ru.mp4","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-ru.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/AaronKoblin_2011-low-hu.mp4","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-hu.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/AaronKoblin_2011-low-vi.mp4","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-vi.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/AaronKoblin_2011-low-el.mp4","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-el.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/AaronKoblin_2011-low-ar.mp4","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-ar.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/AaronKoblin_2011-low-pt.mp4","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-pt.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/AaronKoblin_2011-low-fa.mp4","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-fa.mp4"},"cs":{"name":"Czech","low":"https://download.ted.com/talks/AaronKoblin_2011-low-cs.mp4","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-cs.mp4"},"id":{"name":"Indonesian","low":"https://download.ted.com/talks/AaronKoblin_2011-low-id.mp4","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-id.mp4"},"uk":{"name":"Ukrainian","low":"https://download.ted.com/talks/AaronKoblin_2011-low-uk.mp4","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-uk.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/AaronKoblin_2011-low-sr.mp4","high":"https://download.ted.com/talks/AaronKoblin_2011-480p-sr.mp4"}},"audioDownload":"https://download.ted.com/talks/AaronKoblin_2011.mp3?apikey=acme-roadrunner"},"duration":1098.0,"event":"TED2011","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/1c3f327a456360b2846b9ee8f15788ef99f93dd8_800x600.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1c3f327a456360b2846b9ee8f15788ef99f93dd8_800x600.jpg?q=50&w=15","id":"1152","player_talks":[{"id":"1152","duration":1098.0,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2011/Blank/AaronKoblin_2011-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTED2011%26id%3D1152%26tag%3Dcollaboration%2Cdata%2Cdesign%2Ctechnology%2Cvisualizations%2Ccrowdsourcing%2Cart%26talk%3Daaron_koblin%26year%3D2011&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"1152","talk":"aaron_koblin","tag":"collaboration,data,design,technology,visualizations,crowdsourcing,art","year":"2011","event":"TED2011"},"stream":"https://hls.ted.com/talks/1152.m3u8","metadata":"https://hls.ted.com/talks/1152.json"}},"targeting":{"id":"1152","talk":"aaron_koblin","tag":"collaboration,data,design,technology,visualizations,crowdsourcing,art","year":"2011","event":"TED2011"},"canonical":"https://www.ted.com/talks/aaron_koblin","name":"Aaron Koblin: Visualizing ourselves ... with crowd-sourced data","title":"Visualizing ourselves ... with crowd-sourced data","speaker":"Aaron Koblin","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1c3f327a456360b2846b9ee8f15788ef99f93dd8_800x600.jpg?quality=89&w=600","slug":"aaron_koblin","event":"TED2011","published":1306112400}],"ratings":[{"id":23,"name":"Jaw-dropping","count":248},{"id":1,"name":"Beautiful","count":451},{"id":10,"name":"Inspiring","count":583},{"id":25,"name":"OK","count":78},{"id":21,"name":"Unconvincing","count":36},{"id":9,"name":"Ingenious","count":492},{"id":22,"name":"Fascinating","count":626},{"id":24,"name":"Persuasive","count":35},{"id":7,"name":"Funny","count":62},{"id":8,"name":"Informative","count":197},{"id":11,"name":"Longwinded","count":42},{"id":3,"name":"Courageous","count":24},{"id":2,"name":"Confusing","count":35},{"id":26,"name":"Obnoxious","count":19}],"recorded_at":"2011-03-02T00:00:00.000+00:00","related_talks":[{"id":"516","hero":"https://pe.tedcdn.com/images/ted/83840_800x600.jpg","speaker":"JoAnn Kuchera-Morin","title":"Stunning data visualization in the AlloSphere","duration":387.0,"slug":"joann_kuchera_morin_tours_the_allosphere","viewed_count":656598},{"id":"626","hero":"https://pe.tedcdn.com/images/ted/111402_800x600.jpg","speaker":"Evan Grant","title":"Making sound visible through cymatics","duration":279.0,"slug":"evan_grant_cymatics","viewed_count":857186},{"id":"1137","hero":"https://pe.tedcdn.com/images/ted/84f44b766c9eede9c3887cfe711c9e9c3e3e5efd_800x600.jpg","speaker":"Carlo Ratti","title":"Architecture that senses and responds","duration":946.0,"slug":"carlo_ratti_architecture_that_senses_and_responds","viewed_count":676734},{"id":"2792","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/647c6d69-2a84-45a6-8d2b-88b8bbd18ec4/OkGo_2017-embed.jpg","speaker":" OK Go","title":"How to find a wonderful idea","duration":1055.0,"slug":"ok_go_how_to_find_a_wonderful_idea","viewed_count":1954204},{"id":"2838","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/b0ce2fc6-ad27-4e0c-9212-08240b6ebd1f/JackConte_2017-embed.jpg","speaker":"Jack Conte","title":"How artists can (finally) get paid in the digital age ","duration":631.0,"slug":"jack_conte_how_artists_can_finally_get_paid_in_the_digital_age","viewed_count":1114213},{"id":"87","hero":"https://pe.tedcdn.com/images/ted/f640064c612bf2b53369e0c7b81554a904ed5a93_2880x1620.jpg","speaker":"Ze Frank","title":"Nerdcore comedy","duration":1136.0,"slug":"ze_frank_s_nerdcore_comedy","viewed_count":6421692}],"slug":"aaron_koblin","speakers":[{"id":"883","slug":"aaron_koblin","is_published":true,"firstname":"Aaron","lastname":"Koblin","middleinitial":"","title":"","description":"Data artist","photo_url":"https://pe.tedcdn.com/images/ted/f5dd915dfbc45a4d6e4d214b79a10a2eae43120f_254x191.jpg","whatotherssay":"He likes his data ‘super fun’ -- that is, messy.","whotheyare":"Aaron Koblin is an artist specializing in data and digital technologies. His work takes real world and community-generated data and uses it to reflect on cultural trends and the changing relationship between humans and technology.","whylisten":"<p>Aaron Koblin finds art through the unlikely confluence of massive data sets and personal intimacy. His work ranges from animating the paths of every North American airline flight, to using Amazon&rsquo;s Mechanical Turk crowdsourcing platform to pay workers to &ldquo;draw a sheep facing left,&rdquo; which were then placed in &quot;The Sheep Market.&quot;<br /><br />Koblin was creative director for Johnny Cash&#39;s final music video, &quot;Ain&#39;t No Grave,&quot; and worked on Radiohead&rsquo;s video &ldquo;House of Cards,&rdquo; both of which received a Grammy nomination. He is now the Creative Director of the Data Arts team in Google&#39;s Creative Lab. His team collaborated with Arcade Fire to produce an online music video that allows viewers to incorporate images of their home neighborhood into the experience using Google Street View.</p>"}],"speaker_name":"Aaron Koblin","tags":["collaboration","data","design","technology","visualizations","crowdsourcing","art"],"title":"Visualizing ourselves ... with crowd-sourced data","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":1535712}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

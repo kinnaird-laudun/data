@@ -1,0 +1,1434 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Sam Harris: Can we build AI without losing control over it? | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Scared of superintelligent AI? You should be, says neuroscientist and philosopher Sam Harris -- and not just in some theoretical way. We&#39;re going to build superhuman machines, says Harris, but we haven&#39;t yet grappled with the problems associated with creating something that may treat us the way we treat ants." />
+<meta name="author" content="Sam Harris" />
+<link rel="canonical" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=nl" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=es" />
+<link rel="alternate" hreflang="sv" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=sv" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=ru" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=tr" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=hu" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=el" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=en" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=pt-br" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=fr" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=fa" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=he" />
+<link rel="alternate" hreflang="ka" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=ka" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=sr" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=ko" />
+<link rel="alternate" hreflang="uk" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=uk" />
+<link rel="alternate" hreflang="th" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=th" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=vi" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=it" />
+<link rel="alternate" hreflang="ca" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=ca" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=ar" />
+<link rel="alternate" hreflang="zh" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=zh" />
+<link rel="alternate" hreflang="hr" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=hr" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=pt" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=ja" />
+<link rel="alternate" hreflang="cs" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=cs" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript?language=ro" />
+<meta property="og:title" content="Transcript of &quot;Can we build AI without losing control over it?&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/51c9b741-275c-4ea0-bb9d-11b9aa8d1165/SamHarris_2016T-embed.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/51c9b741-275c-4ea0-bb9d-11b9aa8d1165/SamHarris_2016T-embed.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Sam Harris: Can we build AI without losing control over it?" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Scared of superintelligent AI? You should be, says neuroscientist and philosopher Sam Harris -- and not just in some theoretical way. We&#39;re going to build superhuman machines, says Harris, but we haven&#39;t yet grappled with the problems associated with creating something that may treat us the way we treat ants." />
+<meta property="og:url" content="https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 2592);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it' itemprop='url'>
+<meta content='Can we build AI without losing control over it?' itemprop='name'>
+<meta content="Scared of superintelligent AI? You should be, says neuroscientist and philosopher Sam Harris — and not just in some theoretical way. We're going to build superhuman machines, says Harris, but we haven't yet grappled with the problems associated with creating something that may treat us the way we treat ants." itemprop='description'>
+<meta content='PT14M27S' itemprop='duration'>
+<meta content='2016-09-29T14:51:38+00:00' itemprop='uploadDate'>
+<meta content='3335261' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/51c9b741-275c-4ea0-bb9d-11b9aa8d1165/SamHarris_2016T-embed.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/sam_harris' itemprop='url'>
+<meta content='Sam Harris' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/b7e830c05dabebe754b320f1de0e25678f991e7a_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/51c9b741-275c-4ea0-bb9d-11b9aa8d1165/SamHarris_2016T-embed.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Sam Harris
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					3,335,261
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 14:27</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I&#39;m going to talk
+about a failure of intuition
+											that many of us suffer from.
+											It&#39;s really a failure
+to detect a certain kind of danger.
+											I&#39;m going to describe a scenario
+											that I think is both terrifying
+											and likely to occur,
+											and that&#39;s not a good combination,
+											as it turns out.
+											And yet rather than be scared,
+most of you will feel
+											that what I&#39;m talking about
+is kind of cool.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I&#39;m going to describe
+how the gains we make
+											in artificial intelligence
+											could ultimately destroy us.
+											And in fact, I think it&#39;s very difficult
+to see how they won&#39;t destroy us
+											or inspire us to destroy ourselves.
+											And yet if you&#39;re anything like me,
+											you&#39;ll find that it&#39;s fun
+to think about these things.
+											And that response is part of the problem.
+											OK? That response should worry you.
+											And if I were to convince you in this talk
+											that we were likely
+to suffer a global famine,
+											either because of climate change
+or some other catastrophe,
+											and that your grandchildren,
+or their grandchildren,
+											are very likely to live like this,
+											you wouldn&#39;t think,
+											&quot;Interesting.
+											I like this TED Talk.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Famine isn&#39;t fun.
+											Death by science fiction,
+on the other hand, is fun,
+											and one of the things that worries me most
+about the development of AI at this point
+											is that we seem unable to marshal
+an appropriate emotional response
+											to the dangers that lie ahead.
+											I am unable to marshal this response,
+and I&#39;m giving this talk.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It&#39;s as though we stand before two doors.
+											Behind door number one,
+											we stop making progress
+in building intelligent machines.
+											Our computer hardware and software
+just stops getting better for some reason.
+											Now take a moment
+to consider why this might happen.
+											I mean, given how valuable
+intelligence and automation are,
+											we will continue to improve our technology
+if we are at all able to.
+											What could stop us from doing this?
+											A full-scale nuclear war?
+											A global pandemic?
+											An asteroid impact?
+											Justin Bieber becoming
+president of the United States?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The point is, something would have to
+destroy civilization as we know it.
+											You have to imagine
+how bad it would have to be
+											to prevent us from making
+improvements in our technology
+											permanently,
+											generation after generation.
+											Almost by definition,
+this is the worst thing
+											that&#39;s ever happened in human history.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So the only alternative,
+											and this is what lies
+behind door number two,
+											is that we continue
+to improve our intelligent machines
+											year after year after year.
+											At a certain point, we will build
+machines that are smarter than we are,
+											and once we have machines
+that are smarter than we are,
+											they will begin to improve themselves.
+											And then we risk what
+the mathematician IJ Good called
+											an &quot;intelligence explosion,&quot;
+											that the process could get away from us.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, this is often caricatured,
+as I have here,
+											as a fear that armies of malicious robots
+											will attack us.
+											But that isn&#39;t the most likely scenario.
+											It&#39;s not that our machines
+will become spontaneously malevolent.
+											The concern is really
+that we will build machines
+											that are so much
+more competent than we are
+											that the slightest divergence
+between their goals and our own
+											could destroy us.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Just think about how we relate to ants.
+											We don&#39;t hate them.
+											We don&#39;t go out of our way to harm them.
+											In fact, sometimes
+we take pains not to harm them.
+											We step over them on the sidewalk.
+											But whenever their presence
+											seriously conflicts with one of our goals,
+											let&#39;s say when constructing
+a building like this one,
+											we annihilate them without a qualm.
+											The concern is that we will
+one day build machines
+											that, whether they&#39;re conscious or not,
+											could treat us with similar disregard.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, I suspect this seems
+far-fetched to many of you.
+											I bet there are those of you who doubt
+that superintelligent AI is possible,
+											much less inevitable.
+											But then you must find something wrong
+with one of the following assumptions.
+											And there are only three of them.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Intelligence is a matter of information
+processing in physical systems.
+											Actually, this is a little bit more
+than an assumption.
+											We have already built
+narrow intelligence into our machines,
+											and many of these machines perform
+											at a level of superhuman
+intelligence already.
+											And we know that mere matter
+											can give rise to what is called
+&quot;general intelligence,&quot;
+											an ability to think flexibly
+across multiple domains,
+											because our brains have managed it. Right?
+											I mean, there&#39;s just atoms in here,
+											and as long as we continue
+to build systems of atoms
+											that display more and more
+intelligent behavior,
+											we will eventually,
+unless we are interrupted,
+											we will eventually
+build general intelligence
+											into our machines.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It&#39;s crucial to realize
+that the rate of progress doesn&#39;t matter,
+											because any progress
+is enough to get us into the end zone.
+											We don&#39;t need Moore&#39;s law to continue.
+We don&#39;t need exponential progress.
+											We just need to keep going.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The second assumption
+is that we will keep going.
+											We will continue to improve
+our intelligent machines.
+											And given the value of intelligence —
+											I mean, intelligence is either
+the source of everything we value
+											or we need it to safeguard
+everything we value.
+											It is our most valuable resource.
+											So we want to do this.
+											We have problems
+that we desperately need to solve.
+											We want to cure diseases
+like Alzheimer&#39;s and cancer.
+											We want to understand economic systems.
+We want to improve our climate science.
+											So we will do this, if we can.
+											The train is already out of the station,
+and there&#39;s no brake to pull.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Finally, we don&#39;t stand
+on a peak of intelligence,
+											or anywhere near it, likely.
+											And this really is the crucial insight.
+											This is what makes
+our situation so precarious,
+											and this is what makes our intuitions
+about risk so unreliable.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, just consider the smartest person
+who has ever lived.
+											On almost everyone&#39;s shortlist here
+is John von Neumann.
+											I mean, the impression that von Neumann
+made on the people around him,
+											and this included the greatest
+mathematicians and physicists of his time,
+											is fairly well-documented.
+											If only half the stories
+about him are half true,
+											there&#39;s no question
+											he&#39;s one of the smartest people
+who has ever lived.
+											So consider the spectrum of intelligence.
+											Here we have John von Neumann.
+											And then we have you and me.
+											And then we have a chicken.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Sorry, a chicken.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											There&#39;s no reason for me to make this talk
+more depressing than it needs to be.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It seems overwhelmingly likely, however,
+that the spectrum of intelligence
+											extends much further
+than we currently conceive,
+											and if we build machines
+that are more intelligent than we are,
+											they will very likely
+explore this spectrum
+											in ways that we can&#39;t imagine,
+											and exceed us in ways
+that we can&#39;t imagine.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And it&#39;s important to recognize that
+this is true by virtue of speed alone.
+											Right? So imagine if we just built
+a superintelligent AI
+											that was no smarter
+than your average team of researchers
+											at Stanford or MIT.
+											Well, electronic circuits
+function about a million times faster
+											than biochemical ones,
+											so this machine should think
+about a million times faster
+											than the minds that built it.
+											So you set it running for a week,
+											and it will perform 20,000 years
+of human-level intellectual work,
+											week after week after week.
+											How could we even understand,
+much less constrain,
+											a mind making this sort of progress?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The other thing that&#39;s worrying, frankly,
+											is that, imagine the best case scenario.
+											So imagine we hit upon a design
+of superintelligent AI
+											that has no safety concerns.
+											We have the perfect design
+the first time around.
+											It&#39;s as though we&#39;ve been handed an oracle
+											that behaves exactly as intended.
+											Well, this machine would be
+the perfect labor-saving device.
+											It can design the machine
+that can build the machine
+											that can do any physical work,
+											powered by sunlight,
+											more or less for the cost
+of raw materials.
+											So we&#39;re talking about
+the end of human drudgery.
+											We&#39;re also talking about the end
+of most intellectual work.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So what would apes like ourselves
+do in this circumstance?
+											Well, we&#39;d be free to play Frisbee
+and give each other massages.
+											Add some LSD and some
+questionable wardrobe choices,
+											and the whole world
+could be like Burning Man.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, that might sound pretty good,
+											but ask yourself what would happen
+											under our current economic
+and political order?
+											It seems likely that we would witness
+											a level of wealth inequality
+and unemployment
+											that we have never seen before.
+											Absent a willingness
+to immediately put this new wealth
+											to the service of all humanity,
+											a few trillionaires could grace
+the covers of our business magazines
+											while the rest of the world
+would be free to starve.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And what would the Russians
+or the Chinese do
+											if they heard that some company
+in Silicon Valley
+											was about to deploy a superintelligent AI?
+											This machine would be capable
+of waging war,
+											whether terrestrial or cyber,
+											with unprecedented power.
+											This is a winner-take-all scenario.
+											To be six months ahead
+of the competition here
+											is to be 500,000 years ahead,
+											at a minimum.
+											So it seems that even mere rumors
+of this kind of breakthrough
+											could cause our species to go berserk.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, one of the most frightening things,
+											in my view, at this moment,
+											are the kinds of things
+that AI researchers say
+											when they want to be reassuring.
+											And the most common reason
+we&#39;re told not to worry is time.
+											This is all a long way off,
+don&#39;t you know.
+											This is probably 50 or 100 years away.
+											One researcher has said,
+											&quot;Worrying about AI safety
+											is like worrying
+about overpopulation on Mars.&quot;
+											This is the Silicon Valley version
+											of &quot;don&#39;t worry your
+pretty little head about it.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											No one seems to notice
+											that referencing the time horizon
+											is a total non sequitur.
+											If intelligence is just a matter
+of information processing,
+											and we continue to improve our machines,
+											we will produce
+some form of superintelligence.
+											And we have no idea
+how long it will take us
+											to create the conditions
+to do that safely.
+											Let me say that again.
+											We have no idea how long it will take us
+											to create the conditions
+to do that safely.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And if you haven&#39;t noticed,
+50 years is not what it used to be.
+											This is 50 years in months.
+											This is how long we&#39;ve had the iPhone.
+											This is how long &quot;The Simpsons&quot;
+has been on television.
+											Fifty years is not that much time
+											to meet one of the greatest challenges
+our species will ever face.
+											Once again, we seem to be failing
+to have an appropriate emotional response
+											to what we have every reason
+to believe is coming.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The computer scientist Stuart Russell
+has a nice analogy here.
+											He said, imagine that we received
+a message from an alien civilization,
+											which read:
+											&quot;People of Earth,
+											we will arrive on your planet in 50 years.
+											Get ready.&quot;
+											And now we&#39;re just counting down
+the months until the mothership lands?
+											We would feel a little
+more urgency than we do.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Another reason we&#39;re told not to worry
+											is that these machines
+can&#39;t help but share our values
+											because they will be literally
+extensions of ourselves.
+											They&#39;ll be grafted onto our brains,
+											and we&#39;ll essentially
+become their limbic systems.
+											Now take a moment to consider
+											that the safest
+and only prudent path forward,
+											recommended,
+											is to implant this technology
+directly into our brains.
+											Now, this may in fact be the safest
+and only prudent path forward,
+											but usually one&#39;s safety concerns
+about a technology
+											have to be pretty much worked out
+before you stick it inside your head.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The deeper problem is that
+building superintelligent AI on its own
+											seems likely to be easier
+											than building superintelligent AI
+											and having the completed neuroscience
+											that allows us to seamlessly
+integrate our minds with it.
+											And given that the companies
+and governments doing this work
+											are likely to perceive themselves
+as being in a race against all others,
+											given that to win this race
+is to win the world,
+											provided you don&#39;t destroy it
+in the next moment,
+											then it seems likely
+that whatever is easier to do
+											will get done first.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, unfortunately,
+I don&#39;t have a solution to this problem,
+											apart from recommending
+that more of us think about it.
+											I think we need something
+like a Manhattan Project
+											on the topic of artificial intelligence.
+											Not to build it, because I think
+we&#39;ll inevitably do that,
+											but to understand
+how to avoid an arms race
+											and to build it in a way
+that is aligned with our interests.
+											When you&#39;re talking
+about superintelligent AI
+											that can make changes to itself,
+											it seems that we only have one chance
+to get the initial conditions right,
+											and even then we will need to absorb
+											the economic and political
+consequences of getting them right.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But the moment we admit
+											that information processing
+is the source of intelligence,
+											that some appropriate computational system
+is what the basis of intelligence is,
+											and we admit that we will improve
+these systems continuously,
+											and we admit that the horizon
+of cognition very likely far exceeds
+											what we currently know,
+											then we have to admit
+											that we are in the process
+of building some sort of god.
+											Now would be a good time
+											to make sure it&#39;s a god we can live with.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you very much.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":27209,"count":506,"talk_id":2592},"threadId":27209,"current_talk":"2592","description":"Scared of superintelligent AI? You should be, says neuroscientist and philosopher Sam Harris -- and not just in some theoretical way. We're going to build superhuman machines, says Harris, but we haven't yet grappled with the problems associated with creating something that may treat us the way we treat ants.","event":"TEDSummit","language":"en","name":"Sam Harris: Can we build AI without losing control over it?","slug":"sam_harris_can_we_build_ai_without_losing_control_over_it","speakers":[{"id":"593","slug":"sam_harris","is_published":true,"firstname":"Sam","lastname":"Harris","middleinitial":"","title":"","description":"Neuroscientist, philosopher","photo_url":"https://pe.tedcdn.com/images/ted/b7e830c05dabebe754b320f1de0e25678f991e7a_254x191.jpg","whatotherssay":"Read Sam Harris and wake up.","whotheyare":"Sam Harris's work focuses on how our growing understanding of ourselves and the world is changing our sense of how we should live.","whylisten":"<p>Sam Harris is the author of five <em>New York Times</em> bestsellers. His books include&nbsp;<a href=\"http://www.amazon.com/End-Faith-Religion-Terror-Future/dp/0393327655\" target=\"_blank\"><em>The End of Faith</em></a>,&nbsp;<a href=\"http://www.amazon.com/Letter-Christian-Nation-Sam-Harris/dp/0307278778\" target=\"_blank\"><em>Letter to a Christian Nation</em></a>, <em>The Moral Landscape</em>, <em>Free Will</em>, <em>Lying</em>, <em>Waking Up</em>&nbsp;and <em>Islam and the Future of Tolerance</em> (with Maajid Nawaz). <em>The End of Faith</em> won the 2005 PEN Award for Nonfiction. Harris&#39;s writing and public lectures cover a wide range of topics -- neuroscience, moral philosophy, religion, spirituality, violence, human reasoning -- but generally focus on how a growing understanding of ourselves and the world is changing our sense of how we should live.</p><p>Harris&#39;s work has been published in more than 20 languages and has been discussed in the <em>New York Times</em>, <em>Time</em>, <em>Scientific American</em>, <em>Nature</em>, <em>Newsweek</em>, <em>Rolling Stone</em>&nbsp;and many other journals. He has written for the <em>New York Times</em>, the <em>Los Angeles Times</em>, <em>The Economist</em>, <em>The Times</em> (London), the <em>Boston Globe</em>, <em>The Atlantic</em>, <em>The Annals of Neurology</em>&nbsp;and elsewhere. Harris also regularly hosts&nbsp;<a href=\"https://www.samharris.org/podcast\" target=\"_blank\">a popular podcast</a>.</p><p>Harris received a degree in philosophy from Stanford University and a Ph.D. in neuroscience from UCLA.</p>"}],"url":"https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it","viewed_count":3335261,"talks":[{"recommendations":null,"more_resources":[{"status":"approved","headline":"*Superintelligence* by Nick Bostrom","blurb":"What happens when machines surpass humans in general intelligence? Nick Bostrom lays the foundation for understanding the future of humanity and intelligent life.","link_url":"https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111","image_url":"http://pe.tedcdn.com/images/ted/b8bbfc9fdf6e9d9b47848d447c02ccc611881c82_700x400.jpg","visible_url":"amazon.com","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"external_website"},{"status":"approved","headline":"TED Radio Hour","blurb":"Listen TED Radio Hour: \"Future Consequences.\" From data collection to gene editing to AI, what we once considered science fiction is now becoming reality. Anab Jain, Juan Enriquez, Paul Knoepfler and Sam Harris explore the future consequences of our present actions.","link_url":"https://itunes.apple.com/us/podcast/future-consequences/id523121474?i=1000392276125&mt=2","image_url":"","visible_url":"itunes.apple.com","start_at":null,"end_at":null,"published":true,"eyebrow":"LISTEN","type":"since_the_talk"}],"corrections":[],"has_citations":false,"take_action":[],"curator_approved":true,"description":"Scared of superintelligent AI? You should be, says neuroscientist and philosopher Sam Harris -- and not just in some theoretical way. We're going to build superhuman machines, says Harris, but we haven't yet grappled with the problems associated with creating something that may treat us the way we treat ants.","downloads":{"id":2592,"languages":[{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Georgian","endonym":"ქართული","languageCode":"ka","ianaCode":"ka","isRtl":false},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Catalan","endonym":"Català","languageCode":"ca","ianaCode":"ca","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Chinese, Yue","endonym":"中文 (粵語)","languageCode":"zh","ianaCode":"zh","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/SamHarris_2016T-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/SamHarris_2016T.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/SamHarris_2016T-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"en":{"name":"English","low":"https://download.ted.com/talks/SamHarris_2016T-low-en.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-en.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/SamHarris_2016T-low-he.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-he.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/SamHarris_2016T-low-fa.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-fa.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/SamHarris_2016T-low-pt-br.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-pt-br.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/SamHarris_2016T-low-sr.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-sr.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/SamHarris_2016T-low-ko.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-ko.mp4"},"fr":{"name":"French","low":"https://download.ted.com/talks/SamHarris_2016T-low-fr.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-fr.mp4"},"ka":{"name":"Georgian","low":"https://download.ted.com/talks/SamHarris_2016T-low-ka.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-ka.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/SamHarris_2016T-low-el.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-el.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/SamHarris_2016T-low-nl.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-nl.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/SamHarris_2016T-low-es.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-es.mp4"},"sv":{"name":"Swedish","low":"https://download.ted.com/talks/SamHarris_2016T-low-sv.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-sv.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/SamHarris_2016T-low-zh-tw.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-zh-tw.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/SamHarris_2016T-low-tr.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-tr.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/SamHarris_2016T-low-ru.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-ru.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/SamHarris_2016T-low-zh-cn.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-zh-cn.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/SamHarris_2016T-low-hu.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-hu.mp4"},"uk":{"name":"Ukrainian","low":"https://download.ted.com/talks/SamHarris_2016T-low-uk.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-uk.mp4"},"th":{"name":"Thai","low":"https://download.ted.com/talks/SamHarris_2016T-low-th.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-th.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/SamHarris_2016T-low-it.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-it.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/SamHarris_2016T-low-vi.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-vi.mp4"},"ca":{"name":"Catalan","low":"https://download.ted.com/talks/SamHarris_2016T-low-ca.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-ca.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/SamHarris_2016T-low-ar.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-ar.mp4"},"zh":{"name":"Chinese, Yue","low":"https://download.ted.com/talks/SamHarris_2016T-low-zh.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-zh.mp4"},"hr":{"name":"Croatian","low":"https://download.ted.com/talks/SamHarris_2016T-low-hr.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-hr.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/SamHarris_2016T-low-pt.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-pt.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/SamHarris_2016T-low-ja.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-ja.mp4"},"cs":{"name":"Czech","low":"https://download.ted.com/talks/SamHarris_2016T-low-cs.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-cs.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/SamHarris_2016T-low-ro.mp4","high":"https://download.ted.com/talks/SamHarris_2016T-480p-ro.mp4"}},"audioDownload":"https://download.ted.com/talks/SamHarris_2016T.mp3?apikey=acme-roadrunner"},"duration":867.0,"event":"TEDSummit","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://s3.amazonaws.com/talkstar-photos/uploads/51c9b741-275c-4ea0-bb9d-11b9aa8d1165/SamHarris_2016T-embed.jpg","hero_load":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/51c9b741-275c-4ea0-bb9d-11b9aa8d1165/SamHarris_2016T-embed.jpg?q=50&w=15","id":"2592","player_talks":[{"id":"2592","duration":867.0,"languages":[{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Georgian","endonym":"ქართული","languageCode":"ka","ianaCode":"ka","isRtl":false},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Catalan","endonym":"Català","languageCode":"ca","ianaCode":"ca","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Chinese, Yue","endonym":"中文 (粵語)","languageCode":"zh","ianaCode":"zh","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2016T/Blank/SamHarris_2016T-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDSummit%26id%3D2592%26tag%3Dbrain%2CAI%2Cchoice%2Chistory%2Cfuture%2Chumanity%2Cinnovation%2Cintelligence%2Cinvention%2Cmind%2Cmachine%2Blearning%2Cneuroscience%2Cpotential%2Crobots%2Cscience%2Ctechnology%2Csociety%26talk%3Dsam_harris_can_we_build_ai_without_losing_control_over_it%26year%3D2016&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"2592","talk":"sam_harris_can_we_build_ai_without_losing_control_over_it","tag":"brain,AI,choice,history,future,humanity,innovation,intelligence,invention,mind,machine learning,neuroscience,potential,robots,science,technology,society","year":"2016","event":"TEDSummit"},"stream":"https://hls.ted.com/talks/2592.m3u8","metadata":"https://hls.ted.com/talks/2592.json"}},"targeting":{"id":"2592","talk":"sam_harris_can_we_build_ai_without_losing_control_over_it","tag":"brain,AI,choice,history,future,humanity,innovation,intelligence,invention,mind,machine learning,neuroscience,potential,robots,science,technology,society","year":"2016","event":"TEDSummit"},"canonical":"https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it","name":"Sam Harris: Can we build AI without losing control over it?","title":"Can we build AI without losing control over it?","speaker":"Sam Harris","thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/51c9b741-275c-4ea0-bb9d-11b9aa8d1165/SamHarris_2016T-embed.jpg?quality=89&w=600","slug":"sam_harris_can_we_build_ai_without_losing_control_over_it","event":"TEDSummit","published":1475160698}],"ratings":[{"id":8,"name":"Informative","count":957},{"id":23,"name":"Jaw-dropping","count":248},{"id":3,"name":"Courageous","count":171},{"id":24,"name":"Persuasive","count":572},{"id":1,"name":"Beautiful","count":66},{"id":7,"name":"Funny","count":125},{"id":22,"name":"Fascinating","count":607},{"id":10,"name":"Inspiring","count":238},{"id":21,"name":"Unconvincing","count":71},{"id":9,"name":"Ingenious","count":128},{"id":25,"name":"OK","count":69},{"id":26,"name":"Obnoxious","count":13},{"id":11,"name":"Longwinded","count":20},{"id":2,"name":"Confusing","count":15}],"recorded_at":"2016-06-26T00:00:00.000+00:00","related_talks":[{"id":"2243","hero":"https://pe.tedcdn.com/images/ted/a693e3148df55358b76a30436f1accb09d1e2616_2880x1620.jpg","speaker":"Nick Bostrom","title":"What happens when our computers get smarter than we are?","duration":991.0,"slug":"nick_bostrom_what_happens_when_our_computers_get_smarter_than_we_are","viewed_count":3309806},{"id":"801","hero":"https://pe.tedcdn.com/images/ted/9762ce97cf4f10777681dd357532a00300f7d4f2_2880x1620.jpg","speaker":"Sam Harris","title":"Science can answer moral questions","duration":1386.0,"slug":"sam_harris_science_can_show_what_s_right","viewed_count":3707787},{"id":"2015","hero":"https://pe.tedcdn.com/images/ted/9bd2cc9f4130b1c408721e3d755e13d168cb38a0_1600x1200.jpg","speaker":"Ray Kurzweil","title":"Get ready for hybrid thinking","duration":592.0,"slug":"ray_kurzweil_get_ready_for_hybrid_thinking","viewed_count":2125010},{"id":"17851","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/fb47cef7-3332-4841-8057-a7544548d607/MaxTegmark_2018-embed.jpg","speaker":"Max Tegmark","title":"How to get empowered, not overpowered, by AI","duration":1035.0,"slug":"max_tegmark_how_to_get_empowered_not_overpowered_by_ai","viewed_count":292285},{"id":"9951","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/006f12e2-30ce-4e18-9c91-c5e885d78cad/DanielSusskind_2017S-embed.jpg","speaker":"Daniel Susskind","title":"3 myths about the future of work (and why they're not true)","duration":947.0,"slug":"daniel_susskind_3_myths_about_the_future_of_work_and_why_they_re_not_true","viewed_count":1178836},{"id":"1922","hero":"https://pe.tedcdn.com/images/ted/15af4df75aba589bfcd57c1e72b572e24067bc29_1600x1200.jpg","speaker":"Alex Wissner-Gross","title":"A new equation for intelligence","duration":708.0,"slug":"alex_wissner_gross_a_new_equation_for_intelligence","viewed_count":2031206}],"slug":"sam_harris_can_we_build_ai_without_losing_control_over_it","speakers":[{"id":"593","slug":"sam_harris","is_published":true,"firstname":"Sam","lastname":"Harris","middleinitial":"","title":"","description":"Neuroscientist, philosopher","photo_url":"https://pe.tedcdn.com/images/ted/b7e830c05dabebe754b320f1de0e25678f991e7a_254x191.jpg","whatotherssay":"Read Sam Harris and wake up.","whotheyare":"Sam Harris's work focuses on how our growing understanding of ourselves and the world is changing our sense of how we should live.","whylisten":"<p>Sam Harris is the author of five <em>New York Times</em> bestsellers. His books include&nbsp;<a href=\"http://www.amazon.com/End-Faith-Religion-Terror-Future/dp/0393327655\" target=\"_blank\"><em>The End of Faith</em></a>,&nbsp;<a href=\"http://www.amazon.com/Letter-Christian-Nation-Sam-Harris/dp/0307278778\" target=\"_blank\"><em>Letter to a Christian Nation</em></a>, <em>The Moral Landscape</em>, <em>Free Will</em>, <em>Lying</em>, <em>Waking Up</em>&nbsp;and <em>Islam and the Future of Tolerance</em> (with Maajid Nawaz). <em>The End of Faith</em> won the 2005 PEN Award for Nonfiction. Harris&#39;s writing and public lectures cover a wide range of topics -- neuroscience, moral philosophy, religion, spirituality, violence, human reasoning -- but generally focus on how a growing understanding of ourselves and the world is changing our sense of how we should live.</p><p>Harris&#39;s work has been published in more than 20 languages and has been discussed in the <em>New York Times</em>, <em>Time</em>, <em>Scientific American</em>, <em>Nature</em>, <em>Newsweek</em>, <em>Rolling Stone</em>&nbsp;and many other journals. He has written for the <em>New York Times</em>, the <em>Los Angeles Times</em>, <em>The Economist</em>, <em>The Times</em> (London), the <em>Boston Globe</em>, <em>The Atlantic</em>, <em>The Annals of Neurology</em>&nbsp;and elsewhere. Harris also regularly hosts&nbsp;<a href=\"https://www.samharris.org/podcast\" target=\"_blank\">a popular podcast</a>.</p><p>Harris received a degree in philosophy from Stanford University and a Ph.D. in neuroscience from UCLA.</p>"}],"speaker_name":"Sam Harris","tags":["brain","AI","choice","history","future","humanity","innovation","intelligence","invention","mind","machine learning","neuroscience","potential","robots","science","technology","society"],"title":"Can we build AI without losing control over it?","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":3335261}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

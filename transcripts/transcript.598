@@ -1,0 +1,1563 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Kevin Kelly: Technology&#39;s epic story | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: In this wide-ranging, thought-provoking talk, Kevin Kelly muses on what technology means in our lives -- from its impact at the personal level to its place in the cosmos." />
+<meta name="author" content="Kevin Kelly" />
+<link rel="canonical" href="https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story/transcript" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story/transcript?language=en" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story/transcript?language=vi" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story/transcript?language=pt-br" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story/transcript?language=nl" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story/transcript?language=pt" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story/transcript?language=tr" />
+<link rel="alternate" hreflang="lv" href="https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story/transcript?language=lv" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story/transcript?language=bg" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story/transcript?language=de" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story/transcript?language=he" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story/transcript?language=sr" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story/transcript?language=ko" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story/transcript?language=hu" />
+<meta property="og:title" content="Transcript of &quot;Technology&#39;s epic story&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/151119_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/151119_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Kevin Kelly: Technology&#39;s epic story" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: In this wide-ranging, thought-provoking talk, Kevin Kelly muses on what technology means in our lives -- from its impact at the personal level to its place in the cosmos." />
+<meta property="og:url" content="https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 770);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story' itemprop='url'>
+<meta content="Technology's epic story" itemprop='name'>
+<meta content='In this wide-ranging, thought-provoking talk, Kevin Kelly muses on what technology means in our lives — from its impact at the personal level to its place in the cosmos.' itemprop='description'>
+<meta content='PT16M32S' itemprop='duration'>
+<meta content='2010-02-19T09:13:00+00:00' itemprop='uploadDate'>
+<meta content='576473' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/151119_800x600.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/kevin_kelly' itemprop='url'>
+<meta content='Kevin Kelly' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/acb97e31618fc6a9e367baec3659e198d5dea0db_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/kevin_kelly_tells_technology_s_epic_story' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/151119_800x600.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Kevin Kelly
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					576,473
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 16:32</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I want to talk about my investigations
+											into what technology means in our lives —
+											not just our immediate life,
+but in the cosmic sense,
+											in the kind of long history of the world
+											and our place in the world.
+											What is this stuff?
+											What is the significance?
+											And so, I want to kind of
+go through my little story
+											of what I found out.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											One of the first things
+I started to investigate
+											was the history of the name of technology.
+											In the United States,
+there is a State of the Union address
+											given by every president since 1790.
+											And each one of those is kind of
+summing up the most important things
+											for the United States at that time.
+											If you search for the word &quot;technology,&quot;
+it was not used until 1952.
+											So, technology was sort of absent
+from everybody&#39;s thinking until 1952,
+											which happened to be the year of my birth.
+											And obviously, technology
+had existed before then,
+											but we weren&#39;t aware of it.
+											And so it was sort of an awakening
+of this force in our life.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I actually did research to find out
+the first use of the word &quot;technology.&quot;
+											It was in 1829,
+											and it was invented by a guy
+who was starting a curriculum —
+											a course, bringing together all the kinds
+of arts and crafts, and industry —
+											and he called it &quot;Technology.&quot;
+											And that&#39;s the very first use of the word.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So what is this stuff
+											that we&#39;re all consumed by
+and bothered by?
+											Alan Kay calls it, &quot;Technology
+is anything that was invented
+											after you were born.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Which is sort of the idea we normally
+have about what technology is:
+											it&#39;s all that new stuff.
+											It&#39;s not roads, or penicillin,
+											or factory tires; it&#39;s the new stuff.
+											My friend Danny Hillis
+says kind of a similar one,
+											he says, &quot;Technology is anything
+that doesn&#39;t work yet.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Which is, again,
+a sense that it&#39;s all new.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But we know that it&#39;s just not new.
+											It actually goes way back,
+											and what I want to suggest is,
+it goes a long way back.
+											So, another way to think
+about technology, what it means,
+											is to imagine a world without technology.
+											If we were to eliminate every single bit
+of technology in the world today —
+											and I mean everything,
+from blades to scrapers to cloth —
+											we, as a species,
+would not live very long.
+											We would die by the billions,
+and very quickly:
+											the wolves would get us,
+we would be defenseless,
+											we would be unable to grow
+enough food or find enough food.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Even the hunter-gatherers
+used some elementary tools.
+											So, they had minimal technology,
+											but they had some technology.
+											And if we study
+those hunter-gatherer tribes
+											and the Neanderthal,
+which are very similar to early man,
+											we find out a very curious thing
+about this world without technology,
+											and this is a kind of a curve
+of their average age.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											There are no Neanderthal fossils
+that are older than 40 years old
+											that we&#39;ve ever found,
+											and the average age of most of these
+hunter-gatherer tribes is 20 to 30.
+											There are very few young infants,
+because they die — high mortality rate —
+											and there&#39;s very few old people.
+											So the profile is sort of for your average
+San Francisco neighborhood:
+											a lot of young people.
+											And if you go there, you say,
+&quot;Hey, everybody&#39;s really healthy.&quot;
+											Well, that&#39;s because they&#39;re all young.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Same thing with the hunter-gatherer
+tribes and early man:
+											you didn&#39;t live beyond the age of 30.
+											So it was a world without grandparents.
+											And grandparents are very important,
+											because they are the transmitter
+of cultural evolution and information.
+											Imagine a world where basically
+everybody was 20 to 30 years old.
+											How much learning can you do?
+											You can&#39;t do very much
+learning in your own life,
+											it&#39;s so short,
+											and there&#39;s nobody to pass on
+what you do learn.
+											So that&#39;s one aspect.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It was a very short life.
+											But at the same time, anthropologists know
+											that most hunter-gatherer
+tribes of the world,
+											with that very little technology,
+											actually did not spend a very long time
+gathering the food they needed:
+											three to six hours a day.
+											Some anthropologists call that
+the original affluent society,
+											because they had
+bankers&#39; hours, basically.
+											So it was possible to get enough food.
+											But when the scarcity came,
+											when the highs and lows
+and the droughts came,
+											then people went into starvation.
+											And that&#39;s why they didn&#39;t live very long.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So what technology brought,
+											through the very simple tools
+like these stone tools here —
+											even something as small as this —
+											the early bands of humans were actually
+able to eliminate to extinction
+											about 250 megafauna animals
+in North America
+											when they first arrived 10,000 years ago.
+											So, long before the industrial age,
+											we&#39;ve been affecting
+the planet on a global scale
+											with just a small amount of technology.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The other thing that the early man
+invented was fire.
+											And fire was used to clear out, and again,
+											affected the ecology of grass
+and whole continents,
+											and was used in cooking.
+											It enabled us to actually
+eat all kinds of things.
+											It was, in a certain sense,
+in a McLuhan sense,
+											an external stomach,
+											in the sense that it was cooking food
+that we could not eat otherwise.
+											And if we didn&#39;t have fire,
+we actually could not live.
+											Our bodies have adapted
+to these new diets.
+											Our bodies have changed
+in the last 10,000 years.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, with that little bit of technology,
+											humans went from a small band
+of 10,000 or so —
+											the same number
+as Neanderthals everywhere —
+											and we suddenly exploded.
+											With the invention of language
+around 50,000 years ago,
+											the number of humans exploded,
+											and very quickly became
+the dominant species on the planet.
+											And they migrated
+into the rest of the world
+											at two kilometers per year
+											until, within several tens
+of thousands of years,
+											we occupied every single
+watershed on the planet
+											and became the most dominant species,
+											with a very small amount of technology.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And even at that time,
+with the introduction of agriculture,
+											8,000, 10,000 years ago,
+											we started to see climate change.
+											So climate change is not a new thing;
+what&#39;s new is just the degree of it.
+											Even during the agricultural age,
+there was climate change.
+											So already, small amounts of technology
+were transforming the world.
+											And what this means, and where I&#39;m going,
+											is that technology has become
+the most powerful force in the world.
+											All the things we see today
+that are changing our lives,
+											we can always trace back
+											to the introduction
+of some new technology.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So it&#39;s a force,
+											that is the most powerful force
+that has been unleashed on this planet,
+											and in such a degree,
+											that I think it&#39;s become who we are.
+											In fact, our humanity and everything
+that we think about ourselves,
+											is something we&#39;ve invented.
+											So we&#39;ve invented ourselves.
+											Of all the animals
+that we&#39;ve domesticated,
+											the most important animal has been us.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So humanity is our greatest invention,
+											but of course, we&#39;re not done yet.
+											We&#39;re still inventing,
+											and this is what technology
+is allowing us to do;
+											it&#39;s continually to reinvent ourselves.
+											It&#39;s a very, very strong force.
+											I call this entire thing —
+us humans as our technology,
+											everything that we&#39;ve made,
+gadgets in our lives —
+											we call that the technium.
+											That&#39;s this world.
+											My working definition of technology is:
+											anything useful that a human mind makes.
+											It&#39;s not just hammers
+and gadgets, like laptops.
+											But it&#39;s also law.
+											And, of course, cities are ways
+to make things more useful to us.
+											While this is something
+that comes from our mind,
+											it also has its roots
+deeply into the cosmos.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It goes back.
+											The origins and roots of technology
+go back to the Big Bang,
+											in this way, in that they are part
+of this self-organizing thread
+											that starts at the Big Bang
+and goes through galaxies and stars,
+											into life, into us.
+											And the three major phases
+of the early universe
+											was energy, when the dominant
+force was energy;
+											then the dominant force,
+as it cooled, became matter;
+											and then, with the invention
+of life four billion years ago,
+											the dominant force in our neighborhood
+became information.
+											That&#39;s what life is:
+											an information process
+that was restructuring
+											and making new order.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, energy and matter,
+Einstein showed were equivalent,
+											and now new sciences of quantum computing
+show that entropy and information
+											and matter and energy
+											are all interrelated.
+											So it&#39;s one long continuum.
+											You put energy
+into the right kind of system,
+											and out comes wasted heat, entropy,
+											and extropy, which is order.
+											It&#39;s the increased order.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Where does this order come from?
+											Its roots go way back.
+											We actually don&#39;t know.
+											But we do know
+											that the self-organization trend
+throughout the universe is long,
+											and it began with things like galaxies;
+											they maintained their order
+for billions of years.
+											Stars are basically
+nuclear fission machines
+											that self-organize and self-sustain
+themselves for billions of years:
+											order against the extropy of the world.
+											And flowers and plants
+are the same thing, extended,
+											and technology is basically
+an extension of life.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											One trend that we notice
+in all those things
+											is that the amount of energy
+per gram per second
+											that flows through this
+											is actually increasing.
+											The amount of energy is increasing
+through this little sequence.
+											And the amount of energy per gram
+per second that flows through life
+											is actually greater than a star —
+											because of the star&#39;s long lifespan,
+											the energy density in life
+is actually higher than a star.
+											And the energy density
+that we see in the greatest amount
+											anywhere in the universe
+											is actually in a PC chip.
+											There is more energy flowing
+through, per gram per second,
+											than anything that we have
+any other experience with.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so, what I would suggest
+											is that if you want to see
+where technology is going,
+											we continue that trajectory,
+											and we say, &quot;Well, it&#39;s going
+to become more energy-dense,
+											that&#39;s where it&#39;s going.&quot;
+											And so what I&#39;ve done is,
+I&#39;ve taken the same kinds of things
+											and looked at other aspects
+of evolutionary life and say,
+											&quot;What are the general trends
+in evolutionary life?&quot;
+											And there are things moving
+towards greater complexity,
+											moving towards greater diversity,
+moving towards greater specialization,
+											sentience, ubiquity,
+and most important, evolvability.
+											Those very same things
+are also present in technology.
+											That&#39;s where technology is going.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											In fact, technology
+is accelerating all the aspects of life.
+											And we can see that happening;
+											just as there&#39;s diversity in life,
+there&#39;s more diversity in things we make.
+											Things in life start off
+being general cells,
+											and they become specialized:
+											you have tissue cells,
+muscle, brain cells.
+											The same thing happens
+with, say, a hammer,
+											which is general at first
+and becomes more specific.
+											So I would like to say
+that while there are six kingdoms of life,
+											we can think of technology
+basically as a seventh kingdom of life.
+											It&#39;s a branching off from the human form.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But technology has its own agenda,
+like anything, like life itself.
+											For instance, right now,
+three-quarters of the energy that we use
+											is actually used to feed
+the technium itself.
+											In transportation, it&#39;s not to move us;
+											it&#39;s to move the stuff we make or buy.
+											I use the word &quot;want.&quot; Technology wants.
+											This is a robot that wants to plug
+itself in to get more power.
+											Your cat wants more food.
+											A bacterium, which has
+no consciousness at all,
+											wants to move towards light.
+											It has an urge,
+and technology has an urge.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											At the same time,
+it wants to give us things,
+											and what it gives us
+is basically progress.
+											You can take all kinds of curves,
+and they&#39;re all pointing up.
+											There&#39;s really no dispute about progress,
+											if we discount the cost of that.
+											And that&#39;s the thing
+that bothers most people,
+											is that progress is really real,
+but we wonder and question:
+											What are the environmental costs of it?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I did a survey of the number
+of species of artifacts in my house,
+											and there&#39;s 6,000.
+											Other people have come up with 10,000.
+											When King Henry of England died,
+											he had 18,000 things in his house,
+											but that was the entire
+wealth of England, so ...
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And with that entire wealth of England,
+											King Henry could not buy any antibiotics,
+											he could not buy refrigeration,
+											he could not buy
+a trip of a thousand miles,
+											whereas this rickshaw wallah in India
+could save up and buy antibiotics
+											and he could buy refrigeration.
+											He could buy things that King Henry,
+in all his wealth, could never buy.
+											That&#39;s what progress is about.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, technology is selfish;
+technology is generous.
+											That conflict, that tension,
+will be with us forever:
+											sometimes it wants to do
+what it wants to do,
+											and sometimes it&#39;s going
+to do things for us.
+											We have confusion
+about what we should think
+											about a new technology.
+											Right now the default position
+when a new technology comes along,
+											is people talk about
+the precautionary principle,
+											which is very common in Europe,
+											which says, basically, &quot;Don&#39;t do anything.
+											When you meet a new technology, stop,
+											until it can be proven
+that it does no harm.&quot;
+											I think that really leads nowhere.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But a better way is
+what I call the proactionary principle,
+											which is, you engage with technology.
+											You try it out.
+											You obviously do what the precautionary
+principle suggests,
+											you try to anticipate it,
+											but after anticipating it,
+											you constantly asses it,
+											not just once, but eternally.
+											And when it diverts from what you want,
+											we prioritize risk,
+we evaluate not just the new stuff,
+											but the old stuff.
+											We fix it; but most importantly,
+											we relocate it.
+											And what I mean by that is,
+											we find a new job for it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Nuclear energy, fission,
+is a really bad idea for bombs.
+											But it may be a pretty good idea
+relocated into sustainable nuclear energy
+											for electricity, instead of burning coal.
+											When we have a bad idea,
+											the response to a bad idea
+											is not no ideas,
+it&#39;s not to stop thinking.
+											The response to a bad idea —
+											like, say, a tungsten lightbulb —
+											is a better idea.
+											So, better ideas
+is really always the response
+											to technology we don&#39;t like;
+											it&#39;s basically better technology.
+											And actually, in a certain sense,
+technology is a kind of a method
+											for generating better ideas,
+											if you can think about it that way.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, maybe spraying DDT
+on crops is a really bad idea.
+											But DDT sprayed on local homes —
+											there&#39;s nothing better
+to eliminate malaria,
+											besides insect DDT-impregnated
+mosquito nets.
+											But that&#39;s a really good idea;
+that&#39;s a good job for technology.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So our job as humans
+is to parent our mind children,
+											to find them good friends,
+											to find them a good job.
+											And so, every technology
+is sort of a creative force
+											looking for the right job.
+											That&#39;s actually my son, right here.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											There are no bad technologies,
+											just as there are no bad children.
+											We don&#39;t say children are neutral;
+children are positive.
+											We just have to find them the right place.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so, what technology gives us
+over the long term —
+											over this sort of extended evolution
+from the beginning of time,
+											through the invention
+of the plants and animals,
+											and the evolution of life,
+the evolution of brains —
+											what that is constantly giving us
+is increasing differences:
+											It&#39;s increasing diversity,
+it&#39;s increasing options,
+											it&#39;s increasing choices, opportunities,
+possibilities and freedoms.
+											That&#39;s what we get
+from technology all the time.
+											That&#39;s why people leave villages
+and go into cities —
+											because they are always gravitating
+towards increased choices
+											and possibilities.
+											And we are aware of the price;
+											we pay a price for that,
+but we&#39;re aware of it,
+											and generally, we will pay the price
+for increased freedoms,
+											choices and opportunities.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Even technology wants clean water.
+											Is technology diametrically
+opposed to nature?
+											Because technology
+is an extension of life,
+											it&#39;s in parallel and aligned
+with the same things
+											that life wants.
+											So that I think technology loves biology,
+											if we allow it to.
+											Great movement
+starting billions of years ago
+											is moving through us
+and it continues to go,
+											and our choice, so to speak,
+in technology,
+											is really to align ourselves
+with this force
+											much greater than ourselves.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, technology is more
+than just the stuff in your pocket;
+											it&#39;s more than just gadgets,
+											it&#39;s more than just things
+that people invent.
+											It&#39;s actually part of a very long
+story — a great story —
+											that began billions of years ago.
+											It&#39;s moving through us,
+this self-organization,
+											and we&#39;re extending and accelerating it,
+											and we can be part of it by aligning
+the technology that we make with it.
+											And I really appreciate
+your attention today.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":633,"count":142,"talk_id":770},"threadId":633,"current_talk":"770","description":"In this wide-ranging, thought-provoking talk, Kevin Kelly muses on what technology means in our lives -- from its impact at the personal level to its place in the cosmos.","event":"TEDxAmsterdam","language":"en","name":"Kevin Kelly: Technology's epic story","slug":"kevin_kelly_tells_technology_s_epic_story","speakers":[{"id":"20","slug":"kevin_kelly","is_published":true,"firstname":"Kevin","lastname":"Kelly","middleinitial":"","title":"","description":"Digital visionary","photo_url":"https://pe.tedcdn.com/images/ted/acb97e31618fc6a9e367baec3659e198d5dea0db_254x191.jpg","whatotherssay":"Thinker, environmentalist and philosopher extraordinaire ... A one-man force of nature.","whotheyare":"There may be no one better to contemplate the meaning of cultural change than Kevin Kelly, whose life story reads like a treatise on the value and impacts of technology.","whylisten":"<p>Kelly has been publisher of the <em>Whole Earth Review</em>, executive editor at <em>Wired</em> magazine (which he co-founded, and where he now holds the title of Senior Maverick), founder of visionary nonprofits and writer on biology, business and &ldquo;cool tools.&rdquo; He&rsquo;s renounced all material things save his bicycle (which he then rode 3,000 miles), founded an organization (the All-Species Foundation) to catalog all life on Earth, championed projects that look 10,000 years into the future (at the Long Now Foundation), and more. He&rsquo;s admired for his acute perspectives on technology and its relevance to history, biology and society. His new book,&nbsp;<a href=\"http://www.amazon.com/Inevitable-Understanding-Technological-Forces-Future/dp/0525428089\" target=\"_blank\"><em>The Inevitable</em></a>, just published, explores 12 technological forces that will shape our future.</p>"}],"url":"https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story","viewed_count":576473,"talks":[{"curator_approved":true,"description":"In this wide-ranging, thought-provoking talk, Kevin Kelly muses on what technology means in our lives -- from its impact at the personal level to its place in the cosmos.","downloads":{"id":770,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Latvian","endonym":"Latviešu","languageCode":"lv","ianaCode":"lv","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/KevinKelly_2009X-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/KevinKelly_2009X.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/KevinKelly_2009X-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"fr":{"name":"French","high":"https://download.ted.com/talks/KevinKelly_2009X-480p-fr.mp4","low":"https://download.ted.com/talks/KevinKelly_2009X-low-fr.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/KevinKelly_2009X-low-zh-tw.mp4","high":"https://download.ted.com/talks/KevinKelly_2009X-480p-zh-tw.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/KevinKelly_2009X-low-ja.mp4","high":"https://download.ted.com/talks/KevinKelly_2009X-480p-ja.mp4"},"de":{"name":"German","high":"https://download.ted.com/talks/KevinKelly_2009X-480p-de.mp4","low":"https://download.ted.com/talks/KevinKelly_2009X-low-de.mp4"},"zh-cn":{"name":"Chinese, Simplified","high":"https://download.ted.com/talks/KevinKelly_2009X-480p-zh-cn.mp4","low":"https://download.ted.com/talks/KevinKelly_2009X-low-zh-cn.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/KevinKelly_2009X-low-ko.mp4","high":"https://download.ted.com/talks/KevinKelly_2009X-480p-ko.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/KevinKelly_2009X-low-es.mp4","high":"https://download.ted.com/talks/KevinKelly_2009X-480p-es.mp4"},"en":{"name":"English","low":"https://download.ted.com/talks/KevinKelly_2009X-low-en.mp4","high":"https://download.ted.com/talks/KevinKelly_2009X-480p-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/KevinKelly_2009X-low-pt-br.mp4","high":"https://download.ted.com/talks/KevinKelly_2009X-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/KevinKelly_2009X-low-it.mp4","high":"https://download.ted.com/talks/KevinKelly_2009X-480p-it.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/KevinKelly_2009X-low-he.mp4","high":"https://download.ted.com/talks/KevinKelly_2009X-480p-he.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/KevinKelly_2009X-low-bg.mp4","high":"https://download.ted.com/talks/KevinKelly_2009X-480p-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/KevinKelly_2009X-low-ro.mp4","high":"https://download.ted.com/talks/KevinKelly_2009X-480p-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/KevinKelly_2009X-low-pl.mp4","high":"https://download.ted.com/talks/KevinKelly_2009X-480p-pl.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/KevinKelly_2009X-low-nl.mp4","high":"https://download.ted.com/talks/KevinKelly_2009X-480p-nl.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/KevinKelly_2009X-low-tr.mp4","high":"https://download.ted.com/talks/KevinKelly_2009X-480p-tr.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/KevinKelly_2009X-low-ru.mp4","high":"https://download.ted.com/talks/KevinKelly_2009X-480p-ru.mp4"},"ar":{"name":"Arabic","high":"https://download.ted.com/talks/KevinKelly_2009X-480p-ar.mp4","low":"https://download.ted.com/talks/KevinKelly_2009X-low-ar.mp4"},"lv":{"name":"Latvian","low":"https://download.ted.com/talks/KevinKelly_2009X-low-lv.mp4","high":"https://download.ted.com/talks/KevinKelly_2009X-480p-lv.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/KevinKelly_2009X-low-sr.mp4","high":"https://download.ted.com/talks/KevinKelly_2009X-480p-sr.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/KevinKelly_2009X-low-pt.mp4","high":"https://download.ted.com/talks/KevinKelly_2009X-480p-pt.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/KevinKelly_2009X-low-vi.mp4","high":"https://download.ted.com/talks/KevinKelly_2009X-480p-vi.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/KevinKelly_2009X-low-hu.mp4","high":"https://download.ted.com/talks/KevinKelly_2009X-480p-hu.mp4"}},"audioDownload":"https://download.ted.com/talks/KevinKelly_2009X.mp3?apikey=acme-roadrunner"},"duration":992.0,"event":"TEDxAmsterdam","event_blurb":"This talk was presented to a local audience at TEDxAmsterdam, an independent event. TED's editors chose to feature it for you.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/151119_800x600.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/151119_800x600.jpg?q=50&w=15","id":"770","player_talks":[{"id":"770","duration":992.0,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Latvian","endonym":"Latviešu","languageCode":"lv","ianaCode":"lv","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2009X/Blank/KevinKelly_2009X-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDxAmsterdam%26id%3D770%26tag%3DTEDx%2Ccomputers%2Chistory%2Clife%2Ctechnology%26talk%3Dkevin_kelly_tells_technology_s_epic_story%26year%3D2009&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"770","talk":"kevin_kelly_tells_technology_s_epic_story","tag":"TEDx,computers,history,life,technology","year":"2009","event":"TEDxAmsterdam"},"stream":"https://hls.ted.com/talks/770.m3u8","metadata":"https://hls.ted.com/talks/770.json"}},"targeting":{"id":"770","talk":"kevin_kelly_tells_technology_s_epic_story","tag":"TEDx,computers,history,life,technology","year":"2009","event":"TEDxAmsterdam"},"canonical":"https://www.ted.com/talks/kevin_kelly_tells_technology_s_epic_story","name":"Kevin Kelly: Technology's epic story","title":"Technology's epic story","speaker":"Kevin Kelly","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/151119_800x600.jpg?quality=89&w=600","slug":"kevin_kelly_tells_technology_s_epic_story","event":"TEDxAmsterdam","published":1266570780}],"ratings":[{"id":22,"name":"Fascinating","count":194},{"id":10,"name":"Inspiring","count":131},{"id":11,"name":"Longwinded","count":68},{"id":21,"name":"Unconvincing","count":144},{"id":26,"name":"Obnoxious","count":39},{"id":9,"name":"Ingenious","count":58},{"id":8,"name":"Informative","count":180},{"id":24,"name":"Persuasive","count":79},{"id":25,"name":"OK","count":101},{"id":7,"name":"Funny","count":6},{"id":3,"name":"Courageous","count":16},{"id":1,"name":"Beautiful","count":30},{"id":23,"name":"Jaw-dropping","count":28},{"id":2,"name":"Confusing","count":47}],"recorded_at":"2009-11-20T00:00:00.000+00:00","related_talks":[{"id":"19","hero":"https://pe.tedcdn.com/images/ted/7ddac8199e485dc8fe198d34b726f76680e7b86e_2880x1620.jpg","speaker":"Kevin Kelly","title":"How technology evolves","duration":1200.0,"slug":"kevin_kelly_on_how_technology_evolves","viewed_count":1718641},{"id":"319","hero":"https://pe.tedcdn.com/images/ted/84760000a82ad48289066aeca95e7a776e8f39ef_1200x900.jpg","speaker":"Kevin Kelly","title":"The next 5,000 days of the web","duration":1174.0,"slug":"kevin_kelly_on_the_next_5_000_days_of_the_web","viewed_count":1449586},{"id":"38","hero":"https://pe.tedcdn.com/images/ted/e87f6855a745a988c2dee9ceba6bfbd4f854a3a6_1600x1200.jpg","speaker":"Ray Kurzweil","title":"The accelerating power of technology","duration":1376.0,"slug":"ray_kurzweil_on_how_technology_will_transform_us","viewed_count":2541059},{"id":"72","hero":"https://pe.tedcdn.com/images/ted/399_480x360.jpg","speaker":"Chris Anderson","title":"Technology's long tail","duration":858.0,"slug":"chris_anderson_of_wired_on_tech_s_long_tail","viewed_count":957742},{"id":"515","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/47ed752c-5a7b-4e10-947c-dab1fbd00aab/GregoryStock_2003-embed.jpg","speaker":"Gregory Stock","title":"To upgrade is human","duration":1071.0,"slug":"gregory_stock_to_upgrade_is_human","viewed_count":508755},{"id":"1375","hero":"https://pe.tedcdn.com/images/ted/e2a41ccef2048f8ddd20dc3cdb887854ee7cd412_1600x1200.jpg","speaker":"Peter Diamandis","title":"Abundance is our future","duration":974.0,"slug":"peter_diamandis_abundance_is_our_future","viewed_count":1429608}],"slug":"kevin_kelly_tells_technology_s_epic_story","speakers":[{"id":"20","slug":"kevin_kelly","is_published":true,"firstname":"Kevin","lastname":"Kelly","middleinitial":"","title":"","description":"Digital visionary","photo_url":"https://pe.tedcdn.com/images/ted/acb97e31618fc6a9e367baec3659e198d5dea0db_254x191.jpg","whatotherssay":"Thinker, environmentalist and philosopher extraordinaire ... A one-man force of nature.","whotheyare":"There may be no one better to contemplate the meaning of cultural change than Kevin Kelly, whose life story reads like a treatise on the value and impacts of technology.","whylisten":"<p>Kelly has been publisher of the <em>Whole Earth Review</em>, executive editor at <em>Wired</em> magazine (which he co-founded, and where he now holds the title of Senior Maverick), founder of visionary nonprofits and writer on biology, business and &ldquo;cool tools.&rdquo; He&rsquo;s renounced all material things save his bicycle (which he then rode 3,000 miles), founded an organization (the All-Species Foundation) to catalog all life on Earth, championed projects that look 10,000 years into the future (at the Long Now Foundation), and more. He&rsquo;s admired for his acute perspectives on technology and its relevance to history, biology and society. His new book,&nbsp;<a href=\"http://www.amazon.com/Inevitable-Understanding-Technological-Forces-Future/dp/0525428089\" target=\"_blank\"><em>The Inevitable</em></a>, just published, explores 12 technological forces that will shape our future.</p>"}],"speaker_name":"Kevin Kelly","tags":["TEDx","computers","history","life","technology"],"title":"Technology's epic story","video_type":{"id":"2","name":"TEDx Talk"},"viewed_count":576473}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

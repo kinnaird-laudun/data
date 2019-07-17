@@ -1,0 +1,1402 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Stewart Brand: The Long Now | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Stewart Brand works on the Clock of the Long Now, a timepiece that counts down the next 10,000 years. It&#39;s a beautiful project that asks us to think about the far, far future. Here, he discusses a tricky side problem with the Clock: Where can we put it?" />
+<meta name="author" content="Stewart Brand" />
+<link rel="canonical" href="https://www.ted.com/talks/stewart_brand_on_the_long_now/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/stewart_brand_on_the_long_now/transcript" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/stewart_brand_on_the_long_now/transcript?language=fr" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/stewart_brand_on_the_long_now/transcript?language=en" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/stewart_brand_on_the_long_now/transcript?language=nl" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/stewart_brand_on_the_long_now/transcript?language=ru" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/stewart_brand_on_the_long_now/transcript?language=de" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/stewart_brand_on_the_long_now/transcript?language=ko" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/stewart_brand_on_the_long_now/transcript?language=it" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/stewart_brand_on_the_long_now/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/stewart_brand_on_the_long_now/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/stewart_brand_on_the_long_now/transcript?language=pt-br" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/stewart_brand_on_the_long_now/transcript?language=pl" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/stewart_brand_on_the_long_now/transcript?language=bg" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/stewart_brand_on_the_long_now/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/stewart_brand_on_the_long_now/transcript?language=ro" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/stewart_brand_on_the_long_now/transcript?language=ja" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/stewart_brand_on_the_long_now/transcript?language=es" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/stewart_brand_on_the_long_now/transcript?language=he" />
+<meta property="og:title" content="Transcript of &quot;The Long Now&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/59184_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/59184_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Stewart Brand: The Long Now" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Stewart Brand works on the Clock of the Long Now, a timepiece that counts down the next 10,000 years. It&#39;s a beautiful project that asks us to think about the far, far future. Here, he discusses a tricky side problem with the Clock: Where can we put it?" />
+<meta property="og:url" content="https://www.ted.com/talks/stewart_brand_on_the_long_now/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 402);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/stewart_brand_on_the_long_now' itemprop='url'>
+<meta content='The Long Now' itemprop='name'>
+<meta content="Stewart Brand works on the Clock of the Long Now, a timepiece that counts down the next 10,000 years. It's a beautiful project that asks us to think about the far, far future. Here, he discusses a tricky side problem with the Clock: Where can we put it?" itemprop='description'>
+<meta content='PT23M23S' itemprop='duration'>
+<meta content='2008-11-17T07:16:00+00:00' itemprop='uploadDate'>
+<meta content='252966' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/59184_800x600.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/stewart_brand' itemprop='url'>
+<meta content='Stewart Brand' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/8497_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/stewart_brand_on_the_long_now' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/59184_800x600.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Stewart Brand
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					252,966
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 23:23</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Welcome to 10,000 feet.
+											Let me explain why we are here
+											and why some of you have a pine cone close to you.
+											Once upon a time, I did a book called &quot;How Buildings Learn.&quot;
+											Today&#39;s event you might call &quot;How Mountains Teach.&quot;
+											A little background: For 10 years I&#39;ve been trying to figure out how to
+											hack civilization so that we can get long-term thinking
+											to be automatic and common instead of difficult and rare —
+											or in some cases, non-existent.
+											It would be helpful if humanity got into the habit of thinking
+											of the now not just as next week or next quarter, but you know,
+											next 10,000 years and the last 10,000 years —
+											basically civilization&#39;s story so far.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So we have the Long Now Foundation in San Francisco.
+											It&#39;s an incubator for about a dozen projects,
+											all having to do with continuity over the long term.
+											Our core project is a rather ambitious folly —
+											I suppose, a mythic undertaking: to build a 10,000-year clock
+											that can really keep good time for that long a period.
+											And the design problems of a project like that are just absolutely delicious.
+											Go to the clock. And what we have here is something
+											many of you saw here three years ago.
+											It&#39;s the first working prototype of the clock.
+											It&#39;s about nine feet high.
+											Designed by Danny Hillis and Alexander Rose. It&#39;s presently in London,
+											and is ticking away very deliberately at the science museum there.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So the design problem for today is going to be,
+											how do you house an eventual monumental clock like this
+											so it can really tick, save time beautifully for 100 centuries?
+											Well, this was the first solution.
+											Alexander Rose came up with this idea
+											of a spiraloid tower with continuous sloping ramps.
+											And it looked like a way to go, until you start thinking
+											about, what does deep time do to a building?
+											Well, this is what deep time does to a building.
+											This is the Parthenon. It&#39;s only 2,450 years old,
+											and look what happened to it.
+											Here&#39;s a beautiful project. They really knew it&#39;d last forever,
+											because they&#39;d build it out of absolutely huge stones.
+											And now it&#39;s a pathetic ruin and no one even knows what it was used for.
+											That&#39;s what happens to buildings. They&#39;re vulnerable.
+											Even the most durable and intactable buildings,
+											like the pyramids of Giza, are in bad shape when you look up close.
+											They&#39;ve been looted inside and out.
+											And they&#39;re built to protect things but they don&#39;t protect things.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So we got to thinking, if you can&#39;t put things safely in a building,
+											where can you safely put them? We thought, OK, underground.
+											How about underground with a view?
+											Underground in a place that&#39;s really solid.
+											So the obvious answer was, we need a mountain.
+											You don&#39;t want just any mountain.
+											You need absolutely the right mountain
+											if you&#39;re going to have a clock for 10,000 years.
+											So here&#39;s an image of the long view of the search problem.
+											And we got to thinking for various reasons it ought to be a desert mountain,
+											so we got looking in the dry areas of the Southwest.
+											We looked at mesas in New Mexico.
+											We were looking at dead volcanoes in Arizona.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Then Roger Kennedy, who was the director of the National Parks Service,
+											led us to Eastern Nevada,
+											to America&#39;s newest and oldest national park,
+											which is called Great Basin National Park.
+											It&#39;s right on the eastern border of Nevada.
+											It&#39;s the highest range in the state — over 13,000 feet.
+											And you&#39;ll notice that on the left, on the left, on the west, it&#39;s very steep,
+											and on the right it&#39;s gentle.
+											This place is remote. It&#39;s over 200 miles from any major city.
+											It&#39;s nowhere near any Interstate or railroad.
+											And it&#39;s — the only thing that goes by is what&#39;s called
+											America&#39;s loneliest highway, U.S. 50.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, inside the yellow line here, on the right is — that&#39;s all national park.
+											Inside the green line is national forest.
+											And then over to the left is Bureau of Land Management land and some private land.
+											Now, as it happened, that two-mile-long strip right in the middle,
+											this vertical, was available because it was private land.
+											And thanks to Jay Walker who was here and Mitch Kapor who was here,
+											who started the process, Long Now was able to get that two-mile-long strip of land.
+											And now let&#39;s look at the grand truth of what&#39;s there.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We&#39;re in Pole Canyon, looking west up the western escarpment
+											of Mount Washington, which is 11,600 feet on top.
+											Those white cliffs are a dense Cambrian limestone.
+											That&#39;s a 2,000-foot thick formation,
+											and it might be a beautiful place to hide a clock.
+											It would be a pilgrimage to get to it; it would be a serious hike
+											to get up to where the clock is.
+											So last June, the Long Now board, some staff and some donors
+											and advisors, made a two-week expedition to the mountain
+											to explore it and investigate, one, if it&#39;s the right mountain,
+											and two, if it&#39;s the right mountain, how it might actually work for us.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now Danny Hillis sort of framed the problem.
+											He has a theory of how the overall clock experience should work.
+											It&#39;s what he calls the seven stages of a mythic adventure.
+											It starts with the image. The image is a picture you have in your mind
+											of the goal at the end of the journey.
+											In this case it might well be an image of the clock.
+											Then there&#39;s the point of embarkation, that is, the point of transition
+											from ordinary life to being a pilgrim on a quest.
+											Then — this is a nice image of it, there&#39;s the labyrinth.
+											The labyrinth is a concept, it&#39;s like a twilight zone,
+											it&#39;s a place where it&#39;s difficult, where you get disoriented,
+											maybe you get scared — but you have to go through it
+											if you&#39;re going to get to some kind of deep reintegration.
+											Then there should always be in sight the draw —
+											a kind of a beacon that draws you on through the labyrinth
+											to finish the process of getting there.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now Brian Eno, who&#39;s been in the thick of the Long Now process,
+											spent two years making a C.D. called &quot;January 7003,&quot;
+											and it&#39;s &quot;Bell Studies for the Clock of the Long Now.&quot;
+											Based on — parts of it are based on an algorithm that Danny Hillis developed,
+											so that a peal of 10 bells
+											makes a different peal every day for 10,000 years.
+											The Hillis algorithm. 10 factorial gives you that number.
+											And in fact, pretty soon we&#39;ll hear the sound.
+											January 7003. There it is.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											OK, back to Danny&#39;s list.
+											Number five of the seven is the payoff. This is it. The climax.
+											The goal. The main thing that you&#39;re trying to get to.
+											And then Danny says a really great journey will have a secret payoff.
+											Something you didn&#39;t expect that caps what you did expect.
+											Then there&#39;s the return.
+											You&#39;ve got to have a gradual return to the ordinary world,
+											so you have time to assimilate what you&#39;ve learned. 
+
+											And then, how about a memento? Number seven.
+											At the end of it there&#39;s something physical,
+											a kind of reward that you take away.
+											It might be a piece of a core drill of the mountain.
+											Something that&#39;s just yours.
+											How do you study a mountain
+											for the kinds of things we&#39;re talking about?
+											This is not a normal building project.
+											What do you look for?
+											What are the elements that will most affect your ideas and decisions?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Start with borders. If you look on the left side of the cliffs here,
+											that&#39;s national park. That&#39;s sacrosanct —
+											you can&#39;t do anything with that. To the right of it is national forest.
+											There&#39;s possibilities. The borders are important.
+											Other elements were mines, weather, approaches and elevation.
+											And especially trees. Look at those things up on top there.
+											It turns out that Mount Washington is covered with bristlecone pines.
+											They&#39;re the world&#39;s oldest living thing.
+											People think they&#39;re just the size of shrubs, but that&#39;s not actually true.
+											There are trees on that mountain that are 5,000 years old and still living.
+											The wood is so solid it&#39;s like stone, and it lasts for a long time.
+											So when you do tree ring studies of trunks that are on the mountain,
+											some of them go back 10,000 years.
+											The stone itself is absolutely beautiful,
+											sculpted by millennia of very tough winters up there.
+											We had tree ring analysts from the University of Arizona
+											join us on the expedition.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, if you guys have a pine cone handy,
+											now&#39;s a good time to put it in your hand and feel it, especially on the end.
+											That&#39;s interesting.
+											You&#39;ll find out why it&#39;s called a bristlecone pine. A little sensory experience. 
+
+											Here&#39;s Danny Hillis in the midst of a bristlecone pine forest
+											on Long Now land. I should say that the age of bristlecones
+											was discovered, led by a theory.
+											Edmund Schulman in the 1950s
+											had been studying trees under great stress at Timberline,
+											and came to the realization that he put in an article in Science magazine
+											called, &quot;Longevity under Adversity in Conifers.&quot;
+											And then, based on that principle, he started looking around
+											at the various trees at Timberline,
+											and realized that the bristlecone pines —
+											he found some in the White Mountains that were over 4,000 years old.
+											Longevity under adversity is a pretty interesting design principle in its own right. 
+
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											OK, onto the mines. The first asking price for the property
+											when we looked at it in 1998 was one billion dollars for 180 acres and a couple of mines.
+											Because the owner said, &quot;There&#39;s one billion dollars of beryllium in that mountain.&quot;
+											And we said, &quot;Wow, that&#39;s great. Listen, we&#39;ll counter. How about zero?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And we&#39;re a non-profit foundation, you can give us the property
+											and take a hell of a tax deduction.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											All you have to do is prove to the government it&#39;s worth a billion dollars.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Well, a few years went by and there was some kind of back and forth,
+											and by and by, thanks to Mitch and Jay,
+											we were able to buy the whole property for 140,000 dollars.
+											This is one of the mines. It doesn&#39;t have any beryllium in it.
+											It&#39;s called the Pole Adit. And it does have tungsten,
+											a little bit of tungsten, left over, that&#39;s the kind of mine it was.
+											But it goes a mile-and-a-half in a straight line,
+											due east into the range, into very interesting territory — except that,
+											as you&#39;ll see when we go inside in a minute,
+											we were hoping for limestone but in there is just shale.
+											And shale is not quite completely competent rock.
+											Competent rock is rock that will hold itself up without any shoring.
+											The shale would like some shoring,
+											and so parts of it are caved in in there.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											That&#39;s Ben Roberts from — he&#39;s the bat specialist from the National Park.
+											But there are many wonders back in there, like this weird fungus
+											on some of the collapsed timbers.
+											OK, here&#39;s another mine that&#39;s up on top of the property,
+											and it dates back to 1870.
+											That&#39;s what the property was originally built around —
+											it was a set of mining claims. It was a very productive silver mine.
+											In fact, it was the highest-operating mine in Nevada,
+											and it ran year round.
+											You can imagine what it was like in the winter at 10,000 feet.
+											You may recognize a couple of the miners there.
+											There&#39;s Jeff Bezos on the right and Paul Saville on the left looking for galena, 
+
+											which is the lead-silver thing. They didn&#39;t find any.
+											They both kept their day jobs. Here&#39;s the last mine.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It&#39;s called the Bonanza Adit. It&#39;s down in a canyon.
+											And Alexander Rose on the left there worked with a bunch of people
+											from the National Park to survey the whole mine. It&#39;s a mile deep.
+											And they also found four species of bats in there.
+											Now, almost all those mines, by the way, meet underneath the mountain.
+											They don&#39;t quite, but it&#39;s something to think about.
+											They don&#39;t quite meet.
+											Let&#39;s go to weather. Mountains specialize in interesting weather.
+											Way more interesting than Monterey even today.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so one Tuesday morning last June, there we were.
+											Woke up in the morning — the mountain was covered with snow.
+											That was a great time to go up and visit our weather station which again,
+											thanks to Mitch Kapor, we&#39;re building up there.
+											And it&#39;s a pretty interesting scene.
+											This is, on the left there, the joyful lady is Pat Irwin,
+											who&#39;s the regional head of the National Forest Service,
+											and they gave us the temporary use permit to be there.
+											We want a temporary use permit for the clock, eventually —
+											10,000-year temporary use permit.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The weather station&#39;s pretty interesting.
+											Kurt Bollacker and Alexander Rose designed a radically wireless station.
+											It runs on solar, and it sends a signal
+with that antenna
+											and bounces it off of micrometeorite trails in the atmosphere
+											to a place in Bozeman, Montana, where the data is taken down
+											and then sent through landlines to San Francisco,
+											where we put the data in real time up on our website.
+											And there you see a week of weather at 9,400 feet on Mount Washington.
+											Let&#39;s go to approaches.
+											As it happens, there are no trails anywhere on Mount Washington,
+											just a few old mining roads like this,
+											so you have to bushwhack everywhere.
+											But there&#39;s no bears, and there&#39;s no poison oak,
+											and there&#39;s basically no people because this place has been empty for a long time. 
+
+											You can hike for days and not encounter anybody.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Well, here&#39;s a potential approach.
+											You need to come up the Lincoln Canyon.
+											It&#39;s this beautiful world all of its own, surrounded by cliffs,
+											and it&#39;s an easy hike to stroll up the canyon bottom,
+											until you get to this barrier, and it actually presents a problem.
+											So you can scratch Lincoln Canyon as an approach.
+											Another possible approach is right up the western front of the mountain.
+											You can see why we sometimes call it Long Mountain.
+											And from where you&#39;re standing at 6,000 feet in the valley,
+											it&#39;s an easy hike up to the mature pinyon and juniper forest
+											through that knoll at the front at 7,600 feet.
+											And you can carry right on up through meadows
+											and steepening forest to the high base of the cliffs at 10,500 feet,
+											where there&#39;s a bit of a problem.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, Jeff Bezos advised us when he left at the end of the expedition,
+											&quot;Make the clock inaccessible.
+											The harder it is to get to, the more people will value it.&quot;
+											And check — those are 600-foot vertical walls there.
+											So Alexander Rose wanted to explore this route,
+											and he started over here on the left from his pickup truck
+											at 8,900 feet and headed up the mountain.
+											Now, as you gain elevation your IQ goes down —
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											but your emotional affect goes up,
+											which is great for having a mythic experience,
+
+											whether you want to or not.
+											In fact, Danny Hillis can estimate altitude
+											by how much math he can&#39;t do in his head.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, I happened to be on the radio with Alexander
+											when he got to this point at the base of the cliffs, and he said, quote, 
+
+											&quot;There&#39;s a hidden notch. I think I can get up a ways.&quot;
+											Now, he&#39;s a rock climber, but you know, he&#39;s our executive director.
+											I don&#39;t want him killed. I know he&#39;s going to love cliffs.
+											I&#39;m saying, &quot;Be careful, be careful, be careful.&quot;
+											Then he starts going up, and the next thing I hear is,
+											&quot;I&#39;m half-way up. It&#39;s like climbing stairs. I&#39;m going up 60 degrees.
+											It&#39;s a secret passage. It&#39;s like something from Tolkien.&quot;
+											And I&#39;m going, &quot;Careful, careful. Please be careful.&quot;
+											And then, of course, the next thing I hear is,
+											&quot;I&#39;ve made it to the top. You can see all of creation from up here.&quot;
+											And he dashed across the top of the mountains.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											In fact, there he is. That&#39;s Alexander Rose.
+											First ascent of the western face to Mount Washington,
+											and a solo ascent at that.
+											This discovery changed everything about our sense of these cliffs
+											and what to do with them.
+											We realized that we had to name this thing that Alexander discovered.
+											How about Zander&#39;s Crevice? No.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So we finally decided on Alexander&#39;s Siq.
+											Zander&#39;s Siq is named after — some of you have been to Petra,
+											there&#39;s this wonderful slot canyon that leads into Petra
+											called the Siq, and so this is the Siq.
+											And it really is hidden. I can&#39;t find it in this image,
+											and I&#39;m not sure you can.
+											Only when you get fresh snow can you see just along the rim there,
+											and that brings it out.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, Danny and I were up at this same area one day,
+											and Danny looked over to the right
+											and noticed something halfway up the cliffs,
+											which is a kind of a porch or a cliff shelf with bristlecones on it,
+											and supposed that people going up to the clock inside the mountain
+											could come out onto that shelf and look down at the view.
+											And the people toiling up the mountain could see them,
+											these tiny little people up there, incredibly halfway up the cliff.
+											How did they get there? Do I have to do that?
+											And so that maybe becomes part of the draw and part of the labyrinth.
+											You can get another angle on Danny&#39;s porch
+											by going around to the south and looking north at the whole formation there. 
+
+											And you need to know that Danny&#39;s clock is to be kept accurate
+											by a ray of sunshine, that perfect noon hitting it every sunny day,
+											and the pulse of heat from that sets off a solar trigger
+											which resets the clock to make it perfectly accurate.
+											So even with the slowing of the rotation of the earth and so on,
+											the clock will keep perfectly good time.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So here we&#39;re looking from the south, look north.
+											This is all Forest Service land. If you go up on top of those cliffs,
+											that&#39;s some of the Long Now land in those trees.
+											And if you go up there and look back, then you&#39;ll get a sense of
+											what the view starts to be like from the top of the mountain.
+											That&#39;s the long view. That&#39;s 80 miles to the horizon.
+											And that&#39;s also timberline and those bristlecones really are shrubs.
+											That&#39;s a different place to be. It&#39;s 11,400 feet and it&#39;s exquisite.
+											Now, if you go over to the right from this image to looking at the edge of the cliffs,
+											it&#39;s 600 foot, just about a yard to the left of Kurt Bollacker&#39;s foot,
+											there is a 600-foot drop. He&#39;s ambling on over to Zander&#39;s Siq.
+											That&#39;s what it looks like looking down it.
+											We should probably put in a rail or something.
+											Over on the eastern side it&#39;s gentle, as you can see.
+											And that&#39;s not snow — that&#39;s what the white limestone looks like.
+											You also see there a bighorn sheep.
+											Their herd was reintroduced from Wyoming.
+											And they&#39;re doing pretty well, but they&#39;ve got a bit of trouble.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is Danny Hillis, and he&#39;s figuring out a design problem.
+											he&#39;s trying to determine if where he is on a bit of Long Now land
+											would appear from down in the valley to be the actual peak of the mountain.
+											because the real peak is hidden around the corner.
+											This is what in the infantry we used to call the military crest.
+											And as it turned out the answer is, yes,
+											that is from down below in the valley it does look like the peak,
+											and that might be conjured with.
+											We gradually realized we have three serious design domains to work on with this.
+											One is the experience of the mountain.
+											Another is the experience in the mountain.
+											And the third is the experience from the mountain,
+											which is really dominated by the view shed
+											of the spring valley there behind Danny,
+											and if you look off to the right, out there,
+											15 miles across to the Schell Creek range.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											In the front, there are 10 ranches strung right along the base of the mountains
+											using the water from the mountains.
+											In fact, there are artesian wells where water springs right into the air.
+											One of the ranches is called the Kirkeby Ranch,
+											and I&#39;ll take you there for a minute.
+											It&#39;s a very nice ranch.
+											Alfalfa and cattle, run by Paul and Ronnie Brenham,
+											and it&#39;s pretty idyllic. It&#39;s also hard work.
+											And most of these ranches are having trouble keeping going.
+											This is their view to the west of the Schell Creek range.
+											And if you go out to that line of trees at the far end,
+											you&#39;ll see what the valley used to look like.
+											This is Rocky Mountain junipers that have been there for thousands of years.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And a scheme emerged that Long Now is looking to see
+											if it might be possible to buy up the whole valley,
+											because those 10 ranches with their 17,000 acres
+											dominate a 500 square mile valley with their grazing allotments and so on, 
+
+											and there&#39;s a possibility that you could get the whole thing
+											for five million dollars and gradually restore it to its wild condition,
+											and somewhere in the process turn it back over to the National Park,
+											and it would double the size of Great Basin National Park. That would be swell.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											OK, let&#39;s take one more look at the mountain itself.
+											The clock experience should be profound,
+											but from the outside it should be invisible.
+											Now, at the base of the high cliffs there&#39;s this natural cave.
+											It&#39;s only about 12 feet deep, but what if it were deepened from inside?
+											You excavated from somewhere, came up from inside and deepened it.
+											And then you could have an entrance
+											which was very rough and narrow as you first went in,
+											that gradually becomes more refined and then actually quite exquisite.
+											And this stone takes a perfect polish.
+											You&#39;d have a polished set of passages and chambers in there
+											eventually leading to the 10,000 year clock.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And it&#39;s not a mine. This would be a nuanced evocation
+											of the basic structure of the mountain,
+											and you would be appreciating it as much from inside as you do from outside. 
+
+											This is architecture not made by building,
+											but by what you very carefully take away.
+											So that&#39;s what the mountain taught us.
+											Most of the amazingness of the clock
+											we can borrow from the amazingness of the mountain.
+											All we have to do is highlight its spectacular features and blend in with them.
+											It&#39;s not a clock in a mountain — it&#39;s a mountain clock.
+											Now, the Tewa Indians in the Southwest have a saying
+											for what you need to do when you want to think long term about anything.
+											They say, &quot;pin peya obe&quot; — welcome to the mountain.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":340,"count":51,"talk_id":402},"threadId":340,"current_talk":"402","description":"Stewart Brand works on the Clock of the Long Now, a timepiece that counts down the next 10,000 years. It's a beautiful project that asks us to think about the far, far future. Here, he discusses a tricky side problem with the Clock: Where can we put it?","event":"TED2004","language":"en","name":"Stewart Brand: The Long Now","slug":"stewart_brand_on_the_long_now","speakers":[{"id":"111","slug":"stewart_brand","is_published":true,"firstname":"Stewart","lastname":"Brand","middleinitial":"","title":"","description":"Environmentalist, futurist","photo_url":"https://pe.tedcdn.com/images/ted/8497_254x191.jpg","whatotherssay":"Brand has always been much more of an iconoclast than an icon.","whotheyare":"Since the counterculture '60s, Stewart Brand has been creating our internet-worked world. Now, with biotech accelerating four times faster than digital technology, Stewart Brand has a bold new plan ...","whylisten":"<p>With biotech accelerating four times faster than digital technology, the revival of extinct species is becoming possible. Stewart Brand plans to not only bring species back but restore them to the wild.</p><p>Brand is already a legend in the tech industry for things he&rsquo;s created: the <em>Whole Earth Catalog</em>, The WELL, the Global Business Network, the Long Now Foundation, and the notion that &ldquo;information wants to be free.&rdquo; Now Brand, a lifelong environmentalist, wants to re-create -- or &ldquo;de-extinct&rdquo; -- a few animals that&rsquo;ve disappeared from the planet.</p><p>Granted, resurrecting the woolly mammoth using ancient DNA may sound like mad science. But Brand&rsquo;s <a href=\"http://blog.longnow.org/02012/07/16/revive-and-restore/\" target=\"_blank\">Revive and Restore</a> project has an entirely rational goal: to learn what causes extinctions so we can protect currently endangered species, preserve genetic and biological diversity, repair depleted ecosystems, and essentially &ldquo;undo harm that humans have caused in the past.&rdquo;</p>"}],"url":"https://www.ted.com/talks/stewart_brand_on_the_long_now","viewed_count":252966,"talks":[{"curator_approved":true,"description":"Stewart Brand works on the Clock of the Long Now, a timepiece that counts down the next 10,000 years. It's a beautiful project that asks us to think about the far, far future. Here, he discusses a tricky side problem with the Clock: Where can we put it?","downloads":{"id":402,"languages":[{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true}],"nativeDownloads":{"low":"https://download.ted.com/talks/StewartBrand_2004-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/StewartBrand_2004.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/StewartBrand_2004-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/StewartBrand_2004-low-zh-tw.mp4","high":"https://download.ted.com/talks/StewartBrand_2004-480p-zh-tw.mp4"},"fr":{"name":"French","low":"https://download.ted.com/talks/StewartBrand_2004-low-fr.mp4","high":"https://download.ted.com/talks/StewartBrand_2004-480p-fr.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/StewartBrand_2004-low-zh-cn.mp4","high":"https://download.ted.com/talks/StewartBrand_2004-480p-zh-cn.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/StewartBrand_2004-low-ko.mp4","high":"https://download.ted.com/talks/StewartBrand_2004-480p-ko.mp4"},"es":{"name":"Spanish","high":"https://download.ted.com/talks/StewartBrand_2004-480p-es.mp4","low":"https://download.ted.com/talks/StewartBrand_2004-low-es.mp4"},"en":{"name":"English","low":"https://download.ted.com/talks/StewartBrand_2004-low-en.mp4","high":"https://download.ted.com/talks/StewartBrand_2004-480p-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","high":"https://download.ted.com/talks/StewartBrand_2004-480p-pt-br.mp4","low":"https://download.ted.com/talks/StewartBrand_2004-low-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/StewartBrand_2004-low-it.mp4","high":"https://download.ted.com/talks/StewartBrand_2004-480p-it.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/StewartBrand_2004-low-he.mp4","high":"https://download.ted.com/talks/StewartBrand_2004-480p-he.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/StewartBrand_2004-low-bg.mp4","high":"https://download.ted.com/talks/StewartBrand_2004-480p-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/StewartBrand_2004-low-ro.mp4","high":"https://download.ted.com/talks/StewartBrand_2004-480p-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/StewartBrand_2004-low-pl.mp4","high":"https://download.ted.com/talks/StewartBrand_2004-480p-pl.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/StewartBrand_2004-low-ru.mp4","high":"https://download.ted.com/talks/StewartBrand_2004-480p-ru.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/StewartBrand_2004-low-ar.mp4","high":"https://download.ted.com/talks/StewartBrand_2004-480p-ar.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/StewartBrand_2004-low-ja.mp4","high":"https://download.ted.com/talks/StewartBrand_2004-480p-ja.mp4"},"de":{"name":"German","low":"https://download.ted.com/talks/StewartBrand_2004-low-de.mp4","high":"https://download.ted.com/talks/StewartBrand_2004-480p-de.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/StewartBrand_2004-low-nl.mp4","high":"https://download.ted.com/talks/StewartBrand_2004-480p-nl.mp4"}},"audioDownload":null},"duration":1403.0,"event":"TED2004","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/59184_800x600.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/59184_800x600.jpg?q=50&w=15","id":"402","player_talks":[{"id":"402","duration":1403.0,"languages":[{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2004/Blank/StewartBrand_2004-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTED2004%26id%3D402%26tag%3Darchitecture%2Cart%2Cdesign%2Cfuture%2Ctechnology%26talk%3Dstewart_brand_on_the_long_now%26year%3D2004&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"402","talk":"stewart_brand_on_the_long_now","tag":"architecture,art,design,future,technology","year":"2004","event":"TED2004"},"stream":"https://hls.ted.com/talks/402.m3u8","metadata":"https://hls.ted.com/talks/402.json"}},"targeting":{"id":"402","talk":"stewart_brand_on_the_long_now","tag":"architecture,art,design,future,technology","year":"2004","event":"TED2004"},"canonical":"https://www.ted.com/talks/stewart_brand_on_the_long_now","name":"Stewart Brand: The Long Now","title":"The Long Now","speaker":"Stewart Brand","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/59184_800x600.jpg?quality=89&w=600","slug":"stewart_brand_on_the_long_now","event":"TED2004","published":1226906160}],"ratings":[{"id":10,"name":"Inspiring","count":84},{"id":3,"name":"Courageous","count":16},{"id":23,"name":"Jaw-dropping","count":17},{"id":21,"name":"Unconvincing","count":22},{"id":11,"name":"Longwinded","count":88},{"id":9,"name":"Ingenious","count":35},{"id":1,"name":"Beautiful","count":57},{"id":22,"name":"Fascinating","count":69},{"id":8,"name":"Informative","count":45},{"id":24,"name":"Persuasive","count":11},{"id":25,"name":"OK","count":22},{"id":2,"name":"Confusing","count":19},{"id":26,"name":"Obnoxious","count":11},{"id":7,"name":"Funny","count":3}],"recorded_at":"2004-02-02T00:00:00.000+00:00","related_talks":[{"id":"123","hero":"https://pe.tedcdn.com/images/ted/791d562689f4b45be4b8b5646338c464e99369b5_1600x1200.jpg","speaker":"Stewart Brand","title":"What squatter cities can teach us","duration":185.0,"slug":"stewart_brand_on_squatter_cities","viewed_count":987410},{"id":"19","hero":"https://pe.tedcdn.com/images/ted/7ddac8199e485dc8fe198d34b726f76680e7b86e_2880x1620.jpg","speaker":"Kevin Kelly","title":"How technology evolves","duration":1200.0,"slug":"kevin_kelly_on_how_technology_evolves","viewed_count":1718631},{"id":"38","hero":"https://pe.tedcdn.com/images/ted/e87f6855a745a988c2dee9ceba6bfbd4f854a3a6_1600x1200.jpg","speaker":"Ray Kurzweil","title":"The accelerating power of technology","duration":1376.0,"slug":"ray_kurzweil_on_how_technology_will_transform_us","viewed_count":2541054},{"id":"518","hero":"https://pe.tedcdn.com/images/ted/84344_800x600.jpg","speaker":"Matthew Childs","title":"9 life lessons from rock climbing","duration":288.0,"slug":"matthew_childs_9_rules_of_rock_climbing","viewed_count":774895},{"id":"273","hero":"https://pe.tedcdn.com/images/ted/4c9b41fac40ffc729ea73215f51c44b55a79e504_2880x1620.jpg","speaker":"Wade Davis","title":"The worldwide web of belief and ritual","duration":1152.0,"slug":"wade_davis_on_the_worldwide_web_of_belief_and_ritual","viewed_count":1283937},{"id":"948","hero":"https://pe.tedcdn.com/images/ted/195843_800x600.jpg","speaker":"Rachel Sussman","title":"The world's oldest living things","duration":848.0,"slug":"rachel_sussman_the_world_s_oldest_living_things","viewed_count":1471990}],"slug":"stewart_brand_on_the_long_now","speakers":[{"id":"111","slug":"stewart_brand","is_published":true,"firstname":"Stewart","lastname":"Brand","middleinitial":"","title":"","description":"Environmentalist, futurist","photo_url":"https://pe.tedcdn.com/images/ted/8497_254x191.jpg","whatotherssay":"Brand has always been much more of an iconoclast than an icon.","whotheyare":"Since the counterculture '60s, Stewart Brand has been creating our internet-worked world. Now, with biotech accelerating four times faster than digital technology, Stewart Brand has a bold new plan ...","whylisten":"<p>With biotech accelerating four times faster than digital technology, the revival of extinct species is becoming possible. Stewart Brand plans to not only bring species back but restore them to the wild.</p><p>Brand is already a legend in the tech industry for things he&rsquo;s created: the <em>Whole Earth Catalog</em>, The WELL, the Global Business Network, the Long Now Foundation, and the notion that &ldquo;information wants to be free.&rdquo; Now Brand, a lifelong environmentalist, wants to re-create -- or &ldquo;de-extinct&rdquo; -- a few animals that&rsquo;ve disappeared from the planet.</p><p>Granted, resurrecting the woolly mammoth using ancient DNA may sound like mad science. But Brand&rsquo;s <a href=\"http://blog.longnow.org/02012/07/16/revive-and-restore/\" target=\"_blank\">Revive and Restore</a> project has an entirely rational goal: to learn what causes extinctions so we can protect currently endangered species, preserve genetic and biological diversity, repair depleted ecosystems, and essentially &ldquo;undo harm that humans have caused in the past.&rdquo;</p>"}],"speaker_name":"Stewart Brand","tags":["architecture","art","design","future","technology"],"title":"The Long Now","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":252966}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

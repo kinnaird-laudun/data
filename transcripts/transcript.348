@@ -1,0 +1,1914 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Dan Gilbert: Why we make bad decisions | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Dan Gilbert presents research and data from his exploration of happiness -- sharing some surprising tests and experiments that you can also try on yourself. Watch through to the end for a sparkling Q&amp;amp;A with some familiar TED faces." />
+<meta name="author" content="Dan Gilbert" />
+<link rel="canonical" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=el" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=en" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=vi" />
+<link rel="alternate" hreflang="ca" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=ca" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=pt-br" />
+<link rel="alternate" hreflang="cs" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=cs" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=nl" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=tr" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="lt" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=lt" />
+<link rel="alternate" hreflang="th" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=th" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=bg" />
+<link rel="alternate" hreflang="hr" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=hr" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=de" />
+<link rel="alternate" hreflang="da" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=da" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=fa" />
+<link rel="alternate" hreflang="hy" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=hy" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=hu" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=he" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=sr" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=ko" />
+<link rel="alternate" hreflang="sk" href="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript?language=sk" />
+<meta property="og:title" content="Transcript of &quot;Why we make bad decisions&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/62760_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/62760_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Dan Gilbert: Why we make bad decisions" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Dan Gilbert presents research and data from his exploration of happiness -- sharing some surprising tests and experiments that you can also try on yourself. Watch through to the end for a sparkling Q&amp;amp;A with some familiar TED faces." />
+<meta property="og:url" content="https://www.ted.com/talks/dan_gilbert_researches_happiness/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 420);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/dan_gilbert_researches_happiness' itemprop='url'>
+<meta content='Why we make bad decisions' itemprop='name'>
+<meta content='Dan Gilbert presents research and data from his exploration of happiness — sharing some surprising tests and experiments that you can also try on yourself. Watch through to the end for a sparkling Q&amp;A with some familiar TED faces.' itemprop='description'>
+<meta content='PT33M38S' itemprop='duration'>
+<meta content='2008-12-16T07:32:00+00:00' itemprop='uploadDate'>
+<meta content='4075605' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/62760_800x600.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/dan_gilbert' itemprop='url'>
+<meta content='Dan Gilbert' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/1990_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/dan_gilbert_researches_happiness' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/62760_800x600.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Dan Gilbert
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					4,075,605
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 33:38</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We all make decisions every day; we want to know
+											what the right thing is to do — in domains from the financial
+											to the gastronomic to the professional to the romantic.
+											And surely, if somebody could really tell us how to do
+											exactly the right thing at all possible times,
+											that would be a tremendous gift.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It turns out that, in fact, the world was given this gift in 1738
+											by a Dutch polymath named Daniel Bernoulli.
+											And what I want to talk to you about today is what that gift is,
+											and I also want to explain to you why it is
+											that it hasn&#39;t made a damn bit of difference.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, this is Bernoulli&#39;s gift. This is a direct quote.
+											And if it looks like Greek to you, it&#39;s because, well, it&#39;s Greek.
+											But the simple English translation — much less precise,
+											but it captures the gist of what Bernoulli had to say — was this:
+											The expected value of any of our actions —
+											that is, the goodness that we can count on getting —
+											is the product of two simple things:
+											the odds that this action will allow us to gain something,
+											and the value of that gain to us.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											In a sense, what Bernoulli was saying is,
+											if we can estimate and multiply these two things,
+											we will always know precisely how we should behave.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, this simple equation, even for those of you
+											who don&#39;t like equations, is something that you&#39;re quite used to.
+											Here&#39;s an example: if I were to tell you, let&#39;s play
+											a little coin toss game, and I&#39;m going to flip a coin,
+											and if it comes up heads, I&#39;m going to pay you 10 dollars,
+											but you have to pay four dollars for the privilege of playing with me,
+											most of you would say, sure, I&#39;ll take that bet. Because you know
+											that the odds of you winning are one half, the gain if you do is 10 dollars,
+											that multiplies to five, and that&#39;s more
+											than I&#39;m charging you to play. So, the answer is, yes.
+											This is what statisticians technically call a damn fine bet.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, the idea is simple when we&#39;re applying it to coin tosses,
+											but in fact, it&#39;s not very simple in everyday life.
+											People are horrible at estimating both of these things,
+											and that&#39;s what I want to talk to you about today.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											There are two kinds of errors people make when trying to decide
+											what the right thing is to do, and those are
+											errors in estimating the odds that they&#39;re going to succeed,
+											and errors in estimating the value of their own success.
+											Now, let me talk about the first one first.
+											Calculating odds would seem to be something rather easy:
+											there are six sides to a die, two sides to a coin, 52 cards in a deck.
+											You all know what the likelihood is of pulling the ace of spades
+											or of flipping a heads.
+											But as it turns out, this is not a very easy idea to apply
+											in everyday life. That&#39;s why Americans spend more —
+											I should say, lose more — gambling
+											than on all other forms of entertainment combined.
+											The reason is, this isn&#39;t how people do odds.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The way people figure odds
+											requires that we first talk a bit about pigs.
+											Now, the question I&#39;m going to put to you is whether you think
+											there are more dogs or pigs on leashes
+											observed in any particular day in Oxford.
+											And of course, you all know that the answer is dogs.
+											And the way that you know that the answer is dogs is
+											you quickly reviewed in memory the times
+											you&#39;ve seen dogs and pigs on leashes.
+											It was very easy to remember seeing dogs,
+											not so easy to remember pigs. And each one of you assumed
+											that if dogs on leashes came more quickly to your mind,
+											then dogs on leashes are more probable.
+											That&#39;s not a bad rule of thumb, except when it is.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, for example, here&#39;s a word puzzle.
+											Are there more four-letter English words
+											with R in the third place or R in the first place?
+											Well, you check memory very briefly, make a quick scan,
+											and it&#39;s awfully easy to say to yourself, Ring, Rang, Rung,
+											and very hard to say to yourself, Pare, Park: they come more slowly.
+											But in fact, there are many more words in the English language
+											with R in the third than the first place.
+											The reason words with R in the third place come slowly to your mind
+											isn&#39;t because they&#39;re improbable, unlikely or infrequent.
+											It&#39;s because the mind recalls words by their first letter.
+											You kind of shout out the sound, S — and the word comes.
+											It&#39;s like the dictionary;
+											it&#39;s hard to look things up by the third letter.
+											So, this is an example of how this idea that
+											the quickness with which things come to mind
+											can give you a sense of their probability —
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											how this idea could lead you astray. It&#39;s not just puzzles, though.
+											For example, when Americans are asked to estimate the odds
+											that they will die in a variety of interesting ways —
+											these are estimates of number of deaths per year
+											per 200 million U.S. citizens.
+											And these are just ordinary people like yourselves who are asked
+											to guess how many people die from tornado, fireworks, asthma, drowning, etc.
+											Compare these to the actual numbers.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, you see a very interesting pattern here, which is first of all,
+											two things are vastly over-estimated, namely tornadoes and fireworks.
+											Two things are vastly underestimated:
+											dying by drowning and dying by asthma. Why?
+											When was the last time that you picked up a newspaper
+											and the headline was, &quot;Boy dies of Asthma?&quot;
+											It&#39;s not interesting because it&#39;s so common.
+											It&#39;s very easy for all of us to bring to mind instances
+											of news stories or newsreels where we&#39;ve seen
+											tornadoes devastating cities, or some poor schmuck
+											who&#39;s blown his hands off with a firework on the Fourth of July.
+											Drownings and asthma deaths don&#39;t get much coverage.
+											They don&#39;t come quickly to mind, and as a result,
+											we vastly underestimate them.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Indeed, this is kind of like the Sesame Street game
+											of &quot;Which thing doesn&#39;t belong?&quot; And you&#39;re right to say
+											it&#39;s the swimming pool that doesn&#39;t belong, because the swimming pool
+											is the only thing on this slide that&#39;s actually very dangerous.
+											The way that more of you are likely to die than the combination
+											of all three of the others that you see on the slide.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The lottery is an excellent example, of course — an excellent test-case
+											of people&#39;s ability to compute probabilities.
+											And economists — forgive me, for those of you who play the lottery —
+											but economists, at least among themselves, refer to the lottery
+											as a stupidity tax, because the odds of getting any payoff
+											by investing your money in a lottery ticket
+											are approximately equivalent to flushing the money
+											directly down the toilet — which, by the way,
+											doesn&#39;t require that you actually go to the store and buy anything.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Why in the world would anybody ever play the lottery?
+											Well, there are many answers, but one answer surely is,
+											we see a lot of winners. Right? When this couple wins the lottery,
+											or Ed McMahon shows up at your door with this giant check —
+											how the hell do you cash things that size, I don&#39;t know.
+											We see this on TV; we read about it in the paper.
+											When was the last time that you saw extensive interviews
+											with everybody who lost?
+											Indeed, if we required that television stations run
+											a 30-second interview with each loser
+											every time they interview a winner, the 100 million losers
+											in the last lottery would require nine-and-a-half years
+											of your undivided attention just to watch them say,
+											&quot;Me? I lost.&quot; &quot;Me? I lost.&quot;
+											Now, if you watch nine-and-a-half years of television —
+											no sleep, no potty breaks — and you saw loss after loss after loss,
+											and then at the end there&#39;s 30 seconds of, &quot;and I won,&quot;
+											the likelihood that you would play the lottery is very small.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Look, I can prove this to you: here&#39;s a little lottery.
+											There&#39;s 10 tickets in this lottery.
+											Nine of them have been sold to these individuals.
+											It costs you a dollar to buy the ticket and, if you win,
+											you get 20 bucks. Is this a good bet?
+											Well, Bernoulli tells us it is.
+											The expected value of this lottery is two dollars;
+											this is a lottery in which you should invest your money.
+											And most people say, &quot;OK, I&#39;ll play.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, a slightly different version of this lottery:
+											imagine that the nine tickets are all owned
+											by one fat guy named Leroy.
+											Leroy has nine tickets; there&#39;s one left.
+											Do you want it? Most people won&#39;t play this lottery.
+											Now, you can see the odds of winning haven&#39;t changed,
+											but it&#39;s now fantastically easy to imagine who&#39;s going to win.
+											It&#39;s easy to see Leroy getting the check, right?
+											You can&#39;t say to yourself, &quot;I&#39;m as likely to win as anybody,&quot;
+											because you&#39;re not as likely to win as Leroy.
+											The fact that all those tickets are owned by one guy
+											changes your decision to play,
+											even though it does nothing whatsoever to the odds.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, estimating odds, as difficult as it may seem, is a piece of cake
+											compared to trying to estimate value:
+											trying to say what something is worth, how much we&#39;ll enjoy it,
+											how much pleasure it will give us.
+											I want to talk now about errors in value.
+											How much is this Big Mac worth? Is it worth 25 dollars?
+											Most of you have the intuition that it&#39;s not —
+											you wouldn&#39;t pay that for it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But in fact, to decide whether a Big Mac is worth 25 dollars requires
+											that you ask one, and only one question, which is:
+											What else can I do with 25 dollars?
+											If you&#39;ve ever gotten on one of those long-haul flights to Australia
+											and realized that they&#39;re not going to serve you any food,
+											but somebody in the row in front of you has just opened
+											the McDonald&#39;s bag, and the smell of golden arches
+											is wafting over the seat, you think,
+											I can&#39;t do anything else with this 25 dollars for 16 hours.
+											I can&#39;t even set it on fire — they took my cigarette lighter!
+											Suddenly, 25 dollars for a Big Mac might be a good deal.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											On the other hand, if you&#39;re visiting an underdeveloped country,
+											and 25 dollars buys you a gourmet meal, it&#39;s exorbitant for a Big Mac.
+											Why were you all sure that the answer to the question was no,
+											before I&#39;d even told you anything about the context?
+											Because most of you compared the price of this Big Mac
+											to the price you&#39;re used to paying. Rather than asking,
+											&quot;What else can I do with my money,&quot; comparing this investment
+											to other possible investments, you compared to the past.
+											And this is a systematic error people make.
+											What you knew is, you paid three dollars in the past; 25 is outrageous.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is an error, and I can prove it to you by showing
+											the kinds of irrationalities to which it leads.
+											For example, this is, of course,
+											one of the most delicious tricks in marketing,
+											is to say something used to be higher,
+											and suddenly it seems like a very good deal.
+											When people are asked about these two different jobs:
+											a job where you make 60K, then 50K, then 40K,
+											a job where you&#39;re getting a salary cut each year,
+											and one in which you&#39;re getting a salary increase,
+											people like the second job better than the first, despite the fact
+											they&#39;re all told they make much less money. Why?
+											Because they had the sense that declining wages are worse
+											than rising wages, even when the total amount of wages is higher
+											in the declining period. Here&#39;s another nice example.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Here&#39;s a $2,000 Hawaiian vacation package; it&#39;s now on sale for 1,600.
+											Assuming you wanted to go to Hawaii, would you buy this package?
+											Most people say they would. Here&#39;s a slightly different story:
+											$2,000 Hawaiian vacation package is now on sale for 700 dollars,
+											so you decide to mull it over for a week.
+											By the time you get to the ticket agency, the best fares are gone —
+											the package now costs 1,500. Would you buy it? Most people say, no.
+											Why? Because it used to cost 700, and there&#39;s no way I&#39;m paying 1,500
+											for something that was 700 last week.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This tendency to compare to the past
+											is causing people to pass up the better deal. In other words,
+											a good deal that used to be a great deal is not nearly as good
+											as an awful deal that was once a horrible deal.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Here&#39;s another example of how comparing to the past
+											can befuddle our decisions.
+											Imagine that you&#39;re going to the theater.
+											You&#39;re on your way to the theater.
+											In your wallet you have a ticket, for which you paid 20 dollars.
+											You also have a 20-dollar bill.
+											When you arrive at the theater,
+											you discover that somewhere along the way you&#39;ve lost the ticket.
+											Would you spend your remaining money on replacing it?
+											Most people answer, no.
+											Now, let&#39;s just change one thing in this scenario.
+											You&#39;re on your way to the theater,
+											and in your wallet you have two 20-dollar bills.
+											When you arrive you discover you&#39;ve lost one of them.
+											Would you spend your remaining 20 dollars on a ticket?
+											Well, of course, I went to the theater to see the play.
+											What does the loss of 20 dollars along the way have to do?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, just in case you&#39;re not getting it,
+											here&#39;s a schematic of what happened, OK?
+											(Laughter)
+											Along the way, you lost something.
+											In both cases, it was a piece of paper.
+											In one case, it had a U.S. president on it; in the other case it didn&#39;t.
+											What the hell difference should it make?
+											The difference is that when you lost the ticket you say to yourself,
+											I&#39;m not paying twice for the same thing.
+											You compare the cost of the play now — 40 dollars —
+											to the cost that it used to have — 20 dollars — and you say it&#39;s a bad deal.
+											Comparing with the past causes many of the problems
+											that behavioral economists and psychologists identify
+											in people&#39;s attempts to assign value.
+											But even when we compare with the possible, instead of the past,
+											we still make certain kinds of mistakes.
+											And I&#39;m going to show you one or two of them.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											One of the things we know about comparison:
+											that when we compare one thing to the other, it changes its value.
+											So in 1992, this fellow, George Bush, for those of us who were
+											kind of on the liberal side of the political spectrum,
+											didn&#39;t seem like such a great guy.
+											Suddenly, we&#39;re almost longing for him to return.
+											(Laughter)
+											The comparison changes how we evaluate him.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, retailers knew this long before anybody else did, of course,
+											and they use this wisdom to help you —
+											spare you the undue burden of money.
+											And so a retailer, if you were to go into a wine shop
+											and you had to buy a bottle of wine,
+											and you see them here for eight, 27 and 33 dollars, what would you do?
+											Most people don&#39;t want the most expensive,
+											they don&#39;t want the least expensive.
+											So, they will opt for the item in the middle.
+											If you&#39;re a smart retailer, then, you will put a very expensive item
+											that nobody will ever buy on the shelf,
+											because suddenly the $33 wine doesn&#39;t look as expensive in comparison.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So I&#39;m telling you something you already knew:
+											namely, that comparison changes the value of things.
+											Here&#39;s why that&#39;s a problem:
+											the problem is that when you get that $33 bottle of wine home,
+											it won&#39;t matter what it used to be sitting on the shelf next to.
+											The comparisons we make when we are appraising value,
+											where we&#39;re trying to estimate how much we&#39;ll like things,
+											are not the same comparisons we&#39;ll be making when we consume them.
+											This problem of shifting comparisons can bedevil
+											our attempts to make rational decisions.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Let me just give you an example.
+											I have to show you something from my own lab, so let me sneak this in.
+											These are subjects coming to an experiment to be asked
+											the simplest of all questions:
+											How much will you enjoy eating potato chips one minute from now?
+											They&#39;re sitting in a room with potato chips in front of them.
+											For some of the subjects, sitting in the far corner of a room
+											is a box of Godiva chocolates, and for others is a can of Spam.
+											In fact, these items that are sitting in the room change
+											how much the subjects think they&#39;re going to enjoy the potato chips.
+											Namely, those who are looking at Spam
+											think potato chips are going to be quite tasty;
+											those who are looking at Godiva chocolate
+											think they won&#39;t be nearly so tasty.
+											Of course, what happens when they eat the potato chips?
+											Well, look, you didn&#39;t need a psychologist to tell you that
+											when you have a mouthful of greasy, salty, crispy, delicious snacks,
+											what&#39;s sitting in the corner of the room
+											makes not a damn bit of difference to your gustatory experience.
+											Nonetheless, their predictions are perverted by a comparison
+											that then does not carry through and change their experience.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											You&#39;ve all experienced this yourself, even if you&#39;ve never come
+											into our lab to eat potato chips. So here&#39;s a question:
+											You want to buy a car stereo.
+											The dealer near your house sells this particular stereo for 200 dollars,
+											but if you drive across town, you can get it for 100 bucks.
+											So would you drive to get 50 percent off, saving 100 dollars?
+											Most people say they would.
+											They can&#39;t imagine buying it for twice the price
+											when, with one trip across town, they can get it for half off.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, let&#39;s imagine instead you wanted to buy a car that had a stereo,
+											and the dealer near your house had it for 31,000.
+											But if you drove across town, you could get it for 30,900.
+											Would you drive to get it? At this point, 0.003 savings — the 100 dollars.
+											Most people say, no, I&#39;m going to schlep across town
+											to save 100 bucks on the purchase of a car?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This kind of thinking drives economists crazy, and it should.
+											Because this 100 dollars that you save — hello! —
+											doesn&#39;t know where it came from.
+											It doesn&#39;t know what you saved it on.
+											When you go to buy groceries with it, it doesn&#39;t go,
+											I&#39;m the money saved on the car stereo, or,
+											I&#39;m the dumb money saved on the car. It&#39;s money.
+											And if a drive across town is worth 100 bucks, it&#39;s worth 100 bucks
+											no matter what you&#39;re saving it on. People don&#39;t think that way.
+											That&#39;s why they don&#39;t know whether their mutual fund manager
+											is taking 0.1 percent or 0.15 percent of their investment,
+											but they clip coupons to save one dollar off of toothpaste.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, you can see, this is the problem of shifting comparisons,
+											because what you&#39;re doing is, you&#39;re comparing the 100 bucks
+											to the purchase that you&#39;re making,
+											but when you go to spend that money you won&#39;t be making that comparison.
+											You&#39;ve all had this experience.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											If you&#39;re an American, for example, you&#39;ve probably traveled in France.
+											And at some point you may have met a couple
+											from your own hometown, and you thought,
+											&quot;Oh, my God, these people are so warm. They&#39;re so nice to me.
+											I mean, compared to all these people who hate me
+											when I try to speak their language and hate me more when I don&#39;t,
+											these people are just wonderful.&quot; And so you tour France with them,
+											and then you get home and you invite them over for dinner,
+											and what do you find?
+											Compared to your regular friends,
+											they are boring and dull, right? Because in this new context,
+											the comparison is very, very different. In fact, you find yourself
+											disliking them enough almost to qualify for French citizenship.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, you have exactly the same problem when you shop for a stereo.
+											You go to the stereo store, you see two sets of speakers —
+											these big, boxy, monoliths, and these little, sleek speakers,
+											and you play them, and you go, you know, I do hear a difference:
+											the big ones sound a little better.
+											And so you buy them, and you bring them home,
+											and you entirely violate the décor of your house.
+											And the problem, of course, is that this comparison you made in the store
+											is a comparison you&#39;ll never make again.
+											What are the odds that years later you&#39;ll turn on the stereo and go,
+											&quot;Sounds so much better than those little ones,&quot;
+											which you can&#39;t even remember hearing.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The problem of shifting comparisons is even more difficult
+											when these choices are arrayed over time.
+											People have a lot of trouble making decisions
+											about things that will happen at different points in time.
+											And what psychologists and behavioral economists have discovered
+											is that by and large people use two simple rules.
+											So let me give you one very easy problem, a second very easy problem
+											and then a third, hard, problem.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Here&#39;s the first easy problem:
+											You can have 60 dollars now or 50 dollars now. Which would you prefer?
+											This is what we call a one-item IQ test, OK?
+											All of us, I hope, prefer more money, and the reason is,
+											we believe more is better than less.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Here&#39;s the second problem:
+											You can have 60 dollars today or 60 dollars in a month. Which would you prefer?
+											Again, an easy decision,
+											because we all know that now is better than later.
+											What&#39;s hard in our decision-making is when these two rules conflict.
+											For example, when you&#39;re offered 50 dollars now or 60 dollars in a month.
+											This typifies a lot of situations in life in which you will gain
+											by waiting, but you have to be patient.
+											What do we know? What do people do in these kinds of situations?
+											Well, by and large people are enormously impatient.
+											That is, they require interest rates in the hundred
+											or thousands of percents in order to delay gratification
+											and wait until next month for the extra 10 dollars.
+											Maybe that isn&#39;t so remarkable, but what is remarkable is
+											how easy it is to make this impatience go away by simply changing
+											when the delivery of these monetary units will happen.
+											Imagine that you can have 50 dollars in a year — that&#39;s 12 months —
+											or 60 dollars in 13 months.
+											What do we find now?
+											People are gladly willing to wait: as long as they&#39;re waiting 12,
+											they might as well wait 13.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											What makes this dynamic inconsistency happen?
+											Comparison. Troubling comparison. Let me show you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is just a graph showing the results that I just suggested
+											you would show if I gave you time to respond, which is,
+											people find that the subjective value of 50 is higher
+											than the subjective value of 60 when they&#39;ll be delivered in now
+											or one month, respectively — a 30-day delay —
+											but they show the reverse pattern when you push the entire decision
+											off into the future a year.
+											Now, why in the world do you get this pattern of results?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											These guys can tell us.
+											What you see here are two lads,
+											one of them larger than the other: the fireman and the fiddler.
+											They are going to recede towards the vanishing point in the horizon,
+											and I want you to notice two things.
+											At no point will the fireman look taller than the fiddler. No point.
+											However, the difference between them seems to be getting smaller.
+											First it&#39;s an inch in your view, then it&#39;s a quarter-inch,
+											then a half-inch, and then finally they go off the edge of the earth.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Here are the results of what I just showed you.
+											This is the subjective height —
+											the height you saw of these guys at various points.
+											And I want you to see that two things are true.
+											One, the farther away they are, the smaller they look;
+											and two, the fireman is always bigger than the fiddler.
+											But watch what happens when we make some of them disappear. Right.
+											At a very close distance, the fiddler looks taller than the fireman,
+											but at a far distance
+											their normal, their true, relations are preserved.
+											As Plato said, what space is to size, time is to value.
+											These are the results of the hard problem I gave you:
+											60 now or 50 in a month?
+											And these are subjective values,
+											and what you can see is, our two rules are preserved.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											People always think more is better than less:
+											60 is always better than 50,
+											and they always think now is better than later:
+											the bars on this side are higher than the bars on this side.
+											Watch what happens when we drop some out.
+											Suddenly we have the dynamic inconsistency that puzzled us.
+											We have the tendency for people to go for 50 dollars now
+											over waiting a month, but not if that decision is far in the future.
+											Notice something interesting that this implies — namely, that
+											when people get to the future, they will change their minds.
+											That is, as that month 12 approaches, you will say,
+											what was I thinking, waiting an extra month for 60 dollars?
+											I&#39;ll take the 50 dollars now.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Well, the question with which I&#39;d like to end is this:
+											If we&#39;re so damn stupid, how did we get to the moon?
+											Because I could go on for about two hours with evidence
+											of people&#39;s inability to estimate odds and inability to estimate value.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The answer to this question, I think, is an answer you&#39;ve already heard
+											in some of the talks, and I dare say you will hear again:
+											namely, that our brains were evolved for a very different world
+											than the one in which we are living.
+											They were evolved for a world
+											in which people lived in very small groups,
+											rarely met anybody who was terribly different from themselves,
+											had rather short lives in which there were few choices
+											and the highest priority was to eat and mate today.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Bernoulli&#39;s gift, Bernoulli&#39;s little formula, allows us, it tells us
+											how we should think in a world for which nature never designed us.
+											That explains why we are so bad at using it, but it also explains
+											why it is so terribly important that we become good, fast.
+											We are the only species on this planet
+											that has ever held its own fate in its hands.
+											We have no significant predators,
+											we&#39;re the masters of our physical environment;
+											the things that normally cause species to become extinct
+											are no longer any threat to us.
+											The only thing — the only thing — that can destroy us and doom us
+											are our own decisions.
+											If we&#39;re not here in 10,000 years, it&#39;s going to be because
+											we could not take advantage of the gift given to us
+											by a young Dutch fellow in 1738,
+											because we underestimated the odds of our future pains
+											and overestimated the value of our present pleasures.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Chris Anderson: That was remarkable.
+											We have time for some questions for Dan Gilbert. One and two.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Bill Lyell: Would you say that this mechanism
+											is in part how terrorism actually works to frighten us,
+											and is there some way that we could counteract that?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Dan Gilbert: I actually was consulting recently
+											with the Department of Homeland Security, which generally believes
+											that American security dollars should go to making borders safer.
+											I tried to point out to them that terrorism was a name
+											based on people&#39;s psychological reaction to a set of events,
+											and that if they were concerned about terrorism they might ask
+											what causes terror and how can we stop people from being terrified,
+											rather than — not rather than, but in addition to
+											stopping the atrocities that we&#39;re all concerned about.
+											Surely the kinds of play that at least American media give to —
+											and forgive me, but in raw numbers these are very tiny accidents.
+											We already know, for example, in the United States,
+											more people have died as a result of not taking airplanes —
+											because they were scared — and driving on highways,
+											than were killed in 9/11. OK?
+											If I told you that there was a plague
+											that was going to kill 15,000 Americans next year,
+											you might be alarmed if you didn&#39;t find out it was the flu.
+											These are small-scale accidents, and we should be wondering
+											whether they should get the kind of play,
+											the kind of coverage, that they do.
+											Surely that causes people to overestimate the likelihood
+											that they&#39;ll be hurt in these various ways,
+											and gives power to the very people who want to frighten us.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: Dan, I&#39;d like to hear more on this. So, you&#39;re saying
+											that our response to terror is, I mean, it&#39;s a form of mental bug?
+											Talk more about it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											DG: It&#39;s out-sized. I mean, look.
+											If Australia disappears tomorrow,
+											terror is probably the right response.
+											That&#39;s an awful large lot of very nice people. On the other hand,
+											when a bus blows up and 30 people are killed,
+											more people than that were killed
+											by not using their seatbelts in the same country.
+											Is terror the right response?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: What causes the bug? Is it the drama of the event —
+											that it&#39;s so spectacular?
+											Is it the fact that it&#39;s an intentional attack by, quote, outsiders?
+											What is it?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											DG: Yes. It&#39;s a number of things, and you hit on several of them.
+											First, it&#39;s a human agent trying to kill us —
+											it&#39;s not a tree falling on us by accident.
+											Second, these are enemies who may want to strike and hurt us again.
+											People are being killed for no reason instead of good reason —
+											as if there&#39;s good reason, but sometimes people think there are.
+											So there are a number of things that together
+											make this seem like a fantastic event, but let&#39;s not play down
+											the fact that newspapers sell when people see something in it
+											they want to read. So there&#39;s a large role here played by the media,
+											who want these things to be
+											as spectacular as they possibly can.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: I mean, what would it take to persuade our culture to downplay it?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											DG: Well, go to Israel. You know,
+											go to Israel. And a mall blows up,
+											and then everybody&#39;s unhappy about it, and an hour-and-a-half later —
+											at least when I was there, and I was 150 feet from the mall
+											when it blew up — I went back to my hotel
+											and the wedding that was planned was still going on.
+											And as the Israeli mother said,
+											she said, &quot;We never let them win by stopping weddings.&quot;
+											I mean, this is a society that has learned —
+											and there are others too — that has learned to live
+											with a certain amount of terrorism and not be quite as upset by it,
+											shall I say, as those of us who have not had many terror attacks.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: But is there a rational fear that actually,
+											the reason we&#39;re frightened about this is because we think that
+											the Big One is to come?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											DG: Yes, of course. So, if we knew that this was the worst attack
+											there would ever be, there might be more and more buses of 30 people —
+											we would probably not be nearly so frightened.
+											I don&#39;t want to say — please, I&#39;m going to get quoted somewhere
+											as saying, &quot;Terrorism is fine and we shouldn&#39;t be so distressed.&quot;
+											That&#39;s not my point at all.
+											What I&#39;m saying is that, surely, rationally,
+											our distress about things that happen, about threats,
+											should be roughly proportional to the size of those threats
+											and threats to come.
+											I think in the case of terrorism, it isn&#39;t.
+											And many of the things we&#39;ve heard about from our speakers today —
+											how many people do you know got up and said,
+											Poverty! I can&#39;t believe what poverty is doing to us.
+											People get up in the morning; they don&#39;t care about poverty.
+											It&#39;s not making headlines, it&#39;s not making news, it&#39;s not flashy.
+											There are no guns going off.
+											I mean, if you had to solve one of these problems, Chris,
+											which would you solve? Terrorism or poverty?
+											(Laughter)
+											(Applause)
+											That&#39;s a tough one.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: There&#39;s no question.
+											Poverty, by an order of magnitude, a huge order of magnitude,
+											unless someone can show that there&#39;s, you know,
+											terrorists with a nuke are really likely to come.
+											The latest I&#39;ve read, seen, thought
+											is that it&#39;s incredibly hard for them to do that.
+											If that turns out to be wrong, we all look silly,
+											but with poverty it&#39;s a bit —
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											DG: Even if that were true, still more people die from poverty.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: We&#39;ve evolved to get all excited
+											about these dramatic attacks. Is that because in the past,
+											in the ancient past, we just didn&#39;t understand things like disease
+											and systems that cause poverty and so forth,
+											and so it made no sense for us as a species to put any energy
+											into worrying about those things?
+											People died; so be it.
+											But if you got attacked, that was something you could do something about.
+											And so we evolved these responses.
+											Is that what happened?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											DG: Well, you know, the people who are most skeptical
+											about leaping to evolutionary explanations for everything
+											are the evolutionary psychologists themselves.
+											My guess is that there&#39;s nothing quite that specific
+											in our evolutionary past. But rather, if you&#39;re looking for
+											an evolutionary explanation, you might say
+											that most organisms are neo-phobic — that is, they&#39;re a little scared
+											of stuff that&#39;s new and different.
+											And there&#39;s a good reason to be,
+											because old stuff didn&#39;t eat you. Right?
+											Any animal you see that you&#39;ve seen before is less likely
+											to be a predator than one that you&#39;ve never seen before.
+											So, you know, when a school bus is blown up and we&#39;ve never seen this before,
+											our general tendency is to orient towards
+											that which is new and novel is activated.
+											I don&#39;t think it&#39;s quite as specific a mechanism
+											as the one you alluded to, but maybe a more fundamental one underlying it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Jay Walker: You know, economists love to talk about
+											the stupidity of people who buy lottery tickets. But I suspect
+											you&#39;re making the exact same error you&#39;re accusing those people of,
+											which is the error of value.
+											I know, because I&#39;ve interviewed
+											about 1,000 lottery buyers over the years.
+											It turns out that the value of buying a lottery ticket is not winning.
+											That&#39;s what you think it is. All right?
+											The average lottery buyer buys about 150 tickets a year,
+											so the buyer knows full well that he or she is going to lose,
+											and yet she buys 150 tickets a year. Why is that?
+											It&#39;s not because she is stupid or he is stupid.
+											It&#39;s because the anticipation of possibly winning
+											releases serotonin in the brain, and actually provides a good feeling
+											until the drawing indicates you&#39;ve lost.
+											Or, to put it another way, for the dollar investment,
+											you can have a much better feeling than flushing the money
+											down the toilet, which you cannot have a good feeling from.
+											Now, economists tend to —
+											(Applause)
+											— economists tend to view the world
+											through their own lenses, which is:
+											this is just a bunch of stupid people.
+											And as a result, many people look at economists as stupid people.
+											And so fundamentally, the reason we got to the moon is,
+											we didn&#39;t listen to the economists. Thank you very much.
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											DG: Well, no, it&#39;s a great point. It remains to be seen
+											whether the joy of anticipation is exactly equaled
+											by the amount of disappointment after the lottery. Because remember,
+											people who didn&#39;t buy tickets don&#39;t feel awful the next day either,
+											even though they don&#39;t feel great during the drawing.
+											I would disagree that people know they&#39;re not going to win.
+											I think they think it&#39;s unlikely, but it could happen,
+											which is why they prefer that to the flushing.
+											But certainly I see your point: that there can be
+											some utility to buying a lottery ticket other than winning.
+											Now, I think there&#39;s many good reasons not to listen to economists.
+											That isn&#39;t one of them, for me, but there&#39;s many others.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: Last question.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Aubrey de Grey: My name&#39;s Aubrey de Grey, from Cambridge.
+											I work on the thing that kills more people than anything else kills —
+											I work on aging — and I&#39;m interested in doing something about it,
+											as we&#39;ll all hear tomorrow.
+											I very much resonate with what you&#39;re saying,
+											because it seems to me that the problem
+											with getting people interested in doing anything about aging
+											is that by the time aging is about to kill you it looks like cancer
+											or heart disease or whatever. Do you have any advice?
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											DG: For you or for them?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AdG: In persuading them.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											DG: Ah, for you in persuading them.
+											Well, it&#39;s notoriously difficult to get people to be farsighted.
+											But one thing that psychologists have tried that seems to work
+											is to get people to imagine the future more vividly.
+											One of the problems with making decisions about the far future
+											and the near future is that we imagine the near future
+											much more vividly than the far future.
+											To the extent that you can equalize the amount of detail
+											that people put into the mental representations
+											of near and far future, people begin to make decisions
+											about the two in the same way.
+											So, would you like to have an extra 100,000 dollars when you&#39;re 65
+											is a question that&#39;s very different than,
+											imagine who you&#39;ll be when you&#39;re 65: will you be living,
+											what will you look like, how much hair will you have,
+											who will you be living with.
+											Once we have all the details of that imaginary scenario,
+											suddenly we feel like it might be important to save
+											so that that guy has a little retirement money.
+											But these are tricks around the margins.
+											I think in general you&#39;re battling a very fundamental human tendency,
+											which is to say, &quot;I&#39;m here today,
+											and so now is more important than later.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: Dan, thank you. Members of the audience,
+											that was a fantastic session. Thank you.
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":357,"count":232,"talk_id":420},"threadId":357,"current_talk":"420","description":"Dan Gilbert presents research and data from his exploration of happiness -- sharing some surprising tests and experiments that you can also try on yourself. Watch through to the end for a sparkling Q&A with some familiar TED faces.","event":"TEDGlobal 2005","language":"en","name":"Dan Gilbert: Why we make bad decisions","slug":"dan_gilbert_researches_happiness","speakers":[{"id":"94","slug":"dan_gilbert","is_published":true,"firstname":"Dan","lastname":"Gilbert","middleinitial":"","title":"","description":"Psychologist; happiness expert","photo_url":"https://pe.tedcdn.com/images/ted/1990_254x191.jpg","whatotherssay":"Gilbert's elbow-in-the-ribs social-science humor is actually funny. ... But underneath the goofball brilliance, [he] has a serious argument to make about why human beings are forever wrongly predicting what will make them happy.","whotheyare":"Harvard psychologist Dan Gilbert says our beliefs about what will make us happy are often wrong -- a premise he supports with intriguing research, and explains in his accessible and unexpectedly funny book, <em>Stumbling on Happiness.</em>","whylisten":"<p>Dan Gilbert believes that, in our ardent, lifelong pursuit of happiness, most of us have the wrong map. In the same way that optical illusions fool our eyes -- and fool everyone&#39;s eyes in the same way -- Gilbert argues that <strong>our brains systematically misjudge what will make us happy</strong>. And these quirks in our cognition make humans very poor predictors of our own bliss.<br /><br />The premise of his current research -- that our assumptions about what will make us happy are often wrong -- is supported with clinical research drawn from psychology and neuroscience. But his delivery is what sets him apart. His engaging -- and often hilarious -- style pokes fun at typical human behavior and invokes pop-culture references everyone can relate to. This winning style translates also to Gilbert&#39;s writing, which is <strong>lucid, approachable and laugh-out-loud funny</strong>. The immensely readable <em><a href=\"http://www.randomhouse.com/kvpa/gilbert/\" target=\"_blank\">Stumbling on Happiness</a>,</em> published in 2006, became a <em>New York Times</em> bestseller and has been translated into 20 languages.<br /><br />In fact, the title of his book could be drawn from his own life. At 19, he was a high school dropout with dreams of writing science fiction. When a creative writing class at his community college was full, he enrolled in the only available course: psychology. He found his passion there, earned a doctorate in social psychology in 1985 at Princeton, and has since won a Guggenheim Fellowship and the Phi Beta Kappa teaching prize for his work at Harvard. He has written essays and articles for <em>The New York Times, Time</em> and even <a href=\"http://wjh-www.harvard.edu/~dtg/STARBUCKS%20CUP.pdf\" target=\"_blank\">Starbucks</a>, while <strong>continuing his research into happiness at his <a href=\"http://wjh-www.harvard.edu/~dtg/gilbert.htm\" target=\"_blank\">Hedonic Psychology Laboratory</a>.</strong></p>"}],"url":"https://www.ted.com/talks/dan_gilbert_researches_happiness","viewed_count":4075605,"talks":[{"curator_approved":true,"description":"Dan Gilbert presents research and data from his exploration of happiness -- sharing some surprising tests and experiments that you can also try on yourself. Watch through to the end for a sparkling Q&A with some familiar TED faces.","downloads":{"id":420,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Catalan","endonym":"Català","languageCode":"ca","ianaCode":"ca","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Lithuanian","endonym":"Lietuvių kalba","languageCode":"lt","ianaCode":"lt","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Danish","endonym":"Dansk","languageCode":"da","ianaCode":"da","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Armenian","endonym":"Հայրեն","languageCode":"hy","ianaCode":"hy","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Slovak","endonym":"Slovenčina","languageCode":"sk","ianaCode":"sk","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/DanGilbert_2005G-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/DanGilbert_2005G.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/DanGilbert_2005G-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"zh-tw":{"name":"Chinese, Traditional","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-zh-tw.mp4","low":"https://download.ted.com/talks/DanGilbert_2005G-low-zh-tw.mp4"},"fr":{"name":"French","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-fr.mp4","low":"https://download.ted.com/talks/DanGilbert_2005G-low-fr.mp4"},"de":{"name":"German","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-de.mp4","low":"https://download.ted.com/talks/DanGilbert_2005G-low-de.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/DanGilbert_2005G-low-ja.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-ja.mp4"},"zh-cn":{"name":"Chinese, Simplified","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-zh-cn.mp4","low":"https://download.ted.com/talks/DanGilbert_2005G-low-zh-cn.mp4"},"en":{"name":"English","low":"https://download.ted.com/talks/DanGilbert_2005G-low-en.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/DanGilbert_2005G-low-pt-br.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/DanGilbert_2005G-low-it.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-it.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/DanGilbert_2005G-low-he.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-he.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/DanGilbert_2005G-low-bg.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/DanGilbert_2005G-low-ro.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/DanGilbert_2005G-low-pl.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-pl.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/DanGilbert_2005G-low-nl.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-nl.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/DanGilbert_2005G-low-tr.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-tr.mp4"},"hr":{"name":"Croatian","low":"https://download.ted.com/talks/DanGilbert_2005G-low-hr.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-hr.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/DanGilbert_2005G-low-ru.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-ru.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/DanGilbert_2005G-low-hu.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-hu.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/DanGilbert_2005G-low-vi.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-vi.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/DanGilbert_2005G-low-el.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-el.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/DanGilbert_2005G-low-ar.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-ar.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/DanGilbert_2005G-low-fa.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-fa.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/DanGilbert_2005G-low-es.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-es.mp4"},"hy":{"name":"Armenian","low":"https://download.ted.com/talks/DanGilbert_2005G-low-hy.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-hy.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/DanGilbert_2005G-low-sr.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-sr.mp4"},"lt":{"name":"Lithuanian","low":"https://download.ted.com/talks/DanGilbert_2005G-low-lt.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-lt.mp4"},"cs":{"name":"Czech","low":"https://download.ted.com/talks/DanGilbert_2005G-low-cs.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-cs.mp4"},"ca":{"name":"Catalan","low":"https://download.ted.com/talks/DanGilbert_2005G-low-ca.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-ca.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/DanGilbert_2005G-low-ko.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-ko.mp4"},"sk":{"name":"Slovak","low":"https://download.ted.com/talks/DanGilbert_2005G-low-sk.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-sk.mp4"},"da":{"name":"Danish","low":"https://download.ted.com/talks/DanGilbert_2005G-low-da.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-da.mp4"},"th":{"name":"Thai","low":"https://download.ted.com/talks/DanGilbert_2005G-low-th.mp4","high":"https://download.ted.com/talks/DanGilbert_2005G-480p-th.mp4"}},"audioDownload":"https://download.ted.com/talks/DanGilbert_2005G.mp3?apikey=acme-roadrunner"},"duration":2018.0,"event":"TEDGlobal 2005","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/62760_800x600.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/62760_800x600.jpg?q=50&w=15","id":"420","player_talks":[{"id":"420","duration":2018.0,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Catalan","endonym":"Català","languageCode":"ca","ianaCode":"ca","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Lithuanian","endonym":"Lietuvių kalba","languageCode":"lt","ianaCode":"lt","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Danish","endonym":"Dansk","languageCode":"da","ianaCode":"da","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Armenian","endonym":"Հայրեն","languageCode":"hy","ianaCode":"hy","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Slovak","endonym":"Slovenčina","languageCode":"sk","ianaCode":"sk","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2005G/Blank/DanGilbert_2005G-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDGlobal%2B2005%26id%3D420%26tag%3Dbrain%2Cchoice%2Cculture%2Centertainment%2Cgoal-setting%2Chappiness%2Cpsychology%2Cself%2Csociety%26talk%3Ddan_gilbert_researches_happiness%26year%3D2005&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"420","talk":"dan_gilbert_researches_happiness","tag":"brain,choice,culture,entertainment,goal-setting,happiness,psychology,self,society","year":"2005","event":"TEDGlobal 2005"},"stream":"https://hls.ted.com/talks/420.m3u8","metadata":"https://hls.ted.com/talks/420.json"}},"targeting":{"id":"420","talk":"dan_gilbert_researches_happiness","tag":"brain,choice,culture,entertainment,goal-setting,happiness,psychology,self,society","year":"2005","event":"TEDGlobal 2005"},"canonical":"https://www.ted.com/talks/dan_gilbert_researches_happiness","name":"Dan Gilbert: Why we make bad decisions","title":"Why we make bad decisions","speaker":"Dan Gilbert","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/62760_800x600.jpg?quality=89&w=600","slug":"dan_gilbert_researches_happiness","event":"TEDGlobal 2005","published":1229412720}],"ratings":[{"id":22,"name":"Fascinating","count":1443},{"id":24,"name":"Persuasive","count":911},{"id":7,"name":"Funny","count":456},{"id":8,"name":"Informative","count":1447},{"id":23,"name":"Jaw-dropping","count":218},{"id":10,"name":"Inspiring","count":557},{"id":2,"name":"Confusing","count":45},{"id":9,"name":"Ingenious","count":342},{"id":11,"name":"Longwinded","count":87},{"id":21,"name":"Unconvincing","count":54},{"id":26,"name":"Obnoxious","count":30},{"id":1,"name":"Beautiful","count":61},{"id":3,"name":"Courageous","count":56},{"id":25,"name":"OK","count":145}],"recorded_at":"2005-07-07T00:00:00.000+00:00","related_talks":[{"id":"191","hero":"https://pe.tedcdn.com/images/ted/71aec3246b3aebe6d284668935080bda4fa8b41a_1600x1200.jpg","speaker":"Matthieu Ricard","title":"The habits of happiness","duration":1254.0,"slug":"matthieu_ricard_on_the_habits_of_happiness","viewed_count":7867161},{"id":"97","hero":"https://pe.tedcdn.com/images/ted/016a827cc0757092a0439ab2a63feca8655b6c29_1600x1200.jpg","speaker":"Dan Gilbert","title":"The surprising science of happiness","duration":1276.0,"slug":"dan_gilbert_asks_why_are_we_happy","viewed_count":15685513},{"id":"307","hero":"https://pe.tedcdn.com/images/ted/dfda28474d713d1de50dd1cc5f67c299c8b6eb80_2880x1620.jpg","speaker":"Helen Fisher","title":"The brain in love","duration":956.0,"slug":"helen_fisher_studies_the_brain_in_love","viewed_count":5324107},{"id":"1367","hero":"https://pe.tedcdn.com/images/ted/da4cf2be5d40c0b74bdfd51882d6ba3c52571e22_800x600.jpg","speaker":"Shlomo Benartzi","title":"Saving for tomorrow, tomorrow","duration":1065.0,"slug":"shlomo_benartzi_saving_more_tomorrow","viewed_count":1464525},{"id":"1437","hero":"https://pe.tedcdn.com/images/ted/91479a48d6bd17eaf27c642b3a9085a22a74351a_800x600.jpg","speaker":"Rory Sutherland","title":"Perspective is everything","duration":1104.0,"slug":"rory_sutherland_perspective_is_everything","viewed_count":2463888},{"id":"2835","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/92d2f58f-d3ac-4cf8-80d7-d31a313c30bb/AlexanderWagner_2016X-embed.jpg","speaker":"Alexander Wagner","title":"What really motivates people to be honest in business","duration":808.0,"slug":"alexander_wagner_what_really_motivates_people_to_be_honest_in_business","viewed_count":1378112}],"slug":"dan_gilbert_researches_happiness","speakers":[{"id":"94","slug":"dan_gilbert","is_published":true,"firstname":"Dan","lastname":"Gilbert","middleinitial":"","title":"","description":"Psychologist; happiness expert","photo_url":"https://pe.tedcdn.com/images/ted/1990_254x191.jpg","whatotherssay":"Gilbert's elbow-in-the-ribs social-science humor is actually funny. ... But underneath the goofball brilliance, [he] has a serious argument to make about why human beings are forever wrongly predicting what will make them happy.","whotheyare":"Harvard psychologist Dan Gilbert says our beliefs about what will make us happy are often wrong -- a premise he supports with intriguing research, and explains in his accessible and unexpectedly funny book, <em>Stumbling on Happiness.</em>","whylisten":"<p>Dan Gilbert believes that, in our ardent, lifelong pursuit of happiness, most of us have the wrong map. In the same way that optical illusions fool our eyes -- and fool everyone&#39;s eyes in the same way -- Gilbert argues that <strong>our brains systematically misjudge what will make us happy</strong>. And these quirks in our cognition make humans very poor predictors of our own bliss.<br /><br />The premise of his current research -- that our assumptions about what will make us happy are often wrong -- is supported with clinical research drawn from psychology and neuroscience. But his delivery is what sets him apart. His engaging -- and often hilarious -- style pokes fun at typical human behavior and invokes pop-culture references everyone can relate to. This winning style translates also to Gilbert&#39;s writing, which is <strong>lucid, approachable and laugh-out-loud funny</strong>. The immensely readable <em><a href=\"http://www.randomhouse.com/kvpa/gilbert/\" target=\"_blank\">Stumbling on Happiness</a>,</em> published in 2006, became a <em>New York Times</em> bestseller and has been translated into 20 languages.<br /><br />In fact, the title of his book could be drawn from his own life. At 19, he was a high school dropout with dreams of writing science fiction. When a creative writing class at his community college was full, he enrolled in the only available course: psychology. He found his passion there, earned a doctorate in social psychology in 1985 at Princeton, and has since won a Guggenheim Fellowship and the Phi Beta Kappa teaching prize for his work at Harvard. He has written essays and articles for <em>The New York Times, Time</em> and even <a href=\"http://wjh-www.harvard.edu/~dtg/STARBUCKS%20CUP.pdf\" target=\"_blank\">Starbucks</a>, while <strong>continuing his research into happiness at his <a href=\"http://wjh-www.harvard.edu/~dtg/gilbert.htm\" target=\"_blank\">Hedonic Psychology Laboratory</a>.</strong></p>"}],"speaker_name":"Dan Gilbert","tags":["brain","choice","culture","entertainment","goal-setting","happiness","psychology","self","society"],"title":"Why we make bad decisions","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":4075605}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

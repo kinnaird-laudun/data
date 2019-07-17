@@ -1,0 +1,1653 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Hugh Herr: The new bionics that let us run, climb and dance | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Hugh Herr is building the next generation of bionic limbs, robotic prosthetics inspired by nature&#39;s own designs. Herr lost both legs in a climbing accident 30 years ago; now, as the head of the MIT Media Lab&#39;s Biomechatronics group, he shows his incredible technology in a talk that&#39;s both technical and deeply personal — with the help of ballroom dancer Adrianne Haslet-Davis, who lost her left leg in the 2013 Boston Marathon bombing, and performs again for the first time on the TED stage." />
+<meta name="author" content="Hugh Herr" />
+<link rel="canonical" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=el" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=vi" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=pt-br" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=nl" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=pt" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=tr" />
+<link rel="alternate" hreflang="lv" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=lv" />
+<link rel="alternate" hreflang="hr" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=hr" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=en" />
+<link rel="alternate" hreflang="th" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=th" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=bg" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=fa" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=he" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=sr" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=ko" />
+<link rel="alternate" hreflang="sv" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=sv" />
+<link rel="alternate" hreflang="sk" href="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript?language=sk" />
+<meta property="og:title" content="Transcript of &quot;The new bionics that let us run, climb and dance&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ca0520623aeb359f6d5f371d516371fadcae2454_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ca0520623aeb359f6d5f371d516371fadcae2454_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Hugh Herr: The new bionics that let us run, climb and dance" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Hugh Herr is building the next generation of bionic limbs, robotic prosthetics inspired by nature&#39;s own designs. Herr lost both legs in a climbing accident 30 years ago; now, as the head of the MIT Media Lab&#39;s Biomechatronics group, he shows his incredible technology in a talk that&#39;s both technical and deeply personal — with the help of ballroom dancer Adrianne Haslet-Davis, who lost her left leg in the 2013 Boston Marathon bombing, and performs again for the first time on the TED stage." />
+<meta property="og:url" content="https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 1959);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance' itemprop='url'>
+<meta content='The new bionics that let us run, climb and dance' itemprop='name'>
+<meta content="Hugh Herr is building the next generation of bionic limbs, robotic prosthetics inspired by nature's own designs. Herr lost both legs in a climbing accident 30 years ago; now, as the head of the MIT Media Lab's Biomechatronics group, he shows his incredible technology in a talk that's both technical and deeply personal — with the help of ballroom dancer Adrianne Haslet-Davis, who lost her left leg in the 2013 Boston Marathon bombing, and performs again for the first time on the TED stage." itemprop='description'>
+<meta content='PT19M' itemprop='duration'>
+<meta content='2014-03-28T12:12:15+00:00' itemprop='uploadDate'>
+<meta content='8390910' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ca0520623aeb359f6d5f371d516371fadcae2454_1600x1200.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/hugh_herr' itemprop='url'>
+<meta content='Hugh Herr' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/f40085693af36ac284c630d2fd21a4048dcf13dd_254x191.jpg' itemprop='image'>
+</span>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/adrianne_haslet_davis' itemprop='url'>
+<meta content='Adrianne Haslet-Davis' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/aa80f557e7df4ba401ae632cb37e0c8b7e221918_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ca0520623aeb359f6d5f371d516371fadcae2454_1600x1200.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Hugh Herr
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					8,390,910
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 19:00</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Looking deeply inside nature,
+											through the magnifying glass of science,
+											designers extract principles,
+processes and materials
+											that are forming the very basis
+of design methodology.
+											From synthetic constructs
+that resemble biological materials,
+											to computational methods
+that emulate neural processes,
+											nature is driving design.
+											Design is also driving nature.
+											In realms of genetics, regenerative
+medicine and synthetic biology,
+											designers are growing novel technologies,
+											not foreseen or anticipated by nature.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Bionics explores the interplay
+between biology and design.
+											As you can see, my legs are bionic.
+											Today, I will tell human stories
+of bionic integration;
+											how electromechanics attached
+to the body, and implanted inside the body
+											are beginning to bridge the gap
+between disability and ability,
+											between human limitation
+and human potential.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Bionics has defined my physicality.
+											In 1982, both of my legs were amputated
+											due to tissue damage from frostbite,
+											incurred during
+a mountain-climbing accident.
+											At that time, I didn&#39;t
+view my body as broken.
+											I reasoned that a human being
+can never be &quot;broken.&quot;
+											Technology is broken.
+											Technology is inadequate.
+											This simple but powerful idea
+was a call to arms,
+											to advance technology
+for the elimination of my own disability,
+											and ultimately, the disability of others.
+											I began by developing specialized limbs
+											that allowed me to return
+to the vertical world
+											of rock and ice climbing.
+											I quickly realized that the artificial
+part of my body is malleable;
+											able to take on any form, any function —
+											a blank slate for which to create,
+											perhaps, structures that could extend
+beyond biological capability.
+											I made my height adjustable.
+											I could be as short as five feet
+or as tall as I&#39;d like.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So when I was feeling bad about myself,
+											insecure, I would jack my height up.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But when I was feeling
+confident and suave,
+											I would knock my height down a notch,
+just to give the competition a chance.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Narrow-edged feet allowed me
+to climb steep rock fissures,
+											where the human foot cannot penetrate,
+											and spiked feet enabled me
+to climb vertical ice walls,
+											without ever experiencing
+muscle leg fatigue.
+											Through technological innovation,
+											I returned to my sport,
+stronger and better.
+											Technology had eliminated my disability,
+											and allowed me a new climbing prowess.
+											As a young man, I imagined a future world
+where technology so advanced
+											could rid the world of disability,
+											a world in which neural
+implants would allow
+											the visually impaired to see.
+											A world in which the paralyzed
+could walk, via body exoskeletons.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Sadly, because of
+deficiencies in technology,
+											disability is rampant in the world.
+											This gentleman is missing three limbs.
+											As a testimony to current technology,
+he is out of the wheelchair,
+											but we need to do a better job in bionics,
+to allow, one day, full rehabilitation
+											for a person with this level of injury.
+											At the MIT Media Lab, we&#39;ve established
+the Center for Extreme Bionics.
+											The mission of the center
+is to put forth fundamental science
+											and technological capability
+											that will allow the biomechatronic
+and regenerative repair of humans,
+											across a broad range
+of brain and body disabilities.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Today, I&#39;m going to tell you
+how my legs function, how they work,
+											as a case in point for this center.
+											Now, I made sure to shave
+my legs last night,
+											because I knew I&#39;d be showing them off.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Bionics entails the engineering
+of extreme interfaces.
+											There&#39;s three extreme
+interfaces in my bionic limbs:
+											mechanical, how my limbs
+are attached to my biological body;
+											dynamic, how they move
+like flesh and bone;
+											and electrical, how they communicate
+with my nervous system.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I&#39;ll begin with mechanical interface.
+											In the area of design,
+we still do not understand
+											how to attach devices
+to the body mechanically.
+											It&#39;s extraordinary to me
+that in this day and age,
+											one of the most mature,
+oldest technologies
+											in the human timeline, the shoe,
+still gives us blisters.
+											How can this be?
+											We have no idea how to attach
+things to our bodies.
+											This is the beautifully
+lyrical design work
+											of Professor Neri Oxman
+at the MIT Media Lab,
+											showing spatially varying
+exoskeletal impedances,
+											shown here by color variation
+in this 3D-printed model.
+											Imagine a future where clothing
+is stiff and soft where you need it,
+											when you need it, for optimal
+support and flexibility,
+											without ever causing discomfort.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											My bionic limbs are attached
+to my biological body
+											via synthetic skins
+with stiffness variations,
+											that mirror my underlying
+tissue biomechanics.
+											To achieve that mirroring, we first
+developed a mathematical model
+											of my biological limb.
+											To that end, we used
+imaging tools such as MRI,
+											to look inside my body,
+											to figure out the geometries
+and locations of various tissues.
+											We also took robotic tools —
+											here&#39;s a 14-actuator circle
+that goes around the biological limb.
+											The actuators come in,
+find the surface of the limb,
+											measure its unloaded shape,
+											and then they push on the tissues
+											to measure tissue compliances
+at each anatomical point.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We combine these imaging and robotic data
+											to build a mathematical description
+of my biological limb, shown on the left.
+											You see a bunch of points, or nodes?
+											At each node, there&#39;s a color
+that represents tissue compliance.
+											We then do a mathematical transformation
+to the design of the synthetic skin,
+											shown on the right.
+											And we&#39;ve discovered optimality is:
+											where the body is stiff,
+the synthetic skin should be soft,
+											where the body is soft,
+the synthetic skin is stiff,
+											and this mirroring occurs
+across all tissue compliances.
+											With this framework,
+we&#39;ve produced bionic limbs
+											that are the most comfortable
+limbs I&#39;ve ever worn.
+											Clearly, in the future, our clothing,
+our shoes, our braces, our prostheses,
+											will no longer be designed
+and manufactured using artisan strategies,
+											but rather, data-driven
+quantitative frameworks.
+											In that future, our shoes
+will no longer give us blisters.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We&#39;re also embedding
+sensing and smart materials
+											into the synthetic skins.
+											This is a material developed
+by SRI International, California.
+											Under electrostatic effect,
+it changes stiffness.
+											So under zero voltage,
+the material is compliant,
+											it&#39;s floppy like paper.
+											Then the button&#39;s pushed,
+a voltage is applied,
+											and it becomes stiff as a board.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Tapping sounds)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We embed this material
+into the synthetic skin
+											that attaches my bionic limb
+to my biological body.
+											When I walk here, it&#39;s no voltage.
+											My interface is soft and compliant.
+											The button&#39;s pushed,
+voltage is applied, and it stiffens,
+											offering me a greater maneuverability
+over the bionic limb.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We&#39;re also building exoskeletons.
+											This exoskeleton becomes stiff and soft
+											in just the right areas
+of the running cycle,
+											to protect the biological joints
+from high impacts and degradation.
+											In the future, we&#39;ll all
+be wearing exoskeletons
+											in common activities, such as running.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Next, dynamic interface.
+											How do my bionic limbs
+move like flesh and bone?
+											At my MIT lab, we study how humans
+with normal physiologies
+											stand, walk and run.
+											What are the muscles doing,
+											and how are they controlled
+by the spinal cord?
+											This basic science
+motivates what we build.
+											We&#39;re building bionic ankles,
+knees and hips.
+											We&#39;re building body parts
+from the ground up.
+											The bionic limbs that I&#39;m wearing
+are called BiOMs.
+											They&#39;ve been fitted
+to nearly 1,000 patients,
+											400 of which have been
+wounded U.S. soldiers.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											How does it work?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											At heel strike, under computer control,
+											the system controls stiffness,
+											to attenuate the shock
+of the limb hitting the ground.
+											Then at mid-stance, the bionic limb
+outputs high torques and powers
+											to lift the person
+into the walking stride,
+											comparable to how muscles
+work in the calf region.
+											This bionic propulsion is very important
+clinically to patients.
+											So on the left, you see
+the bionic device worn by a lady,
+											on the right, a passive device
+worn by the same lady,
+											that fails to emulate
+normal muscle function,
+											enabling her to do something
+everyone should be able to do:
+											go up and down their steps at home.
+											Bionics also allows
+for extraordinary athletic feats.
+											Here&#39;s a gentleman running
+up a rocky pathway.
+											This is Steve Martin —
+not the comedian —
+											who lost his legs in a bomb blast
+in Afghanistan.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We&#39;re also building exoskeletal
+structures using these same principles,
+											that wrap around the biological limb.
+											This gentleman does not have
+any leg condition, any disability.
+											He has a normal physiology,
+											so these exoskeletons are applying
+muscle-like torques and powers,
+											so that his own muscles need not
+apply those torques and powers.
+											This is the first exoskeleton in history
+that actually augments human walking.
+											It significantly reduces metabolic cost.
+											It&#39;s so profound in its augmentation,
+											that when a normal, healthy person
+wears the device for 40 minutes
+											and then takes it off,
+											their own biological legs feel
+ridiculously heavy and awkward.
+											We&#39;re beginning the age in which
+machines attached to our bodies
+											will make us stronger
+and faster and more efficient.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Moving on to electrical interface:
+											How do my bionic limbs communicate
+with my nervous system?
+											Across my residual limb are electrodes
+											that measure the electrical
+pulse of my muscles.
+											That&#39;s communicated to the bionic limb,
+											so when I think about moving
+my phantom limb,
+											the robot tracks those movement desires.
+											This diagram shows fundamentally
+how the bionic limb is controlled.
+											So we model the missing biological limb,
+											and we&#39;ve discovered
+what reflexes occurred,
+											how the reflexes of the spinal cord
+are controlling the muscles.
+											And that capability is embedded
+in the chips of the bionic limb.
+											What we&#39;ve done, then, is we modulate
+the sensitivity of the reflex,
+											the modeled spinal reflex,
+with the neural signal,
+											so when I relax my muscles
+in my residual limb,
+											I get very little torque and power,
+											but the more I fire my muscles,
+the more torque I get,
+											and I can even run.
+											And that was the first demonstration
+of a running gait under neural command.
+											Feels great.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We want to go a step further.
+											We want to actually close the loop
+											between the human
+and the bionic external limb.
+											We&#39;re doing experiments
+											where we&#39;re growing nerves,
+transected nerves,
+											through channels, or micro-channel arrays.
+											On the other side of the channel,
+											the nerve then attaches to cells,
+											skin cells and muscle cells.
+											In the motor channels, we can sense
+how the person wishes to move.
+											That can be sent out wirelessly
+to the bionic limb,
+											then [sensory information]
+on the bionic limb
+											can be converted to stimulations
+in adjacent channels,
+											sensory channels.
+											So when this is fully developed
+and for human use,
+											persons like myself will not only have
+											synthetic limbs that move
+like flesh and bone,
+											but actually feel like flesh and bone.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This video shows Lisa Mallette,
+											shortly after being fitted
+with two bionic limbs.
+											Indeed, bionics is making
+a profound difference in people&#39;s lives.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Video) Lisa Mallette: Oh my God.
+											LM: Oh my God, I can&#39;t believe it!
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Video) (Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											LM: It&#39;s just like I&#39;ve got a real leg!
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Woman: Now, don&#39;t start running.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Man: Now turn around,
+and do the same thing walking up,
+											but get on your heel to toe, like you
+would normally just walk on level ground.
+											Try to walk right up the hill.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											LM: Oh my God.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Man: Is it pushing you up?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											LM: Yes! I&#39;m not even —
+I can&#39;t even describe it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Man: It&#39;s pushing you right up.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Hugh Herr: Next week,
+I&#39;m visiting the Center —
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you. Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Next week I&#39;m visiting the Center
+for Medicare and Medicaid Services,
+											and I&#39;m going to try to convince CMS
+											to grant appropriate
+code language and pricing,
+											so this technology can be made available
+to the patients that need it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It&#39;s not well appreciated,
+but over half of the world&#39;s population
+											suffers from some form of cognitive,
+emotional, sensory or motor condition,
+											and because of poor technology,
+too often, conditions result in disability
+											and a poorer quality of life.
+											Basic levels of physiological function
+should be a part of our human rights.
+											Every person should have the right
+to live life without disability
+											if they so choose —
+											the right to live life
+without severe depression;
+											the right to see a loved one,
+in the case of seeing-impaired;
+											or the right to walk or to dance,
+											in the case of limb paralysis
+or limb amputation.
+											As a society, we can
+achieve these human rights,
+											if we accept the proposition
+that humans are not disabled.
+											A person can never be broken.
+											Our built environment, our technologies,
+											are broken and disabled.
+											We the people need not
+accept our limitations,
+											but can transcend disability
+through technological innovation.
+											Indeed, through fundamental advances
+in bionics in this century,
+											we will set the technological foundation
+for an enhanced human experience,
+											and we will end disability.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I&#39;d like to finish up
+with one more story, a beautiful story.
+											The story of Adrianne Haslet-Davis.
+											Adrianne lost her left leg
+in the Boston terrorist attack.
+											I met Adrianne when this photo was taken,
+at Spaulding Rehabilitation Hospital.
+											Adrianne is a dancer, a ballroom dancer.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Adrianne breathes and lives dance.
+											It is her expression. It is her art form.
+											Naturally, when she lost her limb
+in the Boston terrorist attack,
+											she wanted to return to the dance floor.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											After meeting her
+and driving home in my car,
+											I thought, I&#39;m an MIT professor.
+I have resources.
+											Let&#39;s build her a bionic limb,
+											to enable her to go back
+to her life of dance.
+											I brought in MIT scientists
+with expertise in prosthetics,
+											robotics, machine learning
+and biomechanics,
+											and over a 200-day research period,
+we studied dance.
+											We brought in dancers
+with biological limbs,
+											and we studied how they move,
+											what forces they apply on the dance floor,
+											and we took those data,
+											and we put forth
+fundamental principles of dance,
+											reflexive dance capability,
+											and we embedded that intelligence
+into the bionic limb.
+											Bionics is not only about making
+people stronger and faster.
+											Our expression, our humanity
+can be embedded into electromechanics.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It was 3.5 seconds between the bomb blasts
+in the Boston terrorist attack.
+											In 3.5 seconds, the criminals and cowards
+took Adrianne off the dance floor.
+											In 200 days, we put her back.
+											We will not be intimidated, brought down,
+diminished, conquered or stopped
+											by acts of violence.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Ladies and gentlemen, please allow me
+to introduce Adrianne Haslet-Davis,
+											her first performance since the attack.
+											She&#39;s dancing with Christian Lightner.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music: &quot;Ring My Bell&quot;
+performed by Enrique Iglesias)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Ladies and gentlemen,
+members of the research team:
+											Elliott Rouse
+											and Nathan Villagaray-Carski.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Elliott and Nathan.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":25524,"count":326,"talk_id":1959},"threadId":25524,"current_talk":"1959","description":"Hugh Herr is building the next generation of bionic limbs, robotic prosthetics inspired by nature's own designs. Herr lost both legs in a climbing accident 30 years ago; now, as the head of the MIT Media Lab's Biomechatronics group, he shows his incredible technology in a talk that's both technical and deeply personal — with the help of ballroom dancer Adrianne Haslet-Davis, who lost her left leg in the 2013 Boston Marathon bombing, and performs again for the first time on the TED stage.","event":"TED2014","language":"en","name":"Hugh Herr: The new bionics that let us run, climb and dance","slug":"hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance","speakers":[{"id":"1779","slug":"hugh_herr","is_published":true,"firstname":"Hugh","lastname":"Herr","middleinitial":"","title":"","description":"Bionics designer","photo_url":"https://pe.tedcdn.com/images/ted/f40085693af36ac284c630d2fd21a4048dcf13dd_254x191.jpg","whatotherssay":"","whotheyare":"At MIT, Hugh Herr builds prosthetic knees, legs and ankles that fuse biomechanics with microprocessors to restore (and perhaps enhance) normal gait, balance and speed.","whylisten":"<p>Hugh Herr co-directs the&nbsp;Center for Extreme Bionics&nbsp;at the MIT Media Lab, where he is pioneering a new class of biohybrid smart prostheses and orthoses to improve the quality of life for thousands of people with physical challenges. A powered ankle-foot prosthesis called the Empower by Ottobock, for instance, emulates the action of a biological leg to create a natural gait, allowing persons with amputation to walk with normal levels of speed and metabolism as if their legs were biological.&nbsp;&nbsp;</p><p>Herr also advances powerful body exoskeletons that augment human physicality beyond innate physiological levels, enabling humans to walk and run faster with less metabolic energy. He is the co-founder and Chief Scientific Officer of Dephy Inc., which creates products that augment physiological function through electromechanical enhancement.</p><p>&nbsp;</p>"},{"id":"1847","slug":"adrianne_haslet_davis","is_published":true,"firstname":"Adrianne","lastname":"Haslet-Davis","middleinitial":"","title":"","description":"Ballroom dancer","photo_url":"https://pe.tedcdn.com/images/ted/aa80f557e7df4ba401ae632cb37e0c8b7e221918_254x191.jpg","whatotherssay":"","whotheyare":"When Adrianne Haslet-Davis lost her left foot in the Boston Marathon bombing, her left leg was amputated to the knee. Less than a year later, she's back on her feet and dancing again.","whylisten":"<p>To ballroom dancer Adrianne Haslet-Davis, dancing was everything. So when she lost her left foot in the April 2013 Boston Marathon bombing, she vowed &mdash; from her hospital bed &mdash; that&nbsp;<a href=\"http://bostonherald.com/news_opinion/columnists/peter_gelzinis/2013/04/dance_instructor_injured_in_bombing_vows_ill_dance\" target=\"_blank\">she would dance again</a>. Two hundred days later, standing on the TED2014 stage, she did just that. With the help of MIT prostheticist Hugh Herr, Haslet-Davis performed in Vancouver for the first time since the bombing.&nbsp;</p>"}],"url":"https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance","viewed_count":8390910,"talks":[{"recommendations":{"status":"approved","headline":"Hugh Herr recommends","blurb":"The bionics visionary recommends websites and further reading on the future of aiding and augmenting the human body.","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"recommendation","rec_lists":[{"title":"Reading list","description":"","rec_items":[{"label":"EXPLORE","headline":"Biomechatronics at the MIT Media Lab","blurb":"","note":"","link_url":"http://biomech.media.mit.edu","position":null,"is_pdf":false,"eyebrow":null},{"label":"READ_Article","headline":"Conversation with Hugh Herr: A Blank Canvas to Create Smart Limbs","blurb":"","note":"Claudia Dreifus\r\n*The New York Times*, April 29, 2013","link_url":"http://www.nytimes.com/2013/04/30/science/a-blank-canvas-to-create-smart-limbs.html","position":null,"is_pdf":false,"eyebrow":null},{"label":"WATCH","headline":"Nova's The Secret Life of Scientists & Engineers: Hugh Herr","blurb":"","note":"PBS","link_url":"http://www.pbs.org/wgbh/nova/blogs/secretlife/engineering/hugh-herr/","position":null,"is_pdf":false,"eyebrow":null},{"label":"EXPLORE","headline":"BiOM","blurb":"This is my company. It develops and markets the prostheses I wear in my talk.","note":"","link_url":"http://www.biom.com/","position":null,"is_pdf":false,"eyebrow":null}]}]},"more_resources":[{"status":"approved","headline":"How bionics will bring about the end of disability","blurb":"Hugh Herr shares his vision for a world where there's no such thing as \"disabled,\" and describes how that future might be closer than you think.","link_url":"http://blog.ted.com/2014/03/19/youve-given-me-my-body-back-a-qa-with-hugh-herr/","image_url":"","visible_url":"","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"from_the_blog"}],"corrections":[],"has_citations":false,"take_action":[],"curator_approved":true,"description":"Hugh Herr is building the next generation of bionic limbs, robotic prosthetics inspired by nature's own designs. Herr lost both legs in a climbing accident 30 years ago; now, as the head of the MIT Media Lab's Biomechatronics group, he shows his incredible technology in a talk that's both technical and deeply personal — with the help of ballroom dancer Adrianne Haslet-Davis, who lost her left leg in the 2013 Boston Marathon bombing, and performs again for the first time on the TED stage.","downloads":{"id":1959,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Latvian","endonym":"Latviešu","languageCode":"lv","ianaCode":"lv","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Slovak","endonym":"Slovenčina","languageCode":"sk","ianaCode":"sk","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/HughHerr_2014-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/HughHerr_2014.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/HughHerr_2014-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"el":{"name":"Greek","low":"https://download.ted.com/talks/HughHerr_2014-low-el.mp4","high":"https://download.ted.com/talks/HughHerr_2014-480p-el.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/HughHerr_2014-low-fa.mp4","high":"https://download.ted.com/talks/HughHerr_2014-480p-fa.mp4"},"en":{"name":"English","low":"https://download.ted.com/talks/HughHerr_2014-low-en.mp4","high":"https://download.ted.com/talks/HughHerr_2014-480p-en.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/HughHerr_2014-low-he.mp4","high":"https://download.ted.com/talks/HughHerr_2014-480p-he.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/HughHerr_2014-low-ko.mp4","high":"https://download.ted.com/talks/HughHerr_2014-480p-ko.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/HughHerr_2014-low-zh-tw.mp4","high":"https://download.ted.com/talks/HughHerr_2014-480p-zh-tw.mp4"},"es":{"name":"Spanish","high":"https://download.ted.com/talks/HughHerr_2014-480p-es.mp4","low":"https://download.ted.com/talks/HughHerr_2014-low-es.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/HughHerr_2014-low-ru.mp4","high":"https://download.ted.com/talks/HughHerr_2014-480p-ru.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/HughHerr_2014-low-bg.mp4","high":"https://download.ted.com/talks/HughHerr_2014-480p-bg.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/HughHerr_2014-low-ja.mp4","high":"https://download.ted.com/talks/HughHerr_2014-480p-ja.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/HughHerr_2014-low-zh-cn.mp4","high":"https://download.ted.com/talks/HughHerr_2014-480p-zh-cn.mp4"},"nl":{"name":"Dutch","high":"https://download.ted.com/talks/HughHerr_2014-480p-nl.mp4","low":"https://download.ted.com/talks/HughHerr_2014-low-nl.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/HughHerr_2014-low-it.mp4","high":"https://download.ted.com/talks/HughHerr_2014-480p-it.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/HughHerr_2014-low-pt-br.mp4","high":"https://download.ted.com/talks/HughHerr_2014-480p-pt-br.mp4"},"fr":{"name":"French","low":"https://download.ted.com/talks/HughHerr_2014-low-fr.mp4","high":"https://download.ted.com/talks/HughHerr_2014-480p-fr.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/HughHerr_2014-low-sr.mp4","high":"https://download.ted.com/talks/HughHerr_2014-480p-sr.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/HughHerr_2014-low-ro.mp4","high":"https://download.ted.com/talks/HughHerr_2014-480p-ro.mp4"},"th":{"name":"Thai","low":"https://download.ted.com/talks/HughHerr_2014-low-th.mp4","high":"https://download.ted.com/talks/HughHerr_2014-480p-th.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/HughHerr_2014-low-pl.mp4","high":"https://download.ted.com/talks/HughHerr_2014-480p-pl.mp4"},"lv":{"name":"Latvian","low":"https://download.ted.com/talks/HughHerr_2014-low-lv.mp4","high":"https://download.ted.com/talks/HughHerr_2014-480p-lv.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/HughHerr_2014-low-tr.mp4","high":"https://download.ted.com/talks/HughHerr_2014-480p-tr.mp4"},"hr":{"name":"Croatian","low":"https://download.ted.com/talks/HughHerr_2014-low-hr.mp4","high":"https://download.ted.com/talks/HughHerr_2014-480p-hr.mp4"},"ar":{"name":"Arabic","high":"https://download.ted.com/talks/HughHerr_2014-480p-ar.mp4","low":"https://download.ted.com/talks/HughHerr_2014-low-ar.mp4"},"sv":{"name":"Swedish","low":"https://download.ted.com/talks/HughHerr_2014-low-sv.mp4","high":"https://download.ted.com/talks/HughHerr_2014-480p-sv.mp4"},"sk":{"name":"Slovak","low":"https://download.ted.com/talks/HughHerr_2014-low-sk.mp4","high":"https://download.ted.com/talks/HughHerr_2014-480p-sk.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/HughHerr_2014-low-vi.mp4","high":"https://download.ted.com/talks/HughHerr_2014-480p-vi.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/HughHerr_2014-low-pt.mp4","high":"https://download.ted.com/talks/HughHerr_2014-480p-pt.mp4"}},"audioDownload":"https://download.ted.com/talks/HughHerr_2014.mp3?apikey=acme-roadrunner"},"duration":1140.0,"event":"TED2014","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/ca0520623aeb359f6d5f371d516371fadcae2454_1600x1200.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ca0520623aeb359f6d5f371d516371fadcae2454_1600x1200.jpg?q=50&w=15","id":"1959","player_talks":[{"id":"1959","duration":1140.0,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Latvian","endonym":"Latviešu","languageCode":"lv","ianaCode":"lv","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Slovak","endonym":"Slovenčina","languageCode":"sk","ianaCode":"sk","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2014/Blank/HughHerr_2014-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTED2014%26id%3D1959%26tag%3Ddance%2Cprosthetics%2Ctechnology%2Cbionics%26talk%3Dhugh_herr_the_new_bionics_that_let_us_run_climb_and_dance%26year%3D2014&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"1959","talk":"hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance","tag":"dance,prosthetics,technology,bionics","year":"2014","event":"TED2014"},"stream":"https://hls.ted.com/talks/1959.m3u8","metadata":"https://hls.ted.com/talks/1959.json"}},"targeting":{"id":"1959","talk":"hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance","tag":"dance,prosthetics,technology,bionics","year":"2014","event":"TED2014"},"canonical":"https://www.ted.com/talks/hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance","name":"Hugh Herr: The new bionics that let us run, climb and dance","title":"The new bionics that let us run, climb and dance","speaker":"Hugh Herr","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/ca0520623aeb359f6d5f371d516371fadcae2454_1600x1200.jpg?quality=89&w=600","slug":"hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance","event":"TED2014","published":1396008735}],"ratings":[{"id":1,"name":"Beautiful","count":1956},{"id":10,"name":"Inspiring","count":2905},{"id":9,"name":"Ingenious","count":1129},{"id":8,"name":"Informative","count":796},{"id":22,"name":"Fascinating","count":1629},{"id":23,"name":"Jaw-dropping","count":806},{"id":3,"name":"Courageous","count":720},{"id":7,"name":"Funny","count":38},{"id":24,"name":"Persuasive","count":135},{"id":11,"name":"Longwinded","count":11},{"id":25,"name":"OK","count":124},{"id":2,"name":"Confusing","count":14},{"id":26,"name":"Obnoxious","count":13},{"id":21,"name":"Unconvincing","count":12}],"recorded_at":"2014-03-12T00:00:00.000+00:00","related_talks":[{"id":"482","hero":"https://pe.tedcdn.com/images/ted/d3d18f76c4b3928cc0b9c603cac4202c9747d93f_2880x1620.jpg","speaker":"Aimee Mullins","title":"My 12 pairs of legs","duration":598.0,"slug":"aimee_mullins_prosthetic_aesthetics","viewed_count":3721342},{"id":"1621","hero":"https://pe.tedcdn.com/images/ted/482ff9325f0dcaba965c110b4a637e8124bd849a_1600x1200.jpg","speaker":"Janine Shepherd","title":"A broken body isn't a broken person","duration":1137.0,"slug":"janine_shepherd_a_broken_body_isn_t_a_broken_person","viewed_count":1444844},{"id":"1251","hero":"https://pe.tedcdn.com/images/ted/bc19fd6b99a64515a4ae0528e2080a72241ede6e_800x600.jpg","speaker":"Todd Kuiken","title":"A prosthetic arm that \"feels\"","duration":1131.0,"slug":"todd_kuiken_a_prosthetic_arm_that_feels","viewed_count":865872},{"id":"17238","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/af23566e-6cce-41ba-9bd6-816576db91a2/HughHerr_2018-embed-r.jpg","speaker":"Hugh Herr","title":"How we'll become cyborgs and extend human potential","duration":913.0,"slug":"hugh_herr_how_we_ll_become_cyborgs_and_extend_human_potential","viewed_count":555267},{"id":"1971","hero":"https://pe.tedcdn.com/images/ted/7a02efea20ecb9aed3507a2cddae1430326ee639_1600x1200.jpg","speaker":"David Sengeh","title":"The sore problem of prosthetic limbs","duration":283.0,"slug":"david_sengeh_the_sore_problem_of_prosthetic_limbs","viewed_count":764177},{"id":"1392","hero":"https://pe.tedcdn.com/images/ted/83c46131c4064a3829743d6caeb1fbec75a8ca26_800x600.jpg","speaker":"Scott Summit","title":"Beautiful artificial limbs","duration":663.0,"slug":"scott_summit_beautiful_artificial_limbs","viewed_count":166400}],"slug":"hugh_herr_the_new_bionics_that_let_us_run_climb_and_dance","speakers":[{"id":"1779","slug":"hugh_herr","is_published":true,"firstname":"Hugh","lastname":"Herr","middleinitial":"","title":"","description":"Bionics designer","photo_url":"https://pe.tedcdn.com/images/ted/f40085693af36ac284c630d2fd21a4048dcf13dd_254x191.jpg","whatotherssay":"","whotheyare":"At MIT, Hugh Herr builds prosthetic knees, legs and ankles that fuse biomechanics with microprocessors to restore (and perhaps enhance) normal gait, balance and speed.","whylisten":"<p>Hugh Herr co-directs the&nbsp;Center for Extreme Bionics&nbsp;at the MIT Media Lab, where he is pioneering a new class of biohybrid smart prostheses and orthoses to improve the quality of life for thousands of people with physical challenges. A powered ankle-foot prosthesis called the Empower by Ottobock, for instance, emulates the action of a biological leg to create a natural gait, allowing persons with amputation to walk with normal levels of speed and metabolism as if their legs were biological.&nbsp;&nbsp;</p><p>Herr also advances powerful body exoskeletons that augment human physicality beyond innate physiological levels, enabling humans to walk and run faster with less metabolic energy. He is the co-founder and Chief Scientific Officer of Dephy Inc., which creates products that augment physiological function through electromechanical enhancement.</p><p>&nbsp;</p>"},{"id":"1847","slug":"adrianne_haslet_davis","is_published":true,"firstname":"Adrianne","lastname":"Haslet-Davis","middleinitial":"","title":"","description":"Ballroom dancer","photo_url":"https://pe.tedcdn.com/images/ted/aa80f557e7df4ba401ae632cb37e0c8b7e221918_254x191.jpg","whatotherssay":"","whotheyare":"When Adrianne Haslet-Davis lost her left foot in the Boston Marathon bombing, her left leg was amputated to the knee. Less than a year later, she's back on her feet and dancing again.","whylisten":"<p>To ballroom dancer Adrianne Haslet-Davis, dancing was everything. So when she lost her left foot in the April 2013 Boston Marathon bombing, she vowed &mdash; from her hospital bed &mdash; that&nbsp;<a href=\"http://bostonherald.com/news_opinion/columnists/peter_gelzinis/2013/04/dance_instructor_injured_in_bombing_vows_ill_dance\" target=\"_blank\">she would dance again</a>. Two hundred days later, standing on the TED2014 stage, she did just that. With the help of MIT prostheticist Hugh Herr, Haslet-Davis performed in Vancouver for the first time since the bombing.&nbsp;</p>"}],"speaker_name":"Hugh Herr","tags":["dance","prosthetics","technology","bionics"],"title":"The new bionics that let us run, climb and dance","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":8390910}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

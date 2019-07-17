@@ -1,0 +1,1425 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Jonathan Zittrain: The Web as random acts of kindness | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Feeling like the world is becoming less friendly? Social theorist Jonathan Zittrain begs to differ. The Internet, he suggests, is made up of millions of disinterested acts of kindness, curiosity and trust." />
+<meta name="author" content="Jonathan Zittrain" />
+<link rel="canonical" href="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript?language=el" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript?language=en" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript?language=vi" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript?language=pt-br" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript?language=nl" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript?language=pt" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript?language=tr" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript?language=bg" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript?language=de" />
+<link rel="alternate" hreflang="hy" href="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript?language=hy" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript?language=he" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript?language=ko" />
+<link rel="alternate" hreflang="mk" href="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript?language=mk" />
+<link rel="alternate" hreflang="uk" href="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript?language=uk" />
+<meta property="og:title" content="Transcript of &quot;The Web as random acts of kindness&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/117051_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/117051_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Jonathan Zittrain: The Web as random acts of kindness" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Feeling like the world is becoming less friendly? Social theorist Jonathan Zittrain begs to differ. The Internet, he suggests, is made up of millions of disinterested acts of kindness, curiosity and trust." />
+<meta property="og:url" content="https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 640);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness' itemprop='url'>
+<meta content='The Web as random acts of kindness' itemprop='name'>
+<meta content='Feeling like the world is becoming less friendly? Social theorist Jonathan Zittrain begs to differ. The Internet, he suggests, is made up of millions of disinterested acts of kindness, curiosity and trust.' itemprop='description'>
+<meta content='PT19M51S' itemprop='duration'>
+<meta content='2009-09-21T01:00:00+00:00' itemprop='uploadDate'>
+<meta content='746424' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/117051_800x600.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/jonathan_zittrain' itemprop='url'>
+<meta content='Jonathan Zittrain' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/117053_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/117051_800x600.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Jonathan Zittrain
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					746,424
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 19:51</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											My name is Jonathan Zittrain,
+											and in my recent work I&#39;ve been a bit of a pessimist.
+											So I thought this morning I would try to be the optimist,
+											and give reason to hope
+											for the future of the Internet
+											by drawing upon its present.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, it may seem like there is less hope today than there was before.
+											People are less kind. There is less trust around.
+											I don&#39;t know. As a simple example,
+											we could run a test here.
+											How many people have ever hitchhiked?
+											I know. How many people have hitchhiked
+											within the past 10 years?
+											Right. So what has changed?
+											It&#39;s not better public transportation.
+											So that&#39;s one reason to think that we might be
+											declensionists, going in the wrong direction.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But I want to give you three examples
+											to try to say that the trend line
+											is in fact in the other direction,
+											and it&#39;s the Internet helping it along.
+											So example number one: the Internet itself.
+											These are three of the founders of the Internet.
+											They were actually high school classmates together
+											at the same high school in suburban Los Angles in the 1960s.
+											You might have had a French club or a Debate club.
+											They had a &quot;Let&#39;s build a global network&quot; club,
+											and it worked out very well.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											They are pictured here for their 25th anniversary
+											Newsweek retrospective on the Internet.
+											And as you can tell,
+											they are basically goof balls.
+											They had one great limitation
+											and one great freedom
+											as they tried to conceive of a global network.
+											The limitation was that they didn&#39;t have any money.
+											No particular amount of capital to invest,
+											of the sort that for a physical network
+											you might need for trucks and people
+											and a hub to move packages around overnight.
+											They had none of that.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But they had an amazing freedom,
+											which was they didn&#39;t have to make any money from it.
+											The Internet has no business plan, never did.
+											No CEO,
+											no firm responsible, singly, for building it.
+											Instead, it&#39;s folks getting together
+											to do something for fun,
+											rather than because they were told to,
+											or because they were expecting to make a mint off of it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											That ethos led to a network architecture,
+											a structure that was unlike
+											other digital networks then or since.
+											So unusual, in fact,
+											that it was said that it&#39;s not clear the Internet could work.
+											As late as 1992, IBM was known to say
+											you couldn&#39;t possibly build a corporate network
+											using Internet Protocol.
+											And even some Internet engineers today say
+											the whole thing is a pilot project and the jury is still out.
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											That&#39;s why the mascot of Internet engineering,
+											if it had one, is said to be the bumblebee.
+											Because the fur-to-wingspan ratio of the bumblebee
+											is far too large for it to be able to fly.
+											And yet, mysteriously, somehow the bee flies.
+											I&#39;m pleased to say that, thanks to massive government funding,
+											about three years ago we finally figured out
+											how bees fly.
+											(Laughter)
+											It&#39;s very complicated, but it turns out they
+											flap their wings very quickly.
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So what is this bizarre architecture configuration
+											that makes the network sing and be so unusual?
+											Well, to move data around
+											from one place to another — again, it&#39;s not like a package courier.
+											It&#39;s more like a mosh pit.
+											(Laughter)
+											Imagine, you being part of a network
+											where, you&#39;re maybe at a sporting event,
+											and you&#39;re sitting in rows like this,
+											and somebody asks for a beer,
+											and it gets handed at the aisle.
+											And your neighborly duty
+											is to pass the beer along,
+											at risk to your own trousers,
+											to get it to the destination.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											No one pays you to do this.
+											It&#39;s just part of your neighborly duty.
+											And, in a way, that&#39;s exactly how packets move around the Internet,
+											sometimes in as many as 25 or 30 hops,
+											with the intervening entities
+											that are passing the data around
+											having no particular contractual or legal obligation
+											to the original sender
+											or to the receiver.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, of course, in a mosh pit it&#39;s hard to specify a destination.
+											You need a lot of trust,
+											but it&#39;s not like, &quot;I&#39;m trying to get to Pensacola, please.&quot;
+											So the Internet needs addressing and directions.
+											It turns out there is no one overall map of the Internet.
+											Instead, again, it is as if we are all sitting together in a theater,
+											but we can only see amidst the fog
+											the people immediately around us.
+											So what do we do to figure out who is where?
+											We turn to the person on the right,
+											and we tell that person what we see on our left,
+											and vice versa.
+											And they can lather, rinse, repeat. And before you know it,
+											you have a general sense of where everything is.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is how Internet addressing and routing actually work.
+											This is a system that relies on kindness and trust,
+											which also makes it very delicate and vulnerable.
+											In rare but striking instances,
+											a single lie told by just one entity
+											in this honeycomb
+											can lead to real trouble.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, for example, last year,
+											the government of Pakistan
+											asked its Internet service providers there
+											to prevent citizens of Pakistan from seeing YouTube.
+											There was a video there that the government did not like
+											and they wanted to make sure it was blocked.
+											This is a common occurrence. Governments everywhere
+											are often trying to block
+											and filter and censor content on the Internet.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Well this one ISP in Pakistan
+											chose to effectuate the block for its subscribers
+											in a rather unusual way.
+											It advertised —
+											the way that you might be asked, if you were part of the Internet,
+											to declare what you see near you — it advertised
+											that near it, in fact, it had suddenly awakened to find
+											that it was YouTube.
+											&quot;That&#39;s right,&quot; it said, &quot;I am YouTube.&quot;
+											Which meant that packets of data
+											from subscribers going to YouTube
+											stopped at the ISP, since they thought they were already there,
+											and the ISP threw them away unopened
+											because the point was to block it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But it didn&#39;t stop there.
+											You see, that announcement
+											went one click out,
+											which got reverberated, one click out.
+											And it turns out that as you look
+											at the postmortem of this event,
+											you have at one moment
+											perfectly working YouTube.
+											Then, at moment number two,
+											you have the fake announcement go out.
+											And within two minutes,
+											it reverberates around
+											and YouTube is blocked everywhere in the world.
+											If you were sitting in Oxford, England, trying to get to YouTube,
+											your packets were going to Pakistan
+											and they weren&#39;t coming back.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now just think about that.
+											One of the most popular websites in the world,
+											run by the most powerful company in the world,
+											and there was nothing that YouTube or Google
+											were particularly privileged to do about it.
+											And yet, somehow, within about two hours,
+											the problem was fixed.
+											How did this happen?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Well, for a big clue, we turn to NANOG.
+											The North American Network Operators Group,
+											a group of people who,
+											on a beautiful day outside,
+											enter into a windowless room,
+											at their terminals
+											reading email and messages
+											in fixed proportion font, like this,
+											and they talk about networks.
+											And some of them are mid-level employees at Internet service providers
+											around the world.
+											And here is the message where one of them says,
+											&quot;Looks like we&#39;ve got a live one. We have a hijacking of YouTube!
+											This is not a drill. It&#39;s not just the cluelessness
+											of YouTube engineers. I promise.
+											Something is up in Pakistan.&quot;
+											And they came together to help find the problem and fix it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So it&#39;s kind of like if your house catches on fire.
+											The bad news is there is no fire brigade.
+											The good news is random people apparate from nowhere,
+											put out the fire and leave without expecting payment or praise.
+											(Applause)
+											I was trying to think of the right model to describe
+											this form of random acts of kindness
+											by geeky strangers.
+											(Laughter)
+											You know, it&#39;s just like the hail goes out
+											and people are ready to help.
+											And it turns out this model is everywhere, once you start looking for it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Example number two: Wikipedia.
+											If a man named Jimbo came up to you in 2001
+											and said, &quot;I&#39;ve got a great idea! We start with seven articles
+											that anybody can edit anything, at any time,
+											and we&#39;ll get a great encyclopedia! Eh?&quot;
+											Right. Dumbest idea ever.
+											(Laughter)
+											In fact, Wikipedia is an idea so profoundly stupid
+											that even Jimbo never had it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Jimbo&#39;s idea was for Nupedia.
+											It was going to be totally traditional. He would pay people money
+											because he was feeling like a good guy,
+											and the money would go to the people
+											and they would write the articles.
+											The wiki was introduced
+											so others could make suggestions on edits —
+											as almost an afterthought, a back room.
+											And then it turns out the back room grew
+											to encompass the entire project.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And today, Wikipedia is so ubiquitous
+											that you can now find it on Chinese restaurant menus.
+											(Laughter)
+											I am not making this up.
+											(Laughter)
+											I have a theory I can explain later.
+											Suffice it to say for now that I prefer my Wikipedia
+											stir-fried with pimentos.
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But now, Wikipedia doesn&#39;t just spontaneously work.
+											How does it really work? It turns out
+											there is a back room that is kind of windowless,
+											metaphorically speaking.
+											And there are a bunch of people who, on a sunny day,
+											would rather be inside
+											and monitoring this, the administrator&#39;s notice board,
+											itself a wiki page that anyone can edit.
+											And you just bring your problems to the page.
+											It&#39;s reminiscent of the description of history
+											as &quot;one damn thing after another,&quot; right?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Number one: &quot;Tendentious editing by user Andyvphil.&quot;
+											Apologies, Andyvphil, if you&#39;re here today.
+											I&#39;m not taking sides.
+											&quot;Anon attacking me for reverting.&quot;
+											Here is my favorite: &quot;A long story.&quot;
+											(Laughter)
+											It turns out there are more people checking this page for problems
+											and wanting to solve them
+											than there are problems arising on the page.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And that&#39;s what keeps Wikipedia afloat.
+											At all times, Wikipedia is approximately
+											45 minutes away from utter destruction. Right?
+											There are spambots crawling it, trying to turn every article
+											into an ad for a Rolex watch.
+											(Laughter)
+											It&#39;s this thin geeky line
+											that keeps it going.
+											Not because it&#39;s a job,
+											not because it&#39;s a career,
+											but because it&#39;s a calling.
+											It&#39;s something they feel impelled to do
+											because they care about it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											They even gather together in such groups
+											as the Counter-Vandalism Unit —
+											&quot;Civility, Maturity, Responsibility&quot; —
+											to just clean up the pages.
+											It does make you wonder if there were, for instance,
+											a massive, extremely popular Star Trek convention one weekend,
+											who would be minding the store?
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So what we see —
+											(Laughter)
+											what we see in this phenomenon
+											is something that the crazed, late traffic engineer
+											Hans Monderman discovered in the Netherlands,
+											and here in South Kensington, that sometimes
+											if you remove some of the external rules and signs and everything else,
+											you can actually end up
+											with a safer environment in which people can function,
+											and one in which they are more human with each other.
+											They&#39;re realizing that they
+											have to take responsibility for what they do.
+											And Wikipedia has embraced this.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Some of you may remember Star Wars Kid,
+											the poor teenager who filmed himself with a golf ball retriever,
+											acting as if it were a light saber.
+											The film, without his permission or even knowledge at first,
+											found its way onto the Internet.
+											Hugely viral video. Extremely popular.
+											Totally mortifying to him.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, it being encyclopedic and all,
+											Wikipedia had to do an article about Star Wars Kid.
+											Every article on Wikipedia has a corresponding discussion page,
+											and on the discussion page
+											they had extensive argument among the Wikipedians
+											as to whether to have his real name
+											featured in the article.
+											You could see arguments on both sides.
+											Here is just a snapshot of some of them.
+											They eventually decided —
+											not unanimously by any means —
+											not to include his real name,
+											despite the fact that nearly all media reports did.
+											They just didn&#39;t think it was the right thing to do.
+											It was an act of kindness.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And to this day, the page for Star Wars Kid
+											has a warning right at the top
+											that says you are not to put his real name on the page.
+											If you do, it will be removed immediately,
+											removed by people who may have disagreed with the original decision,
+											but respect the outcome
+											and work to make it stay
+											because they believe in something bigger than their own opinion.
+											As a lawyer, I&#39;ve got to say these guys are inventing the law
+											and stare decisis and stuff like that as they go along.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, this isn&#39;t just limited to Wikipedia.
+											We see it on blogs all over the place.
+											I mean, this is a 2005 Business Week cover.
+											Wow. Blogs are going to change your business.
+											I know they look silly. And sure they look silly.
+											They start off on all sorts of goofy projects.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is my favorite goofy blog:
+											Catsthatlooklikehitler.com.
+											(Laughter)
+											You send in a picture of your cat
+											if it looks like Hitler.
+											(Laughter)
+											Yeah, I know. Number four, it&#39;s like, can you imagine
+											coming home to that cat everyday?
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But then, you can see the same kind of whimsy
+											applied to people.
+											So this is a blog devoted to unfortunate portraiture.
+											This one says, &quot;Bucolic meadow with split-rail fence.
+											Is that an animal carcass behind her?&quot;
+											(Laughter)
+											You&#39;re like, &quot;You know? I think that&#39;s an animal carcass
+											behind her.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And it&#39;s one after the other.
+											But then you hit this one. Image removed at request of owner.
+											That&#39;s it. Image removed at request of owner.
+											It turns out that somebody lampooned here
+											wrote to the snarky guy that does the site,
+											not with a legal threat, not with an offer of payment,
+											but just said, &quot;Hey, would you mind?&quot;
+											The person said, &quot;No, that&#39;s fine.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I believe we can build architectures online
+											to make such human requests
+											that much easier to do,
+											to make it possible for all of us to see
+											that the data we encounter online
+											is just stuff on which to click and paste and copy and forward
+											that actually represents human emotion
+											and endeavor and impact,
+											and to be able to have an ethical moment
+											where we decide how we want to treat it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I even think it can go into the real world.
+											We can end up, as we get in a world with more censors —
+											everywhere there is something filming you, maybe putting it online —
+											to be able to have a little clip you could wear
+											that says, &quot;You know, I&#39;d rather not.&quot;
+											And then have technology
+											that the person taking the photo will know later,
+											this person requested to be contacted
+											before this goes anywhere big,
+											if you don&#39;t mind.
+											And that person taking the photo can make a decision
+											about how and whether to respect it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											In the real world, we see filtering of this sort
+											taking place in Pakistan.
+											And we now have means that we can build, like this system,
+											so that people can report the filtering as they encounter it.
+											And it&#39;s no longer just a &quot;I don&#39;t know. I couldn&#39;t get there. I guess I&#39;ll move on,&quot;
+											but suddenly a collective consciousness
+											about what is blocked and censored
+											where online.
+											In fact, talk about technology imitating life
+											imitating tech, or maybe it&#39;s the other way around.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											An NYU researcher here took little cardboard robots
+											with smiley faces on them,
+											and a motor that just drove them forward
+											and a flag sticking out the back
+											with a desired destination.
+											It said, &quot;Can you help me get there?&quot;
+											Released it on the streets of Manhattan.
+											(Laughter)
+											They&#39;ll fund anything these days.
+											Here is the chart of over 43 people
+											helping to steer the robot that could not steer
+											and get it on its way, from one corner
+											from one corner of Washington Square Park
+											to another.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											That leads to example number three: hitchhiking.
+											I&#39;m not so sure hitchhiking is dead.
+											Why? There is the Craigslist rideshare board.
+											If it were called the Craigslist hitchhiking board,
+											tumbleweeds would be blowing through it.
+											But it&#39;s the rideshare board, and it&#39;s basically the same thing.
+											Now why are people using it?
+											I don&#39;t know. Maybe they think that, uh, killers don&#39;t plan ahead?
+											(Laughter)
+											No. I think the actual answer is
+											that once you reframe it,
+											once you get out of one set of stale expectations
+											from a failed project that had its day,
+											but now, for whatever reason, is tarnished,
+											you can actually rekindle the kind of human kindness and sharing
+											that something like this on Craigslist represents.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And then you can highlight it
+											into something like,
+											yes, CouchSurfing.org.
+											CouchSurfing: one guy&#39;s idea
+											to, at last, put together people who are going somewhere far away
+											and would like to sleep on a stranger&#39;s couch for free,
+											with people who live far away,
+											and would like someone they don&#39;t know to sleep on their couch for free.
+											It&#39;s a brilliant idea.
+											It&#39;s a bee that, yes, flies.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Amazing how many successful couch surfings there have been.
+											And if you&#39;re wondering, no, there have been no known fatalities
+											associated with CouchSurfing.
+											Although, to be sure, the reputation system, at the moment,
+											works that you leave your report after the couch surfing experience,
+											so there may be some selection bias there.
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, my urging, my thought,
+											is that the Internet isn&#39;t just a pile of information.
+											It&#39;s not a noun. It&#39;s a verb.
+											And when you go on it,
+											if you listen and see carefully and closely enough,
+											what you will discover
+											is that that information
+											is saying something to you.
+											What it&#39;s saying to you is what we heard yesterday,
+											Demosthenes was saying to us.
+											It&#39;s saying, &quot;Let&#39;s march.&quot; Thank you very much.
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":522,"count":96,"talk_id":640},"threadId":522,"current_talk":"640","description":"Feeling like the world is becoming less friendly? Social theorist Jonathan Zittrain begs to differ. The Internet, he suggests, is made up of millions of disinterested acts of kindness, curiosity and trust.","event":"TEDGlobal 2009","language":"en","name":"Jonathan Zittrain: The Web as random acts of kindness","slug":"jonathan_zittrain_the_web_is_a_random_act_of_kindness","speakers":[{"id":"493","slug":"jonathan_zittrain","is_published":true,"firstname":"Jonathan","lastname":"Zittrain","middleinitial":"","title":"","description":"Net watchdog","photo_url":"https://pe.tedcdn.com/images/ted/117053_254x191.jpg","whatotherssay":"Zittrain's book, The Future of the Internet and How to Stop It, sounds ... a klaxon calling to arms everyone who believes that platforms open to user innovation should rule the world, not tethered, sterile appliances that are controlled only by their designers.","whotheyare":"Jonathan Zittrain wants to make sure the electronic frontier stays open -- and he's looking to the Internet's millions of users for its salvation.","whylisten":"<p>The increasing proliferation of &quot;tethered&quot; devices, from iPhones to Xboxes, is only one of countless threats to the freewheeling Internet as we know it. There&#39;s also spam, malware, misguided legislation and a drift away from what Internet law expert Jonathan Zittrain calls &quot;generativity&quot; -- a system&#39;s receptivity to unanticipated (and innovative) change instigated by myriad users. <br /><br />Harvard law professor Zittrain, as an investigator for the OpenNet initiative and co-founder of Harvard&#39;s Berkman Center for Internet and Society, has long studied the legal, technological and world-shaking aspects of quickly morphing virtual terrains. He performed the first large-scale tests of Internet filtering in China and Saudi Arabia in 2002. His initiatives include projects to fight malware (StopBadware) and ChillingEffects, a site designed to support open content by tracking legal threats to individual users.</p>"}],"url":"https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness","viewed_count":746424,"talks":[{"recommendations":null,"more_resources":[{"status":"approved","headline":"*The Future of the Internet and How to Stop It*","blurb":null,"link_url":"http://www.amazon.com/Future-Internet---How-Stop/dp/0300151241/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","image_url":"https://pe.tedcdn.com/images/ted/5912fb9c843ef9000572de8b770b19ad8f71cc6a_450x689.jpg","author":"Jonathan Zittrain","year":"2009","publisher":"Yale University Press","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"book"}],"corrections":[],"has_citations":false,"take_action":[],"curator_approved":true,"description":"Feeling like the world is becoming less friendly? Social theorist Jonathan Zittrain begs to differ. The Internet, he suggests, is made up of millions of disinterested acts of kindness, curiosity and trust.","downloads":{"id":640,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Armenian","endonym":"Հայրեն","languageCode":"hy","ianaCode":"hy","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Macedonian","endonym":"македонски","languageCode":"mk","ianaCode":"mk","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/JonathanZittrain_2009G-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/JonathanZittrain_2009G.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/JonathanZittrain_2009G-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"fr":{"name":"French","high":"https://download.ted.com/talks/JonathanZittrain_2009G-480p-fr.mp4","low":"https://download.ted.com/talks/JonathanZittrain_2009G-low-fr.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/JonathanZittrain_2009G-low-ja.mp4","high":"https://download.ted.com/talks/JonathanZittrain_2009G-480p-ja.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/JonathanZittrain_2009G-low-zh-tw.mp4","high":"https://download.ted.com/talks/JonathanZittrain_2009G-480p-zh-tw.mp4"},"de":{"name":"German","low":"https://download.ted.com/talks/JonathanZittrain_2009G-low-de.mp4","high":"https://download.ted.com/talks/JonathanZittrain_2009G-480p-de.mp4"},"zh-cn":{"name":"Chinese, Simplified","high":"https://download.ted.com/talks/JonathanZittrain_2009G-480p-zh-cn.mp4","low":"https://download.ted.com/talks/JonathanZittrain_2009G-low-zh-cn.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/JonathanZittrain_2009G-low-ko.mp4","high":"https://download.ted.com/talks/JonathanZittrain_2009G-480p-ko.mp4"},"en":{"name":"English","low":"https://download.ted.com/talks/JonathanZittrain_2009G-low-en.mp4","high":"https://download.ted.com/talks/JonathanZittrain_2009G-480p-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/JonathanZittrain_2009G-low-pt-br.mp4","high":"https://download.ted.com/talks/JonathanZittrain_2009G-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/JonathanZittrain_2009G-low-it.mp4","high":"https://download.ted.com/talks/JonathanZittrain_2009G-480p-it.mp4"},"bg":{"name":"Bulgarian","high":"https://download.ted.com/talks/JonathanZittrain_2009G-480p-bg.mp4","low":"https://download.ted.com/talks/JonathanZittrain_2009G-low-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/JonathanZittrain_2009G-low-ro.mp4","high":"https://download.ted.com/talks/JonathanZittrain_2009G-480p-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/JonathanZittrain_2009G-low-pl.mp4","high":"https://download.ted.com/talks/JonathanZittrain_2009G-480p-pl.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/JonathanZittrain_2009G-low-nl.mp4","high":"https://download.ted.com/talks/JonathanZittrain_2009G-480p-nl.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/JonathanZittrain_2009G-low-tr.mp4","high":"https://download.ted.com/talks/JonathanZittrain_2009G-480p-tr.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/JonathanZittrain_2009G-low-ru.mp4","high":"https://download.ted.com/talks/JonathanZittrain_2009G-480p-ru.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/JonathanZittrain_2009G-low-he.mp4","high":"https://download.ted.com/talks/JonathanZittrain_2009G-480p-he.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/JonathanZittrain_2009G-low-ar.mp4","high":"https://download.ted.com/talks/JonathanZittrain_2009G-480p-ar.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/JonathanZittrain_2009G-low-es.mp4","high":"https://download.ted.com/talks/JonathanZittrain_2009G-480p-es.mp4"},"hy":{"name":"Armenian","low":"https://download.ted.com/talks/JonathanZittrain_2009G-low-hy.mp4","high":"https://download.ted.com/talks/JonathanZittrain_2009G-480p-hy.mp4"},"uk":{"name":"Ukrainian","low":"https://download.ted.com/talks/JonathanZittrain_2009G-low-uk.mp4","high":"https://download.ted.com/talks/JonathanZittrain_2009G-480p-uk.mp4"},"mk":{"name":"Macedonian","low":"https://download.ted.com/talks/JonathanZittrain_2009G-low-mk.mp4","high":"https://download.ted.com/talks/JonathanZittrain_2009G-480p-mk.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/JonathanZittrain_2009G-low-el.mp4","high":"https://download.ted.com/talks/JonathanZittrain_2009G-480p-el.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/JonathanZittrain_2009G-low-vi.mp4","high":"https://download.ted.com/talks/JonathanZittrain_2009G-480p-vi.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/JonathanZittrain_2009G-low-pt.mp4","high":"https://download.ted.com/talks/JonathanZittrain_2009G-480p-pt.mp4"}},"audioDownload":"https://download.ted.com/talks/JonathanZittrain_2009G.mp3?apikey=acme-roadrunner"},"duration":1191.0,"event":"TEDGlobal 2009","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/117051_800x600.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/117051_800x600.jpg?q=50&w=15","id":"640","player_talks":[{"id":"640","duration":1191.0,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Armenian","endonym":"Հայրեն","languageCode":"hy","ianaCode":"hy","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Macedonian","endonym":"македонски","languageCode":"mk","ianaCode":"mk","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2009G/Blank/JonathanZittrain_2009G-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDGlobal%2B2009%26id%3D640%26tag%3DInternet%2Cculture%2Claw%2Ctechnology%2Cweb%2Cwikipedia%26talk%3Djonathan_zittrain_the_web_is_a_random_act_of_kindness%26year%3D2009&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"640","talk":"jonathan_zittrain_the_web_is_a_random_act_of_kindness","tag":"Internet,culture,law,technology,web,wikipedia","year":"2009","event":"TEDGlobal 2009"},"stream":"https://hls.ted.com/talks/640.m3u8","metadata":"https://hls.ted.com/talks/640.json"}},"targeting":{"id":"640","talk":"jonathan_zittrain_the_web_is_a_random_act_of_kindness","tag":"Internet,culture,law,technology,web,wikipedia","year":"2009","event":"TEDGlobal 2009"},"canonical":"https://www.ted.com/talks/jonathan_zittrain_the_web_is_a_random_act_of_kindness","name":"Jonathan Zittrain: The Web as random acts of kindness","title":"The Web as random acts of kindness","speaker":"Jonathan Zittrain","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/117051_800x600.jpg?quality=89&w=600","slug":"jonathan_zittrain_the_web_is_a_random_act_of_kindness","event":"TEDGlobal 2009","published":1253494800}],"ratings":[{"id":21,"name":"Unconvincing","count":25},{"id":8,"name":"Informative","count":241},{"id":7,"name":"Funny","count":365},{"id":24,"name":"Persuasive","count":157},{"id":22,"name":"Fascinating","count":252},{"id":9,"name":"Ingenious","count":68},{"id":26,"name":"Obnoxious","count":16},{"id":2,"name":"Confusing","count":9},{"id":1,"name":"Beautiful","count":65},{"id":3,"name":"Courageous","count":30},{"id":25,"name":"OK","count":47},{"id":11,"name":"Longwinded","count":17},{"id":23,"name":"Jaw-dropping","count":40},{"id":10,"name":"Inspiring","count":437}],"recorded_at":"2009-07-22T00:00:00.000+00:00","related_talks":[{"id":"37","hero":"https://pe.tedcdn.com/images/ted/24d2cdd703346a33bc9d7e6be0b4c9bdc9dd4b9a_1600x1200.jpg","speaker":"Jimmy Wales","title":"The birth of Wikipedia","duration":1201.0,"slug":"jimmy_wales_on_the_birth_of_wikipedia","viewed_count":1187736},{"id":"163","hero":"https://pe.tedcdn.com/images/ted/2cc6d3a7f29dff9bb21d734f462bb07e8457a2ca_1600x1200.jpg","speaker":"Steven Pinker","title":"The surprising decline in violence","duration":1155.0,"slug":"steven_pinker_on_the_myth_of_violence","viewed_count":2364105},{"id":"187","hero":"https://pe.tedcdn.com/images/ted/01726ef3620b97fcc2a664e1339c6602785123f7_1600x1200.jpg","speaker":"Lawrence Lessig","title":"Laws that choke creativity","duration":1136.0,"slug":"larry_lessig_says_the_law_is_strangling_creativity","viewed_count":1951886},{"id":"1693","hero":"https://pe.tedcdn.com/images/ted/fc7b6c0a7974f84b6fd218a3409eb5248d214aad_1600x1200.jpg","speaker":"Danny Hillis","title":"The Internet could crash. We need a Plan B","duration":751.0,"slug":"danny_hillis_the_internet_could_crash_we_need_a_plan_b","viewed_count":1321331},{"id":"641","hero":"https://pe.tedcdn.com/images/ted/117223_800x600.jpg","speaker":"Evgeny Morozov","title":"How the Net aids dictatorships","duration":713.0,"slug":"evgeny_morozov_is_the_internet_what_orwell_feared","viewed_count":442210},{"id":"26","hero":"https://pe.tedcdn.com/images/ted/387_480x360.jpg","speaker":"Rives","title":"If I controlled the Internet","duration":247.0,"slug":"rives_controls_the_internet","viewed_count":1890556}],"slug":"jonathan_zittrain_the_web_is_a_random_act_of_kindness","speakers":[{"id":"493","slug":"jonathan_zittrain","is_published":true,"firstname":"Jonathan","lastname":"Zittrain","middleinitial":"","title":"","description":"Net watchdog","photo_url":"https://pe.tedcdn.com/images/ted/117053_254x191.jpg","whatotherssay":"Zittrain's book, The Future of the Internet and How to Stop It, sounds ... a klaxon calling to arms everyone who believes that platforms open to user innovation should rule the world, not tethered, sterile appliances that are controlled only by their designers.","whotheyare":"Jonathan Zittrain wants to make sure the electronic frontier stays open -- and he's looking to the Internet's millions of users for its salvation.","whylisten":"<p>The increasing proliferation of &quot;tethered&quot; devices, from iPhones to Xboxes, is only one of countless threats to the freewheeling Internet as we know it. There&#39;s also spam, malware, misguided legislation and a drift away from what Internet law expert Jonathan Zittrain calls &quot;generativity&quot; -- a system&#39;s receptivity to unanticipated (and innovative) change instigated by myriad users. <br /><br />Harvard law professor Zittrain, as an investigator for the OpenNet initiative and co-founder of Harvard&#39;s Berkman Center for Internet and Society, has long studied the legal, technological and world-shaking aspects of quickly morphing virtual terrains. He performed the first large-scale tests of Internet filtering in China and Saudi Arabia in 2002. His initiatives include projects to fight malware (StopBadware) and ChillingEffects, a site designed to support open content by tracking legal threats to individual users.</p>"}],"speaker_name":"Jonathan Zittrain","tags":["Internet","culture","law","technology","web","wikipedia"],"title":"The Web as random acts of kindness","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":746424}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

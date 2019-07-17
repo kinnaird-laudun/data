@@ -1,0 +1,1296 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Esther Duflo: Social experiments to fight poverty | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Alleviating poverty is more guesswork than science, and lack of data on aid&#39;s impact raises questions about how to provide it. But Clark Medal-winner Esther Duflo says it&#39;s possible to know which development efforts help and which hurt -- by testing solutions with randomized trials." />
+<meta name="author" content="Esther Duflo" />
+<link rel="canonical" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=en" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=vi" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=pt-br" />
+<link rel="alternate" hreflang="id" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=id" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=nl" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=pt" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=tr" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="th" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=th" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=bg" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=de" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=hu" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=fa" />
+<link rel="alternate" hreflang="bs" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=bs" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=he" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=sr" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=ko" />
+<link rel="alternate" hreflang="sv" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=sv" />
+<link rel="alternate" hreflang="cs" href="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript?language=cs" />
+<meta property="og:title" content="Transcript of &quot;Social experiments to fight poverty&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/167669_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/167669_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Esther Duflo: Social experiments to fight poverty" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Alleviating poverty is more guesswork than science, and lack of data on aid&#39;s impact raises questions about how to provide it. But Clark Medal-winner Esther Duflo says it&#39;s possible to know which development efforts help and which hurt -- by testing solutions with randomized trials." />
+<meta property="og:url" content="https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 847);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty' itemprop='url'>
+<meta content='Social experiments to fight poverty' itemprop='name'>
+<meta content="Alleviating poverty is more guesswork than science, and lack of data on aid's impact raises questions about how to provide it. But Clark Medal-winner Esther Duflo says it's possible to know which development efforts help and which hurt — by testing solutions with randomized trials." itemprop='description'>
+<meta content='PT16M47S' itemprop='duration'>
+<meta content='2010-05-03T09:19:00+00:00' itemprop='uploadDate'>
+<meta content='937181' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/167669_800x600.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/esther_duflo' itemprop='url'>
+<meta content='Esther Duflo' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/167670_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/167669_800x600.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Esther Duflo
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					937,181
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 16:47</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So here it is. You can check: I am short, I&#39;m French,
+											I have a pretty strong French accent,
+											so that&#39;s going to be clear in a moment.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Maybe a sobering thought
+											and something you all know about.
+											And I suspect many of you gave
+											something to the people of Haiti this year.
+											And there is something else
+											I believe in the back of your mind
+											you also know.
+											That is, every day,
+											25,000 children die
+											of entirely preventable causes.
+											That&#39;s a Haiti earthquake every eight days.
+											And I suspect many of you probably gave something
+											towards that problem as well,
+											but somehow it doesn&#39;t happen
+											with the same intensity.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So why is that?
+											Well, here is a thought experiment for you.
+											Imagine you have a few million dollars that you&#39;ve raised —
+											maybe you&#39;re a politician in a developing country
+											and you have a budget to spend. You want to spend it on the poor:
+											How do you go about it?
+											Do you believe the people who tell you
+											that all we need to do is to spend money?
+											That we know how to eradicate poverty,
+											we just need to do more?
+											Or do you believe the people who tell you that
+											aid is not going to help, on the contrary it might hurt,
+											it might exacerbate corruption, dependence, etc.?
+											Or maybe you turn to the past.
+											After all, we have spent billions of dollars on aid.
+											Maybe you look at the past and see.
+											Has it done any good?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And, sadly, we don&#39;t know.
+											And worst of all, we will never know.
+											And the reason is that — take Africa for example.
+											Africans have already got a lot of aid.
+											These are the blue bars.
+											And the GDP in Africa is not making much progress.
+											Okay, fine. How do you know what
+											would have happened without the aid?
+											Maybe it would have been much worse,
+											or maybe it would have been better.
+											We have no idea. We don&#39;t know what the counterfactual is.
+											There&#39;s only one Africa.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So what do you do?
+											To give the aid, and hope and pray that something comes out of it?
+											Or do you focus on your everyday life
+											and let the earthquake every eight days
+											continue to happen?
+											The thing is, if we don&#39;t know
+											whether we are doing any good,
+											we are not any better
+											than the Medieval doctors and their leeches.
+											Sometimes the patient gets better, sometimes the patient dies.
+											Is it the leeches? Is it something else?
+											We don&#39;t know.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So here are some other questions.
+											They&#39;re smaller questions,
+											but they are not that small.
+											Immunization, that&#39;s the cheapest way
+											to save a child&#39;s life.
+											And the world has spent a lot of money on it:
+											The GAVI and the Gates Foundations
+											are each pledging a lot of money towards it,
+											and developing countries themselves have been doing a lot of effort.
+											And yet, every year
+											at least 25 million children
+											do not get the immunization they should get.
+											So this is what you call a &quot;last mile problem.&quot;
+											The technology is there,
+											the infrastructure is there,
+											and yet it doesn&#39;t happen.
+											So you have your million.
+											How do you use your million
+											to solve this last mile problem?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And here&#39;s another question:
+											Malaria. Malaria kills almost
+											900,000 people every year,
+											most of them in Sub-Saharan Africa,
+											most of them under five.
+											In fact, that is the leading cause of under-five mortality.
+											We already know how to kill malaria,
+											but some people come to you and say,
+											&quot;You have your millions. How about bed nets?&quot;
+											Bed nets are very cheap.
+											For 10 dollars, you can manufacture and ship
+											an insecticide treated bed net
+											and you can teach someone to use them.
+											And, not only do they protect the people who sleep under them,
+											but they have these great contagion benefits.
+											If half of a community sleeps under a net,
+											the other half also benefits
+											because the contagion of the disease spread.
+											And yet, only a quarter of kids at risk sleep under a net.
+											Societies should be willing to go out
+											and subsidize the net, give them for free,
+											or, for that matter, pay people to use them
+											because of those contagion benefits.
+											&quot;Not so fast,&quot; say other people.
+											&quot;If you give the nets for free,
+											people are not going to value them.
+											They&#39;re not going to use them,
+											or at least they&#39;re not going to use them as bed nets,
+											maybe as fishing nets.&quot;
+											So, what do you do?
+											Do you give the nets for free to maximize coverage,
+											or do you make people pay
+											in order to make sure that they really value them?
+											How do you know?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And a third question: Education.
+											Maybe that&#39;s the solution, maybe we should send kids to school.
+											But how do you do that?
+											Do you hire teachers? Do you build more schools?
+											Do you provide school lunch?
+											How do you know?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So here is the thing.
+											I cannot answer the big question,
+											whether aid did any good or not.
+											But these three questions, I can answer them.
+											It&#39;s not the Middle Ages anymore,
+											it&#39;s the 21st century.
+											And in the 20th century,
+											randomized, controlled trials
+											have revolutionized medicine
+											by allowing us to distinguish
+											between drugs that work
+											and drugs that don&#39;t work.
+											And you can do the same
+											randomized, controlled trial for social policy.
+											You can put social innovation to the same
+											rigorous, scientific tests
+											that we use for drugs.
+											And in this way, you can take the guesswork
+											out of policy-making
+											by knowing what works,
+											what doesn&#39;t work and why.
+											And I&#39;ll give you some examples with those three questions.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So I start with immunization.
+											Here&#39;s Udaipur District, Rajasthan. Beautiful.
+											Well, when I started working there,
+											about one percent of children
+											were fully immunized.
+											That&#39;s bad, but there are places like that.
+											Now, it&#39;s not because the vaccines are not there —
+											they are there and they are free —
+											and it&#39;s not because parents do not care about their kids.
+											The same child that is not immunized against measles,
+											if they do get measles, parents will spend
+											thousands of rupees to help them.
+											So you get these empty village subcenters
+											and crowded hospitals.
+											So what is the problem?
+											Well, part of the problem, surely, is people do not fully understand.
+											After all, in this country as well,
+											all sorts of myths and misconceptions
+											go around immunization.
+											So if that&#39;s the case, that&#39;s difficult,
+											because persuasion is really difficult.
+											But maybe there is another problem as well.
+											It&#39;s going from intention to action.
+											Imagine you are a mother
+											in Udaipur District, Rajasthan.
+											You have to walk a few kilometers to get your kids immunized.
+											And maybe when you get there, what you find is this:
+											The subcenter is closed. Ao you have to come back,
+											and you are so busy and you have so many other things to do,
+											you will always tend to postpone and postpone,
+											and eventually it gets too late.
+											Well, if that&#39;s the problem, then that&#39;s much easier.
+											Because A, we can make it easy,
+											and B, we can maybe
+											give people a reason to act today,
+											rather than wait till tomorrow.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So these are simple ideas, but we didn&#39;t know.
+											So let&#39;s try them.
+											So what we did is we did a randomized, controlled trial
+											in 134 villages in Udaipur Districts.
+											So the blue dots
+											are selected randomly.
+											We made it easy — I&#39;ll tell you how in a moment.
+											In the red dots, we made it easy
+											and gave people a reason to act now.
+											The white dots are comparisons, nothing changed.
+											So we make it easy by organizing
+											this monthly camp where people can
+											get their kids immunized.
+											And then you make it easy
+											and give a reason to act now
+											by adding a kilo of lentils for each immunization.
+											Now, a kilo of lentils is tiny.
+											It&#39;s never going to convince anybody
+											to do something that they don&#39;t want to do.
+											On the other hand, if your problem is you tend to postpone,
+											then it might give you a reason to act today
+											rather than later.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So what do we find?
+											Well, beforehand, everything is the same.
+											That&#39;s the beauty of randomization.
+											Afterwards,
+											the camp — just having the camp —
+											increases immunization from six percent to 17 percent.
+											That&#39;s full immunization.
+											That&#39;s not bad, that&#39;s a good improvement.
+											Add the lentils and you reach to 38 percent.
+											So here you&#39;ve got your answer.
+											Make it easy and give a kilo of lentils,
+											you multiply immunization rate by six.
+											Now, you might say, &quot;Well, but it&#39;s not sustainable.
+											We cannot keep giving lentils to people.&quot;
+											Well, it turns out it&#39;s wrong economics,
+											because it is cheaper
+											to give lentils than not to give them.
+											Since you have to pay for the nurse anyway,
+											the cost per immunization
+											ends up being cheaper if you give incentives than if you don&#39;t.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											How about bed nets?
+											Should you give them for free, or should you ask people to pay for them?
+											So the answer hinges
+											on the answer to three simple questions.
+											One is: If people must pay for a bed net,
+											are they going to purchase them?
+											The second one is:
+											If I give bed nets for free,
+											are people going to use them?
+											And the third one is:
+											Do free bed nets discourage future purchase?
+											The third one is important
+											because if we think people get used to handouts,
+											it might destroy markets to distribute free bed nets.
+											Now this is a debate that has generated
+											a lot of emotion and angry rhetoric.
+											It&#39;s more ideological than practical,
+											but it turns out it&#39;s an easy question.
+											We can know the answer to this question.
+											We can just run an experiment.
+											And many experiments have been run, and they all have the same results,
+											so I&#39;m just going to talk to you about one.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And this one that was in Kenya,
+											they went around and distributed to people
+											vouchers, discount vouchers.
+											So people with their voucher
+											could get the bed net in the local pharmacy.
+											And some people get 100 percent discount,
+											and some people get 20 percent discounts,
+											and some people get 50 percent discount, etc.
+											And now we can see what happens.
+											So, how about the purchasing?
+											Well, what you can see is that
+											when people have to pay for their bed nets,
+											the coverage rate really falls down a lot.
+											So even with partial subsidy,
+											three dollars is still not the full cost of a bed net,
+											and now you only have 20 percent of the people with the bed nets,
+											you lose the health immunity, that&#39;s not great.
+											Second thing is, how about the use?
+											Well, the good news is, people, if they have the bed nets,
+											will use the bed nets regardless of how they got it.
+											If they get it for free, they use it.
+											If they have to pay for it, they use it.
+											How about the long term?
+											In the long term,
+											people who got the free bed nets,
+											one year later, were offered the option
+											to purchase a bed net at two dollars.
+											And people who got the free one
+											were actually more likely to purchase the second one
+											than people who didn&#39;t get a free one.
+											So people do not get used to handouts; they get used to nets.
+											Maybe we need to give them a little bit more credit.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, that&#39;s for bed nets. So you will think, &quot;That&#39;s great.
+											You know how to immunize kids, you know how to give bed nets.&quot;
+											But what politicians need is a range of options.
+											They need to know: Out of all the things I could do,
+											what is the best way to achieve my goals?
+											So suppose your goal is to get kids into school.
+											There are so many things you could do. You could pay for uniforms,
+											you could eliminate fees, you could build latrines,
+											you could give girls sanitary pads, etc., etc.
+											So what&#39;s the best?
+											Well, at some level, we think
+											all of these things should work.
+											So, is that sufficient? If we think they should work intuitively,
+											should we go for them?
+											Well, in business, that&#39;s certainly not the way we would go about it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Consider for example
+											transporting goods.
+											Before the canals were invented
+											in Britain before the Industrial Revolution,
+											goods used to go on horse carts.
+											And then canals were built,
+											and with the same horseman and the same horse,
+											you could carry ten times as much cargo.
+											So should they have continued
+											to carry the goods on the horse carts, on the ground,
+											that they would eventually get there?
+											Well, if that had been the case,
+											there would have been no Industrial Revolution.
+											So why shouldn&#39;t we do the same with social policy?
+											In technology, we spend so much time
+											experimenting, fine-tuning,
+											getting the absolute cheapest way to do something,
+											so why aren&#39;t we doing that with social policy?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Well, with experiments, what you can do
+											is answer a simple question.
+											Suppose you have 100 dollars to spend
+											on various interventions.
+											How many extra years of education
+											do you get for your hundred dollars?
+											Now I&#39;m going to show you
+											what we get with various education interventions.
+											So the first ones are if you want the usual suspects,
+											hire teachers, school meals,
+											school uniforms, scholarships.
+											And that&#39;s not bad. For your hundred dollars,
+											you get between one and three extra years of education.
+											Things that don&#39;t work so well is bribing parents,
+											just because so many kids are already going to school
+											that you end up spending a lot of money.
+											And here are the most surprising results.
+											Tell people the benefits of education,
+											that&#39;s very cheap to do.
+											So for every hundred dollars you spend doing that,
+											you get 40 extra years of education.
+											And, in places where there are worms,
+											intestinal worms,
+											cure the kids of their worms.
+											And for every hundred dollars,
+											you get almost 30 extra years of education.
+											So this is not your intuition,
+											this is not what people would have gone for,
+											and yet, these are the programs that work.
+											We need that kind of information, we need more of it,
+											and then we need to guide policy.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So now, I started from the big problem, and I couldn&#39;t answer it.
+											And I cut it into smaller questions,
+											and I have the answer to these smaller questions.
+											And they are good, scientific, robust answers.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So let&#39;s go back to Haiti for a moment.
+											In Haiti, about 200,000 people died —
+											actually, a bit more by the latest estimate.
+											And the response of the world was great:
+											Two billion dollars got pledged just last month,
+											so that&#39;s about 10,000 dollars per death.
+											That doesn&#39;t sound like that much when you think about it.
+											But if we were willing to spend 10,000 dollars
+											for every child under five who dies,
+											that would be 90 billion per year
+											just for that problem.
+											And yet it doesn&#39;t happen.
+											So, why is that?
+											Well, I think what part of the problem is that,
+											in Haiti, although the problem is huge,
+											somehow we understand it, it&#39;s localized.
+											You give your money to Doctors Without Borders,
+											you give your money to Partners In Health,
+											and they&#39;ll send in the doctors, and they&#39;ll send in the lumber,
+											and they&#39;ll helicopter things out and in.
+											And the problem of poverty is not like that.
+											So, first, it&#39;s mostly invisible;
+											second, it&#39;s huge;
+											and third, we don&#39;t know whether we are doing the right thing.
+											There&#39;s no silver bullet.
+											You cannot helicopter people out of poverty.
+											And that&#39;s very frustrating.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But look what we just did today.
+											I gave you three simple answers to three questions:
+											Give lentils to immunize people,
+											provide free bed nets, deworm children.
+											With immunization or bed nets,
+											you can save a life for 300 dollars per life saved.
+											With deworming, you can get
+											an extra year of education for three dollars.
+											So we cannot eradicate poverty just yet,
+											but we can get started.
+											And maybe we can get started small
+											with things that we know are effective.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Here&#39;s an example of how this can be powerful.
+											Deworming.
+											Worms have a little bit of a problem grabbing the headlines.
+											They are not beautiful and don&#39;t kill anybody.
+											And yet, when the young global leader in Davos
+											showed the numbers I gave you,
+											they started Deworm the World.
+											And thanks to Deworm the World,
+											and the effort of many country governments and foundations,
+											20 million school-aged children got dewormed in 2009.
+											So this evidence is powerful.
+											It can prompt action.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So we should get started now.
+											It&#39;s not going to be easy.
+											It&#39;s a very slow process.
+											You have to keep experimenting, and sometimes ideology
+											has to be trumped by practicality.
+											And sometimes what works somewhere doesn&#39;t work elsewhere.
+											So it&#39;s a slow process,
+											but there is no other way.
+											These economics I&#39;m proposing,
+											it&#39;s like 20th century medicine.
+											It&#39;s a slow, deliberative process
+											of discovery.
+											There is no miracle cure,
+											but modern medicine is saving
+											millions of lives every year,
+											and we can do the same thing.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And now, maybe, we can go back to the bigger question
+											that I started with at the beginning.
+											I cannot tell you
+											whether the aid we have spent in the past has made a difference,
+											but can we come back here in 30 years
+											and say, &quot;What we have done,
+											it really prompted a change for the better.&quot;
+											I believe we can and I hope we will.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":695,"count":206,"talk_id":847},"threadId":695,"current_talk":"847","description":"Alleviating poverty is more guesswork than science, and lack of data on aid's impact raises questions about how to provide it. But Clark Medal-winner Esther Duflo says it's possible to know which development efforts help and which hurt -- by testing solutions with randomized trials.","event":"TED2010","language":"en","name":"Esther Duflo: Social experiments to fight poverty","slug":"esther_duflo_social_experiments_to_fight_poverty","speakers":[{"id":"625","slug":"esther_duflo","is_published":true,"firstname":"Esther","lastname":"Duflo","middleinitial":"","title":"","description":"Development economist","photo_url":"https://pe.tedcdn.com/images/ted/167670_254x191.jpg","whatotherssay":"","whotheyare":"Esther Duflo takes economics out of the lab and into the field to discover the causes of poverty and means to eradicate it.","whylisten":"<p>2009 MacArthur fellow <strong>Esther Duflo is pushing the field of development economics by studying specific causal relationships</strong> that lead to or perpetuate poverty. She looks at close-to-home issues: household behavior, education, access to finance and health.</p><p>At MIT, she&#39;s the <strong>founder and director of the Jameel Poverty Action Lab (J-PAL)</strong>, a research network that evaluates social programs. It&#39;s concerned less with wide-ranging policy than with specific questions. Sample: If schoolkids could get their uniforms for free, would attendance go up? What&#39;s an effective way to reward mothers for immunizing their babies? Randomized trials offer new insights toward creating global equity and prosperity. Her work may blur the lines between economics and activism, but it&#39;s a role Duflo not only considers comfortable but vital.</p><p>Her new book is <em><a href=\"http://pooreconomics.com/\" target=\"_blank\">Poor Economics</a></em>, with Abhijit W. Banerjee.&nbsp; </p>"}],"url":"https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty","viewed_count":937181,"talks":[{"curator_approved":true,"description":"Alleviating poverty is more guesswork than science, and lack of data on aid's impact raises questions about how to provide it. But Clark Medal-winner Esther Duflo says it's possible to know which development efforts help and which hurt -- by testing solutions with randomized trials.","downloads":{"id":847,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Bosnian","endonym":"Bosanski","languageCode":"bs","ianaCode":"bs","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/EstherDuflo_2010-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/EstherDuflo_2010.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/EstherDuflo_2010-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"fr":{"name":"French","low":"https://download.ted.com/talks/EstherDuflo_2010-low-fr.mp4","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-fr.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/EstherDuflo_2010-low-zh-tw.mp4","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-zh-tw.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/EstherDuflo_2010-low-ja.mp4","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-ja.mp4"},"de":{"name":"German","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-de.mp4","low":"https://download.ted.com/talks/EstherDuflo_2010-low-de.mp4"},"zh-cn":{"name":"Chinese, Simplified","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-zh-cn.mp4","low":"https://download.ted.com/talks/EstherDuflo_2010-low-zh-cn.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/EstherDuflo_2010-low-ko.mp4","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-ko.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/EstherDuflo_2010-low-es.mp4","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-es.mp4"},"en":{"name":"English","low":"https://download.ted.com/talks/EstherDuflo_2010-low-en.mp4","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/EstherDuflo_2010-low-pt-br.mp4","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/EstherDuflo_2010-low-it.mp4","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-it.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/EstherDuflo_2010-low-he.mp4","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-he.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/EstherDuflo_2010-low-bg.mp4","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/EstherDuflo_2010-low-ro.mp4","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/EstherDuflo_2010-low-pl.mp4","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-pl.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/EstherDuflo_2010-low-nl.mp4","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-nl.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/EstherDuflo_2010-low-tr.mp4","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-tr.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/EstherDuflo_2010-low-ru.mp4","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-ru.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/EstherDuflo_2010-low-hu.mp4","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-hu.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/EstherDuflo_2010-low-vi.mp4","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-vi.mp4"},"id":{"name":"Indonesian","low":"https://download.ted.com/talks/EstherDuflo_2010-low-id.mp4","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-id.mp4"},"bs":{"name":"Bosnian","low":"https://download.ted.com/talks/EstherDuflo_2010-low-bs.mp4","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-bs.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/EstherDuflo_2010-low-sr.mp4","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-sr.mp4"},"sv":{"name":"Swedish","low":"https://download.ted.com/talks/EstherDuflo_2010-low-sv.mp4","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-sv.mp4"},"th":{"name":"Thai","low":"https://download.ted.com/talks/EstherDuflo_2010-low-th.mp4","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-th.mp4"},"ar":{"name":"Arabic","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-ar.mp4","low":"https://download.ted.com/talks/EstherDuflo_2010-low-ar.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/EstherDuflo_2010-low-pt.mp4","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-pt.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/EstherDuflo_2010-low-fa.mp4","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-fa.mp4"},"cs":{"name":"Czech","low":"https://download.ted.com/talks/EstherDuflo_2010-low-cs.mp4","high":"https://download.ted.com/talks/EstherDuflo_2010-480p-cs.mp4"}},"audioDownload":"https://download.ted.com/talks/EstherDuflo_2010.mp3?apikey=acme-roadrunner"},"duration":1007.0,"event":"TED2010","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/167669_800x600.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/167669_800x600.jpg?q=50&w=15","id":"847","player_talks":[{"id":"847","duration":1007.0,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Bosnian","endonym":"Bosanski","languageCode":"bs","ianaCode":"bs","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2010/Blank/EstherDuflo_2010-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTED2010%26id%3D847%26tag%3Dbig%2Bproblems%2Ccities%2Ceconomics%2Cpoverty%26talk%3Desther_duflo_social_experiments_to_fight_poverty%26year%3D2010&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"847","talk":"esther_duflo_social_experiments_to_fight_poverty","tag":"big problems,cities,economics,poverty","year":"2010","event":"TED2010"},"stream":"https://hls.ted.com/talks/847.m3u8","metadata":"https://hls.ted.com/talks/847.json"}},"targeting":{"id":"847","talk":"esther_duflo_social_experiments_to_fight_poverty","tag":"big problems,cities,economics,poverty","year":"2010","event":"TED2010"},"canonical":"https://www.ted.com/talks/esther_duflo_social_experiments_to_fight_poverty","name":"Esther Duflo: Social experiments to fight poverty","title":"Social experiments to fight poverty","speaker":"Esther Duflo","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/167669_800x600.jpg?quality=89&w=600","slug":"esther_duflo_social_experiments_to_fight_poverty","event":"TED2010","published":1272878340}],"ratings":[{"id":22,"name":"Fascinating","count":190},{"id":3,"name":"Courageous","count":63},{"id":24,"name":"Persuasive","count":450},{"id":8,"name":"Informative","count":382},{"id":9,"name":"Ingenious","count":121},{"id":10,"name":"Inspiring","count":370},{"id":2,"name":"Confusing","count":11},{"id":11,"name":"Longwinded","count":9},{"id":23,"name":"Jaw-dropping","count":42},{"id":25,"name":"OK","count":48},{"id":21,"name":"Unconvincing","count":25},{"id":1,"name":"Beautiful","count":21},{"id":7,"name":"Funny","count":3},{"id":26,"name":"Obnoxious","count":0}],"recorded_at":"2010-02-12T00:00:00.000+00:00","related_talks":[{"id":"644","hero":"https://pe.tedcdn.com/images/ted/118085_800x600.jpg","speaker":"Jacqueline Novogratz","title":"A third way to think about aid","duration":1024.0,"slug":"jacqueline_novogratz_a_third_way_to_think_about_aid","viewed_count":461535},{"id":"494","hero":"https://pe.tedcdn.com/images/ted/79736_800x600.jpg","speaker":"Jacqueline Novogratz","title":"An escape from poverty","duration":450.0,"slug":"jacqueline_novogratz_on_an_escape_from_poverty","viewed_count":1019830},{"id":"585","hero":"https://pe.tedcdn.com/images/ted/98632_800x600.jpg","speaker":"Katherine Fulton","title":"You are the future of philanthropy","duration":754.0,"slug":"katherine_fulton_you_are_the_future_of_philanthropy","viewed_count":453309},{"id":"91","hero":"https://pe.tedcdn.com/images/ted/154_480x360.jpg","speaker":"Jacqueline Novogratz","title":"Invest in Africa's own solutions","duration":773.0,"slug":"jacqueline_novogratz_invests_in_ending_poverty","viewed_count":771283},{"id":"2785","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/ccd4bec7-1e37-4bf7-9ed8-8add9869b28f/RutgerBregman_2017-embed.jpg","speaker":"Rutger Bregman","title":"Poverty isn't a lack of character; it's a lack of cash","duration":898.0,"slug":"rutger_bregman_poverty_isn_t_a_lack_of_character_it_s_a_lack_of_cash","viewed_count":1879741},{"id":"451","hero":"https://pe.tedcdn.com/images/ted/70061_800x600.jpg","speaker":"Bill Gates","title":"Mosquitos, malaria and education","duration":1216.0,"slug":"bill_gates_unplugged","viewed_count":2733616}],"slug":"esther_duflo_social_experiments_to_fight_poverty","speakers":[{"id":"625","slug":"esther_duflo","is_published":true,"firstname":"Esther","lastname":"Duflo","middleinitial":"","title":"","description":"Development economist","photo_url":"https://pe.tedcdn.com/images/ted/167670_254x191.jpg","whatotherssay":"","whotheyare":"Esther Duflo takes economics out of the lab and into the field to discover the causes of poverty and means to eradicate it.","whylisten":"<p>2009 MacArthur fellow <strong>Esther Duflo is pushing the field of development economics by studying specific causal relationships</strong> that lead to or perpetuate poverty. She looks at close-to-home issues: household behavior, education, access to finance and health.</p><p>At MIT, she&#39;s the <strong>founder and director of the Jameel Poverty Action Lab (J-PAL)</strong>, a research network that evaluates social programs. It&#39;s concerned less with wide-ranging policy than with specific questions. Sample: If schoolkids could get their uniforms for free, would attendance go up? What&#39;s an effective way to reward mothers for immunizing their babies? Randomized trials offer new insights toward creating global equity and prosperity. Her work may blur the lines between economics and activism, but it&#39;s a role Duflo not only considers comfortable but vital.</p><p>Her new book is <em><a href=\"http://pooreconomics.com/\" target=\"_blank\">Poor Economics</a></em>, with Abhijit W. Banerjee.&nbsp; </p>"}],"speaker_name":"Esther Duflo","tags":["big problems","cities","economics","poverty"],"title":"Social experiments to fight poverty","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":937181}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

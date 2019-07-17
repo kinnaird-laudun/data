@@ -1,0 +1,1712 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Tim Brown: Tales of creativity and play | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: At the 2008 Serious Play conference, designer Tim Brown talks about the powerful relationship between creative thinking and play -- with many examples you can try at home (and one that maybe you shouldn&#39;t)." />
+<meta name="author" content="Tim Brown" />
+<link rel="canonical" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript?language=el" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript?language=en" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript?language=pt-br" />
+<link rel="alternate" hreflang="id" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript?language=id" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript?language=nl" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript?language=pt" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript?language=tr" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript?language=bg" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript?language=de" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript?language=fa" />
+<link rel="alternate" hreflang="fi" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript?language=fi" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript?language=hu" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript?language=he" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript?language=sr" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript?language=ko" />
+<link rel="alternate" hreflang="ku" href="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript?language=ku" />
+<meta property="og:title" content="Transcript of &quot;Tales of creativity and play&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/58155_640x480.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/58155_640x480.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Tim Brown: Tales of creativity and play" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: At the 2008 Serious Play conference, designer Tim Brown talks about the powerful relationship between creative thinking and play -- with many examples you can try at home (and one that maybe you shouldn&#39;t)." />
+<meta property="og:url" content="https://www.ted.com/talks/tim_brown_on_creativity_and_play/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 392);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/tim_brown_on_creativity_and_play' itemprop='url'>
+<meta content='Tales of creativity and play' itemprop='name'>
+<meta content="At the 2008 Serious Play conference, designer Tim Brown talks about the powerful relationship between creative thinking and play — with many examples you can try at home (and one that maybe you shouldn't)." itemprop='description'>
+<meta content='PT27M58S' itemprop='duration'>
+<meta content='2008-11-06T01:00:00+00:00' itemprop='uploadDate'>
+<meta content='1991944' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/58155_640x480.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/tim_brown' itemprop='url'>
+<meta content='Tim Brown' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/118806_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/tim_brown_on_creativity_and_play' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/58155_640x480.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Tim Brown
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,991,944
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 27:58</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is a guy named Bob McKim.
+											He was a creativity researcher in the &#39;60s and &#39;70s,
+											and also led the Stanford Design Program.
+											And in fact, my friend and IDEO founder, David Kelley,
+											who’s out there somewhere, studied under him at Stanford.
+											And he liked to do an exercise with his students
+											where he got them to take a piece of paper
+											and draw the person who sat next to them, their neighbor,
+											very quickly, just as quickly as they could.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And in fact, we’re going to do that exercise right now.
+											You all have a piece of cardboard and a piece of paper.
+											It’s actually got a bunch of circles on it.
+											I need you to turn that piece of paper over;
+											you should find that it’s blank on the other side.
+											And there should be a pencil.
+											And I want you to pick somebody that’s seated next to you,
+											and when I say, go, you’ve got 30 seconds to draw your neighbor, OK?
+											So, everybody ready? OK. Off you go.
+											You’ve got 30 seconds, you’d better be fast.
+											Come on: those masterpieces ...
+											OK? Stop. All right, now.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Yes, lot’s of laughter. Yeah, exactly.
+											Lots of laughter, quite a bit of embarrassment.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Am I hearing a few &quot;sorry’s&quot;? I think I’m hearing a few sorry’s.
+											Yup, yup, I think I probably am.
+											And that’s exactly what happens every time,
+											every time you do this with adults.
+											McKim found this every time he did it with his students.
+											He got exactly the same response: lots and lots of sorry’s.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And he would point this out as evidence
+											that we fear the judgment of our peers,
+											and that we’re embarrassed about showing our ideas
+											to people we think of as our peers, to those around us.
+											And this fear is what causes us
+											to be conservative in our thinking.
+											So we might have a wild idea,
+											but we’re afraid to share it with anybody else.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											OK, so if you try the same exercise with kids,
+											they have no embarrassment at all.
+											They just quite happily show their masterpiece
+											to whoever wants to look at it.
+											But as they learn to become adults,
+											they become much more sensitive to the opinions of others,
+											and they lose that freedom and they do start to become embarrassed.
+											And in studies of kids playing, it’s been shown
+											time after time that kids who feel secure,
+											who are in a kind of trusted environment —
+											they’re the ones that feel most free to play.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And if you’re starting a design firm, let’s say,
+											then you probably also want to create
+											a place where people have the same kind of security.
+											Where they have the same kind of security to take risks.
+											Maybe have the same kind of security to play.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Before founding IDEO, David said that what he wanted to do
+											was to form a company where all the employees are my best friends.
+											Now, that wasn’t just self-indulgence.
+											He knew that friendship is a short cut to play.
+											And he knew that it gives us a sense of trust,
+											and it allows us then to take the kind of creative risks
+											that we need to take as designers.
+											And so, that decision to work with his friends —
+											now he has 550 of them — was what got IDEO started.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And our studios, like, I think, many creative workplaces today,
+											are designed to help people feel relaxed:
+											familiar with their surroundings,
+											comfortable with the people that they’re working with.
+											It takes more than decor, but I think we’ve all seen that
+											creative companies do often have symbols in the workplace
+											that remind people to be playful,
+											and that it’s a permissive environment.
+											So, whether it’s this microbus meeting room
+											that we have in one our buildings at IDEO;
+											or at Pixar, where the animators work in wooden huts and decorated caves;
+											or at the Googleplex, where
+											it’s famous for its [beach] volleyball courts,
+											and even this massive dinosaur skeleton with pink flamingos on it.
+											Don’t know the reason for the pink flamingos,
+											but anyway, they’re there in the garden.
+											Or even in the Swiss office of Google,
+											which perhaps has the most wacky ideas of all.
+											And my theory is, that’s so the Swiss can prove
+											to their Californian colleagues that they’re not boring.
+											So they have the slide, and they even have a fireman’s pole.
+											Don’t know what they do with that, but they have one.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So all of these places have these symbols.
+											Now, our big symbol at IDEO is actually
+											not so much the place, it’s a thing.
+											And it’s actually something that we invented a few years ago,
+											or created a few years ago.
+											It’s a toy; it’s called a &quot;finger blaster.&quot;
+											And I forgot to bring one up with me.
+											So if somebody can reach under the chair that’s next to them,
+											you’ll find something taped underneath it.
+											That’s great. If you could pass it up. Thanks, David, I appreciate it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So this is a finger blaster, and you will find that every one of you
+											has got one taped under your chair.
+											And I’m going to run a little experiment. Another little experiment.
+											But before we start, I need just to put these on.
+											Thank you. All right.
+											Now, what I’m going to do is, I’m going to see how —
+											I can’t see out of these, OK.
+											I’m going to see how many of you at the back of the room
+											can actually get those things onto the stage.
+											So the way they work is, you know,
+											you just put your finger in the thing,
+											pull them back, and off you go.
+											So, don’t look backwards. That’s my only recommendation here.
+											I want to see how many of you can get these things on the stage.
+											So come on! There we go, there we go. Thank you. Thank you. Oh.
+											I have another idea. I wanted to — there we go.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											There we go.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you, thank you, thank you.
+											Not bad, not bad. No serious injuries so far.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Well, they’re still coming in from the back there;
+											they’re still coming in.
+											Some of you haven’t fired them yet.
+											Can you not figure out how to do it, or something?
+											It’s not that hard. Most of your kids figure out how to do this
+											in the first 10 seconds, when they pick it up.
+											All right. This is pretty good; this is pretty good.
+											Okay, all right. Let’s — I suppose we&#39;d better...
+											I&#39;d better clear these up out of the way;
+											otherwise, I’m going to trip over them.
+											All right. So the rest of you can save them
+											for when I say something particularly boring,
+											and then you can fire at me.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											All right. I think I’m going to take these off now,
+											because I can’t see a damn thing when I’ve — all right, OK.
+											So, ah, that was fun.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											All right, good.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, OK, so why?
+											So we have the finger blasters. Other people have dinosaurs, you know.
+											Why do we have them? Well, as I said,
+											we have them because we think maybe playfulness is important.
+											But why is it important?
+											We use it in a pretty pragmatic way, to be honest.
+											We think playfulness helps us get to better creative solutions.
+											Helps us do our jobs better,
+											and helps us feel better when we do them.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, an adult encountering a new situation —
+											when we encounter a new situation we have a tendency
+											to want to categorize it just as quickly as we can, you know.
+											And there’s a reason for that: we want to settle on an answer.
+											Life’s complicated; we want to figure out
+											what’s going on around us very quickly.
+											I suspect, actually, that the evolutionary biologists
+											probably have lots of reasons [for] why we want
+											to categorize new things very, very quickly.
+											One of them might be, you know,
+											when we see this funny stripy thing:
+											is that a tiger just about to jump out and kill us?
+											Or is it just some weird shadows on the tree?
+											We need to figure that out pretty fast.
+											Well, at least, we did once.
+											Most of us don’t need to anymore, I suppose.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is some aluminum foil, right? You use it in the kitchen.
+											That’s what it is, isn’t it? Of course it is, of course it is.
+											Well, not necessarily.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Kids are more engaged with open possibilities.
+											Now, they’ll certainly — when they come across something new,
+											they’ll certainly ask, &quot;What is it?&quot;
+											Of course they will. But they’ll also ask, &quot;What can I do with it?&quot;
+											And you know, the more creative of them
+											might get to a really interesting example.
+											And this openness is the beginning of exploratory play.
+											Any parents of young kids in the audience? There must be some.
+											Yeah, thought so. So we’ve all seen it, haven’t we?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We’ve all told stories about how, on Christmas morning,
+											our kids end up playing with the boxes
+											far more than they play with the toys that are inside them.
+											And you know, from an exploration perspective,
+											this behavior makes complete sense.
+											Because you can do a lot more with boxes than you can do with a toy.
+											Even one like, say, Tickle Me Elmo —
+											which, despite its ingenuity, really only does one thing,
+											whereas boxes offer an infinite number of choices.
+											So again, this is another one of those playful activities
+											that, as we get older, we tend to forget and we have to relearn.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So another one of Bob McKim’s favorite exercises
+											is called the &quot;30 Circles Test.&quot;
+											So we’re back to work. You guys are going to get back to work again.
+											Turn that piece of paper that you did the sketch on
+											back over, and you’ll find those 30 circles printed on the piece of paper.
+											So it should look like this. You should be looking at something like this.
+											So what I’m going to do is, I’m going to give you minute,
+											and I want you to adapt as many of those circles as you can
+											into objects of some form.
+											So for example, you could turn one into a football,
+											or another one into a sun. All I’m interested in is quantity.
+											I want you to do as many of them as you can,
+											in the minute that I’m just about to give you.
+											So, everybody ready? OK? Off you go.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Okay. Put down your pencils, as they say.
+											So, who got more than five circles figured out?
+											Hopefully everybody? More than 10?
+											Keep your hands up if you did 10.
+											15? 20? Anybody get all 30?
+											No? Oh! Somebody did. Fantastic.
+											Did anybody to a variation on a theme? Like a smiley face?
+											Happy face? Sad face? Sleepy face? Anybody do that?
+											Anybody use my examples? The sun and the football?
+											Great. Cool. So I was really interested in quantity.
+											I wasn’t actually very interested in whether they were all different.
+											I just wanted you to fill in as many circles as possible.
+											And one of the things we tend to do as adults, again, is we edit things.
+											We stop ourselves from doing things.
+											We self-edit as we’re having ideas.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And in some cases, our desire to be original is actually a form of editing.
+											And that actually isn’t necessarily really playful.
+											So that ability just to go for it and explore lots of things,
+											even if they don’t seem that different from each other,
+											is actually something that kids do well, and it is a form of play.
+											So now, Bob McKim did another
+											version of this test
+											in a rather famous experiment that was done in the 1960s.
+											Anybody know what this is? It’s the peyote cactus.
+											It’s the plant from which you can create mescaline,
+											one of the psychedelic drugs.
+											For those of you around in the &#39;60s, you probably know it well.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											McKim published a paper in 1966, describing an experiment
+											that he and his colleagues conducted
+											to test the effects of psychedelic drugs on creativity.
+											So he picked 27 professionals — they were
+											engineers, physicists, mathematicians, architects,
+											furniture designers even, artists —
+											and he asked them to come along one evening,
+											and to bring a problem with them that they were working on.
+											He gave each of them some mescaline,
+											and had them listen to some nice, relaxing music for a while.
+											And then he did what’s called the Purdue Creativity Test.
+											You might know it as, &quot;How many uses can you find for a paper clip?&quot;
+											It’s basically the same thing as the 30 circles thing that I just had you do.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, actually, he gave the test before the drugs
+											and after the drugs, to see
+											what the difference was in people’s
+											facility and speed with coming up with ideas.
+											And then he asked them to go away
+											and work on those problems that they’d brought.
+											And they’d come up with a bunch of
+											interesting solutions — and actually, quite
+											valid solutions — to the things that they’d been working on.
+											And so, some of the things that they figured out,
+											some of these individuals figured out;
+											in one case, a new commercial building and designs for houses
+											that were accepted by clients;
+											a design of a solar space probe experiment;
+											a redesign of the linear electron accelerator;
+											an engineering improvement to a magnetic tape recorder —
+											you can tell this is a while ago;
+											the completion of a line of furniture;
+											and even a new conceptual model of the photon.
+											So it was a pretty successful evening.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											In fact, maybe this experiment was the reason that Silicon Valley
+											got off to its great start with innovation.
+											We don’t know, but it may be.
+											We need to ask some of the CEOs
+											whether they were involved in this mescaline experiment.
+											But really, it wasn’t the drugs that were important;
+											it was this idea that what the drugs did
+											would help shock people out of their normal way of thinking,
+											and getting them to forget the adult behaviors
+											that were getting in the way of their ideas.
+											But it’s hard to break our habits, our adult habits.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											At IDEO we have brainstorming rules written on the walls.
+											Edicts like, &quot;Defer judgment,&quot; or &quot;Go for quantity.&quot;
+											And somehow that seems wrong.
+											I mean, can you have rules about creativity?
+											Well, it sort of turns out that we need rules
+											to help us break the old rules and norms
+											that otherwise we might bring to the creative process.
+											And we’ve certainly learnt that over time,
+											you get much better brainstorming,
+											much more creative outcomes when everybody does play by the rules.
+											Now, of course, many designers, many individual designers,
+											achieve this is in a much more organic way.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I think the Eameses are wonderful examples of experimentation.
+											And they experimented with plywood for many years
+											without necessarily having one single goal in mind.
+											They were exploring following what was interesting to them.
+											They went from designing splints for wounded soldiers
+											coming out of World War II and the Korean War, I think,
+											and from this experiment they moved on to chairs.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Through constant experimentation with materials,
+											they developed a wide range of iconic solutions
+											that we know today, eventually resulting in,
+											of course, the legendary lounge chair.
+											Now, if the Eameses had stopped with that first great solution,
+											then we wouldn’t be the beneficiaries of so many
+											wonderful designs today.
+											And of course, they used experimentation in all aspects of their work,
+											from films to buildings, from games to graphics.
+											So, they’re great examples, I think, of exploration
+											and experimentation in design.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, while the Eameses were exploring those possibilities,
+											they were also exploring physical objects.
+											And they were doing that through building prototypes.
+											And building is the next of the behaviors that I thought I’d talk about.
+											So the average Western first-grader
+											spends as much as 50 percent of their play time
+											taking part in what’s called &quot;construction play.&quot;
+											Construction play — it’s playful, obviously,
+											but also a powerful way to learn.
+											When play is about building a tower out of blocks,
+											the kid begins to learn a lot about towers.
+											And as they repeatedly knock it down and start again,
+											learning is happening as a sort of by-product of play.
+											It’s classically learning by doing.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, David Kelley calls this behavior,
+											when it’s carried out by designers, &quot;thinking with your hands.&quot;
+											And it typically involves making multiple,
+											low-resolution prototypes very quickly,
+											often by bringing lots of found elements together
+											in order to get to a solution.
+											On one of his earliest projects, the team was kind of stuck,
+											and they came up with a mechanism by hacking together
+											a prototype made from a roll-on deodorant.
+											Now, that became the first commercial computer mouse
+											for the Apple Lisa and the Macintosh.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, they learned their way to that by building prototypes.
+											Another example is a group of designers
+											who were working on a surgical instrument with some surgeons.
+											They were meeting with them; they were talking to the surgeons
+											about what it was they needed with this device.
+											And one of the designers ran out of the room
+											and grabbed a white board marker and a film canister —
+											which is now becoming a very precious prototyping medium —
+											and a clothespin. He taped them all together,
+											ran back into the room and said, &quot;You mean, something like this?&quot;
+											And the surgeons grabbed hold of it and said,
+											well, I want to hold it like this, or like that.
+											And all of a sudden a productive conversation
+											was happening about design around a tangible object.
+											And in the end it turned into a real device.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so this behavior is all about quickly getting something
+											into the real world, and having your thinking advanced as a result.
+											At IDEO there’s a kind of a back-to-preschool feel
+											sometimes about the environment.
+											The prototyping carts, filled with colored paper
+											and Play-Doh and glue sticks and stuff —
+											I mean, they do have a bit of a kindergarten feel to them.
+											But the important idea is that everything’s at hand, everything’s around.
+											So when designers are working on ideas,
+											they can start building stuff whenever they want.
+											They don’t necessarily even have to go
+											into some kind of formal workshop to do it.
+											And we think that’s pretty important.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And then the sad thing is, although preschools
+											are full of this kind of stuff, as kids go through the school system
+											it all gets taken away.
+											They lose this stuff that facilitates
+											this sort of playful and building mode of thinking.
+											And of course, by the time you get to the average workplace,
+											maybe the best construction tool we have
+											might be the Post-it notes. It’s pretty barren.
+											But by giving project teams and the clients
+											who they’re working with permission to think with their hands,
+											quite complex ideas can spring into life
+											and go right through to execution much more easily.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is a nurse using a very simple — as you can see — plasticine prototype,
+											explaining what she wants out of a portable information system
+											to a team of technologists and designers
+											that are working with her in a hospital.
+											And just having this very simple prototype
+											allows her to talk about what she wants in a much more powerful way.
+											And of course, by building quick prototypes,
+											we can get out and test our ideas with consumers
+											and users much more quickly
+											than if we’re trying to describe them through words.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But what about designing something that isn’t physical?
+											Something like a service or an experience?
+											Something that exists as a series of interactions over time?
+											Instead of building play, this can be approached with role-play.
+											So, if you’re designing an interaction between two people —
+											such as, I don’t know — ordering food at a fast food joint
+											or something, you need to be able to imagine
+											how that experience might feel over a period of time.
+											And I think the best way to achieve that,
+											and get a feeling for any flaws in your design, is to act it out.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So we do quite a lot of work at IDEO
+											trying to convince our clients of this.
+											They can be a little skeptical; I’ll come back to that.
+											But a place, I think, where the effort is really worthwhile
+											is where people are wrestling with quite serious problems —
+											things like education or security or finance or health.
+											And this is another example in a healthcare environment
+											of some doctors and some nurses and designers
+											acting out a service scenario around patient care.
+											But you know, many adults
+											are pretty reluctant to engage with role-play.
+											Some of it’s embarrassment and some of it is because
+											they just don’t believe that what emerges is necessarily valid.
+											They dismiss an interesting interaction by saying,
+											you know, &quot;That’s just happening because they’re acting it out.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Research into kids&#39; behavior actually suggests
+											that it’s worth taking role-playing seriously.
+											Because when children play a role,
+											they actually follow social scripts quite closely
+											that they’ve learnt from us as adults.
+											If one kid plays &quot;store,&quot; and another one’s playing &quot;house,&quot;
+											then the whole kind of play falls down.
+											So they get used to quite quickly
+											to understanding the rules for social interactions,
+											and are actually quite quick to point out when they’re broken.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So when, as adults, we role-play,
+											then we have a huge set of these scripts already internalized.
+											We’ve gone through lots of experiences in life,
+											and they provide a strong intuition
+											as to whether an interaction is going to work.
+											So we’re very good, when acting out a solution,
+											at spotting whether something lacks authenticity.
+											So role-play is actually, I think,
+											quite valuable when it comes to thinking about experiences.
+											Another way for us, as designers, to explore role-play
+											is to put ourselves through an experience which we’re designing for,
+											and project ourselves into an experience.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So here are some designers who are trying to understand
+											what it might feel like to sleep in a
+											confined space on an airplane.
+											And so they grabbed some very simple materials, you can see,
+											and did this role-play, this kind of very crude role-play,
+											just to get a sense of what it would be like for passengers
+											if they were stuck in quite small places on airplanes.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is one of our designers, Kristian Simsarian,
+											and he’s putting himself through the experience of being an ER patient.
+											Now, this is a real hospital, in a real emergency room.
+											One of the reasons he chose to take
+											this rather large video camera with him was
+											because he didn’t want the doctors and nurses thinking
+											he was actually sick, and sticking something into him
+											that he was going to regret later.
+											So anyhow, he went there with his video camera,
+											and it’s kind of interesting to see what he brought back.
+											Because when we looked at the video when he got back,
+											we saw 20 minutes of this.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And also, the amazing thing about this video —
+											as soon as you see it you immediately
+											project yourself into that experience.
+											And you know what it feels like: all of that uncertainty
+											while you’re left out in the hallway
+											while the docs are dealing with some more urgent case
+											in one of the emergency rooms, wondering what the heck’s going on.
+											And so this notion of using role-play —
+											or in this case, living through the experience
+											as a way of creating empathy —
+											particularly when you use video, is really powerful.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Or another one of our designers, Altay Sendil:
+											he’s here having his chest waxed, not because he’s very vain,
+											although actually he is — no, I’m kidding —
+											but in order to empathize with the pain that chronic care patients
+											go through when they’re having dressings removed.
+											And so sometimes these analogous experiences,
+											analogous role-play, can also be quite valuable.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So when a kid dresses up as a firefighter, you know,
+											he’s beginning to try on that identity.
+											He wants to know what it feels like to be a firefighter.
+											We’re doing the same thing as designers.
+											We’re trying on these experiences.
+											And so the idea of role-play is both as an empathy tool,
+											as well as a tool for prototyping experiences.
+											And you know, we kind of admire people who do this at IDEO anyway.
+											Not just because they lead to insights about the experience,
+											but also because of their willingness to explore
+											and their ability to unselfconsciously
+											surrender themselves to the experience.
+											In short, we admire their willingness to play.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Playful exploration, playful building and role-play:
+											those are some of the ways that designers use play in their work.
+											And so far, I admit, this might feel
+											like it’s a message just to go out and play like a kid.
+											And to certain extent it is, but I want to stress a couple of points.
+											The first thing to remember is that play is not anarchy.
+											Play has rules, especially when it’s group play.
+											When kids play tea party, or they play cops and robbers,
+											they’re following a script that they’ve agreed to.
+											And it’s this code negotiation that leads to productive play.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, remember the sketching task we did at the beginning?
+											The kind of little face, the portrait you did?
+											Well, imagine if you did the same task with friends
+											while you were drinking in a pub.
+											But everybody agreed to play a game
+											where the worst sketch artist bought the next round of drinks.
+											That framework of rules would have turned an embarrassing,
+											difficult situation into a fun game.
+											As a result, we’d all feel perfectly secure and have a good time —
+											but because we all understood the rules and we agreed on them together.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But there aren’t just rules about how to play;
+											there are rules about when to play.
+											Kids don’t play all the time, obviously.
+											They transition in and out of it,
+											and good teachers spend a lot of time
+											thinking about how to move kids through these experiences.
+											As designers, we need to be able to transition in and out of play also.
+											And if we’re running design studios
+											we need to be able to figure out, how can we transition
+											designers through these different experiences?
+											I think this is particularly true if we think about the sort of —
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I think what’s very different about design
+											is that we go through these two very distinctive modes of operation.
+											We go through a sort of generative mode,
+											where we’re exploring many ideas;
+											and then we come back together again,
+											and come back looking for that solution,
+											and developing that solution.
+											I think they’re two quite different modes:
+											divergence and convergence.
+											And I think it’s probably in the divergent mode
+											that we most need playfulness.
+											Perhaps in convergent mode we need to be more serious.
+											And so being able to move between those modes
+											is really quite important. So, it’s where there’s a
+											more nuanced version view of play, I think, is required.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Because it’s very easy to fall into the trap that these states are absolute.
+											You’re either playful or you’re serious, and you can’t be both.
+											But that’s not really true: you can be a serious professional adult
+											and, at times, be playful.
+											It’s not an either/or; it’s an &quot;and.&quot;
+											You can be serious and play.
+											So to sum it up, we need trust to play,
+											and we need trust to be creative. So, there’s a connection.
+											And there are a series of behaviors that we’ve learnt as kids,
+											and that turn out to be quite useful to us as designers.
+											They include exploration, which is about going for quantity;
+											building, and thinking with your hands;
+											and role-play, where acting it out helps us both
+											to have more empathy for the situations in which we’re designing,
+											and to create services and experiences
+											that are seamless and authentic.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you very much. (Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":333,"count":139,"talk_id":392},"threadId":333,"current_talk":"392","description":"At the 2008 Serious Play conference, designer Tim Brown talks about the powerful relationship between creative thinking and play -- with many examples you can try at home (and one that maybe you shouldn't).","event":"Serious Play 2008","language":"en","name":"Tim Brown: Tales of creativity and play","slug":"tim_brown_on_creativity_and_play","speakers":[{"id":"308","slug":"tim_brown","is_published":true,"firstname":"Tim","lastname":"Brown","middleinitial":"","title":"","description":"Designer","photo_url":"https://pe.tedcdn.com/images/ted/118806_254x191.jpg","whatotherssay":"We need more executives like Brown who understand how creativity works.","whotheyare":"Tim Brown is the CEO of the \"innovation and design\" firm IDEO -- taking an approach to design that digs deeper than the surface.","whylisten":"<p>Tim Brown is the CEO of innovation and design firm IDEO, taking an approach to design that digs deeper than the surface. Having taken over from founder <a href=\"https://www.ted.com/index.php/talks/david_kelley_on_human_centered_design.html\" target=\"_blank\">David E. Kelley</a>, Tim Brown carries forward the firm&#39;s mission of fusing design, business and social studies to come up with deeply researched, deeply understood designs and ideas -- they call it &quot;design thinking.&quot;</p><p>IDEO is the kind of firm that companies turn to when they want a top-down rethink of a business or product -- from fast food conglomerates to high-tech startups, hospitals to universities. </p><p>IDEO has designed and prototyped everything from a life-saving <a href=\"http://www.ideo.com/work/item/forerunner/\" target=\"_blank\">portable defibrillator</a>  to the defining details at the groundbreaking <a href=\"http://www.ideo.com/case_studies/prada.asp?x=1\" target=\"_blank\">Prada shop</a> in Manhattan to corporate processes. And check out the <a href=\"http://labs.ideo.com/2008/10/28/the-incredible-ideo-global-chain-reaction-experience/\" target=\"_blank\">Global Chain Reaction</a>  for a sample of how seriously this firm takes play.</p><p>Curious about design thinking? Sign up for an IDEO U&nbsp;<a href=\"http://www.ideou.com/\" target=\"_blank\">design thinking course</a>&nbsp;or check out this free toolkit:&nbsp;<a href=\"http://www.designthinkingforeducators.com/\" target=\"_blank\">Design Thinking for Educators</a>.</p>"}],"url":"https://www.ted.com/talks/tim_brown_on_creativity_and_play","viewed_count":1991944,"talks":[{"recommendations":{"status":"approved","headline":"Tim Brown recommends","blurb":"IDEO's chief shares books, articles, organizations and TED Talks that look at using creativity and play to drive change.","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"recommendation","rec_lists":[{"title":"Reading List","description":"","rec_items":[{"label":"READ_Book","headline":"Play","blurb":"Stuart founded the National Institute for Play and has led the charge in understanding the role of play in society. A clinical psychiatrist by profession, he understands its science as well as its sociology.","note":"Stuart Brown and Christopher Vaughan \r\nAvery Trade, 2010","link_url":"http://www.amazon.com/Play-Shapes-Brain-Imagination-Invigorates/dp/1583333789/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":null},{"label":"WATCH","headline":"Stuart Brown: Play is more than just fun","blurb":"More from Stuart in this talk in which he makes the case that humor, games, roughhousing, flirtation and fantasy are more than just fun.","note":"Serious Play 2008","link_url":"http://www.ted.com/talks/stuart_brown_says_play_is_more_than_fun_it_s_vital.html","position":null,"is_pdf":false,"eyebrow":null},{"label":"EXPLORE","headline":"The National Institute for Play","blurb":"A long history of research into play and how it serves us in all aspects of life.","note":"","link_url":"http://www.nifplay.org/","position":null,"is_pdf":false,"eyebrow":null},{"label":"WATCH","headline":"John Cleese on creativity","blurb":"'Humor is an essential part of the creativity that we need to solve problems.' One of the world's most famous comic writers and performers talks about how humor is necessary for creativity. ","note":"Video Arts 1991","link_url":"http://www.youtube.com/watch?v=AU5x1Ea7NjQ","position":null,"is_pdf":false,"eyebrow":null},{"label":"WATCH","headline":"Tony Wagner: Play, passion, purpose","blurb":"Harvard's Tony Wagner was the founder and co-director of the Change Leadership Group at the Harvard Graduate School of Education. Here he talks about play, passion and purpose.","note":"TEDxNYED 2012","link_url":"https://www.youtube.com/watch?v=hvDjh4l-VHo","position":null,"is_pdf":false,"eyebrow":null}]}]},"more_resources":[],"corrections":[],"has_citations":false,"take_action":[],"curator_approved":true,"description":"At the 2008 Serious Play conference, designer Tim Brown talks about the powerful relationship between creative thinking and play -- with many examples you can try at home (and one that maybe you shouldn't).","downloads":{"id":392,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Finnish","endonym":"Suomi","languageCode":"fi","ianaCode":"fi","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Kurdish","endonym":"کوردی","languageCode":"ku","ianaCode":"ku","isRtl":true}],"nativeDownloads":{"low":"https://download.ted.com/talks/TimBrown_2008P-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/TimBrown_2008P.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/TimBrown_2008P-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"fr":{"name":"French","low":"https://download.ted.com/talks/TimBrown_2008P-low-fr.mp4","high":"https://download.ted.com/talks/TimBrown_2008P-480p-fr.mp4"},"zh-tw":{"name":"Chinese, Traditional","high":"https://download.ted.com/talks/TimBrown_2008P-480p-zh-tw.mp4","low":"https://download.ted.com/talks/TimBrown_2008P-low-zh-tw.mp4"},"de":{"name":"German","high":"https://download.ted.com/talks/TimBrown_2008P-480p-de.mp4","low":"https://download.ted.com/talks/TimBrown_2008P-low-de.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/TimBrown_2008P-low-ja.mp4","high":"https://download.ted.com/talks/TimBrown_2008P-480p-ja.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/TimBrown_2008P-low-zh-cn.mp4","high":"https://download.ted.com/talks/TimBrown_2008P-480p-zh-cn.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/TimBrown_2008P-low-ko.mp4","high":"https://download.ted.com/talks/TimBrown_2008P-480p-ko.mp4"},"en":{"name":"English","low":"https://download.ted.com/talks/TimBrown_2008P-low-en.mp4","high":"https://download.ted.com/talks/TimBrown_2008P-480p-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/TimBrown_2008P-low-pt-br.mp4","high":"https://download.ted.com/talks/TimBrown_2008P-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/TimBrown_2008P-low-it.mp4","high":"https://download.ted.com/talks/TimBrown_2008P-480p-it.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/TimBrown_2008P-low-bg.mp4","high":"https://download.ted.com/talks/TimBrown_2008P-480p-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/TimBrown_2008P-low-ro.mp4","high":"https://download.ted.com/talks/TimBrown_2008P-480p-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/TimBrown_2008P-low-pl.mp4","high":"https://download.ted.com/talks/TimBrown_2008P-480p-pl.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/TimBrown_2008P-low-nl.mp4","high":"https://download.ted.com/talks/TimBrown_2008P-480p-nl.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/TimBrown_2008P-low-tr.mp4","high":"https://download.ted.com/talks/TimBrown_2008P-480p-tr.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/TimBrown_2008P-low-ru.mp4","high":"https://download.ted.com/talks/TimBrown_2008P-480p-ru.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/TimBrown_2008P-low-hu.mp4","high":"https://download.ted.com/talks/TimBrown_2008P-480p-hu.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/TimBrown_2008P-low-el.mp4","high":"https://download.ted.com/talks/TimBrown_2008P-480p-el.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/TimBrown_2008P-low-he.mp4","high":"https://download.ted.com/talks/TimBrown_2008P-480p-he.mp4"},"id":{"name":"Indonesian","low":"https://download.ted.com/talks/TimBrown_2008P-low-id.mp4","high":"https://download.ted.com/talks/TimBrown_2008P-480p-id.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/TimBrown_2008P-low-es.mp4","high":"https://download.ted.com/talks/TimBrown_2008P-480p-es.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/TimBrown_2008P-low-sr.mp4","high":"https://download.ted.com/talks/TimBrown_2008P-480p-sr.mp4"},"fi":{"name":"Finnish","low":"https://download.ted.com/talks/TimBrown_2008P-low-fi.mp4","high":"https://download.ted.com/talks/TimBrown_2008P-480p-fi.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/TimBrown_2008P-low-ar.mp4","high":"https://download.ted.com/talks/TimBrown_2008P-480p-ar.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/TimBrown_2008P-low-pt.mp4","high":"https://download.ted.com/talks/TimBrown_2008P-480p-pt.mp4"},"fa":{"name":"Persian","high":"https://download.ted.com/talks/TimBrown_2008P-480p-fa.mp4","low":"https://download.ted.com/talks/TimBrown_2008P-low-fa.mp4"}},"audioDownload":null},"duration":1678.0,"event":"Serious Play 2008","event_blurb":null,"event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/58155_640x480.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/58155_640x480.jpg?q=50&w=15","id":"392","player_talks":[{"id":"392","duration":1678.0,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Finnish","endonym":"Suomi","languageCode":"fi","ianaCode":"fi","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Kurdish","endonym":"کوردی","languageCode":"ku","ianaCode":"ku","isRtl":true}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2008P/Blank/TimBrown_2008P-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DSerious%2BPlay%2B2008%26id%3D392%26tag%3Dart%2Ccreativity%2Cdesign%2Ceducation%2Cplay%2Ctoy%26talk%3Dtim_brown_on_creativity_and_play%26year%3D2008&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"392","talk":"tim_brown_on_creativity_and_play","tag":"art,creativity,design,education,play,toy","year":"2008","event":"Serious Play 2008"},"stream":"https://hls.ted.com/talks/392.m3u8","metadata":"https://hls.ted.com/talks/392.json"}},"targeting":{"id":"392","talk":"tim_brown_on_creativity_and_play","tag":"art,creativity,design,education,play,toy","year":"2008","event":"Serious Play 2008"},"canonical":"https://www.ted.com/talks/tim_brown_on_creativity_and_play","name":"Tim Brown: Tales of creativity and play","title":"Tales of creativity and play","speaker":"Tim Brown","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/58155_640x480.jpg?quality=89&w=600","slug":"tim_brown_on_creativity_and_play","event":"Serious Play 2008","published":1225933200}],"ratings":[{"id":9,"name":"Ingenious","count":230},{"id":10,"name":"Inspiring","count":777},{"id":7,"name":"Funny","count":326},{"id":8,"name":"Informative","count":466},{"id":24,"name":"Persuasive","count":293},{"id":3,"name":"Courageous","count":67},{"id":25,"name":"OK","count":118},{"id":11,"name":"Longwinded","count":109},{"id":22,"name":"Fascinating","count":341},{"id":1,"name":"Beautiful","count":45},{"id":2,"name":"Confusing","count":20},{"id":23,"name":"Jaw-dropping","count":55},{"id":26,"name":"Obnoxious","count":5},{"id":21,"name":"Unconvincing","count":23}],"recorded_at":"2008-05-07T00:00:00.000+00:00","related_talks":[{"id":"266","hero":"https://pe.tedcdn.com/images/ted/78d02a18ad21ee9032aae5b55690d57f21841ad7_1600x1200.jpg","speaker":"Yves Behar","title":"Designing objects that tell stories","duration":1063.0,"slug":"yves_behar_on_designing_objects_that_tell_stories","viewed_count":1158539},{"id":"50","hero":"https://pe.tedcdn.com/images/ted/357645ce1b44cbb0ff229b3a8a600bb49d984c94_1920x1080.jpg","speaker":"Stefan Sagmeister","title":"Happiness by design","duration":930.0,"slug":"stefan_sagmeister_shares_happy_design","viewed_count":1894265},{"id":"172","hero":"https://pe.tedcdn.com/images/ted/b790be2f87ceffba73fe73837944400c7d61cba2_1600x1200.jpg","speaker":"John Maeda","title":"Designing for simplicity","duration":959.0,"slug":"john_maeda_on_the_simple_life","viewed_count":1306767},{"id":"483","hero":"https://pe.tedcdn.com/images/ted/77048_800x600.jpg","speaker":"Stuart Brown","title":"Play is more than just fun","duration":1602.0,"slug":"stuart_brown_says_play_is_more_than_fun_it_s_vital","viewed_count":1784393},{"id":"1170","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/315077e5-389b-4b3c-a752-596a0688cac7/SteveKeil_2011X-embed.jpg","speaker":"Steve Keil","title":"A manifesto for play, for Bulgaria and beyond","duration":1076.0,"slug":"steve_keil_a_manifesto_for_play_for_bulgaria_and_beyond","viewed_count":622171},{"id":"435","hero":"https://pe.tedcdn.com/images/ted/66066_800x600.jpg","speaker":"Paula Scher","title":"Great design is serious, not solemn","duration":1316.0,"slug":"paula_scher_gets_serious","viewed_count":538324}],"slug":"tim_brown_on_creativity_and_play","speakers":[{"id":"308","slug":"tim_brown","is_published":true,"firstname":"Tim","lastname":"Brown","middleinitial":"","title":"","description":"Designer","photo_url":"https://pe.tedcdn.com/images/ted/118806_254x191.jpg","whatotherssay":"We need more executives like Brown who understand how creativity works.","whotheyare":"Tim Brown is the CEO of the \"innovation and design\" firm IDEO -- taking an approach to design that digs deeper than the surface.","whylisten":"<p>Tim Brown is the CEO of innovation and design firm IDEO, taking an approach to design that digs deeper than the surface. Having taken over from founder <a href=\"https://www.ted.com/index.php/talks/david_kelley_on_human_centered_design.html\" target=\"_blank\">David E. Kelley</a>, Tim Brown carries forward the firm&#39;s mission of fusing design, business and social studies to come up with deeply researched, deeply understood designs and ideas -- they call it &quot;design thinking.&quot;</p><p>IDEO is the kind of firm that companies turn to when they want a top-down rethink of a business or product -- from fast food conglomerates to high-tech startups, hospitals to universities. </p><p>IDEO has designed and prototyped everything from a life-saving <a href=\"http://www.ideo.com/work/item/forerunner/\" target=\"_blank\">portable defibrillator</a>  to the defining details at the groundbreaking <a href=\"http://www.ideo.com/case_studies/prada.asp?x=1\" target=\"_blank\">Prada shop</a> in Manhattan to corporate processes. And check out the <a href=\"http://labs.ideo.com/2008/10/28/the-incredible-ideo-global-chain-reaction-experience/\" target=\"_blank\">Global Chain Reaction</a>  for a sample of how seriously this firm takes play.</p><p>Curious about design thinking? Sign up for an IDEO U&nbsp;<a href=\"http://www.ideou.com/\" target=\"_blank\">design thinking course</a>&nbsp;or check out this free toolkit:&nbsp;<a href=\"http://www.designthinkingforeducators.com/\" target=\"_blank\">Design Thinking for Educators</a>.</p>"}],"speaker_name":"Tim Brown","tags":["art","creativity","design","education","play","toy"],"title":"Tales of creativity and play","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":1991944}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

@@ -1,0 +1,1122 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>David Pizarro: The strange politics of disgust | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: What does a disgusting image have to do with how you vote? Equipped with surveys and experiments, psychologist David Pizarro demonstrates a correlation between your sensitivity to disgusting cues -- a photo of feces, an unpleasant odor -- and your own moral or political conservatism." />
+<meta name="author" content="David Pizarro" />
+<link rel="canonical" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript?language=el" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript?language=vi" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript?language=pt-br" />
+<link rel="alternate" hreflang="cs" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript?language=cs" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript?language=nl" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript?language=pt" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript?language=en" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript?language=fr" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript?language=de" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript?language=hu" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript?language=fa" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript?language=he" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript?language=sr" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript?language=ko" />
+<link rel="alternate" hreflang="mk" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript?language=mk" />
+<link rel="alternate" hreflang="sk" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript?language=sk" />
+<link rel="alternate" hreflang="uk" href="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript?language=uk" />
+<meta property="og:title" content="Transcript of &quot;The strange politics of disgust&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/da32cea2207c16f784e2745152717f46bafbb386_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/da32cea2207c16f784e2745152717f46bafbb386_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="David Pizarro: The strange politics of disgust" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: What does a disgusting image have to do with how you vote? Equipped with surveys and experiments, psychologist David Pizarro demonstrates a correlation between your sensitivity to disgusting cues -- a photo of feces, an unpleasant odor -- and your own moral or political conservatism." />
+<meta property="og:url" content="https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 1597);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust' itemprop='url'>
+<meta content='The strange politics of disgust' itemprop='name'>
+<meta content='What does a disgusting image have to do with how you vote? Equipped with surveys and experiments, psychologist David Pizarro demonstrates a correlation between your sensitivity to disgusting cues — a photo of feces, an unpleasant odor — and your own moral or political conservatism.' itemprop='description'>
+<meta content='PT14M2S' itemprop='duration'>
+<meta content='2012-10-23T15:03:15+00:00' itemprop='uploadDate'>
+<meta content='713519' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/da32cea2207c16f784e2745152717f46bafbb386_1600x1200.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/david_pizarro' itemprop='url'>
+<meta content='David Pizarro' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/d76cf96cf58fd37524361ffca46ae8bc3c6ce1c1_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/david_pizarro_the_strange_politics_of_disgust' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/da32cea2207c16f784e2745152717f46bafbb386_1600x1200.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				David Pizarro
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					713,519
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 14:02</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											In the 17th century, a woman named Giulia Tofana
+											had a very successful perfume business.
+											For over 50 years she ran it.
+											It sort of ended abruptly when she was executed — (Laughter) —
+											for murdering 600 men. You see, it wasn&#39;t a very good perfume.
+											In fact, it was completely odorless and tasteless and colorless,
+											but as a poison, it was the best money could buy,
+											so women flocked to her in order to murder their husbands.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It turns out that poisoners were a valued and feared group,
+											because poisoning a human being is a quite difficult thing.
+											The reason is, we have sort of a built-in poison detector.
+											You can see this as early as even in newborn infants.
+											If you are willing to do this, you can take a couple of drops
+											of a bitter substance or a sour substance,
+											and you&#39;ll see that face, the tongue stick out, the wrinkled nose,
+											as if they&#39;re trying to get rid of what&#39;s in their mouth.
+											This reaction expands into adulthood and becomes
+											sort of a full-blown disgust response, no longer just
+											about whether or not we&#39;re about to be poisoned,
+											but whenever there&#39;s a threat of physical contamination
+											from some source. But the face remains strikingly similar.
+											It has expanded more, though, than just keeping us away
+											from physical contaminants, and there&#39;s a growing
+											body of evidence to suggest that, in fact, this emotion
+											of disgust now influences our moral beliefs
+											and even our deeply held political intuitions.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Why this might be the case?
+											We can understand this process by understanding
+											a little bit about emotions in general. So the basic human emotions,
+											those kinds of emotions that we share with all other human beings,
+											exist because they motivate us to do good things
+											and they keep us away from doing bad things.
+											So by and large, they are good for our survival.
+											Take the emotion of fear, for instance. It keeps us away
+											from doing things that are really, really risky.
+											This photo taken just before his death — (Laughter) —
+											is actually a — No, one reason this photo is interesting
+											is because most people would not do this, and if they did,
+											they would not live to tell it, because fear would have
+											kicked in a long time ago to a natural predator.
+											Just like fear offers us protective benefits, disgust seems
+											to do the same thing, except for what disgust does is
+											keeps us away from not things that might eat us,
+											or heights, but rather things that might poison us,
+											or give us disease and make us sick.
+											So one of the features of disgust that makes it such
+											an interesting emotion is that it&#39;s very, very easy to elicit,
+											in fact more so than probably any of the other basic emotions,
+											and so I&#39;m going to show you that with a couple of images
+											I can probably make you feel disgust.
+											So turn away. I&#39;ll tell you when you can turn back.
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I mean, you see it every day, right? I mean, come on. (Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Audience: Ewww.)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Okay, turn back, if you didn&#39;t look.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Those probably made a lot of you in the audience
+											feel very, very disgusted, but if you didn&#39;t look,
+											I can tell you about some of the other things that have been shown
+											sort of across the world to make people disgusted,
+											things like feces, urine, blood, rotten flesh.
+											These are the sorts of things that it makes sense
+											for us to stay away from, because they might actually contaminate us.
+											In fact, just having a diseased appearance
+											or odd sexual acts, these things are also
+											things that give us a lot of disgust.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Darwin was probably one of the first scientists
+											to systematically investigate the human emotions,
+											and he pointed to the universal nature and the strength
+											of the disgust response.
+											This is an anecdote from his travels in South America.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											&quot;In Tierro del Fuego a native touched with his finger
+											some cold preserved meat while I was eating ...
+											and plainly showed disgust at its softness, whilst I felt
+											utter disgust at my food being touched by a naked savage — (Laughter) —
+											though his hands did not appear dirty.&quot;
+											He later wrote, &quot;It&#39;s okay, some of my best friends are naked savages.&quot; (Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Well it turns out it&#39;s not only old-timey British scientists
+											who are this squeamish. I recently got a chance
+											to talk to Richard Dawkins for a documentary,
+											and I was able to disgust him a bunch of times. Here&#39;s my favorite.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Richard Dawkins: &quot;We&#39;ve evolved around courtship and sex,
+											are attached to deep-rooted emotions and reactions
+											that are hard to jettison overnight.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											David Pizarro: So my favorite part of this clip is that
+											Professor Dawkins actually gagged.
+											He jumps back, and he gags, and we had to do it three times,
+											and all three times he gagged. (Laughter)
+											And he was really gagging. I thought he might throw up on me, actually.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											One of the features, though, of disgust,
+											is not just its universality and its strength,
+											but the way that it works through association.
+											So when one disgusting thing touches a clean thing,
+											that clean thing becomes disgusting, not the other way around.
+											This makes it very useful as a strategy if you want to
+											convince somebody that an object or an individual
+											or an entire social group is disgusting and should be avoided.
+											The philosopher Martha Nussbaum points this out
+											in this quote: &quot;Thus throughout history, certain disgust
+											properties — sliminess, bad smell, stickiness, decay, foulness —
+											have been repeatedly and monotonously been associated with ...
+											Jews, women, homosexuals, untouchables, lower-class people —
+											all of those are imagined as tainted by the dirt of the body.&quot;
+											Let me give you just some examples of how, some powerful
+											examples of how this has been used historically.
+											This comes from a Nazi children&#39;s book published in 1938:
+											&quot;Just look at these guys! The louse-infested beards,
+											the filthy, protruding ears, those stained, fatty clothes...
+											Jews often have an unpleasant sweetish odor.
+											If you have a good nose, you can smell the Jews.&quot;
+											A more modern example comes from people who try to
+											convince us that homosexuality is immoral.
+											This is from an anti-gay website, where they said
+											gays are &quot;worthy of death for their vile ... sex practices.&quot;
+											They&#39;re like &quot;dogs eating their own vomit and sows wallowing in their own feces.&quot;
+											These are disgust properties that are trying to be directly
+											linked to the social group that you should not like.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											When we were first investigating the role of disgust in
+											moral judgment, one of the things we became interested in
+											was whether or not these sorts of appeals are more likely
+											to work in individuals who are more easily disgusted.
+											So while disgust, along with the other basic emotions,
+											are universal phenomena, it just really is true
+											that some people are easier to disgust than others.
+											You could probably see it in the audience members
+											when I showed you those disgusting images.
+											The way that we measured this was by a scale that was
+											constructed by some other psychologists
+											that simply asked people across a wide variety of situations
+											how likely they are to feel disgust.
+											So here are a couple of examples.
+											&quot;Even if I were hungry, I would not drink a bowl of my
+											favorite soup if it had been stirred by a used but thoroughly washed fly-swatter.&quot;
+											&quot;Do you agree or disagree?&quot; (Laughter)
+											&quot;While you are walking through a tunnel under a railroad track,
+											you smell urine. Would you be very disgusted or not at all disgusted?&quot;
+											If you ask enough of these, you can get a general overall
+											score of disgust sensitivity.
+											It turns out that this score is actually meaningful.
+											When you bring people into the laboratory and you ask
+											them if they&#39;re willing to engage in safe but disgusting behaviors
+											like eating chocolate that&#39;s been baked to look like dog poop,
+											or in this case eating some mealworms that are perfectly healthy but pretty gross,
+											your score on that scale actually predicts whether or not
+											you&#39;ll be willing to engage in those behaviors.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The first time that we set out to collect data on this
+											and associate it with political or moral beliefs,
+											we found a general pattern —
+											this is with the psychologists Yoel Inbar and Paul Bloom —
+											that in fact, across three studies we kept finding
+											that people who reported that they were easily disgusted
+											also reported that they were more politically conservative.
+											Another way to say this, though, is that people
+											who are very liberal are very hard to disgust. (Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											In a more recent follow-up study, we were able to look at
+											a much greater sample, a much larger sample. In this case,
+											this is nearly 30,000 U.S. respondents,
+											and we find the same pattern. As you can see,
+											people who are on the very conservative side
+											of answering the political orientation scale are
+											also much more likely to report that they&#39;re easily disgusted.
+											This data set also allowed us to statistically control
+											for a number of things that we knew were both related
+											to political orientation and to disgust sensitivity.
+											So we were able to control for gender, age, income,
+											education, even basic personality variables,
+											and the result stays the same.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											When we actually looked at not just self-reported political orientation,
+											but voting behavior, we were able to look geographically
+											across the nation. What we found was that in regions
+											in which people reported high levels of disgust sensitivity,
+											McCain got more votes.
+											So it not only predicted self-reported political orientation,
+											but actual voting behavior. And also we were able,
+											with this sample, to look across the world,
+											in 121 different countries we asked the same questions,
+											and as you can see, this is 121 countries collapsed
+											into 10 different geographical regions.
+											No matter where you look, what this is plotting is the size
+											of the relationship between disgust sensitivity and political orientation,
+											and no matter where we looked, we saw a very similar effect.
+											Other labs have actually looked at this as well
+											using different measures of disgust sensitivity,
+											so rather than asking people how easily disgusted they are,
+											they hook people up to physiological measures,
+											in this case skin conductance.
+											And what they&#39;ve demonstrated is that people who report
+											being more politically conservative are also more physiologically aroused
+											when you show them disgusting images like the ones that I showed you.
+											Interestingly, what they also showed in a finding
+											that we kept getting in our previous studies as well
+											was that one of the strongest influences here is that
+											individuals who are very disgust-sensitive not only are
+											more likely to report being politically conservative, but
+											they&#39;re also very much more opposed to gay marriage
+											and homosexuality and pretty much a lot of
+											the socio-moral issues in the sexual domain.
+											So physiological arousal predicted, in this study,
+											attitudes toward gay marriage.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But even with all these data linking disgust sensitivity
+											and political orientation, one of the questions that remains is
+											what is the causal link here? Is it the case that
+											disgust really is shaping political and moral beliefs?
+											We have to resort to experimental methods to answer this,
+											and so what we can do is actually bring people into the lab
+											and disgust them and compare them to a control group
+											that hasn&#39;t been disgusted. It turns out that over
+											the past five years a number of researchers have done this,
+											and by and large the results have all been the same,
+											that when people are feeling disgust, their attitudes
+											shift towards the right of the political spectrum,
+											toward more moral conservatism as well.
+											So this is whether you use a foul odor, a bad taste,
+											from film clips, from post-hypnotic suggestions of disgust,
+											images like the ones I&#39;ve shown you, even just
+											reminding people that disease is prevalent and they should
+											be wary of it and wash up, right, to keep clean,
+											these all have similar effects on judgment.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Let me just give you an example from a recent study
+											that we conducted. We asked participants
+											to just simply give us their opinion of a variety of social groups,
+											and we either made the room smell gross or not.
+											When the room smelled gross, what we saw was that
+											individuals actually reported more negative attitudes toward gay men.
+											Disgust didn&#39;t influence attitudes toward all the other
+											social groups that we asked, including African-Americans,
+											the elderly. It really came down to the attitudes they had
+											toward gay men.
+											In another set of studies we actually simply reminded people —
+											this was at a time when the swine flu was going around —
+											we reminded people that in order to prevent the spread
+											of the flu that they ought to wash their hands.
+											For some participants, we actually had them take questionnaires
+											next to a sign that reminded them to wash their hands.
+											And what we found was that just taking a questionnaire
+											next to this hand-sanitizing reminder made individuals
+											report being more politically conservative.
+											And when we asked them a variety of questions about
+											the rightness or wrongness of certain acts, what we also
+											found was that simply being reminded that they ought
+											to wash their hands made them more morally conservative.
+											In particular, when we asked them questions about
+											sort of taboo but fairly harmless sexual practices,
+											just being reminded that they ought to wash their hands
+											made them think that they were more morally wrong.
+											Let me give you an example of what I mean by harmless
+											but taboo sexual practice. We gave them scenarios.
+											One of them said a man is house-sitting for his grandmother.
+											When his grandmother&#39;s away, he has sex with his girlfriend
+											on his grandma&#39;s bed.
+											In another one, we said a woman enjoys masturbating
+											with her favorite teddy bear cuddled next to her. (Laughter)
+											People find these to be more morally abhorrent
+											if they&#39;ve been reminded to wash their hands. (Laughter)
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Okay. The fact that emotions influence our judgment
+											should come as no surprise. I mean,
+											that&#39;s part of how emotions work.
+											They not only motivate you to behave in certain ways,
+											but they change the way you think.
+											In the case of disgust, what is a little bit more surprising
+											is the scope of this influence. It makes perfect sense,
+											and it&#39;s a very good emotion for us to have, that disgust
+											would make me change the way that I perceive
+											the physical world whenever contamination is possible.
+											It makes less sense that an emotion that was built
+											to prevent me from ingesting poison should predict
+											who I&#39;m going to vote for in the upcoming presidential election.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The question of whether disgust ought to influence
+											our moral and political judgments
+											certainly has to be complex, and might depend on exactly
+											what judgments we&#39;re talking about, and as a scientist,
+											we have to conclude sometimes that the scientific method
+											is just ill-equipped to answer these sorts of questions.
+											But one thing that I am fairly certain about is,
+											at the very least, what we can do with this research is
+											point to what questions we ought to ask in the first place.
+											Thank you. (Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":16063,"count":103,"talk_id":1597},"threadId":16063,"current_talk":"1597","description":"What does a disgusting image have to do with how you vote? Equipped with surveys and experiments, psychologist David Pizarro demonstrates a correlation between your sensitivity to disgusting cues -- a photo of feces, an unpleasant odor -- and your own moral or political conservatism.","event":"TEDxEast","language":"en","name":"David Pizarro: The strange politics of disgust","slug":"david_pizarro_the_strange_politics_of_disgust","speakers":[{"id":"1422","slug":"david_pizarro","is_published":true,"firstname":"David","lastname":"Pizarro","middleinitial":"","title":"","description":"Psychologist, Disgust researcher","photo_url":"https://pe.tedcdn.com/images/ted/d76cf96cf58fd37524361ffca46ae8bc3c6ce1c1_254x191.jpg","whatotherssay":"","whotheyare":"David Pizarro is a psychologist interested in how certain emotions (disgust, fear, anger) affect our moral judgment.","whylisten":"<p>It&#39;s common knowledge that our emotions can have a strong effect on our behavior and judgment. But why would an emotion like disgust, evolutionarily developed to protect us from poisons and other dangerous substances, have any influence on our political leanings today? David Pizarro, associate professor at Cornell University, is studying this surprising phenomenon: Sensitivity to disgusting sensations (like a photo of feces, or being reminded that germs are everywhere) correlates to moral and political conservatism. In his studies he has demonstrated that exposing people to an unpleasant odor can increase negative feelings toward homosexual men.</p>"}],"url":"https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust","viewed_count":713519,"talks":[{"curator_approved":true,"description":"What does a disgusting image have to do with how you vote? Equipped with surveys and experiments, psychologist David Pizarro demonstrates a correlation between your sensitivity to disgusting cues -- a photo of feces, an unpleasant odor -- and your own moral or political conservatism.","downloads":{"id":1597,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Macedonian","endonym":"македонски","languageCode":"mk","ianaCode":"mk","isRtl":false},{"languageName":"Slovak","endonym":"Slovenčina","languageCode":"sk","ianaCode":"sk","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/DavidPizarro_2012X-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/DavidPizarro_2012X.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/DavidPizarro_2012X-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"he":{"name":"Hebrew","low":"https://download.ted.com/talks/DavidPizarro_2012X-low-he.mp4","high":"https://download.ted.com/talks/DavidPizarro_2012X-480p-he.mp4"},"fr":{"name":"French","low":"https://download.ted.com/talks/DavidPizarro_2012X-low-fr.mp4","high":"https://download.ted.com/talks/DavidPizarro_2012X-480p-fr.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/DavidPizarro_2012X-low-nl.mp4","high":"https://download.ted.com/talks/DavidPizarro_2012X-480p-nl.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/DavidPizarro_2012X-low-it.mp4","high":"https://download.ted.com/talks/DavidPizarro_2012X-480p-it.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/DavidPizarro_2012X-low-hu.mp4","high":"https://download.ted.com/talks/DavidPizarro_2012X-480p-hu.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/DavidPizarro_2012X-low-el.mp4","high":"https://download.ted.com/talks/DavidPizarro_2012X-480p-el.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/DavidPizarro_2012X-low-ru.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/DavidPizarro_2012X-low-es.mp4","high":"https://download.ted.com/talks/DavidPizarro_2012X-480p-es.mp4"},"en":{"name":"English","high":"https://download.ted.com/talks/DavidPizarro_2012X-480p-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/DavidPizarro_2012X-low-pt-br.mp4","high":"https://download.ted.com/talks/DavidPizarro_2012X-480p-pt-br.mp4"},"pl":{"name":"Polish","high":"https://download.ted.com/talks/DavidPizarro_2012X-480p-pl.mp4","low":"https://download.ted.com/talks/DavidPizarro_2012X-low-pl.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/DavidPizarro_2012X-low-ro.mp4","high":"https://download.ted.com/talks/DavidPizarro_2012X-480p-ro.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/DavidPizarro_2012X-low-ko.mp4","high":"https://download.ted.com/talks/DavidPizarro_2012X-480p-ko.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/DavidPizarro_2012X-low-ja.mp4","high":"https://download.ted.com/talks/DavidPizarro_2012X-480p-ja.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/DavidPizarro_2012X-low-zh-cn.mp4","high":"https://download.ted.com/talks/DavidPizarro_2012X-480p-zh-cn.mp4"},"mk":{"name":"Macedonian","low":"https://download.ted.com/talks/DavidPizarro_2012X-low-mk.mp4","high":"https://download.ted.com/talks/DavidPizarro_2012X-480p-mk.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/DavidPizarro_2012X-low-fa.mp4","high":"https://download.ted.com/talks/DavidPizarro_2012X-480p-fa.mp4"},"pt":{"name":"Portuguese","high":"https://download.ted.com/talks/DavidPizarro_2012X-480p-pt.mp4","low":"https://download.ted.com/talks/DavidPizarro_2012X-low-pt.mp4"},"ar":{"name":"Arabic","high":"https://download.ted.com/talks/DavidPizarro_2012X-480p-ar.mp4","low":"https://download.ted.com/talks/DavidPizarro_2012X-low-ar.mp4"},"zh-tw":{"name":"Chinese, Traditional","high":"https://download.ted.com/talks/DavidPizarro_2012X-480p-zh-tw.mp4","low":"https://download.ted.com/talks/DavidPizarro_2012X-low-zh-tw.mp4"},"uk":{"name":"Ukrainian","high":"https://download.ted.com/talks/DavidPizarro_2012X-480p-uk.mp4","low":"https://download.ted.com/talks/DavidPizarro_2012X-low-uk.mp4"},"de":{"name":"German","high":"https://download.ted.com/talks/DavidPizarro_2012X-480p-de.mp4","low":"https://download.ted.com/talks/DavidPizarro_2012X-low-de.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/DavidPizarro_2012X-low-sr.mp4"},"sk":{"name":"Slovak","low":"https://download.ted.com/talks/DavidPizarro_2012X-low-sk.mp4","high":"https://download.ted.com/talks/DavidPizarro_2012X-480p-sk.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/DavidPizarro_2012X-low-vi.mp4","high":"https://download.ted.com/talks/DavidPizarro_2012X-480p-vi.mp4"},"cs":{"name":"Czech","low":"https://download.ted.com/talks/DavidPizarro_2012X-low-cs.mp4","high":"https://download.ted.com/talks/DavidPizarro_2012X-480p-cs.mp4"}},"audioDownload":null},"duration":842.0,"event":"TEDxEast","event_blurb":"This talk was presented to a local audience at TEDxEast, an independent event. TED's editors chose to feature it for you.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/da32cea2207c16f784e2745152717f46bafbb386_1600x1200.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/da32cea2207c16f784e2745152717f46bafbb386_1600x1200.jpg?q=50&w=15","id":"1597","player_talks":[{"id":"1597","duration":842.0,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Macedonian","endonym":"македонски","languageCode":"mk","ianaCode":"mk","isRtl":false},{"languageName":"Slovak","endonym":"Slovenčina","languageCode":"sk","ianaCode":"sk","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2012X/Blank/DavidPizarro_2012X-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDxEast%26id%3D1597%26tag%3DTEDx%2Cbrain%2Cchoice%2Ccognitive%2Bscience%2Cmorality%2Cpolitics%2Cpsychology%2Cscience%2Csmell%2Csociology%2Chistory%2Csex%2Cmind%26talk%3Ddavid_pizarro_the_strange_politics_of_disgust%26year%3D2012&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"1597","talk":"david_pizarro_the_strange_politics_of_disgust","tag":"TEDx,brain,choice,cognitive science,morality,politics,psychology,science,smell,sociology,history,sex,mind","year":"2012","event":"TEDxEast"},"stream":"https://hls.ted.com/talks/1597.m3u8","metadata":"https://hls.ted.com/talks/1597.json"}},"targeting":{"id":"1597","talk":"david_pizarro_the_strange_politics_of_disgust","tag":"TEDx,brain,choice,cognitive science,morality,politics,psychology,science,smell,sociology,history,sex,mind","year":"2012","event":"TEDxEast"},"canonical":"https://www.ted.com/talks/david_pizarro_the_strange_politics_of_disgust","name":"David Pizarro: The strange politics of disgust","title":"The strange politics of disgust","speaker":"David Pizarro","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/da32cea2207c16f784e2745152717f46bafbb386_1600x1200.jpg?quality=89&w=600","slug":"david_pizarro_the_strange_politics_of_disgust","event":"TEDxEast","published":1351004595}],"ratings":[{"id":8,"name":"Informative","count":293},{"id":22,"name":"Fascinating","count":254},{"id":7,"name":"Funny","count":111},{"id":23,"name":"Jaw-dropping","count":40},{"id":9,"name":"Ingenious","count":47},{"id":24,"name":"Persuasive","count":90},{"id":3,"name":"Courageous","count":17},{"id":10,"name":"Inspiring","count":17},{"id":25,"name":"OK","count":28},{"id":26,"name":"Obnoxious","count":9},{"id":11,"name":"Longwinded","count":16},{"id":21,"name":"Unconvincing","count":10},{"id":2,"name":"Confusing","count":5},{"id":1,"name":"Beautiful","count":2}],"recorded_at":"2012-05-11T00:00:00.000+00:00","related_talks":[{"id":"548","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/bc922644-09d4-47e6-b6e1-c0afb84d050c/DanAriely_2008P-embed.jpg","speaker":"Dan Ariely","title":"Are we in control of our own decisions?","duration":1046.0,"slug":"dan_ariely_asks_are_we_in_control_of_our_own_decisions","viewed_count":5411265},{"id":"487","hero":"https://pe.tedcdn.com/images/ted/78166_800x600.jpg","speaker":"Dan Ariely","title":"Our buggy moral code","duration":983.0,"slug":"dan_ariely_on_our_buggy_moral_code","viewed_count":2897166},{"id":"341","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/5720eac9-d3b3-46f8-855c-fba2ccffa96b/JonathanHaidt_2008-embed.jpg","speaker":"Jonathan Haidt","title":"The moral roots of liberals and conservatives","duration":1122.0,"slug":"jonathan_haidt_on_the_moral_mind","viewed_count":3004251},{"id":"2625","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/cb2d33fb-b811-4824-b80f-9f87e8959e5c/JonathanHaidt_2016S-embed.jpg","speaker":"Jonathan Haidt","title":"Can a divided America heal?","duration":1217.0,"slug":"jonathan_haidt_can_a_divided_america_heal","viewed_count":1687520},{"id":"2669","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/994fd285-072e-4202-add9-b3adee314268/RobbWiller_2016X-embed.jpg","speaker":"Robb Willer","title":"How to have better political conversations","duration":721.0,"slug":"robb_willer_how_to_have_better_political_conversations","viewed_count":1373435},{"id":"2716","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/93f7952c-41ab-4168-aa34-1c4c55c53879/GretchenCarlsonandDavidBrooks_2017S-embed.jpg","speaker":"Gretchen Carlson, David Brooks","title":"Political common ground in a polarized United States","duration":2853.0,"slug":"gretchen_carlson_david_brooks_political_common_ground_in_a_polarized_united_states","viewed_count":979710}],"slug":"david_pizarro_the_strange_politics_of_disgust","speakers":[{"id":"1422","slug":"david_pizarro","is_published":true,"firstname":"David","lastname":"Pizarro","middleinitial":"","title":"","description":"Psychologist, Disgust researcher","photo_url":"https://pe.tedcdn.com/images/ted/d76cf96cf58fd37524361ffca46ae8bc3c6ce1c1_254x191.jpg","whatotherssay":"","whotheyare":"David Pizarro is a psychologist interested in how certain emotions (disgust, fear, anger) affect our moral judgment.","whylisten":"<p>It&#39;s common knowledge that our emotions can have a strong effect on our behavior and judgment. But why would an emotion like disgust, evolutionarily developed to protect us from poisons and other dangerous substances, have any influence on our political leanings today? David Pizarro, associate professor at Cornell University, is studying this surprising phenomenon: Sensitivity to disgusting sensations (like a photo of feces, or being reminded that germs are everywhere) correlates to moral and political conservatism. In his studies he has demonstrated that exposing people to an unpleasant odor can increase negative feelings toward homosexual men.</p>"}],"speaker_name":"David Pizarro","tags":["TEDx","brain","choice","cognitive science","morality","politics","psychology","science","smell","sociology","history","sex","mind"],"title":"The strange politics of disgust","video_type":{"id":"2","name":"TEDx Talk"},"viewed_count":713519}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

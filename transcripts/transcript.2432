@@ -1,0 +1,1420 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Tricia Wang: The human insights missing from big data | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Why do so many companies make bad decisions, even with access to unprecedented amounts of data? With stories from Nokia to Netflix to the oracles of ancient Greece, Tricia Wang demystifies big data and identifies its pitfalls, suggesting that we focus instead on &quot;thick data&quot; -- precious, unquantifiable insights from actual people -- to make the right business decisions and thrive in the unknown." />
+<meta name="author" content="Tricia Wang" />
+<link rel="canonical" href="https://www.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data/transcript" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data/transcript?language=en" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data/transcript?language=es" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data/transcript?language=pt-br" />
+<link rel="alternate" hreflang="uk" href="https://www.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data/transcript?language=uk" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data/transcript?language=ru" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data/transcript?language=ko" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data/transcript?language=tr" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data/transcript?language=vi" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data/transcript?language=it" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data/transcript?language=he" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data/transcript?language=ja" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data/transcript?language=fr" />
+<meta property="og:title" content="Transcript of &quot;The human insights missing from big data&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/22696ce9-3576-4f47-bb0d-e56ddbbef8a3/TriciaWang_2016X-embed.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/22696ce9-3576-4f47-bb0d-e56ddbbef8a3/TriciaWang_2016X-embed.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Tricia Wang: The human insights missing from big data" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Why do so many companies make bad decisions, even with access to unprecedented amounts of data? With stories from Nokia to Netflix to the oracles of ancient Greece, Tricia Wang demystifies big data and identifies its pitfalls, suggesting that we focus instead on &quot;thick data&quot; -- precious, unquantifiable insights from actual people -- to make the right business decisions and thrive in the unknown." />
+<meta property="og:url" content="https://www.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 2818);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data' itemprop='url'>
+<meta content='The human insights missing from big data' itemprop='name'>
+<meta content='Why do so many companies make bad decisions, even with access to unprecedented amounts of data? With stories from Nokia to Netflix to the oracles of ancient Greece, Tricia Wang demystifies big data and identifies its pitfalls, suggesting that we focus instead on "thick data" — precious, unquantifiable insights from actual people — to make the right business decisions and thrive in the unknown.' itemprop='description'>
+<meta content='PT16M12S' itemprop='duration'>
+<meta content='2017-07-19T15:02:04+00:00' itemprop='uploadDate'>
+<meta content='1452164' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/22696ce9-3576-4f47-bb0d-e56ddbbef8a3/TriciaWang_2016X-embed.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/tricia_wang' itemprop='url'>
+<meta content='Tricia Wang' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/14eef5a6494b89ee5f73e397d353fd6c268b0bbd_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/22696ce9-3576-4f47-bb0d-e56ddbbef8a3/TriciaWang_2016X-embed.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Tricia Wang
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,452,164
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 16:12</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											In ancient Greece,
+											when anyone from slaves to soldiers,
+poets and politicians,
+											needed to make a big decision
+on life&#39;s most important questions,
+											like, &quot;Should I get married?&quot;
+											or &quot;Should we embark on this voyage?&quot;
+											or &quot;Should our army
+advance into this territory?&quot;
+											they all consulted the oracle.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So this is how it worked:
+											you would bring her a question
+and you would get on your knees,
+											and then she would go into this trance.
+											It would take a couple of days,
+											and then eventually
+she would come out of it,
+											giving you her predictions as your answer.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											From the oracle bones of ancient China
+											to ancient Greece to Mayan calendars,
+											people have craved for prophecy
+											in order to find out
+what&#39;s going to happen next.
+											And that&#39;s because we all want
+to make the right decision.
+											We don&#39;t want to miss something.
+											The future is scary,
+											so it&#39;s much nicer
+knowing that we can make a decision
+											with some assurance of the outcome.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Well, we have a new oracle,
+											and it&#39;s name is big data,
+											or we call it &quot;Watson&quot;
+or &quot;deep learning&quot; or &quot;neural net.&quot;
+											And these are the kinds of questions
+we ask of our oracle now,
+											like, &quot;What&#39;s the most efficient way
+to ship these phones
+											from China to Sweden?&quot;
+											Or, &quot;What are the odds
+											of my child being born
+with a genetic disorder?&quot;
+											Or, &quot;What are the sales volume
+we can predict for this product?&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I have a dog. Her name is Elle,
+and she hates the rain.
+											And I have tried everything
+to untrain her.
+											But because I have failed at this,
+											I also have to consult
+an oracle, called Dark Sky,
+											every time before we go on a walk,
+											for very accurate weather predictions
+in the next 10 minutes.
+											She&#39;s so sweet.
+											So because of all of this,
+our oracle is a $122 billion industry.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, despite the size of this industry,
+											the returns are surprisingly low.
+											Investing in big data is easy,
+											but using it is hard.
+											Over 73 percent of big data projects
+aren&#39;t even profitable,
+											and I have executives
+coming up to me saying,
+											&quot;We&#39;re experiencing the same thing.
+											We invested in some big data system,
+											and our employees aren&#39;t making
+better decisions.
+											And they&#39;re certainly not coming up
+with more breakthrough ideas.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So this is all really interesting to me,
+											because I&#39;m a technology ethnographer.
+											I study and I advise companies
+											on the patterns
+of how people use technology,
+											and one of my interest areas is data.
+											So why is having more data
+not helping us make better decisions,
+											especially for companies
+who have all these resources
+											to invest in these big data systems?
+											Why isn&#39;t it getting any easier for them?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, I&#39;ve witnessed the struggle firsthand.
+											In 2009, I started
+a research position with Nokia.
+											And at the time,
+											Nokia was one of the largest
+cell phone companies in the world,
+											dominating emerging markets
+like China, Mexico and India —
+											all places where I had done
+a lot of research
+											on how low-income people use technology.
+											And I spent a lot of extra time in China
+											getting to know the informal economy.
+											So I did things like working
+as a street vendor
+											selling dumplings to construction workers.
+											Or I did fieldwork,
+											spending nights and days
+in internet cafés,
+											hanging out with Chinese youth,
+so I could understand
+											how they were using
+games and mobile phones
+											and using it between moving
+from the rural areas to the cities.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Through all of this qualitative evidence
+that I was gathering,
+											I was starting to see so clearly
+											that a big change was about to happen
+among low-income Chinese people.
+											Even though they were surrounded
+by advertisements for luxury products
+											like fancy toilets —
+who wouldn&#39;t want one? —
+											and apartments and cars,
+											through my conversations with them,
+											I found out that the ads
+the actually enticed them the most
+											were the ones for iPhones,
+											promising them this entry
+into this high-tech life.
+											And even when I was living with them
+in urban slums like this one,
+											I saw people investing
+over half of their monthly income
+											into buying a phone,
+											and increasingly, they were &quot;shanzhai,&quot;
+											which are affordable knock-offs
+of iPhones and other brands.
+											They&#39;re very usable.
+											Does the job.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And after years of living
+with migrants and working with them
+											and just really doing everything
+that they were doing,
+											I started piecing
+all these data points together —
+											from the things that seem random,
+like me selling dumplings,
+											to the things that were more obvious,
+											like tracking how much they were spending
+on their cell phone bills.
+											And I was able to create
+this much more holistic picture
+											of what was happening.
+											And that&#39;s when I started to realize
+											that even the poorest in China
+would want a smartphone,
+											and that they would do almost anything
+to get their hands on one.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											You have to keep in mind,
+											iPhones had just come out, it was 2009,
+											so this was, like, eight years ago,
+											and Androids had just started
+looking like iPhones.
+											And a lot of very smart
+and realistic people said,
+											&quot;Those smartphones — that&#39;s just a fad.
+											Who wants to carry around
+these heavy things
+											where batteries drain quickly
+and they break every time you drop them?&quot;
+											But I had a lot of data,
+											and I was very confident
+about my insights,
+											so I was very excited
+to share them with Nokia.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But Nokia was not convinced,
+											because it wasn&#39;t big data.
+											They said, &quot;We have
+millions of data points,
+											and we don&#39;t see any indicators
+of anyone wanting to buy a smartphone,
+											and your data set of 100,
+as diverse as it is, is too weak
+											for us to even take seriously.&quot;
+											And I said, &quot;Nokia, you&#39;re right.
+											Of course you wouldn&#39;t see this,
+											because you&#39;re sending out surveys
+assuming that people don&#39;t know
+											what a smartphone is,
+											so of course you&#39;re not going
+to get any data back
+											about people wanting to buy
+a smartphone in two years.
+											Your surveys, your methods
+have been designed
+											to optimize an existing business model,
+											and I&#39;m looking
+at these emergent human dynamics
+											that haven&#39;t happened yet.
+											We&#39;re looking outside of market dynamics
+											so that we can get ahead of it.&quot;
+											Well, you know what happened to Nokia?
+											Their business fell off a cliff.
+											This — this is the cost
+of missing something.
+											It was unfathomable.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But Nokia&#39;s not alone.
+											I see organizations
+throwing out data all the time
+											because it didn&#39;t come from a quant model
+											or it doesn&#39;t fit in one.
+											But it&#39;s not big data&#39;s fault.
+											It&#39;s the way we use big data;
+it&#39;s our responsibility.
+											Big data&#39;s reputation for success
+											comes from quantifying
+very specific environments,
+											like electricity power grids
+or delivery logistics or genetic code,
+											when we&#39;re quantifying in systems
+that are more or less contained.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But not all systems
+are as neatly contained.
+											When you&#39;re quantifying
+and systems are more dynamic,
+											especially systems
+that involve human beings,
+											forces are complex and unpredictable,
+											and these are things
+that we don&#39;t know how to model so well.
+											Once you predict something
+about human behavior,
+											new factors emerge,
+											because conditions
+are constantly changing.
+											That&#39;s why it&#39;s a never-ending cycle.
+											You think you know something,
+											and then something unknown
+enters the picture.
+											And that&#39;s why just relying
+on big data alone
+											increases the chance
+that we&#39;ll miss something,
+											while giving us this illusion
+that we already know everything.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And what makes it really hard
+to see this paradox
+											and even wrap our brains around it
+											is that we have this thing
+that I call the quantification bias,
+											which is the unconscious belief
+of valuing the measurable
+											over the immeasurable.
+											And we often experience this at our work.
+											Maybe we work alongside
+colleagues who are like this,
+											or even our whole entire
+company may be like this,
+											where people become
+so fixated on that number,
+											that they can&#39;t see anything
+outside of it,
+											even when you present them evidence
+right in front of their face.
+											And this is a very appealing message,
+											because there&#39;s nothing
+wrong with quantifying;
+											it&#39;s actually very satisfying.
+											I get a great sense of comfort
+from looking at an Excel spreadsheet,
+											even very simple ones.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It&#39;s just kind of like,
+											&quot;Yes! The formula worked. It&#39;s all OK.
+Everything is under control.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But the problem is
+											that quantifying is addictive.
+											And when we forget that
+											and when we don&#39;t have something
+to kind of keep that in check,
+											it&#39;s very easy to just throw out data
+											because it can&#39;t be expressed
+as a numerical value.
+											It&#39;s very easy just to slip
+into silver-bullet thinking,
+											as if some simple solution existed.
+											Because this is a great moment of danger
+for any organization,
+											because oftentimes,
+the future we need to predict —
+											it isn&#39;t in that haystack,
+											but it&#39;s that tornado
+that&#39;s bearing down on us
+											outside of the barn.
+											There is no greater risk
+											than being blind to the unknown.
+											It can cause you to make
+the wrong decisions.
+											It can cause you to miss something big.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But we don&#39;t have to go down this path.
+											It turns out that the oracle
+of ancient Greece
+											holds the secret key
+that shows us the path forward.
+											Now, recent geological research has shown
+											that the Temple of Apollo,
+where the most famous oracle sat,
+											was actually built
+over two earthquake faults.
+											And these faults would release
+these petrochemical fumes
+											from underneath the Earth&#39;s crust,
+											and the oracle literally sat
+right above these faults,
+											inhaling enormous amounts
+of ethylene gas, these fissures.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It&#39;s true.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+											It&#39;s all true, and that&#39;s what made her
+babble and hallucinate
+											and go into this trance-like state.
+											She was high as a kite!
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So how did anyone —
+											How did anyone get
+any useful advice out of her
+											in this state?
+											Well, you see those people
+surrounding the oracle?
+											You see those people holding her up,
+											because she&#39;s, like, a little woozy?
+											And you see that guy
+on your left-hand side
+											holding the orange notebook?
+											Well, those were the temple guides,
+											and they worked hand in hand
+with the oracle.
+											When inquisitors would come
+and get on their knees,
+											that&#39;s when the temple guides
+would get to work,
+											because after they asked her questions,
+											they would observe their emotional state,
+											and then they would ask them
+follow-up questions,
+											like, &quot;Why do you want to know
+this prophecy? Who are you?
+											What are you going to do
+with this information?&quot;
+											And then the temple guides would take
+this more ethnographic,
+											this more qualitative information,
+											and interpret the oracle&#39;s babblings.
+											So the oracle didn&#39;t stand alone,
+											and neither should our big data systems.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now to be clear,
+											I&#39;m not saying that big data systems
+are huffing ethylene gas,
+											or that they&#39;re even giving
+invalid predictions.
+											The total opposite.
+											But what I am saying
+											is that in the same way
+that the oracle needed her temple guides,
+											our big data systems need them, too.
+											They need people like ethnographers
+and user researchers
+											who can gather what I call thick data.
+											This is precious data from humans,
+											like stories, emotions and interactions
+that cannot be quantified.
+											It&#39;s the kind of data
+that I collected for Nokia
+											that comes in in the form
+of a very small sample size,
+											but delivers incredible depth of meaning.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And what makes it so thick and meaty
+											is the experience of understanding
+the human narrative.
+											And that&#39;s what helps to see
+what&#39;s missing in our models.
+											Thick data grounds our business questions
+in human questions,
+											and that&#39;s why integrating
+big and thick data
+											forms a more complete picture.
+											Big data is able to offer
+insights at scale
+											and leverage the best
+of machine intelligence,
+											whereas thick data can help us
+rescue the context loss
+											that comes from making big data usable,
+											and leverage the best
+of human intelligence.
+											And when you actually integrate the two,
+that&#39;s when things get really fun,
+											because then you&#39;re no longer
+just working with data
+											you&#39;ve already collected.
+											You get to also work with data
+that hasn&#39;t been collected.
+											You get to ask questions about why:
+											Why is this happening?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, when Netflix did this,
+											they unlocked a whole new way
+to transform their business.
+											Netflix is known for their really great
+recommendation algorithm,
+											and they had this $1 million prize
+for anyone who could improve it.
+											And there were winners.
+											But Netflix discovered
+the improvements were only incremental.
+											So to really find out what was going on,
+											they hired an ethnographer,
+Grant McCracken,
+											to gather thick data insights.
+											And what he discovered was something
+that they hadn&#39;t seen initially
+											in the quantitative data.
+											He discovered that people loved
+to binge-watch.
+											In fact, people didn&#39;t even
+feel guilty about it.
+											They enjoyed it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So Netflix was like,
+&quot;Oh. This is a new insight.&quot;
+											So they went to their data science team,
+											and they were able to scale
+this big data insight
+											in with their quantitative data.
+											And once they verified it
+and validated it,
+											Netflix decided to do something
+very simple but impactful.
+											They said, instead of offering
+the same show from different genres
+											or more of the different shows
+from similar users,
+											we&#39;ll just offer more of the same show.
+											We&#39;ll make it easier
+for you to binge-watch.
+											And they didn&#39;t stop there.
+											They did all these things
+											to redesign their entire
+viewer experience,
+											to really encourage binge-watching.
+											It&#39;s why people and friends disappear
+for whole weekends at a time,
+											catching up on shows
+like &quot;Master of None.&quot;
+											By integrating big data and thick data,
+they not only improved their business,
+											but they transformed how we consume media.
+											And now their stocks are projected
+to double in the next few years.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But this isn&#39;t just about
+watching more videos
+											or selling more smartphones.
+											For some, integrating thick data
+insights into the algorithm
+											could mean life or death,
+											especially for the marginalized.
+											All around the country,
+police departments are using big data
+											for predictive policing,
+											to set bond amounts
+and sentencing recommendations
+											in ways that reinforce existing biases.
+											NSA&#39;s Skynet machine learning algorithm
+											has possibly aided in the deaths
+of thousands of civilians in Pakistan
+											from misreading cellular device metadata.
+											As all of our lives become more automated,
+											from automobiles to health insurance
+or to employment,
+											it is likely that all of us
+											will be impacted
+by the quantification bias.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, the good news
+is that we&#39;ve come a long way
+											from huffing ethylene gas
+to make predictions.
+											We have better tools,
+so let&#39;s just use them better.
+											Let&#39;s integrate the big data
+with the thick data.
+											Let&#39;s bring our temple guides
+with the oracles,
+											and whether this work happens
+in companies or nonprofits
+											or government or even in the software,
+											all of it matters,
+											because that means
+we&#39;re collectively committed
+											to making better data,
+											better algorithms, better outputs
+											and better decisions.
+											This is how we&#39;ll avoid
+missing that something.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":27410,"count":29,"talk_id":2818},"threadId":27410,"current_talk":"2818","description":"Why do so many companies make bad decisions, even with access to unprecedented amounts of data? With stories from Nokia to Netflix to the oracles of ancient Greece, Tricia Wang demystifies big data and identifies its pitfalls, suggesting that we focus instead on \"thick data\" -- precious, unquantifiable insights from actual people -- to make the right business decisions and thrive in the unknown.","event":"TEDxCambridge","language":"en","name":"Tricia Wang: The human insights missing from big data","slug":"tricia_wang_the_human_insights_missing_from_big_data","speakers":[{"id":"3495","slug":"tricia_wang","is_published":true,"firstname":"Tricia","lastname":"Wang","middleinitial":"","title":"","description":"Technology ethnographer","photo_url":"https://pe.tedcdn.com/images/ted/14eef5a6494b89ee5f73e397d353fd6c268b0bbd_254x191.jpg","whatotherssay":"","whotheyare":"With astronaut eyes and ethnographer curiosity, Tricia Wang helps corporations grow by discovering the unknown about their customers.","whylisten":"<p>For Tricia Wang, human behavior generates some of the most perplexing questions of our times. She has taught global organizations how to identify new customers and markets hidden behind their data, amplified IDEO&#39;s design thinking practice as an expert-in-residence, researched the social evolution of the Chinese internet, and written about the &quot;elastic self,&quot; an emergent form of interaction in a virtual world. Wang is the co-founder of&nbsp;<a href=\"http://suddencompass.com/\" target=\"_blank\">Sudden Compass</a>, a consulting firm that helps companies unlock new growth opportunities by putting customer obsession into practice.</p><p>Wang&#39;s work has been featured in The Atlantic, Al Jazeera, and The Guardian. Fast Company spotlighted her work in China: <a href=\"https://www.fastcompany.com/1842561/what-twitter-can-learn-weibo-field-notes-global-tech-ethnographer-tricia-wang\" target=\"_blank\">&quot;What Twitter Can Learn From Weibo: Field Notes From Global Tech Ethnographer Tricia Wang.&quot;</a>&nbsp;In her latest&nbsp;<a href=\"http://www.slate.com/blogs/future_tense/2015/12/15/proposals_to_stop_terrorists_on_social_media_could_harm_privacy_anonymity.html\" target=\"_blank\">op-ed on Slate</a>, she discusses how attempts to stop terrorists on social media can harm our privacy and anonymity. Her Medium post,&nbsp;<a href=\"https://medium.com/ethnography-matters/why-big-data-needs-thick-data-b4b3e75e3d7\" target=\"_blank\">&quot;Why Big Data Needs Thick Data,&quot;</a>&nbsp;is a frequently cited industry piece on the importance of an integrated data approach. One of her&nbsp;<a href=\"https://www.triciawang.com/updates/2012/8/1/new-article-dumplings-for-sale-what-migrant-work-is-really-l.html\" target=\"_blank\">favorite essays</a>&nbsp;documents her day in the life of working as a street vendor in China.</p><p>Known for her lively presentations that are grounded in her research and observations about human behavior and data, Wang has spoken at organizations such as Proctor &amp; Gamble, Nike, Wrigley, 21st Century Fox and Tumblr.&nbsp;Her most recent talk at&nbsp;<a href=\"https://2017.enterpriseux.net/\" target=\"_blank\">Enterprise UX</a>&nbsp;delved into why corporate innovation usually doesn&rsquo;t work and what to do about it. She delivered the&nbsp;<a href=\"https://www.youtube.com/watch?v=gw3SddWa9DQ\" target=\"_blank\">opening keynote at The Conference</a>&nbsp;to a crowd of marketers and creatives, delving into the wild history of linear perspective and its influence on how we think and form organizations.</p><p>Wang holds affiliate positions at Data &amp; Society, Harvard University&#39;s Berkman Klein Center for Internet Studies and New York University&#39;s Interactive Telecommunication Program. She oversees&nbsp;<a href=\"http://ethnographymatters.net/\" target=\"_blank\">Ethnography Matters</a>, a site that publishes articles about applied ethnography and technology. She co-started&nbsp;<a href=\"https://ethnographymatters.net/blog/2016/01/25/we-have-a-slack-join-us-at-ethnography-hangout-to-discuss-applied-ethnography/\" target=\"_blank\">a Slack community</a>&nbsp;for anyone who uses ethnographic methods in industry.</p><p>Wang began her career as a documentary filmmaker at NASA, an HIV/AIDS activist, and an educator specializing in culturally responsive pedagogy. She is also proud to have co-founded the first national hip-hop education initiative, which turned into the Hip Hop Education Center at New York University, and to have built after-school technology and arts programs for low-income youth at New York City public schools and the Queens Museum of Arts. Her life philosophy is that you have to go to the edge to discover what&rsquo;s really happening. She&#39;s the proud companion of her internet famous dog,&nbsp;<a href=\"https://www.instagram.com/ellethedog_/\" target=\"_blank\">#ellethedog</a>.</p>"}],"url":"https://www.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data","viewed_count":1452164,"talks":[{"recommendations":{"status":"approved","headline":"Tricia Wang recommends","blurb":"Additional reading on creating quantitative data models that reflect human interaction models, curated by Tricia Wang.","start_at":null,"end_at":null,"published":true,"eyebrow":"","type":"recommendation","rec_lists":[{"title":"","description":"These are some of my go-to readings on how to create quantitative data models that reflect human interaction models. While this selection ranges wildly in topics from machine learning to marketing, as a collection, it quickly and holistically grounds any executive, manager, designer, or marketer on what you need to know to get the most out of any big data initiative in your company. The lists starts off with practical advice on the opportunities around big data, then moves into the must-knows to avoid unchecked uses of big data. ","rec_items":[{"label":"READ_Book","headline":"*Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking*","blurb":"If there was one single data science book I wish everyone in industry would read, it would be Foster and Tom's book. They do a brilliantly effective job at explaining what kinds of questions data science can and can’t answer. You don't need a statistics background to dive into this book. But you do need to be open to learning just exactly what kinds of problems are best suited for a purely quantitative solution. There isn't any discussion of how to integrate \"thick data,\" but that isn't the purpose of this book.","note":"Foster Provost and Tom Fawcett\r\nO'Reilly Media, 2013","link_url":"https://www.amazon.com/Data-Science-Business-Data-Analytic-Thinking/dp/1449361323/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Article","headline":"\"Ethnographic Research: A Key to Strategy\"","blurb":"Now that Foster and Tom’s book has given you a great idea of what kinds of questions data science can answer, you're probably asking yourself what kinds of questions does \"thick data\" ethnography answer? Instead of recommending a book, here's a 415-word article by Intel's Ken Anderson that will give you an overview and case study of how Intel used ethnography to move towards the next phase of explosive growth. ","note":"Ken Anderson\r\nHarvard Business Review, 2009","link_url":"https://hbr.org/2009/03/ethnographic-research-a-key-to-strategy","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Article","headline":"\"Why Big Data Needs Thick Data\"","blurb":"By now you have a solid sense of what big data and thick data can do on their own. But I believe that they're each more powerful when they're integrated together. In fact, we can’t leverage the most of either method in our current business environment unless we integrate the two. Here, I share my Nokia experience in greater detail. I go into greater depth of what exactly are the differences between big and thick data. And I also explain why I felt the need to create the term \"thick data\" for the world to use. ","note":"Tricia Wang\r\nMedium, 2016","link_url":"https://medium.com/ethnography-matters/why-big-data-needs-thick-data-b4b3e75e3d7","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Article","headline":"\"How Big Data Become So Big\"","blurb":"When I use the term \"big data,\" I cringe because it's so vague that it verges on the edge of meaninglessness. But it's here to stay and I have to admit that it does do a decent job at summarizing a new kind of scale around quantitative data that cloud computing enables. Steve's article does a great job at connecting the history of how this term emerged over time.","note":"Steve Lohr\r\n*New York Times*, 2012","link_url":"http://www.nytimes.com/2012/08/12/business/how-big-data-became-so-big-unboxed.html","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Article","headline":"\"The Point of Collection\"","blurb":"Let's say you're ready to start collecting data about people -- what do you need to know to make sure you starting off on the best foot? Mimi provides five practical guidelines on what you need to think about and discuss with your team.","note":"Mimi Onuoha\r\nMedium, 2016","link_url":"https://points.datasociety.net/the-point-of-collection-8ee44ad7c2fa?gi=11e4b88945f7","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Article","headline":"\"Why do brands lose their chill? How bots, algorithms, and humans can work together on social media\"","blurb":"If you're in marketing, this is the essay for you. Brands are now taking a \"data-driven\" approach to managing their social strategy. But Molly urges brands to look beyond the numbers when working in the digital entertainment and marketing industry. She gives specific examples where algorithms don't know how to parse tweets by humans that are coded with multiple layers of emotional and cultural meaning. She offers the industry a new way to balance the emotional labor in audience management with data analysis.","note":"Molly Templeton\r\nEthnography Matters, 2016","link_url":"http://ethnographymatters.net/blog/2016/06/17/why-do-brands-lose-their-chill-how-bots-algorithms-and-humans-can-work-together-on-social-media/","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Book","headline":"*Weapons of Math Destruction*","blurb":"If there's one book that will convince anyone that over-reliance on big data is dangerous, it's Cathy's book. For years I've followed Cathy's career as a mathematician in academia to her transition in the finance industry. She's an active blogger and writer with two other books about data science, but this is the book where she shines. She's taken all of her wisdom as a mathematician in academia to her transition in the finance industry and collected it into a concise treasure for the world to eat up. ","note":"Cathy O’Neil\r\nCrown, 2016","link_url":"https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Article","headline":"\"On Net Promoter and Data Golems\"","blurb":"Net Promoter Score (NPS) is often seen as the single most effective way for companies to get to know your customers. But over-reliance on it and blind use of it puts companies in a very dangerous place. Matt Lemay does a beautiful job explaining why NPS creates quantitative data models that don't reflect actual social models. He ends the article by offering up a new alternative to NPS. (Preview: the solution isn’t to abandon it all together!)","note":"Matt LeMay\r\nMedium, 2016","link_url":"https://medium.com/on-human-centric-systems/on-net-promoter-and-data-golems-a4af7575fa5b","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Article","headline":"\"The Deluge of Spurious Correlations in Big Data\"","blurb":"While this is an academic article, I can't think of a better piece than Christian and Giuseppe's sound-proof argument on why having more data can lead to spurious correlations. The rise of data science has led people to proclaim the \"end of science\" because databases will lead the way in computer-discovered correlations. The authors use results from ergodic theory, Ramsey theory and algorithmic information theory to show that just having more quantitative data doesn’t mean that we forego the scientific method. As they say, “too much information tends to behave like very little information.","note":"Cristian S. Calude and Giuseppe Longo\r\n*Foundations of Science*, 2016","link_url":"http://www.di.ens.fr/users/longo/files/BigData-Calude-LongoAug21.pdf","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Article","headline":"\"When Big Data Becomes Bad Data\"","blurb":"What happens when corporations increasingly rely on algorithms to make decisions? Lauren dives into this question by pointing out recent examples of just how risky it is to leave out thick data. ","note":"Lauren Kirchner\r\nProPublica, 2015","link_url":"https://www.propublica.org/article/when-big-data-becomes-bad-data","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Article","headline":"\"The Truth About How Uber's App Manages Drivers\"","blurb":"Uber is the quintessential company that has leveraged algorithms for making an automated business. But the story isn't so clean. In fact, Alex's article shows that by shifting employee-driver management from people to algorithms, a new set of problems emerge. Any discussion about the future of work needs to consider the perils of a pure \"big data\" solution.","note":"Alex Rosenblat\r\nHarvard Business Review, 2016","link_url":"https://hbr.org/2016/04/the-truth-about-how-ubers-app-manages-drivers","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Article","headline":"\"The Anxieties of Big Data\"","blurb":"As the co-founder of Artificial Intelligence NOW, Kate's research has always looked at the effects of big data on people. In this article, she outlines in concrete ways that consumers, citizens and people have anxieties about big data. ","note":"Kate Crawford\r\nThe New Inquiry, 2014","link_url":"https://thenewinquiry.com/the-anxieties-of-big-data/","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Article","headline":"\"Beware of the Big Errors in Big Data\"","blurb":"Former derivatives trader turned professor of risk engineering at New York University's Polytechnic Institute, Nassim has time and time again delivered research on how to make decisions under the conditions of uncertainty. He provides a great op-ed that summarizes the main points about the scale of errors that happen with big data in his latest book, *Antifragile: Things That Gain From Disorder*.","note":"Nassim N. Taleb\r\nWired, 2013","link_url":"https://www.wired.com/2013/02/big-data-means-big-errors-people/","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Article","headline":"\"The Limitations of Deep Learning\"","blurb":"Francois has written a great primer that makes deep learning understandable for the layperson. He explains with total clarity why human-level AI is not possible right now with deep learning. He stops short of providing solutions on how to get closer to human-level AI, but the next few articles below do exactly just that.","note":"Francois Chollet\r\nThe Keras Blog, 2017","link_url":"https://blog.keras.io/the-limitations-of-deep-learning.html","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Article","headline":"\"The Human Side of Artificial Intelligence and Machine Learning\"","blurb":"If deep learning isn’t able to achieve human-level AI, how will we get closer to that? Steven Gustafson, the founder of the [Knowledge Discovery Lab at the General Electric Global Research Center](http://www.geglobalresearch.com/locations/niskayuna-new-york) asks an important question in this article: What is the role of humans in the future of intelligent machines? He makes the case that in the foreseeable future, artificially intelligent machines are the result of creative and passionate humans, and as such, we embed our biases, empathy and desires into the machines making them more \"human\" that we often think.","note":"Steven Gustafson\r\nEthnography Matters, 2016","link_url":"http://ethnographymatters.net/blog/2016/06/20/the-human-side-of-artificial-intelligence-and-machine-learning/","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Article","headline":"\"The future of designing autonomous systems will involve ethnographers\"","blurb":"Madeleine presents a case for why current cultural perceptions of the role of humans in automated systems need to be updated in order to protect against new forms of bias and worker harms.","note":"Madeleine Clare Elish\r\nEthnography Matters, 2016","link_url":"http://ethnographymatters.net/blog/2016/06/28/the-future-of-designing-autonomous-systems-will-involve-ethnographers/","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Article","headline":"\"Mindful Algorithms: the new role of the designer in generative design\"","blurb":"Che-Wei contemplates why engineers and architects will need to become more like ethnographers with generative design. He asks if it's possible to convert ethnographic data into quantitative data as algorithmic input. I've long admired Che-Wei’s ability to bring a poetic quality to the deeply mathematical nature of his world and this piece does piece does exactly just that.","note":"Che-Wei Wang\r\nEthnography Matters, 2016","link_url":"http://ethnographymatters.net/blog/2016/06/17/mindful-algorithms-the-new-role-of-the-designer-in-generative-design/","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Article","headline":"\"The Most Crucial Design Job Of The Future\"","blurb":"Perhaps you’re wondering so what kind of person could bridge both the thick data of ethnography and the big data of quantitative methods? Caroline Sinder’s article introduces a new job that bridges both the quantitative and qualitative: the data ethnographer. In the future, the data ethnographer will help our AI and ML systems’ build data models that better reflect how humans actually interact.","note":"Caroline Sinders\r\nFast Company, 2017","link_url":"https://www.fastcodesign.com/90134155/the-most-crucial-design-job-of-the-future","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Book","headline":"(Designing with Data: Improving the User Experience with A/B Testing*","blurb":"If you work in the field of design, this is your new go-to book on how to start integrating quantitative and qualitative data. Led by three rock-star authors with a long history in tech, they systematically lay out how designers can work with data scientists. Get everyone on your team a copy of this book if you need to answer immediately applicable research questions such as do we do X or Y (not upstream business questions that I covered in my talk, such as what does X mean or how do we understand Y or what is the future of Z). Additionally, the authors provide real examples from their experience. Rochelle is a pioneer in integrating data scientists into her design team at Spotify, while Elizabeth has long history running mixed-methods research labs.","note":"Rochelle King, Elizabeth F Churchill, Caitlin Tan\r\nO'Reilly Media, 2017","link_url":"https://www.amazon.com/Designing-Data-Improving-Experience-Testing/dp/1449334830/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Article","headline":"\"Many analysts, one dataset\"","blurb":"I classify this research project as one of the most important contributions to data analysis. 29 different data teams took the same data set with the same research question: are soccer referees more likely to give red cards to dark skin toned players than light skin toned players? The analytic results varied widely between the teams, showing that even expert analysts couldn’t create a single, objective quantitative model of human behavior. The real lesson is that by allowing for analysts to pursue a range of research strategies, it ultimately leads to a more transparent discussion of the diversity of data approaches that can wildly effect outcomes and interpretations. This experiment shows that data science is a creative act, and as with anything creative, there is no such thing as objective truth.","note":"Silberzahn, Raphael et al.\r\nPsyArXiv, 2017","link_url":"https://osf.io/preprints/psyarxiv/qkwst/","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Article","headline":"\"How to Call B.S. on Big Data: A Practical Guide\"","blurb":"What happens when you pair an information scientist and biologist together? You get a sensational sell-out online course called, [Calling Buillshit in the Age of Big Data](http://callingbullshit.org/). Michelle captures the highlights from professors Jevin West's and Carl Bergstrom's class, walks us through a few principles that guide their syllabus and case studies. Jevin and Carl emphasize that you don’t need to be a statistician to call bullshit on data, you just need to have common sense. ","note":"Michelle Nijhuis\r\n*The New Yorker*, 2017","link_url":"http://www.newyorker.com/tech/elements/how-to-call-bullshit-on-big-data-a-practical-guide","position":null,"is_pdf":false,"eyebrow":""}]}]},"more_resources":[],"corrections":[],"has_citations":false,"take_action":[{"status":"approved","blurb":"Access emergent human insights about tech and youth culture from Mainland China though Magpie Kingdom's weekly digest.","link_url":"https://tinyletter.com/magpiedigest","visible_url":"tinyletter.com","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"take_action","verb":"subscribe"},{"status":"approved","blurb":"Learn more about the social implications of big data from Data & Society.","link_url":"https://datasociety.net/","visible_url":"datasociety.net","start_at":null,"end_at":null,"published":true,"eyebrow":"","type":"take_action","verb":"learn"},{"status":"approved","blurb":"Connect to other people who are integrating \"thick data\" with big data on the Ethnography Hangout Slack #datatalk channel.","link_url":"https://ethnographyhangout.typeform.com/to/M0f1lK","visible_url":"ethnographyhangout.typeform.com","start_at":null,"end_at":null,"published":true,"eyebrow":"","type":"take_action","verb":"connect"}],"curator_approved":true,"description":"Why do so many companies make bad decisions, even with access to unprecedented amounts of data? With stories from Nokia to Netflix to the oracles of ancient Greece, Tricia Wang demystifies big data and identifies its pitfalls, suggesting that we focus instead on \"thick data\" -- precious, unquantifiable insights from actual people -- to make the right business decisions and thrive in the unknown.","downloads":{"id":2818,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/TriciaWang_2016X-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/TriciaWang_2016X.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/TriciaWang_2016X-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"en":{"name":"English","low":"https://download.ted.com/talks/TriciaWang_2016X-low-en.mp4","high":"https://download.ted.com/talks/TriciaWang_2016X-480p-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/TriciaWang_2016X-low-pt-br.mp4","high":"https://download.ted.com/talks/TriciaWang_2016X-480p-pt-br.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/TriciaWang_2016X-low-es.mp4","high":"https://download.ted.com/talks/TriciaWang_2016X-480p-es.mp4"},"uk":{"name":"Ukrainian","low":"https://download.ted.com/talks/TriciaWang_2016X-low-uk.mp4","high":"https://download.ted.com/talks/TriciaWang_2016X-480p-uk.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/TriciaWang_2016X-low-ru.mp4","high":"https://download.ted.com/talks/TriciaWang_2016X-480p-ru.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/TriciaWang_2016X-low-ko.mp4","high":"https://download.ted.com/talks/TriciaWang_2016X-480p-ko.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/TriciaWang_2016X-low-tr.mp4","high":"https://download.ted.com/talks/TriciaWang_2016X-480p-tr.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/TriciaWang_2016X-low-vi.mp4","high":"https://download.ted.com/talks/TriciaWang_2016X-480p-vi.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/TriciaWang_2016X-low-it.mp4","high":"https://download.ted.com/talks/TriciaWang_2016X-480p-it.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/TriciaWang_2016X-low-he.mp4","high":"https://download.ted.com/talks/TriciaWang_2016X-480p-he.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/TriciaWang_2016X-low-zh-tw.mp4","high":"https://download.ted.com/talks/TriciaWang_2016X-480p-zh-tw.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/TriciaWang_2016X-low-ja.mp4","high":"https://download.ted.com/talks/TriciaWang_2016X-480p-ja.mp4"},"fr":{"name":"French","low":"https://download.ted.com/talks/TriciaWang_2016X-low-fr.mp4","high":"https://download.ted.com/talks/TriciaWang_2016X-480p-fr.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/TriciaWang_2016X-low-zh-cn.mp4","high":"https://download.ted.com/talks/TriciaWang_2016X-480p-zh-cn.mp4"}},"audioDownload":"https://download.ted.com/talks/TriciaWang_2016X.mp3?apikey=acme-roadrunner"},"duration":972.0,"event":"TEDxCambridge","event_blurb":"This talk was presented to a local audience at TEDxCambridge, an independent event. TED's editors chose to feature it for you.","event_badge":null,"hero":"https://s3.amazonaws.com/talkstar-photos/uploads/22696ce9-3576-4f47-bb0d-e56ddbbef8a3/TriciaWang_2016X-embed.jpg","hero_load":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/22696ce9-3576-4f47-bb0d-e56ddbbef8a3/TriciaWang_2016X-embed.jpg?q=50&w=15","id":"2818","player_talks":[{"id":"2818","duration":972.0,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2016X/Blank/TriciaWang_2016X-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDxCambridge%26id%3D2818%26tag%3Dalgorithm%2Cbehavioral%2Beconomics%2Cbusiness%2Cdecision-making%2Cdata%2CTEDx%26talk%3Dtricia_wang_the_human_insights_missing_from_big_data%26year%3D2016&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"2818","talk":"tricia_wang_the_human_insights_missing_from_big_data","tag":"algorithm,behavioral economics,business,decision-making,data,TEDx","year":"2016","event":"TEDxCambridge"},"stream":"https://hls.ted.com/talks/2818.m3u8","metadata":"https://hls.ted.com/talks/2818.json"}},"targeting":{"id":"2818","talk":"tricia_wang_the_human_insights_missing_from_big_data","tag":"algorithm,behavioral economics,business,decision-making,data,TEDx","year":"2016","event":"TEDxCambridge"},"canonical":"https://www.ted.com/talks/tricia_wang_the_human_insights_missing_from_big_data","name":"Tricia Wang: The human insights missing from big data","title":"The human insights missing from big data","speaker":"Tricia Wang","thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/22696ce9-3576-4f47-bb0d-e56ddbbef8a3/TriciaWang_2016X-embed.jpg?quality=89&w=600","slug":"tricia_wang_the_human_insights_missing_from_big_data","event":"TEDxCambridge","published":1500476524}],"ratings":[{"id":8,"name":"Informative","count":187},{"id":24,"name":"Persuasive","count":92},{"id":22,"name":"Fascinating","count":94},{"id":10,"name":"Inspiring","count":89},{"id":23,"name":"Jaw-dropping","count":25},{"id":7,"name":"Funny","count":8},{"id":9,"name":"Ingenious","count":37},{"id":3,"name":"Courageous","count":9},{"id":1,"name":"Beautiful","count":9},{"id":11,"name":"Longwinded","count":4},{"id":25,"name":"OK","count":17},{"id":21,"name":"Unconvincing","count":4},{"id":2,"name":"Confusing","count":0},{"id":26,"name":"Obnoxious","count":0}],"recorded_at":"2016-09-29T00:00:00.000+00:00","related_talks":[{"id":"2718","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/d60e9b5b-ac9c-4da6-8865-8cf1eb8a13e5/MonaChalabi_2017S-embed.jpg","speaker":"Mona Chalabi","title":"3 ways to spot a bad statistic","duration":705.0,"slug":"mona_chalabi_3_ways_to_spot_a_bad_statistic","viewed_count":1624193},{"id":"2403","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/5a6b744b-45e3-4d95-9afb-5f17052b445e/SebastianWernicke_2015X-embed.jpg","speaker":"Sebastian Wernicke","title":"How to use data to make a hit TV show","duration":745.0,"slug":"sebastian_wernicke_how_to_use_data_to_make_a_hit_tv_show","viewed_count":1520441},{"id":"2617","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/eea305e0-c9f2-49b6-bf44-ef8bfb4fb745/MallorySoldner_2016S-embed.jpg","speaker":"Mallory Soldner","title":"Your company's data could help end world hunger","duration":675.0,"slug":"mallory_soldner_your_company_s_data_could_end_world_hunger","viewed_count":1012020},{"id":"2727","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/9e067eef-7f85-46c4-9d1f-6bf296722c34/GiorgiaLupi_2017S-embed.jpg","speaker":"Giorgia Lupi","title":"How we can find ourselves in data","duration":673.0,"slug":"giorgia_lupi_how_we_can_find_ourselves_in_data","viewed_count":1186490},{"id":"2094","hero":"https://pe.tedcdn.com/images/ted/c08e045faca0cd007e468e7950e6ef5433c3f44c_2880x1620.jpg","speaker":"Kenneth Cukier","title":"Big data is better data","duration":951.0,"slug":"kenneth_cukier_big_data_is_better_data","viewed_count":1425597},{"id":"484","hero":"https://pe.tedcdn.com/images/ted/77260_800x600.jpg","speaker":"Tim Berners-Lee","title":"The next web","duration":983.0,"slug":"tim_berners_lee_on_the_next_web","viewed_count":1429452}],"slug":"tricia_wang_the_human_insights_missing_from_big_data","speakers":[{"id":"3495","slug":"tricia_wang","is_published":true,"firstname":"Tricia","lastname":"Wang","middleinitial":"","title":"","description":"Technology ethnographer","photo_url":"https://pe.tedcdn.com/images/ted/14eef5a6494b89ee5f73e397d353fd6c268b0bbd_254x191.jpg","whatotherssay":"","whotheyare":"With astronaut eyes and ethnographer curiosity, Tricia Wang helps corporations grow by discovering the unknown about their customers.","whylisten":"<p>For Tricia Wang, human behavior generates some of the most perplexing questions of our times. She has taught global organizations how to identify new customers and markets hidden behind their data, amplified IDEO&#39;s design thinking practice as an expert-in-residence, researched the social evolution of the Chinese internet, and written about the &quot;elastic self,&quot; an emergent form of interaction in a virtual world. Wang is the co-founder of&nbsp;<a href=\"http://suddencompass.com/\" target=\"_blank\">Sudden Compass</a>, a consulting firm that helps companies unlock new growth opportunities by putting customer obsession into practice.</p><p>Wang&#39;s work has been featured in The Atlantic, Al Jazeera, and The Guardian. Fast Company spotlighted her work in China: <a href=\"https://www.fastcompany.com/1842561/what-twitter-can-learn-weibo-field-notes-global-tech-ethnographer-tricia-wang\" target=\"_blank\">&quot;What Twitter Can Learn From Weibo: Field Notes From Global Tech Ethnographer Tricia Wang.&quot;</a>&nbsp;In her latest&nbsp;<a href=\"http://www.slate.com/blogs/future_tense/2015/12/15/proposals_to_stop_terrorists_on_social_media_could_harm_privacy_anonymity.html\" target=\"_blank\">op-ed on Slate</a>, she discusses how attempts to stop terrorists on social media can harm our privacy and anonymity. Her Medium post,&nbsp;<a href=\"https://medium.com/ethnography-matters/why-big-data-needs-thick-data-b4b3e75e3d7\" target=\"_blank\">&quot;Why Big Data Needs Thick Data,&quot;</a>&nbsp;is a frequently cited industry piece on the importance of an integrated data approach. One of her&nbsp;<a href=\"https://www.triciawang.com/updates/2012/8/1/new-article-dumplings-for-sale-what-migrant-work-is-really-l.html\" target=\"_blank\">favorite essays</a>&nbsp;documents her day in the life of working as a street vendor in China.</p><p>Known for her lively presentations that are grounded in her research and observations about human behavior and data, Wang has spoken at organizations such as Proctor &amp; Gamble, Nike, Wrigley, 21st Century Fox and Tumblr.&nbsp;Her most recent talk at&nbsp;<a href=\"https://2017.enterpriseux.net/\" target=\"_blank\">Enterprise UX</a>&nbsp;delved into why corporate innovation usually doesn&rsquo;t work and what to do about it. She delivered the&nbsp;<a href=\"https://www.youtube.com/watch?v=gw3SddWa9DQ\" target=\"_blank\">opening keynote at The Conference</a>&nbsp;to a crowd of marketers and creatives, delving into the wild history of linear perspective and its influence on how we think and form organizations.</p><p>Wang holds affiliate positions at Data &amp; Society, Harvard University&#39;s Berkman Klein Center for Internet Studies and New York University&#39;s Interactive Telecommunication Program. She oversees&nbsp;<a href=\"http://ethnographymatters.net/\" target=\"_blank\">Ethnography Matters</a>, a site that publishes articles about applied ethnography and technology. She co-started&nbsp;<a href=\"https://ethnographymatters.net/blog/2016/01/25/we-have-a-slack-join-us-at-ethnography-hangout-to-discuss-applied-ethnography/\" target=\"_blank\">a Slack community</a>&nbsp;for anyone who uses ethnographic methods in industry.</p><p>Wang began her career as a documentary filmmaker at NASA, an HIV/AIDS activist, and an educator specializing in culturally responsive pedagogy. She is also proud to have co-founded the first national hip-hop education initiative, which turned into the Hip Hop Education Center at New York University, and to have built after-school technology and arts programs for low-income youth at New York City public schools and the Queens Museum of Arts. Her life philosophy is that you have to go to the edge to discover what&rsquo;s really happening. She&#39;s the proud companion of her internet famous dog,&nbsp;<a href=\"https://www.instagram.com/ellethedog_/\" target=\"_blank\">#ellethedog</a>.</p>"}],"speaker_name":"Tricia Wang","tags":["algorithm","behavioral economics","business","decision-making","data","TEDx"],"title":"The human insights missing from big data","video_type":{"id":"2","name":"TEDx Talk"},"viewed_count":1452164}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

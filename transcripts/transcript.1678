@@ -1,0 +1,1134 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Gavin Schmidt: The emergent patterns of climate change | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: You can&#39;t understand climate change in pieces, says climate scientist Gavin Schmidt. It&#39;s the whole, or it&#39;s nothing. In this illuminating talk, he explains how he studies the big picture of climate change with mesmerizing models that illustrate the endlessly complex interactions of small-scale environmental events." />
+<meta name="author" content="Gavin Schmidt" />
+<link rel="canonical" href="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript?language=el" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript?language=en" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript?language=vi" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript?language=pt-br" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript?language=nl" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript?language=pt" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript?language=tr" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript?language=fr" />
+<link rel="alternate" hreflang="fr-ca" href="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript?language=fr-ca" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript?language=de" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript?language=hu" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript?language=fa" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript?language=he" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript?language=sr" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript?language=ko" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript?language=zh-tw" />
+<meta property="og:title" content="Transcript of &quot;The emergent patterns of climate change&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7359de0af0e5ad26395051692c0b04a66b33188f_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7359de0af0e5ad26395051692c0b04a66b33188f_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Gavin Schmidt: The emergent patterns of climate change" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: You can&#39;t understand climate change in pieces, says climate scientist Gavin Schmidt. It&#39;s the whole, or it&#39;s nothing. In this illuminating talk, he explains how he studies the big picture of climate change with mesmerizing models that illustrate the endlessly complex interactions of small-scale environmental events." />
+<meta property="og:url" content="https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 1988);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change' itemprop='url'>
+<meta content='The emergent patterns of climate change' itemprop='name'>
+<meta content="You can't understand climate change in pieces, says climate scientist Gavin Schmidt. It's the whole, or it's nothing. In this illuminating talk, he explains how he studies the big picture of climate change with mesmerizing models that illustrate the endlessly complex interactions of small-scale environmental events." itemprop='description'>
+<meta content='PT12M10S' itemprop='duration'>
+<meta content='2014-05-01T15:02:18+00:00' itemprop='uploadDate'>
+<meta content='1189571' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7359de0af0e5ad26395051692c0b04a66b33188f_1600x1200.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/gavin_schmidt' itemprop='url'>
+<meta content='Gavin Schmidt' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/4c0d3c69e73087287f3f730a7f3770eb26607514_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7359de0af0e5ad26395051692c0b04a66b33188f_1600x1200.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Gavin Schmidt
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,189,571
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 12:10</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We live in a very complex environment:
+											complexity and dynamism
+											and patterns of evidence
+											from satellite photographs, from videos.
+											You can even see it outside your window.
+											It&#39;s endlessly complex, but somehow familiar,
+											but the patterns kind of repeat,
+											but they never repeat exactly.
+											It&#39;s a huge challenge to understand.
+											The patterns that you see
+											are there at all of the different scales,
+											but you can&#39;t chop it into one little bit and say,
+											&quot;Oh, well let me just make a smaller climate.&quot;
+											I can&#39;t use the normal products of reductionism
+											to get a smaller and smaller thing that I can study
+											in a laboratory and say, &quot;Oh,
+											now that&#39;s something I now understand.&quot;
+											It&#39;s the whole or it&#39;s nothing.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The different scales that give you
+											these kinds of patterns
+											range over an enormous range of magnitude,
+											roughly 14 orders of magnitude,
+											from the small microscopic particles
+											that seed clouds
+											to the size of the planet itself,
+											from 10 to the minus six
+											to 10 to the eight,
+											14 orders of spatial magnitude.
+											In time, from milliseconds to millennia,
+											again around 14 orders of magnitude.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											What does that mean?
+											Okay, well if you think about how
+											you can calculate these things,
+											you can take what you can see,
+											okay, I&#39;m going to chop it up
+											into lots of little boxes,
+											and that&#39;s the result of physics, right?
+											And if I think about a weather model,
+											that spans about five orders of magnitude,
+											from the planet to a few kilometers,
+											and the time scale
+											from a few minutes to 10 days, maybe a month.
+											We&#39;re interested in more than that.
+											We&#39;re interested in the climate.
+											That&#39;s years, that&#39;s millennia,
+											and we need to go to even smaller scales.
+											The stuff that we can&#39;t resolve,
+											the sub-scale processes,
+											we need to approximate in some way.
+											That is a huge challenge.
+											Climate models in the 1990s
+											took an even smaller chunk of that,
+											only about three orders of magnitude.
+											Climate models in the 2010s,
+											kind of what we&#39;re working with now,
+											four orders of magnitude.
+											We have 14 to go,
+											and we&#39;re increasing our capability
+											of simulating those at about
+											one extra order of magnitude every decade.
+											One extra order of magnitude in space
+											is 10,000 times more calculations.
+											And we keep adding more things,
+											more questions to these different models.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So what does a climate model look like?
+											This is an old climate model, admittedly,
+											a punch card, a single line of Fortran code.
+											We no longer use punch cards.
+											We do still use Fortran.
+											New-fangled ideas like C
+											really haven&#39;t had a big impact
+											on the climate modeling community.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But how do we go about doing it?
+											How do we go from that complexity that you saw
+											to a line of code?
+											We do it one piece at a time.
+											This is a picture of sea ice
+											taken flying over the Arctic.
+											We can look at all of the different equations
+											that go into making the ice grow
+											or melt or change shape.
+											We can look at the fluxes.
+											We can look at the rate at which
+											snow turns to ice, and we can code that.
+											We can encapsulate that in code.
+											These models are around
+											a million lines of code at this point,
+											and growing by tens of thousands of lines of code
+											every year.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So you can look at that piece,
+											but you can look at the other pieces too.
+											What happens when you have clouds?
+											What happens when clouds form,
+											when they dissipate, when they rain out?
+											That&#39;s another piece.
+											What happens when we have radiation
+											coming from the sun, going through the atmosphere,
+											being absorbed and reflected?
+											We can code each of those
+very small pieces as well.
+											There are other pieces:
+											the winds changing the ocean currents.
+											We can talk about the role of vegetation
+											in transporting water from the soils
+											back into the atmosphere.
+											And each of these different elements
+											we can encapsulate and put into a system.
+											Each of those pieces ends up adding to the whole.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And you get something like this.
+											You get a beautiful representation
+											of what&#39;s going on in the climate system,
+											where each and every one of those
+											emergent patterns that you can see,
+											the swirls in the Southern Ocean,
+											the tropical cyclone in the Gulf of Mexico,
+											and there&#39;s two more that are going to pop up
+											in the Pacific at any point now,
+											those rivers of atmospheric water,
+											all of those are emergent properties
+											that come from the interactions
+											of all of those small-scale processes I mentioned.
+											There&#39;s no code that says,
+											&quot;Do a wiggle in the Southern Ocean.&quot;
+											There&#39;s no code that says, &quot;Have two
+											tropical cyclones that spin around each other.&quot;
+											All of those things are emergent properties.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is all very good. This is all great.
+											But what we really want to know
+											is what happens to these emergent properties
+											when we kick the system?
+											When something changes, what
+happens to those properties?
+											And there&#39;s lots of different ways to kick the system.
+											There are wobbles in the Earth&#39;s orbit
+											over hundreds of thousands of years
+											that change the climate.
+											There are changes in the solar cycles,
+											every 11 years and longer, that change the climate.
+											Big volcanoes go off and change the climate.
+											Changes in biomass burning, in smoke,
+											in aerosol particles, all of those things
+											change the climate.
+											The ozone hole changed the climate.
+											Deforestation changes the climate
+											by changing the surface properties
+											and how water is evaporated
+											and moved around in the system.
+											Contrails change the climate
+											by creating clouds where there were none before,
+											and of course greenhouse gases change the system.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Each of these different kicks
+											provides us with a target
+											to evaluate whether we understand
+											something about this system.
+											So we can go to look at
+											what model skill is.
+											Now I use the word &quot;skill&quot; advisedly:
+											Models are not right or wrong; they&#39;re always wrong.
+											They&#39;re always approximations.
+											The question you have to ask
+											is whether a model tells you more information
+											than you would have had otherwise.
+											If it does, it&#39;s skillful.
+											This is the impact of the ozone hole
+											on sea level pressure, so
+low pressure, high pressures,
+											around the southern oceans, around Antarctica.
+											This is observed data.
+											This is modeled data.
+											There&#39;s a good match
+											because we understand the physics
+											that controls the temperatures in the stratosphere
+											and what that does to the winds
+											around the southern oceans.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We can look at other examples.
+											The eruption of Mount Pinatubo in 1991
+											put an enormous amount of aerosols, small particles,
+											into the stratosphere.
+											That changed the radiation
+balance of the whole planet.
+											There was less energy coming
+in than there was before,
+											so that cooled the planet,
+											and those red lines and those green lines,
+											those are the differences between what we expected
+											and what actually happened.
+											The models are skillful,
+											not just in the global mean,
+											but also in the regional patterns.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I could go through a dozen more examples:
+											the skill associated with solar cycles,
+											changing the ozone in the stratosphere;
+											the skill associated with orbital changes
+											over 6,000 years.
+											We can look at that too, and the models are skillful.
+											The models are skillful in response to the ice sheets
+											20,000 years ago.
+											The models are skillful
+											when it comes to the 20th-century trends
+											over the decades.
+											Models are successful at modeling
+											lake outbursts into the North Atlantic
+											8,000 years ago.
+											And we can get a good match to the data.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Each of these different targets,
+											each of these different evaluations,
+											leads us to add more scope
+											to these models,
+											and leads us to more and more
+											complex situations that we can ask
+											more and more interesting questions,
+											like, how does dust from the Sahara,
+											that you can see in the orange,
+											interact with tropical cyclones in the Atlantic?
+											How do organic aerosols from biomass burning,
+											which you can see in the red dots,
+											intersect with clouds and rainfall patterns?
+											How does pollution, which you can see
+											in the white wisps of sulfate pollution in Europe,
+											how does that affect the
+temperatures at the surface
+											and the sunlight that you get at the surface?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We can look at this across the world.
+											We can look at the pollution from China.
+											We can look at the impacts of storms
+											on sea salt particles in the atmosphere.
+											We can see the combination
+											of all of these different things
+											happening all at once,
+											and we can ask much more interesting questions.
+											How do air pollution and climate coexist?
+											Can we change things
+											that affect air pollution and
+climate at the same time?
+											The answer is yes.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So this is a history of the 20th century.
+											The first one is the model.
+											The weather is a little bit different
+											to what actually happened.
+											The second one are the observations.
+											And we&#39;re going through the 1930s.
+											There&#39;s variability, there are things going on,
+											but it&#39;s all kind of in the noise.
+											As you get towards the 1970s,
+											things are going to start to change.
+											They&#39;re going to start to look more similar,
+											and by the time you get to the 2000s,
+											you&#39;re already seeing the
+patterns of global warming,
+											both in the observations and in the model.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We know what happened over the 20th century.
+											Right? We know that it&#39;s gotten warmer.
+											We know where it&#39;s gotten warmer.
+											And if you ask the models why did that happen,
+											and you say, okay, well, yes,
+											basically it&#39;s because of the carbon dioxide
+											we put into the atmosphere.
+											We have a very good match
+											up until the present day.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But there&#39;s one key reason why we look at models,
+											and that&#39;s because of this phrase here.
+											Because if we had observations of the future,
+											we obviously would trust them more than models,
+											But unfortunately,
+											observations of the future
+are not available at this time.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So when we go out into the
+future, there&#39;s a difference.
+											The future is unknown, the future is uncertain,
+											and there are choices.
+											Here are the choices that we have.
+											We can do some work to mitigate
+											the emissions of carbon dioxide into the atmosphere.
+											That&#39;s the top one.
+											We can do more work
+											to really bring it down
+											so that by the end of the century,
+											it&#39;s not much more than there is now.
+											Or we can just leave it to fate
+											and continue on
+											with a business-as-usual type of attitude.
+											The differences between these choices
+											can&#39;t be answered by looking at models.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											There&#39;s a great phrase
+											that Sherwood Rowland,
+											who won the Nobel Prize for the chemistry
+											that led to ozone depletion,
+											when he was accepting his Nobel Prize,
+											he asked this question:
+											&quot;What is the use of having developed a science
+											well enough to make predictions if, in the end,
+											all we&#39;re willing to do is stand around
+											and wait for them to come true?&quot;
+											The models are skillful,
+											but what we do with the
+information from those models
+											is totally up to you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":25971,"count":144,"talk_id":1988},"threadId":25971,"current_talk":"1988","description":"You can't understand climate change in pieces, says climate scientist Gavin Schmidt. It's the whole, or it's nothing. In this illuminating talk, he explains how he studies the big picture of climate change with mesmerizing models that illustrate the endlessly complex interactions of small-scale environmental events.","event":"TED2014","language":"en","name":"Gavin Schmidt: The emergent patterns of climate change","slug":"gavin_schmidt_the_emergent_patterns_of_climate_change","speakers":[{"id":"1782","slug":"gavin_schmidt","is_published":true,"firstname":"Gavin","lastname":"Schmidt","middleinitial":"","title":"","description":"Climate scientist","photo_url":"https://pe.tedcdn.com/images/ted/4c0d3c69e73087287f3f730a7f3770eb26607514_254x191.jpg","whatotherssay":"It is expected that there will be discrepancies between models and observations. However, why these arise and what one should conclude from them are interesting and more subtle than most people realize. Indeed, such discrepancies are the classic way we learn something new.","whotheyare":"What goes into a climate model? Gavin Schmidt looks at how we use past and present data to model potential futures.","whylisten":"Gavin Schmidt is a climate scientist at Columbia University&#39;s Earth Institute and is Deputy Chief at the NASA Goddard Institute for Space Studies. He works on understanding past, present and future climate change, using ever-more refined models and data sets to explore how the planet&#39;s climate behaves over time.<br />&nbsp;<br />Schmidt is also deeply committed to communicating science to the general public. As a contributing editor at RealClimate.org, he helps make sure general readers have access to the basics of climate science, and works to bring the newest data and models into the public discussion around one of the most pressing issues of our time. He has worked with the American Museum of Natural History and the  New York Academy of Sciences on education and public outreach, and he is the author of <a href=\"http://www.picturingclimatechange.com/\" target=\"_blank\"><em>Climate Change: Picturing the Science</em></a>, with Josh Wolfe."}],"url":"https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change","viewed_count":1189571,"talks":[{"recommendations":{"status":"approved","headline":"Gavin Schmidt recommends","blurb":"The climate scientist shares further resources on how to make sense of rising temperatures and sea levels.","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"recommendation","rec_lists":[{"title":"reading list\r\n","description":"","rec_items":[{"label":"READ_Article","headline":"The Physics of Climate Modeling","blurb":"","note":"Gavin Schmidt\r\n*Physics Today*, January 2007","link_url":"http://scitation.aip.org/content/aip/magazine/physicstoday/article/60/1/10.1063/1.2709569","position":null,"is_pdf":false,"eyebrow":null},{"label":"WATCH","headline":"The Secret Life of Scientists and Engineers: Gavin Schmidt","blurb":"","note":"*Nova*, 2010","link_url":"http://www.pbs.org/wgbh/nova/blogs/secretlife/environmental-science/gavin-schmidt/","position":null,"is_pdf":false,"eyebrow":null}]}]},"more_resources":[{"status":"approved","headline":"*Climate Change: Picturing the Science*","blurb":null,"link_url":"http://www.amazon.com/gp/product/0393331253/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","image_url":"https://pe.tedcdn.com/images/ted/f86e5474a41b95d28be07500180393b0fb1fd27c_576x715.jpg","author":"Gavin Schmidt and Joshua Wolfe","year":"2009","publisher":"W. W. Norton & Company","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"book"},{"status":"approved","headline":"4 animations that show what's really going on with the climate","blurb":"Check out Gavin Schmidt's climate models, designed to help explain what’s going on in the world at large.","link_url":"http://ideas.ted.com/2014/05/02/just-what-is-going-on-in-this-climate-of-ours/","image_url":"","visible_url":"","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"from_the_blog"}],"corrections":[],"has_citations":true,"take_action":[],"curator_approved":true,"description":"You can't understand climate change in pieces, says climate scientist Gavin Schmidt. It's the whole, or it's nothing. In this illuminating talk, he explains how he studies the big picture of climate change with mesmerizing models that illustrate the endlessly complex interactions of small-scale environmental events.","downloads":{"id":1988,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"French (Canada)","endonym":"Français canadien","languageCode":"fr-ca","ianaCode":"fr-CA","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/GavinSchmidt_2014-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/GavinSchmidt_2014.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/GavinSchmidt_2014-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"en":{"name":"English","low":"https://download.ted.com/talks/GavinSchmidt_2014-low-en.mp4","high":"https://download.ted.com/talks/GavinSchmidt_2014-480p-en.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/GavinSchmidt_2014-low-he.mp4","high":"https://download.ted.com/talks/GavinSchmidt_2014-480p-he.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/GavinSchmidt_2014-low-ru.mp4","high":"https://download.ted.com/talks/GavinSchmidt_2014-480p-ru.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/GavinSchmidt_2014-low-zh-tw.mp4","high":"https://download.ted.com/talks/GavinSchmidt_2014-480p-zh-tw.mp4"},"ko":{"name":"Korean","high":"https://download.ted.com/talks/GavinSchmidt_2014-480p-ko.mp4","low":"https://download.ted.com/talks/GavinSchmidt_2014-low-ko.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/GavinSchmidt_2014-low-nl.mp4","high":"https://download.ted.com/talks/GavinSchmidt_2014-480p-nl.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/GavinSchmidt_2014-low-pt-br.mp4","high":"https://download.ted.com/talks/GavinSchmidt_2014-480p-pt-br.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/GavinSchmidt_2014-low-es.mp4","high":"https://download.ted.com/talks/GavinSchmidt_2014-480p-es.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/GavinSchmidt_2014-low-tr.mp4","high":"https://download.ted.com/talks/GavinSchmidt_2014-480p-tr.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/GavinSchmidt_2014-low-it.mp4","high":"https://download.ted.com/talks/GavinSchmidt_2014-480p-it.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/GavinSchmidt_2014-low-ro.mp4","high":"https://download.ted.com/talks/GavinSchmidt_2014-480p-ro.mp4"},"fr-ca":{"name":"French (Canada)","low":"https://download.ted.com/talks/GavinSchmidt_2014-low-fr-ca.mp4","high":"https://download.ted.com/talks/GavinSchmidt_2014-480p-fr-ca.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/GavinSchmidt_2014-low-sr.mp4","high":"https://download.ted.com/talks/GavinSchmidt_2014-480p-sr.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/GavinSchmidt_2014-low-el.mp4","high":"https://download.ted.com/talks/GavinSchmidt_2014-480p-el.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/GavinSchmidt_2014-low-ar.mp4","high":"https://download.ted.com/talks/GavinSchmidt_2014-480p-ar.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/GavinSchmidt_2014-low-zh-cn.mp4","high":"https://download.ted.com/talks/GavinSchmidt_2014-480p-zh-cn.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/GavinSchmidt_2014-low-ja.mp4","high":"https://download.ted.com/talks/GavinSchmidt_2014-480p-ja.mp4"},"de":{"name":"German","low":"https://download.ted.com/talks/GavinSchmidt_2014-low-de.mp4","high":"https://download.ted.com/talks/GavinSchmidt_2014-480p-de.mp4"},"fr":{"name":"French","low":"https://download.ted.com/talks/GavinSchmidt_2014-low-fr.mp4","high":"https://download.ted.com/talks/GavinSchmidt_2014-480p-fr.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/GavinSchmidt_2014-low-hu.mp4","high":"https://download.ted.com/talks/GavinSchmidt_2014-480p-hu.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/GavinSchmidt_2014-low-pl.mp4","high":"https://download.ted.com/talks/GavinSchmidt_2014-480p-pl.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/GavinSchmidt_2014-low-fa.mp4","high":"https://download.ted.com/talks/GavinSchmidt_2014-480p-fa.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/GavinSchmidt_2014-low-vi.mp4","high":"https://download.ted.com/talks/GavinSchmidt_2014-480p-vi.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/GavinSchmidt_2014-low-pt.mp4","high":"https://download.ted.com/talks/GavinSchmidt_2014-480p-pt.mp4"}},"audioDownload":"https://download.ted.com/talks/GavinSchmidt_2014.mp3?apikey=acme-roadrunner"},"duration":730.0,"event":"TED2014","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/7359de0af0e5ad26395051692c0b04a66b33188f_1600x1200.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7359de0af0e5ad26395051692c0b04a66b33188f_1600x1200.jpg?q=50&w=15","id":"1988","player_talks":[{"id":"1988","duration":730.0,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"French (Canada)","endonym":"Français canadien","languageCode":"fr-ca","ianaCode":"fr-CA","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2014/Blank/GavinSchmidt_2014-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTED2014%26id%3D1988%26tag%3Dclimate%2Bchange%2Cenvironment%2Cscience%2Cvisualizations%2Cpollution%2Cweather%2Cfuture%2Cprediction%2Cdata%2Cmath%2Calgorithm%2Ccomputers%2Ccode%2Cbotany%2Cwater%2Cgreen%2Cecology%26talk%3Dgavin_schmidt_the_emergent_patterns_of_climate_change%26year%3D2014&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"1988","talk":"gavin_schmidt_the_emergent_patterns_of_climate_change","tag":"climate change,environment,science,visualizations,pollution,weather,future,prediction,data,math,algorithm,computers,code,botany,water,green,ecology","year":"2014","event":"TED2014"},"stream":"https://hls.ted.com/talks/1988.m3u8","metadata":"https://hls.ted.com/talks/1988.json"}},"targeting":{"id":"1988","talk":"gavin_schmidt_the_emergent_patterns_of_climate_change","tag":"climate change,environment,science,visualizations,pollution,weather,future,prediction,data,math,algorithm,computers,code,botany,water,green,ecology","year":"2014","event":"TED2014"},"canonical":"https://www.ted.com/talks/gavin_schmidt_the_emergent_patterns_of_climate_change","name":"Gavin Schmidt: The emergent patterns of climate change","title":"The emergent patterns of climate change","speaker":"Gavin Schmidt","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/7359de0af0e5ad26395051692c0b04a66b33188f_1600x1200.jpg?quality=89&w=600","slug":"gavin_schmidt_the_emergent_patterns_of_climate_change","event":"TED2014","published":1398956538}],"ratings":[{"id":8,"name":"Informative","count":531},{"id":9,"name":"Ingenious","count":48},{"id":22,"name":"Fascinating","count":197},{"id":1,"name":"Beautiful","count":60},{"id":3,"name":"Courageous","count":33},{"id":10,"name":"Inspiring","count":117},{"id":24,"name":"Persuasive","count":249},{"id":25,"name":"OK","count":59},{"id":21,"name":"Unconvincing","count":22},{"id":11,"name":"Longwinded","count":24},{"id":26,"name":"Obnoxious","count":17},{"id":7,"name":"Funny","count":1},{"id":23,"name":"Jaw-dropping","count":27},{"id":2,"name":"Confusing","count":20}],"recorded_at":"2014-03-12T00:00:00.000+00:00","related_talks":[{"id":"1","hero":"https://pe.tedcdn.com/images/ted/a2194b4ef5170bd9e9b086c5053e09cdf3545960_2880x1620.jpg","speaker":"Al Gore","title":"Averting the climate crisis","duration":977.0,"slug":"al_gore_on_averting_climate_crisis","viewed_count":3266739},{"id":"628","hero":"https://pe.tedcdn.com/images/ted/113028_800x600.jpg","speaker":"James Balog","title":"Time-lapse proof of extreme ice loss","duration":1162.0,"slug":"james_balog_time_lapse_proof_of_extreme_ice_loss","viewed_count":954799},{"id":"1380","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/f90de6b9-1488-4357-8c45-5c261c31744b/JamesHansen_2012-embed.jpg","speaker":"James Hansen","title":"Why I must speak out about climate change","duration":1071.0,"slug":"james_hansen_why_i_must_speak_out_about_climate_change","viewed_count":1315943},{"id":"2816","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/6a4d96d2-c7cf-4884-9c9b-67d1fdb92135/KateMarvel_2017-embed.jpg","speaker":"Kate Marvel","title":"Can clouds buy us more time to solve climate change?","duration":787.0,"slug":"kate_marvel_can_clouds_buy_us_more_time_to_solve_climate_change","viewed_count":1154801},{"id":"192","hero":"https://pe.tedcdn.com/images/ted/2412c9764c6b9bed2d9bd55ec7a6b9e540297839_1600x1200.jpg","speaker":"David Keith","title":"A critical look at geoengineering against climate change","duration":958.0,"slug":"david_keith_s_surprising_ideas_on_climate_change","viewed_count":1034262},{"id":"3579","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/e73006f8-7237-4ff0-bd29-275f536cda4c/TimKruger_2017-embed.jpg","speaker":"Tim Kruger","title":"Can we stop climate change by removing CO2 from the air?","duration":536.0,"slug":"tim_kruger_can_we_stop_climate_change_by_removing_co2_from_the_air","viewed_count":1170274}],"slug":"gavin_schmidt_the_emergent_patterns_of_climate_change","speakers":[{"id":"1782","slug":"gavin_schmidt","is_published":true,"firstname":"Gavin","lastname":"Schmidt","middleinitial":"","title":"","description":"Climate scientist","photo_url":"https://pe.tedcdn.com/images/ted/4c0d3c69e73087287f3f730a7f3770eb26607514_254x191.jpg","whatotherssay":"It is expected that there will be discrepancies between models and observations. However, why these arise and what one should conclude from them are interesting and more subtle than most people realize. Indeed, such discrepancies are the classic way we learn something new.","whotheyare":"What goes into a climate model? Gavin Schmidt looks at how we use past and present data to model potential futures.","whylisten":"Gavin Schmidt is a climate scientist at Columbia University&#39;s Earth Institute and is Deputy Chief at the NASA Goddard Institute for Space Studies. He works on understanding past, present and future climate change, using ever-more refined models and data sets to explore how the planet&#39;s climate behaves over time.<br />&nbsp;<br />Schmidt is also deeply committed to communicating science to the general public. As a contributing editor at RealClimate.org, he helps make sure general readers have access to the basics of climate science, and works to bring the newest data and models into the public discussion around one of the most pressing issues of our time. He has worked with the American Museum of Natural History and the  New York Academy of Sciences on education and public outreach, and he is the author of <a href=\"http://www.picturingclimatechange.com/\" target=\"_blank\"><em>Climate Change: Picturing the Science</em></a>, with Josh Wolfe."}],"speaker_name":"Gavin Schmidt","tags":["climate change","environment","science","visualizations","pollution","weather","future","prediction","data","math","algorithm","computers","code","botany","water","green","ecology"],"title":"The emergent patterns of climate change","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":1189571}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

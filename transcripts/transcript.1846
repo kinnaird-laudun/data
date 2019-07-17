@@ -1,0 +1,1401 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Miguel Nicolelis: Brain-to-brain communication has arrived. How we did it | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: You may remember neuroscientist Miguel Nicolelis — he built the brain-controlled exoskeleton that allowed a paralyzed man to kick the first ball of the 2014 World Cup. What’s he working on now? Building ways for two minds (rats and monkeys, for now) to send messages brain to brain. Watch to the end for an experiment that, as he says, will go to &quot;the limit of your imagination.&quot;" />
+<meta name="author" content="Miguel Nicolelis" />
+<link rel="canonical" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=en" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=vi" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=pt-br" />
+<link rel="alternate" hreflang="cs" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=cs" />
+<link rel="alternate" hreflang="gl" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=gl" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=ru" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=pt" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=tr" />
+<link rel="alternate" hreflang="hr" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=hr" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=ro" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=bg" />
+<link rel="alternate" hreflang="fr-ca" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=fr-ca" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=de" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=hu" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=fa" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=he" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=sr" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=ko" />
+<link rel="alternate" hreflang="sv" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=sv" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript?language=nl" />
+<meta property="og:title" content="Transcript of &quot;Brain-to-brain communication has arrived. How we did it&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2689358c500f6100e9b372d5a88e1c2e53437f2f_2880x1620.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2689358c500f6100e9b372d5a88e1c2e53437f2f_2880x1620.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Miguel Nicolelis: Brain-to-brain communication has arrived. How we did it" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: You may remember neuroscientist Miguel Nicolelis — he built the brain-controlled exoskeleton that allowed a paralyzed man to kick the first ball of the 2014 World Cup. What’s he working on now? Building ways for two minds (rats and monkeys, for now) to send messages brain to brain. Watch to the end for an experiment that, as he says, will go to &quot;the limit of your imagination.&quot;" />
+<meta property="og:url" content="https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 2172);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it' itemprop='url'>
+<meta content='Brain-to-brain communication has arrived. How we did it' itemprop='name'>
+<meta content='You may remember neuroscientist Miguel Nicolelis — he built the brain-controlled exoskeleton that allowed a paralyzed man to kick the first ball of the 2014 World Cup. What’s he working on now? Building ways for two minds (rats and monkeys, for now) to send messages brain to brain. Watch to the end for an experiment that, as he says, will go to "the limit of your imagination."' itemprop='description'>
+<meta content='PT18M57S' itemprop='duration'>
+<meta content='2015-01-26T16:05:14+00:00' itemprop='uploadDate'>
+<meta content='1341880' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2689358c500f6100e9b372d5a88e1c2e53437f2f_2880x1620.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/miguel_nicolelis' itemprop='url'>
+<meta content='Miguel Nicolelis' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/8c813de422824747f888852865ffda3a61e1b04f_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2689358c500f6100e9b372d5a88e1c2e53437f2f_2880x1620.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Miguel Nicolelis
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,341,880
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 18:57</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											On June 12, 2014, precisely at 3:33
+											in a balmy winter afternoon
+in São Paulo, Brazil,
+											a typical South American winter afternoon,
+											this kid, this young man 
+that you see celebrating here
+											like he had scored a goal,
+											Juliano Pinto, 29 years old,
+accomplished a magnificent deed.
+											Despite being paralyzed
+											and not having any sensation
+from mid-chest to the tip of his toes
+											as the result of a car crash six years ago
+that killed his brother
+											and produced a complete spinal cord lesion
+that left Juliano in a wheelchair,
+											Juliano rose to the occasion,
+and on this day did something
+											that pretty much everybody that saw him 
+in the six years deemed impossible.
+											Juliano Pinto delivered the opening kick
+											of the 2014 Brazilian 
+World Soccer Cup here
+											just by thinking.
+											He could not move his body,
+											but he could imagine the movements
+needed to kick a ball.
+											He was an athlete before the lesion.
+He&#39;s a para-athlete right now.
+											He&#39;s going to be in the Paralympic Games,
+I hope, in a couple years.
+											But what the spinal cord lesion 
+did not rob from Juliano
+											was his ability to dream.
+											And dream he did that afternoon,
+for a stadium of about 75,000 people
+											and an audience of close to a billion
+watching on TV.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And that kick crowned, basically,
+30 years of basic research
+											studying how the brain,
+											how this amazing universe
+that we have between our ears
+											that is only comparable to universe
+that we have above our head
+											because it has about 100 billion elements
+											talking to each other
+through electrical brainstorms,
+											what Juliano accomplished
+took 30 years to imagine in laboratories
+											and about 15 years to plan.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											When John Chapin and I,
+15 years ago, proposed in a paper
+											that we would build something
+that we called a brain-machine interface,
+											meaning connecting a brain to devices
+											so that animals and humans
+could just move these devices,
+											no matter how far they are
+from their own bodies,
+											just by imagining what they want to do,
+											our colleagues told us that
+we actually needed professional help,
+											of the psychiatry variety.
+											And despite that,
+a Scot and a Brazilian persevered,
+											because that&#39;s how we were raised
+in our respective countries,
+											and for 12, 15 years,
+											we made demonstration after demonstration
+suggesting that this was possible.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And a brain-machine interface
+is not rocket science,
+											it&#39;s just brain research.
+											It&#39;s nothing but using sensors
+											to read the electrical brainstorms
+that a brain is producing
+											to generate the motor commands
+											that have to be downloaded
+to the spinal cord,
+											so we projected sensors that can read
+											hundreds and now thousands
+of these brain cells simultaneously,
+											and extract from these electrical signals
+											the motor planning
+that the brain is generating
+											to actually make us move into space.
+											And by doing that, we converted
+these signals into digital commands
+											that any mechanical, electronic,
+or even a virtual device can understand
+											so that the subject can imagine
+what he, she or it wants to make move,
+											and the device obeys that brain command.
+											By sensorizing these devices
+with lots of different types of sensors,
+											as you are going to see in a moment,
+											we actually sent messages
+back to the brain to confirm
+											that that voluntary motor will
+was being enacted, no matter where —
+											next to the subject, next door,
+or across the planet.
+											And as this message gave feedback
+back to the brain,
+											the brain realized its goal:
+to make us move.
+											So this is just one experiment
+that we published a few years ago,
+											where a monkey, without moving its body,
+											learned to control the movements
+of an avatar arm,
+											a virtual arm that doesn&#39;t exist.
+											What you&#39;re listening to
+is the sound of the brain of this monkey
+											as it explores three different
+visually identical spheres
+											in virtual space.
+											And to get a reward,
+a drop of orange juice that monkeys love,
+											this animal has to detect,
+select one of these objects
+											by touching,
+											not by seeing it, by touching it,
+											because every time this virtual hand
+touches one of the objects,
+											an electrical pulse goes back
+to the brain of the animal
+											describing the fine texture
+of the surface of this object,
+											so the animal can judge what is 
+the correct object that he has to grab,
+											and if he does that, he gets a reward
+without moving a muscle.
+											The perfect Brazilian lunch:
+											not moving a muscle
+and getting your orange juice.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So as we saw this happening,
+											we actually came and proposed the idea
+that we had published 15 years ago.
+											We reenacted this paper.
+											We got it out of the drawers,
+											and we proposed that perhaps we could get
+a human being that is paralyzed
+											to actually use the brain-machine
+interface to regain mobility.
+											The idea was that if you suffered —
+											and that can happen to any one of us.
+											Let me tell you, it&#39;s very sudden.
+											It&#39;s a millisecond of a collision,
+											a car accident that
+transforms your life completely.
+											If you have a complete lesion
+of the spinal cord,
+											you cannot move because your brainstorms
+cannot reach your muscles.
+											However, your brainstorms
+continue to be generated in your head.
+											Paraplegic, quadriplegic patients
+dream about moving every night.
+											They have that inside their head.
+											The problem is how
+to get that code out of it
+											and make the movement be created again.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So what we proposed was,
+let&#39;s create a new body.
+											Let&#39;s create a robotic vest.
+											And that&#39;s exactly why Juliano could
+kick that ball just by thinking,
+											because he was wearing
+the first brain-controlled robotic vest
+											that can be used by paraplegic,
+quadriplegic patients to move
+											and to regain feedback.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											That was the original idea, 15 years ago.
+											What I&#39;m going to show you is how
+156 people from 25 countries
+											all over the five continents
+of this beautiful Earth,
+											dropped their lives,
+dropped their patents,
+											dropped their dogs, wives,
+kids, school, jobs,
+											and congregated to come to Brazil
+for 18 months to actually get this done.
+											Because a couple years after Brazil
+was awarded the World Cup,
+											we heard that the Brazilian government
+wanted to do something meaningful
+											in the opening ceremony
+											in the country that reinvented
+and perfected soccer
+											until we met the Germans, of course.
+											(Laughter)
+											But that&#39;s a different talk,
+											and a different neuroscientist
+needs to talk about that.
+											But what Brazil wanted to do
+is to showcase
+											a completely different country,
+											a country that values science
+and technology,
+											and can give a gift to millions,
+25 million people around the world
+											that cannot move any longer
+because of a spinal cord injury.
+											Well, we went to the Brazilian government
+and to FIFA and proposed,
+											well, let&#39;s have the kickoff
+of the 2014 World Cup
+											be given by a Brazilian paraplegic
+											using a brain-controlled exoskeleton
+that allows him to kick the ball
+											and to feel the contact of the ball.
+											They looked at us,
+thought that we were completely nuts,
+											and said, &quot;Okay, let&#39;s try.&quot;
+											We had 18 months to do everything
+from zero, from scratch.
+											We had no exoskeleton, we had no patients,
+											we had nothing done.
+											These people came all together
+											and in 18 months, we got eight patients
+in a routine of training
+											and basically built from nothing this guy,
+											that we call Bra-Santos Dumont 1.
+											The first brain-controlled
+exoskeleton to be built
+											was named after the most famous
+Brazilian scientist ever,
+											Alberto Santos Dumont,
+											who, on October 19, 1901,
+created and flew himself
+											the first controlled airship on air
+in Paris for a million people to see.
+											Sorry, my American friends,
+											I live in North Carolina,
+											but it was two years
+before the Wright Brothers flew
+											on the coast of North Carolina.
+											(Applause)
+											Flight control is Brazilian.
+(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So we went together with these guys
+											and we basically put
+this exoskeleton together,
+											15 degrees of freedom,
+hydraulic machine
+											that can be commanded by brain signals
+											recorded by a non-invasive technology
+called electroencephalography
+											that can basically allow the patient
+to imagine the movements
+											and send his commands
+to the controls, the motors,
+											and get it done.
+											This exoskeleton was covered
+with an artificial skin
+											invented by Gordon Cheng,
+one of my greatest friends, in Munich,
+											to allow sensation from the joints moving
+and the foot touching the ground
+											to be delivered back to the patient
+through a vest, a shirt.
+											It is a smart shirt
+with micro-vibrating elements
+											that basically delivers the feedback
+and fools the patient&#39;s brain
+											by creating a sensation that it is not
+a machine that is carrying him,
+											but it is he who is walking again.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So we got this going,
+and what you&#39;ll see here
+											is the first time one of our patients,
+Bruno, actually walked.
+											And he takes a few seconds
+because we are setting everything,
+											and you are going to see a blue light
+cutting in front of the helmet
+											because Bruno is going to imagine
+the movement that needs to be performed,
+											the computer is going to analyze it,
+Bruno is going to certify it,
+											and when it is certified,
+											the device starts moving
+under the command of Bruno&#39;s brain.
+											And he just got it right,
+and now he starts walking.
+											After nine years without
+being able to move,
+											he is walking by himself.
+											And more than that —
+											(Applause) —
+											more than just walking,
+											he is feeling the ground,
+											and if the speed of the exo goes up,
+											he tells us that he is walking again
+on the sand of Santos,
+											the beach resort where he used to go
+before he had the accident.
+											That&#39;s why the brain is creating
+a new sensation in Bruno&#39;s head.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So he walks, and at the end of the walk —
+I am running out of time already —
+											he says, &quot;You know, guys,
+											I need to borrow this thing from you
+when I get married,
+											because I wanted to walk to the priest
+											and see my bride and actually
+be there by myself.
+											Of course, he will have it
+whenever he wants.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And this is what we wanted to show
+during the World Cup, and couldn&#39;t,
+											because for some mysterious reason,
+FIFA cut its broadcast in half.
+											What you are going to see very quickly
+is Juliano Pinto in the exo doing the kick
+											a few minutes before we went to the pitch
+											and did the real thing
+in front of the entire crowd,
+											and the lights you are going to see
+just describe the operation.
+											Basically, the blue lights pulsating
+indicate that the exo is ready to go.
+											It can receive thoughts
+and it can deliver feedback,
+											and when Juliano
+makes the decision to kick the ball,
+											you are going to see
+two streams of green and yellow light
+											coming from the helmet
+and going to the legs,
+											representing the mental commands
+that were taken by the exo
+											to actually make that happen.
+											And in basically 13 seconds,
+											Juliano actually did.
+											You can see the commands.
+											He gets ready, 
+the ball is set, and he kicks.
+											And the most amazing thing is,
+											10 seconds after he did that,
+and looked at us on the pitch,
+											he told us, celebrating as you saw,
+											&quot;I felt the ball.&quot;
+											And that&#39;s priceless.
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So where is this going to go?
+											I have two minutes to tell you
+											that it&#39;s going to the limits
+of your imagination.
+											Brain-actuating technology is here.
+											This is the latest: We just
+published this a year ago,
+											the first brain-to-brain interface
+											that allows two animals
+to exchange mental messages
+											so that one animal that sees something
+coming from the environment
+											can send a mental SMS,
+a torpedo, a neurophysiological torpedo,
+											to the second animal,
+											and the second animal performs
+the act that he needed to perform
+											without ever knowing what
+the environment was sending as a message,
+											because the message came
+from the first animal&#39;s brain.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So this is the first demo.
+											I&#39;m going to be very quick
+because I want to show you the latest.
+											But what you see here
+is the first rat getting informed
+											by a light that is going to show up
+on the left of the cage
+											that he has to press the left cage
+to basically get a reward.
+											He goes there and does it.
+											And the same time,
+he is sending a mental message
+											to the second rat
+that didn&#39;t see any light,
+											and the second rat,
+in 70 percent of the times
+											is going to press the left lever
+and get a reward
+											without ever experiencing
+the light in the retina.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Well, we took this
+to a little higher limit
+											by getting monkeys to collaborate 
+mentally in a brain net,
+											basically to donate their brain activity
+											and combine them to move
+the virtual arm that I showed you before,
+											and what you see here is the first time
+the two monkeys combine their brains,
+											synchronize their brains perfectly
+to get this virtual arm to move.
+											One monkey is controlling the x dimension,
+											the other monkey
+is controlling the y dimension.
+											But it gets a little more interesting
+when you get three monkeys in there
+											and you ask one monkey to control x and y,
+											the other monkey to control y and z,
+											and the third one to control x and z,
+											and you make them all
+play the game together,
+											moving the arm in 3D into a target
+to get the famous Brazilian orange juice.
+											And they actually do.
+											The black dot is the average
+of all these brains working
+											in parallel, in real time.
+											That is the definition
+of a biological computer,
+											interacting by brain activity
+and achieving a motor goal.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Where is this going?
+											We have no idea.
+											We&#39;re just scientists.
+											(Laughter)
+											We are paid to be children,
+											to basically go to the edge
+and discover what is out there.
+											But one thing I know:
+											One day, in a few decades,
+											when our grandchildren
+surf the Net just by thinking,
+											or a mother donates her eyesight
+to an autistic kid who cannot see,
+											or somebody speaks because
+of a brain-to-brain bypass,
+											some of you will remember
+that it all started on a winter afternoon
+											in a Brazilian soccer field
+with an impossible kick.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Bruno Giussani: Miguel,
+thank you for sticking to your time.
+											I actually would have given you
+a couple more minutes,
+											because there are a couple of points
+we want to develop, and, of course,
+											clearly it seems that we need connected 
+brains to figure out where this is going.
+											So let&#39;s connect all this together.
+											So if I&#39;m understanding correctly,
+											one of the monkeys
+is actually getting a signal
+											and the other monkey
+is reacting to that signal
+											just because the first one is receiving it
+and transmitting the neurological impulse.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Miguel Nicolelis: 
+No, it&#39;s a little different.
+											No monkey knows of the existence
+of the other two monkeys.
+											They are getting a visual feedback in 2D,
+											but the task they have
+to accomplish is 3D.
+											They have to move an arm
+in three dimensions.
+											But each monkey is only getting
+the two dimensions on the video screen
+											that the monkey controls.
+											And to get that thing done,
+											you need at least two monkeys
+to synchronize their brains,
+											but the ideal is three.
+											So what we found out is that
+when one monkey starts slacking down,
+											the other two monkeys
+enhance their performance
+											to get the guy to come back,
+											so this adjusts dynamically,
+											but the global synchrony remains the same.
+											Now, if you flip
+without telling the monkey
+											the dimensions that each brain
+has to control,
+											like this guy is controlling x and y,
+											but he should be controlling now y and z,
+											instantaneously, that animal&#39;s brain
+forgets about the old dimensions
+											and it starts concentrating
+on the new dimensions.
+											So what I need to say is
+that no Turing machine,
+											no computer can predict
+what a brain net will do.
+											So we will absorb technology
+as part of us.
+											Technology will never absorb us.
+											It&#39;s simply impossible.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											BG: How many times have you tested this?
+											And how many times
+have you succeeded versus failed?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											MN: Oh, tens of times.
+											With the three monkeys?
+Oh, several times.
+											I wouldn&#39;t be able to talk about this here
+unless I had done it a few times.
+											And I forgot to mention, because of time,
+											that just three weeks ago,
+a European group
+											just demonstrated the first
+man-to-man brain-to-brain connection.
+											BG: And how does that play?
+											MN: There was one bit of information —
+big ideas start in a humble way —
+											but basically the brain activity
+of one subject
+											was transmitted to a second object,
+all non-invasive technology.
+											So the first subject got a message,
+like our rats, a visual message,
+											and transmitted it to the second subject.
+											The second subject received
+a magnetic pulse in the visual cortex,
+											or a different pulse,
+two different pulses.
+											In one pulse, the subject saw something.
+											On the other pulse,
+he saw something different.
+											And he was able to verbally indicate
+											what was the message
+the first subject was sending
+											through the Internet across continents.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Moderator: Wow.
+Okay, that&#39;s where we are going.
+											That&#39;s the next TED Talk
+at the next conference.
+											Miguel Nicolelis, thank you.
+MN: Thank you, Bruno. Thank you.
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":26791,"count":113,"talk_id":2172},"threadId":26791,"current_talk":"2172","description":"You may remember neuroscientist Miguel Nicolelis — he built the brain-controlled exoskeleton that allowed a paralyzed man to kick the first ball of the 2014 World Cup. What’s he working on now? Building ways for two minds (rats and monkeys, for now) to send messages brain to brain. Watch to the end for an experiment that, as he says, will go to \"the limit of your imagination.\"","event":"TEDGlobal 2014","language":"en","name":"Miguel Nicolelis: Brain-to-brain communication has arrived. How we did it","slug":"miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it","speakers":[{"id":"1545","slug":"miguel_nicolelis","is_published":true,"firstname":"Miguel","lastname":"Nicolelis","middleinitial":"","title":"","description":"Neuroscientist","photo_url":"https://pe.tedcdn.com/images/ted/8c813de422824747f888852865ffda3a61e1b04f_254x191.jpg","whatotherssay":"","whotheyare":"Miguel Nicolelis explores the limits of the brain-machine interface.","whylisten":"<p>At the <a href=\"https://www.ted.com/admin.php/speakers/edit/speakerid/www.nicolelislab.net\" target=\"_blank\">Nicolelis Laboratory</a>  at Duke University, Miguel Nicolelis is best known for pioneering studies in neuronal population coding, Brain Machine Interfaces (BMI) and neuroprosthetics  in human patients and non-human primates.His lab&#39;s work was seen, famously though a bit too briefly, when a brain-controlled exoskeleton from his lab helped Juliano Pinto, a paraplegic man, kick the first ball at the 2014 World Cup.</p><p>But his lab is thinking even bigger. They&#39;ve developed an  integrative approach to studying neurological disorders,  including Parkinsons disease and epilepsy. The approach, they hope, will allow the integration of molecular,  cellular, systems and behavioral data in the same animal, producing a  more complete understanding of the nature of the neurophysiological  alterations associated with these disorders. He&#39;s the author of the books&nbsp;<em><a href=\"http://www.beyondboundariesnicolelis.net\" target=\"_blank\">Beyond Boundaries</a>&nbsp;</em>and&nbsp;<em><a href=\"http://geni.us/relativisticbrain\" target=\"_blank\">The Relativistic Brain</a>.</em></p><p>Miguel was honored as one of <em>Foreign Policy</em>&#39;s 2015&nbsp;<a href=\"http://2015globalthinkers.foreignpolicy.com/?utm_source=Sailthru&amp;utm_medium=email&amp;utm_campaign=New%20Campaign&amp;utm_term=Flashpoints#!innovators/detail/nicolelis-sanchez-zador\" target=\"_blank\">Global Thinkers</a>.</p>"}],"url":"https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it","viewed_count":1341880,"talks":[{"recommendations":null,"more_resources":[{"status":"approved","headline":"*The Relativistic Brain*","blurb":null,"link_url":"https://www.amazon.com/The-Relativistic-Brain-simulated-machine-ebook/dp/B00VXGFBI6/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","image_url":"https://pe.tedcdn.com/images/ted/874157c9546d33d9421a31497166d98f5ec084f9_450x680.jpg","author":"Miguel Nicolelis","year":"2015","publisher":"Kios Press","start_at":null,"end_at":null,"published":true,"eyebrow":"","type":"book"},{"status":"approved","headline":"'Brain training' technique restores feeling and movement to paraplegic patients","blurb":"Using VR technology, an exoskeleton and software, a study from Miguel Nicolelis's claims participants have unexpectedly experienced partial recovery of movement and sensation","link_url":"https://www.theguardian.com/science/2016/aug/11/brain-training-technique-restores-feeling-and-movement-to-paraplegics-virtual-reality?utm_source=nextdraft&utm_medium=email","image_url":"","visible_url":"theguardian.com","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"external_website"}],"corrections":[],"has_citations":false,"take_action":[],"curator_approved":true,"description":"You may remember neuroscientist Miguel Nicolelis — he built the brain-controlled exoskeleton that allowed a paralyzed man to kick the first ball of the 2014 World Cup. What’s he working on now? Building ways for two minds (rats and monkeys, for now) to send messages brain to brain. Watch to the end for an experiment that, as he says, will go to \"the limit of your imagination.\"","downloads":{"id":2172,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Galician","endonym":"Galego","languageCode":"gl","ianaCode":"gl","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"French (Canada)","endonym":"Français canadien","languageCode":"fr-ca","ianaCode":"fr-CA","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/MiguelNicolelis_2014G-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/MiguelNicolelis_2014G.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"en":{"name":"English","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-en.mp4","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-en.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-tr.mp4","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-tr.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-pt-br.mp4","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-pt-br.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-he.mp4","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-he.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-es.mp4","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-es.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-sr.mp4","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-sr.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-zh-cn.mp4","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-zh-cn.mp4"},"hr":{"name":"Croatian","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-hr.mp4","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-hr.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-ar.mp4","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-ar.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-bg.mp4","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-bg.mp4"},"fr-ca":{"name":"French (Canada)","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-fr-ca.mp4","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-fr-ca.mp4"},"de":{"name":"German","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-de.mp4","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-de.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-ru.mp4","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-ru.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-ja.mp4","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-ja.mp4"},"sv":{"name":"Swedish","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-sv.mp4","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-sv.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-fa.mp4","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-fa.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-it.mp4","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-it.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-hu.mp4","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-hu.mp4"},"cs":{"name":"Czech","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-cs.mp4","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-cs.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-ko.mp4","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-ko.mp4"},"ro":{"name":"Romanian","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-ro.mp4","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-ro.mp4"},"fr":{"name":"French","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-fr.mp4","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-fr.mp4"},"zh-tw":{"name":"Chinese, Traditional","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-zh-tw.mp4","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-zh-tw.mp4"},"pt":{"name":"Portuguese","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-pt.mp4","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-pt.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-vi.mp4","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-vi.mp4"},"gl":{"name":"Galician","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-gl.mp4","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-gl.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/MiguelNicolelis_2014G-low-nl.mp4","high":"https://download.ted.com/talks/MiguelNicolelis_2014G-480p-nl.mp4"}},"audioDownload":null},"duration":1137.0,"event":"TEDGlobal 2014","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/2689358c500f6100e9b372d5a88e1c2e53437f2f_2880x1620.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2689358c500f6100e9b372d5a88e1c2e53437f2f_2880x1620.jpg?q=50&w=15","id":"2172","player_talks":[{"id":"2172","duration":1137.0,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Galician","endonym":"Galego","languageCode":"gl","ianaCode":"gl","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"French (Canada)","endonym":"Français canadien","languageCode":"fr-ca","ianaCode":"fr-CA","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2014G/Blank/MiguelNicolelis_2014G-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDGlobal%2B2014%26id%3D2172%26tag%3Dbrain%2Ccommunication%2Cneuroscience%26talk%3Dmiguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it%26year%3D2014&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"2172","talk":"miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it","tag":"brain,communication,neuroscience","year":"2014","event":"TEDGlobal 2014"},"stream":"https://hls.ted.com/talks/2172.m3u8","metadata":"https://hls.ted.com/talks/2172.json"}},"targeting":{"id":"2172","talk":"miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it","tag":"brain,communication,neuroscience","year":"2014","event":"TEDGlobal 2014"},"canonical":"https://www.ted.com/talks/miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it","name":"Miguel Nicolelis: Brain-to-brain communication has arrived. How we did it","title":"Brain-to-brain communication has arrived. How we did it","speaker":"Miguel Nicolelis","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/2689358c500f6100e9b372d5a88e1c2e53437f2f_2880x1620.jpg?quality=89&w=600","slug":"miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it","event":"TEDGlobal 2014","published":1422288314}],"ratings":[{"id":11,"name":"Longwinded","count":54},{"id":25,"name":"OK","count":32},{"id":10,"name":"Inspiring","count":483},{"id":22,"name":"Fascinating","count":492},{"id":8,"name":"Informative","count":253},{"id":23,"name":"Jaw-dropping","count":246},{"id":1,"name":"Beautiful","count":130},{"id":9,"name":"Ingenious","count":192},{"id":3,"name":"Courageous","count":49},{"id":2,"name":"Confusing","count":8},{"id":24,"name":"Persuasive","count":22},{"id":7,"name":"Funny","count":16},{"id":21,"name":"Unconvincing","count":17},{"id":26,"name":"Obnoxious","count":9}],"recorded_at":"2014-10-15T00:00:00.000+00:00","related_talks":[{"id":"1671","hero":"https://pe.tedcdn.com/images/ted/9759b9b5b08c13a29a320b10ea37110f439795c4_1600x1200.jpg","speaker":"Miguel Nicolelis","title":"A monkey that controls a robot with its thoughts. No, really.","duration":895.0,"slug":"miguel_nicolelis_a_monkey_that_controls_a_robot_with_its_thoughts_no_really","viewed_count":1260660},{"id":"630","hero":"https://pe.tedcdn.com/images/ted/114617_800x600.jpg","speaker":"Rebecca Saxe","title":"How we read each other's minds","duration":1011.0,"slug":"rebecca_saxe_how_brains_make_moral_judgments","viewed_count":2955270},{"id":"1417","hero":"https://pe.tedcdn.com/images/ted/14bb1242eb42fbb9bc1188d8431a247b949f7db4_1600x1200.jpg","speaker":"Frans de Waal","title":"Moral behavior in animals","duration":1012.0,"slug":"frans_de_waal_do_animals_have_morals","viewed_count":3848202},{"id":"526","hero":"https://pe.tedcdn.com/images/ted/37ae7aee4c35e4468af16b031eb243350016bdec_2880x1620.jpg","speaker":"Michael Merzenich","title":"Growing evidence of brain plasticity","duration":1387.0,"slug":"michael_merzenich_on_the_elastic_brain","viewed_count":1310971},{"id":"236","hero":"https://pe.tedcdn.com/images/ted/35408_480x360.jpg","speaker":"Christopher deCharms","title":"A look inside the brain in real time","duration":242.0,"slug":"christopher_decharms_scans_the_brain_in_real_time","viewed_count":1632156},{"id":"2458","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/d5d00454-d7aa-434c-8fae-ff2bc97c5f02/TimUrban_2016-embed.jpg","speaker":"Tim Urban","title":"Inside the mind of a master procrastinator","duration":843.0,"slug":"tim_urban_inside_the_mind_of_a_master_procrastinator","viewed_count":19641436}],"slug":"miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it","speakers":[{"id":"1545","slug":"miguel_nicolelis","is_published":true,"firstname":"Miguel","lastname":"Nicolelis","middleinitial":"","title":"","description":"Neuroscientist","photo_url":"https://pe.tedcdn.com/images/ted/8c813de422824747f888852865ffda3a61e1b04f_254x191.jpg","whatotherssay":"","whotheyare":"Miguel Nicolelis explores the limits of the brain-machine interface.","whylisten":"<p>At the <a href=\"https://www.ted.com/admin.php/speakers/edit/speakerid/www.nicolelislab.net\" target=\"_blank\">Nicolelis Laboratory</a>  at Duke University, Miguel Nicolelis is best known for pioneering studies in neuronal population coding, Brain Machine Interfaces (BMI) and neuroprosthetics  in human patients and non-human primates.His lab&#39;s work was seen, famously though a bit too briefly, when a brain-controlled exoskeleton from his lab helped Juliano Pinto, a paraplegic man, kick the first ball at the 2014 World Cup.</p><p>But his lab is thinking even bigger. They&#39;ve developed an  integrative approach to studying neurological disorders,  including Parkinsons disease and epilepsy. The approach, they hope, will allow the integration of molecular,  cellular, systems and behavioral data in the same animal, producing a  more complete understanding of the nature of the neurophysiological  alterations associated with these disorders. He&#39;s the author of the books&nbsp;<em><a href=\"http://www.beyondboundariesnicolelis.net\" target=\"_blank\">Beyond Boundaries</a>&nbsp;</em>and&nbsp;<em><a href=\"http://geni.us/relativisticbrain\" target=\"_blank\">The Relativistic Brain</a>.</em></p><p>Miguel was honored as one of <em>Foreign Policy</em>&#39;s 2015&nbsp;<a href=\"http://2015globalthinkers.foreignpolicy.com/?utm_source=Sailthru&amp;utm_medium=email&amp;utm_campaign=New%20Campaign&amp;utm_term=Flashpoints#!innovators/detail/nicolelis-sanchez-zador\" target=\"_blank\">Global Thinkers</a>.</p>"}],"speaker_name":"Miguel Nicolelis","tags":["brain","communication","neuroscience"],"title":"Brain-to-brain communication has arrived. How we did it","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":1341880}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

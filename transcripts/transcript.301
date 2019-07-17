@@ -1,0 +1,1635 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>David Perry: Are games better than life? | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Game designer David Perry says tomorrow&#39;s videogames will be more than mere fun to the next generation of gamers. They&#39;ll be lush, complex, emotional experiences -- more involving and meaningful to some than real life. With an excerpt from Michael Highland&#39;s film &quot;As Real as Your Life.&quot;" />
+<meta name="author" content="David Perry" />
+<link rel="canonical" href="https://www.ted.com/talks/david_perry_on_videogames/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/david_perry_on_videogames/transcript" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=el" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=en" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=vi" />
+<link rel="alternate" hreflang="ca" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=ca" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=pt-br" />
+<link rel="alternate" hreflang="cs" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=cs" />
+<link rel="alternate" hreflang="et" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=et" />
+<link rel="alternate" hreflang="gl" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=gl" />
+<link rel="alternate" hreflang="id" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=id" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=nl" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=tr" />
+<link rel="alternate" hreflang="lv" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=lv" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=bg" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=de" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=hu" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=he" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=sr" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=ko" />
+<link rel="alternate" hreflang="uk" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=uk" />
+<link rel="alternate" hreflang="hr" href="https://www.ted.com/talks/david_perry_on_videogames/transcript?language=hr" />
+<meta property="og:title" content="Transcript of &quot;Are games better than life?&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a158433ce985ba2e02f962989c5bcc7a639d75d4_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a158433ce985ba2e02f962989c5bcc7a639d75d4_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="David Perry: Are games better than life?" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Game designer David Perry says tomorrow&#39;s videogames will be more than mere fun to the next generation of gamers. They&#39;ll be lush, complex, emotional experiences -- more involving and meaningful to some than real life. With an excerpt from Michael Highland&#39;s film &quot;As Real as Your Life.&quot;" />
+<meta property="og:url" content="https://www.ted.com/talks/david_perry_on_videogames/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 361);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/david_perry_on_videogames' itemprop='url'>
+<meta content='Are games better than life?' itemprop='name'>
+<meta content='Game designer David Perry says tomorrow&#x0027;s videogames will be more than mere fun to the next generation of gamers. They&#x0027;ll be lush, complex, emotional experiences — more involving and meaningful to some than real life. With an excerpt from Michael Highland&#x0027;s film "As Real as Your Life."' itemprop='description'>
+<meta content='PT21M6S' itemprop='duration'>
+<meta content='2008-10-06T01:00:00+00:00' itemprop='uploadDate'>
+<meta content='1143616' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a158433ce985ba2e02f962989c5bcc7a639d75d4_1600x1200.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/david_perry' itemprop='url'>
+<meta content='David Perry' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/55437_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/david_perry_on_videogames' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a158433ce985ba2e02f962989c5bcc7a639d75d4_1600x1200.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				David Perry
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,143,616
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 21:06</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I grew up in Northern Ireland, right up in the
+											very, very north end of it there,
+											where it&#39;s absolutely freezing cold.
+											This was me running around in the back garden mid-summer.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I couldn&#39;t pick a career.
+											In Ireland the obvious choice is the military,
+											but to be honest it actually kind of sucks.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											My mother wanted me to be a dentist.
+											But the problem was that people kept blowing everything up.
+											So I actually went to school in Belfast,
+											which was where all the action happened.
+											And this was a pretty common sight.
+											The school I went to was pretty boring.
+											They forced us to learn things like Latin.
+											The school teachers weren&#39;t having much fun,
+											the sports were very dirty or very painful.
+											So I cleverly chose rowing, which I got very good at.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And I was actually rowing for my school here
+											until this fateful day, and I flipped over right in front
+											of the entire school.
+											And that was the finishing post right there.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So this was extremely embarrassing.
+											But our school at that time got a grant from the government,
+											and they got an incredible computer — the research machine 3DZ —
+											and they left the programming manuals lying around.
+											And so students like myself with nothing to do,
+											we would learn how to program it.
+											Also around this time, at home,
+											this was the computer that people were buying.
+											It was called the Sinclair ZX80. This was a 1K computer,
+											and you&#39;d buy your programs on cassette tape.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Actually I&#39;m just going to pause for one second,
+											because I heard that there&#39;s a prerequisite to speak here at TED —
+											you had to have a picture of yourself from the old days with big hair.
+											So I brought a picture with big hair.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter).
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I just want to get that out of the way.
+											So after the Sinclair ZX80 came along the very cleverly named
+											Sinclair ZX81.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And — you see the picture at the bottom?
+											There&#39;s a picture of a guy doing homework with his son.
+											That&#39;s what they thought they had built it for.
+											The reality is we got the programming manual
+											and we started making games for it.
+											We were programming in BASIC,
+											which is a pretty awful language for games,
+											so we ended up learning Assembly language
+											so we could really take control of the hardware.
+											This is the guy that invented it, Sir Clive Sinclair,
+											and he&#39;s showing his machine.
+											You had this same thing in America,
+											it was called the Timex Sinclair1000.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											To play a game in those days you had to have an imagination
+											to believe that you were really playing &quot;Battlestar Galactica.&quot;
+											The graphics were just horrible.
+											You had to have an even better imagination to play this game,
+											&quot;Death Rider.&quot;
+											But of course the scientists couldn&#39;t help themselves.
+											They started making their own video games.
+											This is one of my favorite ones here, where they have rabbit breeding,
+											so males choose the lucky rabbit.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It was around this time we went from 1K to 16K,
+											which was quite the leap.
+											And if you&#39;re wondering how much 16K is,
+											this eBay logo here is 16K.
+											And in that amount of memory someone programmed
+											a full flight simulation program.
+											And that&#39;s what it looked like.
+											I spent ages flying this flight simulator,
+											and I honestly believed I could fly airplanes by the end of it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Here&#39;s Clive Sinclair now launching his color computer.
+											He&#39;s recognized as being the father of video games in Europe.
+											He&#39;s a multi-millionaire, and I think that&#39;s why he&#39;s
+											smiling in this photograph.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So I went on for the next 20 years or so
+											making a lot of different games.
+											Some of the highlights were things like &quot;The Terminator,&quot;
+											&quot;Aladdin,&quot; the &quot;Teenage Mutant Hero Turtles.&quot;
+											Because I was from the United Kingdom,
+											they thought the word ninja was a little too mean for children,
+											so they decided to call it hero instead.
+											I personally preferred the Spanish version,
+											which was &quot;Tortugas Ninja.&quot;
+											That was much better.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Then the last game I did was based on trying to get the video game industry
+											and Hollywood to actually work together on something —
+											instead of licensing from each other, to actually work.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, Chris did ask me to bring some statistics with me,
+											so I&#39;ve done that.
+											The video game industry in 2005 became a 29 billion dollar business.
+											It grows every year.
+											Last year was the biggest year.
+											By 2008, we&#39;re going to kick the butt of the music industry.
+											By 2010, we&#39;re going to hit 42 billion.
+											43 percent of gamers are female.
+											So there&#39;s a lot more female gamers than people are really aware.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The average age of gamers?
+											Well, obviously it&#39;s for children, right?
+											Well, no, actually it&#39;s 30 years old.
+											And interestingly, the people who buy the most games are 37.
+											So 37 is our target audience.
+											All video games are violent.
+											Of course the newspapers love to beat on this.
+											But 83 percent of games don&#39;t have any mature content whatsoever,
+											so it&#39;s just not true.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Online gaming statistics.
+											I brought some stuff on &quot;World of Warcraft.&quot; It&#39;s 5.5 million players.
+											It makes about 80 million bucks a month in subscriptions.
+											It costs 50 bucks just to install it on your computer,
+											making the publisher about another 275 million.
+											The game costs about 80 million dollars to make,
+											so basically it pays for itself in about a month.
+											A player in a game called &quot;Project Entropia&quot;
+											actually bought his own island for 26,500 dollars.
+											You have to remember that this is not a real island.
+											He didn&#39;t actually buy anything, just some data.
+											But he got great terms on it.
+											This purchase included mining and hunting rights,
+											ownership of all land on the island, and a castle
+											with no furniture included.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This market is now estimated at over 800 million dollars annually.
+											And what&#39;s interesting about it is the market was actually created
+											by the gamers themselves.
+											They found clever ways to trade items
+											and to sell their accounts to each other
+											so that they could make money while they were playing their games.
+											I dove onto eBay a couple of days ago
+											just to see what was gong on, typed in World of Warcraft, got 6,000 items.
+											I liked this one the best:
+											a level 60 Warlock with lots of epics for 174,000 dollars.
+											It&#39;s like that guy obviously had some pain while making it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So as far as popularity of games,
+											what do you think these people are doing here?
+											It turns out they&#39;re actually in Hollywood Bowl in Los Angeles
+											listening to the L.A. Philharmonic playing video game music.
+											That&#39;s what the show looks like.
+											You would expect it to be cheesy, but it&#39;s not.
+											It&#39;s very, very epic and a very beautiful concert.
+											And the people that went there absolutely loved it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											What do you think these people are doing?
+											They&#39;re actually bringing their computers so they can play games
+											against each other.
+											And this is happening in every city around the world.
+											This is happening in your local cities too,
+											you&#39;re probably just not aware of it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, Chris told me that you had a timeline video a few years ago
+											here just to show how video game graphics have been improving.
+											I wanted to update that video and give you a new look at it.
+											But what I want you to do is to try to understand it.
+											We&#39;re on this curve, and the graphics are getting
+											so ridiculously better.
+											And I&#39;m going to show you up to maybe 2007.
+											But I want you to try and think about what games could look like
+											10 years from now.
+											So we&#39;re going to start that video.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Video: Throughout human history people have played games.
+											As man&#39;s intellect and technology have evolved
+											so too have the games he plays.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											David Perry: The thing again I want you to think about is,
+											don&#39;t look at these graphics and think of that&#39;s the way it is.
+											Think about that&#39;s where we are right now,
+											and the curve that we&#39;re on means that this is going to continue
+											to get better.
+											This is an example of the kind of graphics you need to be able to draw
+											if you wanted to get a job in the video game industry today.
+											You need to be really an incredible artist.
+											And once we get enough of those guys, we&#39;re going to want
+											more fantasy artists that can create places
+											we&#39;ve never been to before, or characters that
+											we&#39;ve just never seen before.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So the obvious thing for me to talk about today is graphics and audio.
+											But if you were to go to a game developers conference,
+											what they&#39;re all talking about is emotion, purpose,
+											meaning, understanding and feeling.
+											You&#39;ll hear about talks like, can a video game make you cry?
+											And these are the kind of topics we really actually care about.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I came across a student who&#39;s absolutely excellent
+											at expressing himself, and this student agreed
+											that he would not show his video to anybody until
+											you here at TED had seen it.
+											So I&#39;d like to play this video.
+											So this is a student&#39;s opinion on what his experience of games are.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Video: I, like many of you, live somewhere between
+											reality and video games.
+											Some part of me — a true living, breathing person —
+											has become programmed, electronic and virtual.
+											The boundary of my brain that divides real from fantasy
+											has finally begun to crumble.
+											I&#39;m a video game addict and this is my story.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											In the year of my birth
+											the Nintendo Entertainment System also went into development.
+											I played in the backyard, learned to read,
+											and even ate some of my vegetables.
+											Most of my childhood was spent playing with Legos.
+											But as was the case for most of my generation,
+											I spent a lot of time in front of the TV.
+											Mr. Rogers, Walt Disney, Nick Junior,
+											and roughly half a million commercials have undoubtedly
+											left their mark on me.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											When my parents bought my sister and I our first Nintendo,
+											whatever inherent addictive quality this early interactive
+											electronic entertainment possessed quickly took hold of me.
+											At some point something clicked.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											With the combination of simple, interactive stories
+											and the warmth of the TV set, my simple 16-bit Nintendo
+											became more than just an escape.
+											It became an alternate existence, my virtual reality.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I&#39;m a video game addict, and it&#39;s not because of
+											a certain number of hours I have spent playing,
+											or nights I have gone without sleep to finish the next level.
+											It is because I have had life-altering experiences in virtual space,
+											and video games had begun to erode my own understanding
+											of what is real and what is not.
+											I&#39;m addicted, because even though I know I&#39;m losing my grip on reality,
+											I still crave more.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											From an early age I learned to invest myself emotionally
+											in what unfolded before me on screen.
+											Today, after 20 years of watching TV geared to make me emotional,
+											even a decent insurance commercial can bring tears to my eyes.
+											I am just one of a new generation that is growing up.
+											A generation who may experience much more meaning
+											through video games than they will through the real world.
+											Video games are nearing an evolutionary leap,
+											a point where game worlds will look and feel just as real
+											as the films we see in theatres, or the news we watch on TV.
+											And while my sense of free will in these virtual worlds
+											may still be limited, what I do learn applies to my real life.
+											Play enough video games and eventually you will
+											really believe you can snowboard, fly a plane,
+											drive a nine-second quarter mile, or kill a man.
+											I know I can.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Unlike any pop culture phenomenon before it,
+											video games actually allow us to become part of the machine.
+											They allow us to sublimate into the culture of interactive,
+											downloaded, streaming, HD reality.
+											We are interacting with our entertainment.
+											I have come to expect this level of interaction.
+											Without it, the problems faced in the real world —
+											poverty, war, disease and genocide — lack the levity they should.
+											Their importance blends into the sensationalized drama
+											of prime time TV.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But the beauty of video games today lies not in the lifelike graphics,
+											the vibrating joysticks or virtual surround sound.
+											It lies in that these games are beginning to make me emotional.
+											I have fought in wars, feared for my own survival,
+											watched my cohorts die on beaches and woods that look and feel
+											more real than any textbook or any news story.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The people who create these games are smart.
+											They know what makes me scared, excited, panicked, proud or sad.
+											Then they use these emotions to dimensionalize the worlds they create.
+											A well-designed video game will seamlessly
+											weave the user into the fabric of the virtual experience.
+											As one becomes more experienced
+											the awareness of physical control melts away.
+											I know what I want and I do it.
+											No buttons to push, no triggers to pull, just me and the game.
+											My fate and the fate of the world around me lie inside my hands.
+											I know violent video games make my mother worry.
+											What troubles me is not that video game violence
+											is becoming more and more like real life violence,
+											but that real life violence is starting to look more and more
+											like a video game.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											These are all troubles outside of myself.
+											I, however, have a problem very close to home.
+											Something has happened to my brain.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Perhaps there is a single part of our brain that holds
+											all of our gut instincts, the things we know to do
+											before we even think.
+											While some of these instincts may be innate, most are learned,
+											and all of them are hardwired into our brains.
+											These instincts are essential for survival in both real and virtual worlds.
+											Only in recent years has the technology behind video games
+											allowed for a true overlap in stimuli.
+											As gamers we are now living by the same laws of physics
+											in the same cities and doing many of the same things
+											we once did in real life, only virtually.
+											Consider this —
+											my real life car has about 25,000 miles on it.
+											In all my driving games, I&#39;ve driven a total of 31,459 miles.
+											To some degree I&#39;ve learned how to drive from the game.
+											The sensory cues are very similar.
+											It&#39;s a funny feeling when you have spent more time
+											doing something on the TV than you have in real life.
+											When I am driving down a road at sunset all I can think is,
+											this is almost as beautiful as my games are.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											For my virtual worlds are perfect.
+											More beautiful and rich than the real world around us.
+											I&#39;m not sure what the implications of my experience are,
+											but the potential for using realistic video game stimuli in repetition
+											on a vast number of loyal participants is frightening to me.
+											Today I believe Big Brother would find much more success
+											brainwashing the masses with video games
+											rather than just simply TVs.
+											Video games are fun, engaging, and leave your brain
+											completely vulnerable to re-programming.
+											But maybe brainwashing isn&#39;t always bad.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Imagine a game that teaches us to respect each other,
+											or helps us to understand the problems we&#39;re all facing
+											in the real world.
+											There is a potential to do good as well.
+											It is critical, as these virtual worlds continue to mirror
+											the real world we live in, that game developers realize
+											that they have tremendous responsibilities before them.
+											I&#39;m not sure what the future of video games holds
+											for our civilization.
+											But as virtual and real world experiences increasingly overlap
+											there is a greater and greater potential for other people
+											to feel the same way I do.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											What I have only recently come to realize
+											is that beyond the graphics, sound, game play and emotion
+											it is the power to break down reality that is so fascinating
+											and addictive to me.
+											I know that I am losing my grip.
+											Part of me is just waiting to let go.
+											I know though, that no matter how amazing video games may become,
+											or how flat the real world may seem to us,
+											that we must stay aware of what our games are teaching us
+											and how they leave us feeling when we finally do unplug.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											DP: Wow.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I found that video very, very thought provoking,
+											and that&#39;s why I wanted to bring it here for you guys to see.
+											And what was interesting about it is the obvious choice
+											for me to talk about was graphics and audio.
+											But as you heard, Michael talked about all these other elements as well.
+											Video games give an awful lot of other things too,
+											and that&#39;s why people get so addicted.
+											The most important one being fun.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The name of this track is &quot;The Magic To Come.&quot;
+											Who is that going to come from?
+											Is it going to come from the best directors in the world
+											as we thought it probably would?
+											I don&#39;t think so.
+											I think it&#39;s going to come from the children who are growing up now
+											that aren&#39;t stuck with all of the stuff that we remember from the past.
+											They&#39;re going to do it their way, using the tools that we&#39;ve created.
+											The same with students or highly creative people,
+											writers and people like that.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											As far as colleges go, there&#39;s about 350 colleges around the world
+											teaching video game courses.
+											That means there&#39;s literally thousands of new ideas.
+											Some of the ideas are really dreadful and some of them are great.
+											There&#39;s nothing worse than having to listen to someone
+											try and pitch you a really bad video game idea.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Chris Anderson: You&#39;re off, you&#39;re off. That&#39;s it.
+											He&#39;s out of time.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											DP: I&#39;ve just got a little tiny bit more if you&#39;ll indulge me.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: Go ahead. I&#39;m going to stay right here though.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											DP: This is just a cool shot, because this is students coming to school after class.
+											The school is closed; they&#39;re coming back at midnight
+											because they want to pitch their video game ideas.
+											I&#39;m sitting at the front of the class,
+											and they&#39;re actually pitching their ideas.
+											So it&#39;s hard to get students to come back to class,
+											but it is possible.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is my daughter, her name&#39;s Emma, she&#39;s 17 months old.
+											And I&#39;ve been asking myself, what is Emma going to experience
+											in the video game world?
+											And as I&#39;ve shown here, we have the audience.
+											She&#39;s never going to know a world where you can&#39;t press a button
+											and have millions of people ready to play.
+											You know, we have the technology.
+											She&#39;s never going to know a world where the graphics just aren&#39;t
+											stunning and really immersive.
+											And as the student video showed, we can impact and move.
+											She&#39;s never going to know a world where video games
+											aren&#39;t incredibly emotional and will probably make her cry.
+											I just hope she likes video games.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, my closing thought.
+											Games on the surface seem simple entertainment,
+											but for those that like to look a little deeper,
+											the new paradigm of video games could open entirely new frontiers
+											to creative minds that like to think big.
+											Where better to challenge those minds than here at TED?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Chris Anderson: David Perry. That was awesome.
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":313,"count":180,"talk_id":361},"threadId":313,"current_talk":"361","description":"Game designer David Perry says tomorrow's videogames will be more than mere fun to the next generation of gamers. They'll be lush, complex, emotional experiences -- more involving and meaningful to some than real life. With an excerpt from Michael Highland's film \"As Real as Your Life.\"","event":"TED2006","language":"en","name":"David Perry: Are games better than life?","slug":"david_perry_on_videogames","speakers":[{"id":"291","slug":"david_perry","is_published":true,"firstname":"David","lastname":"Perry","middleinitial":"","title":"","description":"Game designer","photo_url":"https://pe.tedcdn.com/images/ted/55437_254x191.jpg","whatotherssay":"","whotheyare":"Dave Perry is the visionary game designer behind some of the most beloved titles of the past two decades -- Earthworm Jim, MDK, Messiah, and game adaptations of films such as Terminator and The Matrix.","whylisten":"<p>David Perry is the mind behind such famed video games as Earthworm Jim (in which a bionic suit-clad worm saves the galaxy), Messiah (in which a rogue cherub hijacks creatures&#39; bodies to defeat sin), and best-selling game adaptations of movies like Disney&#39;s <em>Aladdin</em>, <em>Terminator</em> and <em>The Matrix</em>. He has designed tie-ins for international brands such as 7-Up and McDonald&#39;s, and now <strong>works on a group of massively multiplayer online titles</strong> for Acclaim.<br /><br />A programmer since childhood and a lifelong gamer, <strong>Perry has a special understanding of the mechanics that make games fresh, fun, emotionally involving -- and addictive</strong>. A sense of humor and a visionary outlook make him a sought-after adviser in the industry, and he also heads several websites on the art and business of game development, including GameConsultants.com, GameInvestors.com and the Game Industry Map. </p><p>David Perry founded the game software developer Gaikai in 2008 and now works for Sony, which acquired Gaikai and is leading the development of the Sony PlayStation 4. <br />&nbsp;</p>"}],"url":"https://www.ted.com/talks/david_perry_on_videogames","viewed_count":1143616,"talks":[{"curator_approved":true,"description":"Game designer David Perry says tomorrow's videogames will be more than mere fun to the next generation of gamers. They'll be lush, complex, emotional experiences -- more involving and meaningful to some than real life. With an excerpt from Michael Highland's film \"As Real as Your Life.\"","downloads":{"id":361,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Catalan","endonym":"Català","languageCode":"ca","ianaCode":"ca","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Estonian","endonym":"Eesti keel","languageCode":"et","ianaCode":"et","isRtl":false},{"languageName":"Galician","endonym":"Galego","languageCode":"gl","ianaCode":"gl","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Latvian","endonym":"Latviešu","languageCode":"lv","ianaCode":"lv","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/DavidPerry_2006-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/DavidPerry_2006.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/DavidPerry_2006-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"de":{"name":"German","low":"https://download.ted.com/talks/DavidPerry_2006-low-de.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-de.mp4"},"fr":{"name":"French","high":"https://download.ted.com/talks/DavidPerry_2006-480p-fr.mp4","low":"https://download.ted.com/talks/DavidPerry_2006-low-fr.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/DavidPerry_2006-low-zh-tw.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-zh-tw.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/DavidPerry_2006-low-ja.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-ja.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/DavidPerry_2006-low-zh-cn.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-zh-cn.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/DavidPerry_2006-low-es.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-es.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/DavidPerry_2006-low-ko.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-ko.mp4"},"en":{"name":"English","high":"https://download.ted.com/talks/DavidPerry_2006-480p-en.mp4","low":"https://download.ted.com/talks/DavidPerry_2006-low-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/DavidPerry_2006-low-pt-br.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/DavidPerry_2006-low-it.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-it.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/DavidPerry_2006-low-bg.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/DavidPerry_2006-low-ro.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/DavidPerry_2006-low-pl.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-pl.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/DavidPerry_2006-low-nl.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-nl.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/DavidPerry_2006-low-tr.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-tr.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/DavidPerry_2006-low-ru.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-ru.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/DavidPerry_2006-low-vi.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-vi.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/DavidPerry_2006-low-el.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-el.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/DavidPerry_2006-low-ar.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-ar.mp4"},"id":{"name":"Indonesian","low":"https://download.ted.com/talks/DavidPerry_2006-low-id.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-id.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/DavidPerry_2006-low-sr.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-sr.mp4"},"uk":{"name":"Ukrainian","low":"https://download.ted.com/talks/DavidPerry_2006-low-uk.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-uk.mp4"},"ca":{"name":"Catalan","low":"https://download.ted.com/talks/DavidPerry_2006-low-ca.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-ca.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/DavidPerry_2006-low-he.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-he.mp4"},"lv":{"name":"Latvian","low":"https://download.ted.com/talks/DavidPerry_2006-low-lv.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-lv.mp4"},"gl":{"name":"Galician","low":"https://download.ted.com/talks/DavidPerry_2006-low-gl.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-gl.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/DavidPerry_2006-low-hu.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-hu.mp4"},"cs":{"name":"Czech","low":"https://download.ted.com/talks/DavidPerry_2006-low-cs.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-cs.mp4"},"et":{"name":"Estonian","low":"https://download.ted.com/talks/DavidPerry_2006-low-et.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-et.mp4"},"hr":{"name":"Croatian","low":"https://download.ted.com/talks/DavidPerry_2006-low-hr.mp4","high":"https://download.ted.com/talks/DavidPerry_2006-480p-hr.mp4"}},"audioDownload":null},"duration":1266.0,"event":"TED2006","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/a158433ce985ba2e02f962989c5bcc7a639d75d4_1600x1200.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a158433ce985ba2e02f962989c5bcc7a639d75d4_1600x1200.jpg?q=50&w=15","id":"361","player_talks":[{"id":"361","duration":1266.0,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Catalan","endonym":"Català","languageCode":"ca","ianaCode":"ca","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Estonian","endonym":"Eesti keel","languageCode":"et","ianaCode":"et","isRtl":false},{"languageName":"Galician","endonym":"Galego","languageCode":"gl","ianaCode":"gl","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Latvian","endonym":"Latviešu","languageCode":"lv","ianaCode":"lv","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2006/Blank/DavidPerry_2006-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTED2006%26id%3D361%26tag%3Dbusiness%2Cdesign%2Centertainment%2Cgaming%2Ctechnology%26talk%3Ddavid_perry_on_videogames%26year%3D2006&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"361","talk":"david_perry_on_videogames","tag":"business,design,entertainment,gaming,technology","year":"2006","event":"TED2006"},"stream":"https://hls.ted.com/talks/361.m3u8","metadata":"https://hls.ted.com/talks/361.json"}},"targeting":{"id":"361","talk":"david_perry_on_videogames","tag":"business,design,entertainment,gaming,technology","year":"2006","event":"TED2006"},"canonical":"https://www.ted.com/talks/david_perry_on_videogames","name":"David Perry: Are games better than life?","title":"Are games better than life?","speaker":"David Perry","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/a158433ce985ba2e02f962989c5bcc7a639d75d4_1600x1200.jpg?quality=89&w=600","slug":"david_perry_on_videogames","event":"TED2006","published":1223254800}],"ratings":[{"id":22,"name":"Fascinating","count":277},{"id":11,"name":"Longwinded","count":103},{"id":8,"name":"Informative","count":233},{"id":26,"name":"Obnoxious","count":56},{"id":21,"name":"Unconvincing","count":87},{"id":10,"name":"Inspiring","count":160},{"id":25,"name":"OK","count":125},{"id":24,"name":"Persuasive","count":74},{"id":1,"name":"Beautiful","count":119},{"id":23,"name":"Jaw-dropping","count":72},{"id":9,"name":"Ingenious","count":63},{"id":3,"name":"Courageous","count":32},{"id":7,"name":"Funny","count":102},{"id":2,"name":"Confusing","count":27}],"recorded_at":"2006-02-02T00:00:00.000+00:00","related_talks":[{"id":"146","hero":"https://pe.tedcdn.com/images/ted/0aa66122bf487af64e943f4e4c3810fdd4d13c2a_1600x1200.jpg","speaker":"Will Wright","title":"Spore, birth of a game","duration":997.0,"slug":"will_wright_makes_toys_that_make_worlds","viewed_count":1183126},{"id":"205","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/23845a4d-4658-45ba-b61c-5386721a5915/JJAbrams_2007-embed.jpg","speaker":"J.J. Abrams","title":"The mystery box","duration":1082.0,"slug":"j_j_abrams_mystery_box","viewed_count":3661530},{"id":"241","hero":"https://pe.tedcdn.com/images/ted/36919_480x360.jpg","speaker":"Jakob Trollback","title":"A new kind of music video","duration":240.0,"slug":"jakob_trollback_rethinks_the_music_video","viewed_count":491188},{"id":"799","hero":"https://pe.tedcdn.com/images/ted/73dc8433e98af1f411dc3f304a5ec3532b7319c9_1600x1200.jpg","speaker":"Jane McGonigal","title":"Gaming can make a better world","duration":1203.0,"slug":"jane_mcgonigal_gaming_can_make_a_better_world","viewed_count":4796772},{"id":"1432","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/735adaff-39ef-48ed-abd8-98fecfd045ec/BrendaRomero_2011X-embed.jpg","speaker":"Brenda Romero","title":"Gaming for understanding","duration":563.0,"slug":"brenda_brathwaite_gaming_for_understanding","viewed_count":510678},{"id":"1618","hero":"https://pe.tedcdn.com/images/ted/4fb87a3ff55d4cfed46fea777350f350e538484d_2880x1620.jpg","speaker":"Daphne Bavelier","title":"Your brain on video games","duration":1077.0,"slug":"daphne_bavelier_your_brain_on_video_games","viewed_count":5510997}],"slug":"david_perry_on_videogames","speakers":[{"id":"291","slug":"david_perry","is_published":true,"firstname":"David","lastname":"Perry","middleinitial":"","title":"","description":"Game designer","photo_url":"https://pe.tedcdn.com/images/ted/55437_254x191.jpg","whatotherssay":"","whotheyare":"Dave Perry is the visionary game designer behind some of the most beloved titles of the past two decades -- Earthworm Jim, MDK, Messiah, and game adaptations of films such as Terminator and The Matrix.","whylisten":"<p>David Perry is the mind behind such famed video games as Earthworm Jim (in which a bionic suit-clad worm saves the galaxy), Messiah (in which a rogue cherub hijacks creatures&#39; bodies to defeat sin), and best-selling game adaptations of movies like Disney&#39;s <em>Aladdin</em>, <em>Terminator</em> and <em>The Matrix</em>. He has designed tie-ins for international brands such as 7-Up and McDonald&#39;s, and now <strong>works on a group of massively multiplayer online titles</strong> for Acclaim.<br /><br />A programmer since childhood and a lifelong gamer, <strong>Perry has a special understanding of the mechanics that make games fresh, fun, emotionally involving -- and addictive</strong>. A sense of humor and a visionary outlook make him a sought-after adviser in the industry, and he also heads several websites on the art and business of game development, including GameConsultants.com, GameInvestors.com and the Game Industry Map. </p><p>David Perry founded the game software developer Gaikai in 2008 and now works for Sony, which acquired Gaikai and is leading the development of the Sony PlayStation 4. <br />&nbsp;</p>"}],"speaker_name":"David Perry","tags":["business","design","entertainment","gaming","technology"],"title":"Are games better than life?","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":1143616}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

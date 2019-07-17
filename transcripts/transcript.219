@@ -1,0 +1,1193 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Hector Ruiz: The thinking behind 50x15 | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Hector Ruiz, the executive chair of AMD, wants to give Internet access to everyone. In this talk, he shares his extraordinary life story and describes AMD&#39;s 50x15 initiative that calls for connecting 50 percent of the world by 2015." />
+<meta name="author" content="Hector Ruiz" />
+<link rel="canonical" href="https://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=ru" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=fr" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=en" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=tr" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=de" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=ko" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=it" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=hu" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=pt-br" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=pl" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=bg" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=ro" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=ja" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=es" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=he" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript?language=vi" />
+<meta property="og:title" content="Transcript of &quot;The thinking behind 50x15&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/40260_480x360.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/40260_480x360.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Hector Ruiz: The thinking behind 50x15" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Hector Ruiz, the executive chair of AMD, wants to give Internet access to everyone. In this talk, he shares his extraordinary life story and describes AMD&#39;s 50x15 initiative that calls for connecting 50 percent of the world by 2015." />
+<meta property="og:url" content="https://www.ted.com/talks/hector_ruiz_on_connecting_the_world/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 255);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/hector_ruiz_on_connecting_the_world' itemprop='url'>
+<meta content='The thinking behind 50x15' itemprop='name'>
+<meta content="Hector Ruiz, the executive chair of AMD, wants to give Internet access to everyone. In this talk, he shares his extraordinary life story and describes AMD's 50x15 initiative that calls for connecting 50 percent of the world by 2015." itemprop='description'>
+<meta content='PT19M57S' itemprop='duration'>
+<meta content='2008-05-01T05:00:00+00:00' itemprop='uploadDate'>
+<meta content='319563' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/40260_480x360.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/hector_ruiz' itemprop='url'>
+<meta content='Hector Ruiz' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/38853_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/hector_ruiz_on_connecting_the_world' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/40260_480x360.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Hector Ruiz
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					319,563
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 19:57</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											You know, one of the things that I&#39;d like to say upfront is that
+											I&#39;m really here by accident.
+											And what I mean — not at TED — that I&#39;m —
+											at this point in my life, truly my set of circumstances
+											I would truly consider an accident.
+											But what I&#39;d like to talk to you about today
+											is perhaps a way in which we could use technology
+											to make those accidents happen often.
+											Because I really think, when I look back at how I actually ended up
+											in this accident, technology played a big role in that.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, what I&#39;d like to do today is tell you a little bit about myself,
+											because I&#39;d like to put in context what I&#39;m going to tell you.
+											And I think you will see why the two greatest passions in my life today
+											are children and education.
+											And once I put that in context,
+											I&#39;d like to tell you a little bit about technology:
+											why I believe technology is a tremendous enabler;
+											a very powerful tool to help address some of these challenges.
+											Then, about the initiative that Chris mentioned,
+											that we decided to launch at AMD that we call 50x15.
+											And then I&#39;ll come back to the beginning,
+											and tell you a little bit more — hopefully convince you —
+											that I believe that in today&#39;s world,
+											it is really important for business leaders
+											not only to have an idea of what their business is all about,
+											but to have a passion for something that is meaningful.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, with that in mind, first of all let me tell you,
+											I&#39;m one of five children. I&#39;m the oldest, the other four are women.
+											So I grew up in a family of women.
+											I learned a lot about how to deal with that part of the world.
+											(Laughter)
+											And, as you can imagine, if you can picture this:
+											I was born in a very small village in Mexico,
+											in, unfortunately, very poor surroundings,
+											and my parents did not have a college education.
+											But I was fortunate to be able to have one, and so were my four sisters.
+											That kind of tells you a little bit of an idea of the emphasis
+											that my parents placed on education.
+											My parents were fanatics about learning,
+											and I&#39;ll come back to that a little bit later.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But one of the things that exposed me early to learning,
+											and a tremendous curiosity that was instilled in me as a child,
+											was through a technology which is on the screen — is a Victrola.
+											My father found that in a junkyard,
+											and was able to repair it and make it work. And somehow —
+											to this day, I frankly don&#39;t know how he was so aware
+											of what was going on in the world — but,
+											by inviting me to sit down with him when I was only a few years old,
+											and playing records in this Victrola by Mozart, and he would tell me
+											how Mozart was the most romantic of all the classic composers ever,
+											and how Claire de Lune, which was one of his favorites,
+											was a real exposure to me to classical music.
+											He explained to me about Johann Strauss, and how he created the waltzes
+											that became so famous in the world.
+											And would tell me a little bit about history too,
+											when he&#39;d play the 1812 Overture by Tchaikovsky
+											on this little Victrola, and he would tell me about Russia
+											and all the things that were happening in Russia at those times
+											and why this music,
+											in some way, represented a little bit of that history.
+											And even as a child, he was able to instill in me a lot of curiosity.
+											And perhaps to you this product may not look like high tech,
+											but if you can imagine the time when this occurred —
+											it was in the mid &#39;40s — this was really, in his view, a pretty piece of high tech.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Well, one of the things that is really critical to try to
+											distill from that experience is that in addition to that,
+											people ask me and say, &quot;Well,
+											how did your parents treat you when you were a child?&quot;
+											And I always said that they were really tough on me.
+											And not tough in the sense that most people think of,
+											where your parents yell at you or hit you or whatever.
+											They were tough in the sense that, as I grew up,
+											both my mother and father would always say to me,
+											it&#39;s really important that you always remember two things.
+											First of all, when you go to bed at night,
+											you&#39;ve got to look back on the day and make sure that you felt
+											the day was a day which you contributed something, and
+											that you did everything you could to do it the best way you could.
+											And the second thing they said: and we trust you,
+											that no matter where you are or where you go,
+											you will always do the right thing.
+											Now, I don&#39;t know how many of you have ever done that with your kids,
+											but if you do, please trust me,
+											it&#39;s the most pressure you can put on a child, to say —
+											(Laughter)
+											— we trust you that you will always do the right thing.
+											When I was out with my friends drinking beer,
+											I always was very aware of those words —
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											— and very careful. One of the things that has happened with technology
+											is that it can only be helpful if it is useful, of course,
+											but it can only be helpful too if it&#39;s accessible,
+											and it can only be helpful if it&#39;s affordable.
+											And in today&#39;s world, being useful, affordable and accessible
+											is not necessarily what happens
+											in a lot of the technology that is done today.
+											So, one of our passions in our company,
+											and now one of my personal passions, is to be able to really work hard
+											at making the technology useful, accessible and affordable.
+											And to me, that is very, very critical.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, technology has changed a lot since the Victrola days.
+											You know, we now have, of course, incredibly powerful computers.
+											A tremendous thing that people refer to as a killer app is called the Internet.
+											Although frankly speaking, we don&#39;t believe the Internet is the killer app.
+											What we believe is that the Internet, frankly,
+											is a connection of people and ideas.
+											The Internet happens to be just the medium
+											in which those people and ideas get connected.
+											And the power of connecting people and ideas can be pretty awesome.
+											And so, we believe that through all the changes that have occurred,
+											that we&#39;re faced today with a tremendous opportunity.
+											If we can connect people and ideas more intensely — and although
+											you&#39;ve seen a plethora and a myriad of products
+											that have come to the market today, the key to me is
+											how many of these products are able to provide people connectivity, in a useful way,
+											accessibility, in an easy manner,
+											and also affordability, that
+											regardless of the economic status that a person could have,
+											that they could have the opportunity to afford this technology.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, when you look at that, we said, well, we would like to, then,
+											enable that a little bit. We would like to create an initiative.
+											And a couple of years ago at AMD,
+											we came up with this idea of saying,
+											what if we create this initiative we call 50x15,
+											where we are going to aim, that by the year 2015,
+											half of the world will be connected to the Internet
+											so that people and ideas can get connected.
+											We knew we couldn&#39;t do it by ourselves, and by no means
+											did we ever intend to imply that we at AMD could do it alone.
+											We always felt that this was something that could be done
+											through partnerships with governments, industry,
+											educational institutions, a myriad of other companies and, frankly, even competitors.
+											So, it is really a rather lofty initiative,
+											if you want to think that way,
+											but we felt that we had to put a real stake up in the years ahead,
+											that was bold enough and courageous enough
+											that it would force us all to think of ways to do things differently.
+											And I&#39;ll come back to that in a minute, because I think
+											the results so far have been remarkable,
+											and I can only anticipate and get real excited about
+											what I think is going to happen in the next eight years,
+											while we get to the 2015 initiative.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Where are we today?
+											That&#39;s year by year. This comes from our friends at Gapminder.com.
+											Those of you who&#39;ve never looked at their website,
+											you should look at it. It&#39;s really impressive. And you can see
+											how the Internet penetration has changed over the years.
+											And so when we gave ourselves this scorecard to say
+											well, where are we related to our goal towards 2015,
+											the thing that becomes apparent is three pieces.
+											One is the Western world,
+											defined mostly by Western Europe and the United States,
+											has made an awful lot of progress.
+											The connectivity in these parts of the world
+											are really truly phenomenal and continue to increase.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											As a matter of fact, we think reaching 100 percent is very doable,
+											even before the 2015 timeframe. In other parts of emerging countries,
+											such as India and China, the progress has been good —
+											has been solid, has been good. But in places that are not as developed,
+											places like Africa, Latin America and other places in the world,
+											the progress has been rather slow. As a matter of fact,
+											I was just recently visiting South Africa.
+											I had the opportunity to have a discussion with President Mbeki,
+											and one of the things that we talked about is, what is it
+											that&#39;s keeping this connectivity goal from moving ahead faster?
+											And one of the reasons is, in South Africa,
+											it costs 100 dollars a month to have a broadband connectivity.
+											It is impossible, even in the United States, for that cost,
+											to be able to enable the connectivity that we&#39;re all trying to reach.
+											So, we talked about ways in which perhaps one could partner
+											to be able to bring the cost of this technology down.
+											So, when you look at this chart,
+											you look at the very last — it&#39;s a logarithmic chart on a horizontal scale —
+											you look at the very end:
+											we&#39;ve got quite a long way to go to get to the 2015 goal of 50 percent.
+											But we&#39;re excited in our company; we&#39;re motivated.
+											We really think it&#39;s a phenomenal driver of things,
+											to force us to do things differently, and we look forward to being able to actually,
+											working with so many partners around the world,
+											to be able to reach that goal.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, one of the things I&#39;d like to explain [about] 50x15,
+											which I think is really critical, is that it is not a charity.
+											It is actually a business venture.
+											Let&#39;s take a small segment of this, of this unconnected world,
+											and call it the education market.
+											When you look at elementary-school children,
+											we have hundreds and hundreds of millions of children around the world
+											that could benefit tremendously
+											from being able to be connected to the Internet.
+											Therefore, when we see that, we see an opportunity
+											to have a business that addresses the need of that segment.
+											And when we embarked in this initiative, from the very beginning
+											we said it very clearly: this is not a charity.
+											This is really a business venture,
+											one that addresses a very challenging segment of the market.
+											Because what we have learned in the last three years
+											is that this segment of the market, whether it&#39;s education
+											or under-developed nations, either way, it&#39;s a segment that demands
+											incredibly high quality, incredibly high reliability,
+											tremendous low cost and access, and a lot of challenges
+											that frankly, without actually doing it,
+											it would be very difficult to understand, and
+											I&#39;ll explain that in just a minute.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It is an initiative that is focused on simple, accessible and human-centric solutions.
+											What we mean by that is,
+											you know, frankly, the PC was invented in 1980, roughly speaking
+											more or less, and for 20-odd years, it hasn&#39;t changed.
+											It is still, in most places, a gray or black box, and it looks the same.
+											And frankly — and I know that sometimes I offend some of my customers
+											when I say this, but I truly mean it —
+											if you could take the name of the computer off the top of it,
+											it would be very difficult to judge who made it,
+											because they&#39;re all highly commoditized but they&#39;re all different.
+											So, there has not been a human-centric approach
+											to addressing this segment of the market,
+											so we really believe it is critical to think of it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It reminded me a lot of the talk we heard this morning, about this
+											operating room machinery that was designed specifically for Africa.
+											We&#39;re talking about something very similar here.
+											And it has to be based on a geo-sensitive approach.
+											What I mean by that is that in some parts of the world,
+											the government plays a key role in the development of technology.
+											In other parts, it doesn&#39;t.
+											In other parts of the world, you have an infrastructure
+											that allows for manufacturing to take place.
+											In other parts, it doesn&#39;t. And then we have to be sensitive
+											about how this technology can be developed
+											and put into action in those regions.
+											And the last piece, which is really important —
+											and this is an opinion that we have, not shared by many,
+											this is one where we seem to stand alone, on this one —
+											is that we really believe that the greatest success of this initiative
+											can come by fostering local, integrated, end-to-end ecosystems.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											What I mean by that, and let me use this example,
+											the country of South Africa, because I was just there,
+											therefore I&#39;m a little bit familiar with some of the challenges they have.
+											It&#39;s a country of 45 million people. It&#39;s an economy that&#39;s emerging.
+											It&#39;s beginning to grow tremendously.
+											They have an objective to lowering the cost of connectivity.
+											They have a computer company that makes computers in South Africa.
+											They&#39;re developing a software-training environment in their universities.
+											What a place, what an ideal place
+											to create an ecosystem that could build the hardware and the software
+											needed for their schools. And to my surprise, I learned in South Africa
+											they have 18 dialects, I always thought they only had two —
+											English and Afrikaans — but it turns out they have 18 dialects.
+											And to be able to meet the needs of this rather complex educational system,
+											it could only be done from inside.
+											I don&#39;t think this segment of the market can be addressed
+											by companies parachuting from another place of the world,
+											and just dumping product and selling into the markets.
+											So, we believe that in those regions of the world
+											where the population is large,
+											and there&#39;s an infrastructure that can provide it,
+											that a local, integrated, end-to-end system
+											is really critical for its success.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is a picture of a classroom that we outfitted with computers
+											in Mexico, in my home country.
+											This particular classroom happens to be in the state of Michoacan.
+											Those of you that might be familiar with Mexico —
+											Michoacan is a very colorful state.
+											Children dress with very colorful, colorful clothes,
+											and it is incredible to see the power that this has in the hands of kids,
+											in a computer. And I have to tell you that it&#39;s
+											so easy to appreciate the impact that access to technology
+											and connectivity can have in the lives and education of these kids.
+											We just recently opened a learning laboratory in a school
+											in the West Cape in South Africa,
+											in a school that&#39;s called Nelson Mandela School,
+											and when you see the faces and activities of these children
+											being able to access computers, it&#39;s just phenomenal.
+											And recently, they&#39;ve written us letters,
+											telling us how excited they are about the impact
+											that this has had on their lives, on their educational dreams,
+											on their capabilities, and it&#39;s just phenomenal.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We have now deployed 30 different technologists
+											in 18 different countries, and we have been able
+											to connect millions of people in an effort to continue to learn
+											what this particular segment of the market needs and demands.
+											And I have to tell you that although
+											millions doesn&#39;t sound like a lot
+											in terms of the billions that need to be connected,
+											it&#39;s a start. And we are learning a lot.
+											And we&#39;re learning a tremendous amount about
+											what we believe this segment needs to be able to be effective.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											One example of this has been the One Laptop per Child.
+											Some of you are familiar with this.
+											This is a partnership between MIT and a group of companies —
+											Google is involved, Red Hat — and AMD is a key player.
+											The electronics behind the One Laptop per Child
+											are based on AMD technology; it&#39;s a microprocessor.
+											But to give you an idea how creative this group of people can be,
+											one of the objectives of the One Laptop per Child
+											is to be able to achieve a 10-hour battery life.
+											Because it was felt that a school day
+											would last at least eight hours, and
+											you wanted the child to have the ability to use the laptop
+											for at least one full day without having to recharge it.
+											The engineers have done a phenomenal amount of innovation on this part,
+											and battery life on this product is now 15 hours —
+											just through a lot of innovative work people have done
+											because they&#39;re passionate and motivated to be able to do this.
+											We expect this to be deployed towards the end of this year,
+											and we&#39;re very excited at the opportunities that this is going to offer
+											in the field of education.
+											It&#39;s a highly focused product aimed at strictly the education market,
+											not only in the developing countries, but actually
+											in the developed regions as well, because
+											there are parts of the United States where this can have
+											also a huge impact on the ability to make education more fun and more efficient.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We also have partnered with TED
+											in this project, with Architecture for Humanity,
+											and along with the TED Prize winner Cameron Sinclair,
+											we&#39;re having a contest that we have issued to the architectural community
+											to come up with the best design for a computer lab for an emerging region.
+											And we&#39;re really thrilled about the opportunity to be part of this,
+											and can&#39;t wait to see what comes out of this exciting, exciting activity.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Let me come back to the beginning,
+											to end this presentation.
+											I&#39;ll tell you that one of the things
+											that I feel is really critical for us in industry, in business,
+											is to be able to be passionate about solving these problems.
+											I don&#39;t think it&#39;s enough to be able to put them on a spreadsheet,
+											and look at numbers and say, yes, that&#39;s a good business.
+											I really believe that you have to have a passion for it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And one of the things that I learned, too, from my parents —
+											and I&#39;ll give you a little anecdote — especially from my father.
+											And it took me a while to understand it,
+											but he said to me, when I went to college, he said,
+											&quot;You&#39;re the first person in the family to go to college.
+											And it&#39;s really important you understand
+											that for civilization to make progress,
+											each generation has to do better than the last one.
+											And therefore, this is your opportunity to do better than my generation.&quot;
+											Frankly, I don&#39;t know that I really understood what he told me at the time.
+											I was eager to go off to college, and go find girls, and study,
+											and girls, and study, but then I finished college and I fell in love.
+											I graduated. I decided to get married.
+											And on my wedding day, my father came to me again and said, &quot;You know,
+											I&#39;m going to remind you again, that each generation
+											has to do better than the last one.
+											You have to be a better husband than I was,
+											because that&#39;s how you make progress.&quot; And now he began to make sense.
+											Because I knew what a great husband he was,
+											and now he was once again beginning to put pressure on me,
+											like he did when I was a little kid. And then a few years later, I had a child,
+											my first child, and again, my father comes
+											to the hospital, and we&#39;re looking at the glass,
+											and see all the children on the other side, and he said,
+											&quot;I&#39;ve got to remind you again, that for each generation to do better,
+											you&#39;re going to have to be a better father than I was.&quot;
+											That&#39;s when it dawned on me the tremendous challenge
+											that he was placing on me, because he was a great father.
+											
+But the key is that he instilled in me a passion
+											to really get up every day in the morning and want to do better,
+											to really get up and think that my role in life
+											is not just to be the CEO of a Fortune 500 company.
+											It&#39;s got to be that someday I can look back,
+											and this place is truly better through some small contribution
+											that perhaps each of us could make.
+											Thank you very much.
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":233,"count":32,"talk_id":255},"threadId":233,"current_talk":"255","description":"Hector Ruiz, the executive chair of AMD, wants to give Internet access to everyone. In this talk, he shares his extraordinary life story and describes AMD's 50x15 initiative that calls for connecting 50 percent of the world by 2015.","event":"TEDGlobal 2007","language":"en","name":"Hector Ruiz: The thinking behind 50x15","slug":"hector_ruiz_on_connecting_the_world","speakers":[{"id":"214","slug":"hector_ruiz","is_published":true,"firstname":"Hector","lastname":"Ruiz","middleinitial":"","title":"","description":"CEO","photo_url":"https://pe.tedcdn.com/images/ted/38853_254x191.jpg","whatotherssay":"Technology is only as powerful as it is accessible. The IT industry has nearly unlimited potential to educate the world by connecting the world.","whotheyare":"The executive chairman of AMD, Hector Ruiz is devoted to his company's 50x15 initiative, which seeks to give 50 percent of the world's population access to the internet by 2015.","whylisten":"<p>Hector Ruiz is executive chairman of Advanced Micro Devices, Inc. Born in Piedras Negras, Mexico, Dr. Ruiz is passionate about the role of technology in education and empowering the underprivileged. At the 2004 World Economic Forum in Davos, he announced AMD&#39;s 50x15 Initiative, a commitment to provide <strong>50 percent of the world&#39;s population with basic Internet access by the year 2015</strong>.<br /><br />Ruiz contends that his company&#39;s 50x15 initiative is &quot;not only possible; it is perhaps the most important transformational event we will experience in our lifetime.&quot;</p>"}],"url":"https://www.ted.com/talks/hector_ruiz_on_connecting_the_world","viewed_count":319563,"talks":[{"curator_approved":true,"description":"Hector Ruiz, the executive chair of AMD, wants to give Internet access to everyone. In this talk, he shares his extraordinary life story and describes AMD's 50x15 initiative that calls for connecting 50 percent of the world by 2015.","downloads":{"id":255,"languages":[{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/HectorRuiz_2007G-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/HectorRuiz_2007G.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/HectorRuiz_2007G-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"fr":{"name":"French","high":"https://download.ted.com/talks/HectorRuiz_2007G-480p-fr.mp4","low":"https://download.ted.com/talks/HectorRuiz_2007G-low-fr.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/HectorRuiz_2007G-low-zh-tw.mp4","high":"https://download.ted.com/talks/HectorRuiz_2007G-480p-zh-tw.mp4"},"de":{"name":"German","high":"https://download.ted.com/talks/HectorRuiz_2007G-480p-de.mp4","low":"https://download.ted.com/talks/HectorRuiz_2007G-low-de.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/HectorRuiz_2007G-low-zh-cn.mp4","high":"https://download.ted.com/talks/HectorRuiz_2007G-480p-zh-cn.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/HectorRuiz_2007G-low-ko.mp4","high":"https://download.ted.com/talks/HectorRuiz_2007G-480p-ko.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/HectorRuiz_2007G-low-es.mp4","high":"https://download.ted.com/talks/HectorRuiz_2007G-480p-es.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/HectorRuiz_2007G-low-pt-br.mp4","high":"https://download.ted.com/talks/HectorRuiz_2007G-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/HectorRuiz_2007G-low-it.mp4","high":"https://download.ted.com/talks/HectorRuiz_2007G-480p-it.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/HectorRuiz_2007G-low-bg.mp4","high":"https://download.ted.com/talks/HectorRuiz_2007G-480p-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/HectorRuiz_2007G-low-ro.mp4","high":"https://download.ted.com/talks/HectorRuiz_2007G-480p-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/HectorRuiz_2007G-low-pl.mp4","high":"https://download.ted.com/talks/HectorRuiz_2007G-480p-pl.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/HectorRuiz_2007G-low-ar.mp4","high":"https://download.ted.com/talks/HectorRuiz_2007G-480p-ar.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/HectorRuiz_2007G-low-he.mp4","high":"https://download.ted.com/talks/HectorRuiz_2007G-480p-he.mp4"},"en":{"name":"English","low":"https://download.ted.com/talks/HectorRuiz_2007G-low-en.mp4","high":"https://download.ted.com/talks/HectorRuiz_2007G-480p-en.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/HectorRuiz_2007G-low-tr.mp4","high":"https://download.ted.com/talks/HectorRuiz_2007G-480p-tr.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/HectorRuiz_2007G-low-ru.mp4","high":"https://download.ted.com/talks/HectorRuiz_2007G-480p-ru.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/HectorRuiz_2007G-low-hu.mp4","high":"https://download.ted.com/talks/HectorRuiz_2007G-480p-hu.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/HectorRuiz_2007G-low-ja.mp4","high":"https://download.ted.com/talks/HectorRuiz_2007G-480p-ja.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/HectorRuiz_2007G-low-vi.mp4","high":"https://download.ted.com/talks/HectorRuiz_2007G-480p-vi.mp4"}},"audioDownload":"https://download.ted.com/talks/HectorRuiz_2007G.mp3?apikey=acme-roadrunner"},"duration":1197.0,"event":"TEDGlobal 2007","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/40260_480x360.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/40260_480x360.jpg?q=50&w=15","id":"255","player_talks":[{"id":"255","duration":1197.0,"languages":[{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2007G/Blank/HectorRuiz_2007G-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDGlobal%2B2007%26id%3D255%26tag%3DAfrica%2Ceducation%2Cglobal%2Bissues%2Cphilanthropy%2Ctechnology%26talk%3Dhector_ruiz_on_connecting_the_world%26year%3D2007&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"255","talk":"hector_ruiz_on_connecting_the_world","tag":"Africa,education,global issues,philanthropy,technology","year":"2007","event":"TEDGlobal 2007"},"stream":"https://hls.ted.com/talks/255.m3u8","metadata":"https://hls.ted.com/talks/255.json"}},"targeting":{"id":"255","talk":"hector_ruiz_on_connecting_the_world","tag":"Africa,education,global issues,philanthropy,technology","year":"2007","event":"TEDGlobal 2007"},"canonical":"https://www.ted.com/talks/hector_ruiz_on_connecting_the_world","name":"Hector Ruiz: The thinking behind 50x15","title":"The thinking behind 50x15","speaker":"Hector Ruiz","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/40260_480x360.jpg?quality=89&w=600","slug":"hector_ruiz_on_connecting_the_world","event":"TEDGlobal 2007","published":1209618000}],"ratings":[{"id":3,"name":"Courageous","count":49},{"id":22,"name":"Fascinating","count":37},{"id":9,"name":"Ingenious","count":19},{"id":23,"name":"Jaw-dropping","count":8},{"id":24,"name":"Persuasive","count":91},{"id":10,"name":"Inspiring","count":202},{"id":1,"name":"Beautiful","count":36},{"id":8,"name":"Informative","count":93},{"id":25,"name":"OK","count":78},{"id":11,"name":"Longwinded","count":66},{"id":2,"name":"Confusing","count":9},{"id":21,"name":"Unconvincing","count":23},{"id":7,"name":"Funny","count":10},{"id":26,"name":"Obnoxious","count":2}],"recorded_at":"2007-06-06T00:00:00.000+00:00","related_talks":[{"id":"288","hero":"https://pe.tedcdn.com/images/ted/46407_480x360.jpg","speaker":"Nicholas Negroponte","title":"One Laptop per Child, two years on","duration":1000.0,"slug":"nicholas_negroponte_on_one_laptop_per_child_two_years_on","viewed_count":415753},{"id":"79","hero":"https://pe.tedcdn.com/images/ted/152_480x360.jpg","speaker":"Iqbal Quadir","title":"How mobile phones can fight poverty","duration":952.0,"slug":"iqbal_quadir_says_mobiles_fight_poverty","viewed_count":529470},{"id":"59","hero":"https://pe.tedcdn.com/images/ted/324e64c6f3cd4f18c8c4f00757760943066e3cb2_2880x1620.jpg","speaker":"Bono","title":"My wish: Three actions for Africa","duration":1672.0,"slug":"bono_s_call_to_action_for_africa","viewed_count":737262},{"id":"1348","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/651a8db0-2227-4daf-90e4-b3d582eaaaec/AlephMolinari_2011X_embed.jpg","speaker":"Aleph Molinari","title":"Let's bridge the digital divide!","duration":594.0,"slug":"aleph_molinari_let_s_bridge_the_digital_divide","viewed_count":165644},{"id":"41","hero":"https://pe.tedcdn.com/images/ted/225_480x360.jpg","speaker":"Nicholas Negroponte","title":"One Laptop per Child","duration":1057.0,"slug":"nicholas_negroponte_on_one_laptop_per_child","viewed_count":398775},{"id":"2891","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/8d8572db-1081-4102-8105-63e00819024e/ChikaEzeanyaEsiobu_2017G-embed.jpg","speaker":"Chika Ezeanya-Esiobu","title":"How Africa can use its traditional knowledge to make progress","duration":849.0,"slug":"chika_ezeanya_esiobu_how_africa_can_use_its_traditional_knowledge_to_make_progress","viewed_count":1088805}],"slug":"hector_ruiz_on_connecting_the_world","speakers":[{"id":"214","slug":"hector_ruiz","is_published":true,"firstname":"Hector","lastname":"Ruiz","middleinitial":"","title":"","description":"CEO","photo_url":"https://pe.tedcdn.com/images/ted/38853_254x191.jpg","whatotherssay":"Technology is only as powerful as it is accessible. The IT industry has nearly unlimited potential to educate the world by connecting the world.","whotheyare":"The executive chairman of AMD, Hector Ruiz is devoted to his company's 50x15 initiative, which seeks to give 50 percent of the world's population access to the internet by 2015.","whylisten":"<p>Hector Ruiz is executive chairman of Advanced Micro Devices, Inc. Born in Piedras Negras, Mexico, Dr. Ruiz is passionate about the role of technology in education and empowering the underprivileged. At the 2004 World Economic Forum in Davos, he announced AMD&#39;s 50x15 Initiative, a commitment to provide <strong>50 percent of the world&#39;s population with basic Internet access by the year 2015</strong>.<br /><br />Ruiz contends that his company&#39;s 50x15 initiative is &quot;not only possible; it is perhaps the most important transformational event we will experience in our lifetime.&quot;</p>"}],"speaker_name":"Hector Ruiz","tags":["Africa","education","global issues","philanthropy","technology"],"title":"The thinking behind 50x15","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":319563}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

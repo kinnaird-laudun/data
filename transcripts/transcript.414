@@ -1,0 +1,1282 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Bruce Bueno de Mesquita: A prediction for the future of Iran | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Bruce Bueno de Mesquita uses mathematical analysis to predict (very often correctly) such messy human events as war, political power shifts, Intifada ... After a crisp explanation of how he does it, he offers three predictions on the future of Iran." />
+<meta name="author" content="Bruce Bueno de Mesquita" />
+<link rel="canonical" href="https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future/transcript" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future/transcript?language=en" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future/transcript?language=vi" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future/transcript?language=pt-br" />
+<link rel="alternate" hreflang="cs" href="https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future/transcript?language=cs" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future/transcript?language=nl" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future/transcript?language=tr" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future/transcript?language=bg" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future/transcript?language=de" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future/transcript?language=fa" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future/transcript?language=he" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future/transcript?language=ko" />
+<meta property="og:title" content="Transcript of &quot;A prediction for the future of Iran&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/82468_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/82468_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Bruce Bueno de Mesquita: A prediction for the future of Iran" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Bruce Bueno de Mesquita uses mathematical analysis to predict (very often correctly) such messy human events as war, political power shifts, Intifada ... After a crisp explanation of how he does it, he offers three predictions on the future of Iran." />
+<meta property="og:url" content="https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 507);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future' itemprop='url'>
+<meta content='A prediction for the future of Iran' itemprop='name'>
+<meta content='Bruce Bueno de Mesquita uses mathematical analysis to predict (very often correctly) such messy human events as war, political power shifts, Intifada ... After a crisp explanation of how he does it, he offers three predictions on the future of Iran.' itemprop='description'>
+<meta content='PT19M5S' itemprop='duration'>
+<meta content='2009-04-07T01:00:00+00:00' itemprop='uploadDate'>
+<meta content='795368' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/82468_800x600.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/bruce_bueno_de_mesquita' itemprop='url'>
+<meta content='Bruce Bueno de Mesquita' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/82473_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/82468_800x600.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Bruce Bueno de Mesquita
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					795,368
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 19:05</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											What I&#39;m going to try to do is explain to you
+											quickly how to predict,
+											and illustrate it with some predictions
+											about what Iran is going to do in the next couple of years.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											In order to predict effectively,
+											we need to use science.
+											And the reason that we need to use science
+											is because then we can reproduce what we&#39;re doing;
+											it&#39;s not just wisdom or guesswork.
+											And if we can predict,
+											then we can engineer the future.
+											So if you are concerned to influence energy policy,
+											or you are concerned to influence national security policy,
+											or health policy, or education,
+											science — and a particular branch of science — is a way to do it,
+											not the way we&#39;ve been doing it,
+											which is seat-of-the-pants wisdom.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now before I get into how to do it
+											let me give you a little truth in advertising,
+											because I&#39;m not engaged in the business of magic.
+											There are lots of thing that the approach I take can predict,
+											and there are some that it can&#39;t.
+											It can predict complex negotiations
+											or situations involving coercion —
+											that is in essence everything that has to do with politics,
+											much of what has to do with business,
+											but sorry, if you&#39;re looking to speculate in the stock market,
+											I don&#39;t predict stock markets — OK,
+											it&#39;s not going up any time really soon.
+											But I&#39;m not engaged in doing that.
+											I&#39;m not engaged in predicting random number generators.
+											I actually get phone calls from people
+											who want to know what lottery numbers are going to win.
+											I don&#39;t have a clue.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I engage in the use of game theory, game theory is a branch of mathematics
+											and that means, sorry, that even in the study of politics,
+											math has come into the picture.
+											We can no longer pretend that we just speculate about politics,
+											we need to look at this in a rigorous way.
+											Now, what is game theory about?
+											It assumes that people are looking out for what&#39;s good for them.
+											That doesn&#39;t seem terribly shocking —
+											although it&#39;s controversial for a lot of people —
+											that we are self-interested.
+											In order to look out for what&#39;s best for them
+											or what they think is best for them,
+											people have values — they identify what they want, and what they don&#39;t want.
+											And they have beliefs about what other people want,
+											and what other people don&#39;t want, how much power other people have,
+											how much those people could get in the way of whatever it is that you want.
+											And they face limitations, constraints,
+											they may be weak, they may be located in the wrong part of the world,
+											they may be Einstein, stuck away farming
+											someplace in a rural village in India not being noticed,
+											as was the case for Ramanujan for a long time,
+											a great mathematician but nobody noticed.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now who is rational?
+											A lot of people are worried about what is rationality about?
+											You know, what if people are rational?
+											Mother Theresa, she was rational.
+											Terrorists, they&#39;re rational.
+											Pretty much everybody is rational.
+											I think there are only two exceptions that I&#39;m aware of —
+											two-year-olds, they are not rational,
+											they have very fickle preferences,
+											they switch what they think all the time,
+											and schizophrenics are probably not rational,
+											but pretty much everybody else is rational.
+											That is, they are just trying to do
+											what they think is in their own best interest.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now in order to work out what people are going to do
+											to pursue their interests,
+											we have to think about who has influence in the world.
+											If you&#39;re trying to influence corporations to change their behavior,
+											with regard to producing pollutants,
+											one approach, the common approach,
+											is to exhort them to be better,
+											to explain to them what damage they&#39;re doing to the planet.
+											And many of you may have noticed that doesn&#39;t have
+											as big an effect, as perhaps you would like it to have.
+											But if you show them that it&#39;s in their interest,
+											then they&#39;re responsive.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, we have to work out who influences problems.
+											If we&#39;re looking at Iran, the president of the United States
+											we would like to think, may have some influence —
+											certainly the president in Iran has some influence —
+											but we make a mistake if we just pay attention
+											to the person at the top of the power ladder
+											because that person doesn&#39;t know much about Iran,
+											or about energy policy,
+											or about health care,
+											or about any particular policy.
+											That person surrounds himself or herself with advisers.
+											If we&#39;re talking about national security problems,
+											maybe it&#39;s the Secretary of State,
+											maybe it&#39;s the Secretary of Defense,
+											the Director of National Intelligence,
+											maybe the ambassador to the United Nations, or somebody else
+											who they think is going to know more about the particular problem.
+											But let&#39;s face it, the Secretary of State doesn&#39;t know much about Iran.
+											The secretary of defense doesn&#39;t know much about Iran.
+											Each of those people in turn
+											has advisers who advise them,
+											so they can advise the president.
+											There are lots of people shaping decisions
+											and so if we want to predict correctly
+											we have to pay attention to everybody
+											who is trying to shape the outcome,
+											not just the people at the pinnacle
+											of the decision-making pyramid.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Unfortunately, a lot of times we don&#39;t do that.
+											There&#39;s a good reason that we don&#39;t do that,
+											and there&#39;s a good reason that using game theory and computers,
+											we can overcome the limitation
+											of just looking at a few people.
+											Imagine a problem with just five decision-makers.
+											Imagine for example
+											that Sally over here,
+											wants to know what Harry, and Jane,
+											and George and Frank are thinking,
+											and sends messages to those people.
+											Sally&#39;s giving her opinion to them,
+											and they&#39;re giving their opinion to Sally.
+											But Sally also wants to know
+											what Harry is saying to these three,
+											and what they&#39;re saying to Harry.
+											And Harry wants to know
+											what each of those people are saying to each other, and so on,
+											and Sally would like to know what Harry thinks those people are saying.
+											That&#39;s a complicated problem; that&#39;s a lot to know.
+											With five decision-makers
+											there are a lot of linkages —
+											120, as a matter of fact,
+											if you remember your factorials.
+											Five factorial is 120.
+											Now you may be surprised to know
+											that smart people can keep 120 things straight
+											in their head.
+											Suppose we double the number of influencers
+											from five to 10.
+											Does that mean we&#39;ve doubled the number of pieces of information
+											we need to know, from 120 to 240?
+											No. How about 10 times?
+											To 1,200? No.
+											We&#39;ve increased it to 3.6 million.
+											Nobody can keep that straight in their head.
+											But computers,
+											they can. They don&#39;t need coffee breaks,
+											they don&#39;t need vacations,
+											they don&#39;t need to go to sleep at night,
+											they don&#39;t ask for raises either.
+											They can keep this information straight
+											and that means that we can process the information.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So I&#39;m going to talk to you about how to process it,
+											and I&#39;m going to give you some examples out of Iran,
+											and you&#39;re going to be wondering,
+											&quot;Why should we listen to this guy?
+											Why should we believe what he&#39;s saying?&quot;
+											So I&#39;m going to show you a factoid.
+											This is an assessment by the Central Intelligence Agency
+											of the percentage of time
+											that the model I&#39;m talking about
+											is right in predicting things whose outcome is not yet known,
+											when the experts who provided the data inputs
+											got it wrong.
+											That&#39;s not my claim, that&#39;s a CIA claim — you can read it,
+											it was declassified a while ago. You can read it in a volume edited by
+											H. Bradford Westerfield, Yale University Press.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, what do we need to know
+											in order to predict?
+											You may be surprised to find out we don&#39;t need to know very much.
+											We do need to know who has a stake
+											in trying to shape the outcome of a decision.
+											We need to know what they say they want,
+											not what they want in their heart of hearts,
+											not what they think they can get,
+											but what they say they want, because that is a strategically chosen position,
+											and we can work backwards from that
+											to draw inferences about important features of their decision-making.
+											We need to know how focused they are
+											on the problem at hand.
+											That is, how willing are they to drop what they&#39;re doing when the issue comes up,
+											and attend to it instead of something else that&#39;s on their plate —
+											how big a deal is it to them?
+											And how much clout could they bring to bear
+											if they chose to engage on the issue?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											If we know those things
+											we can predict their behavior by assuming that everybody
+											cares about two things on any decision.
+											They care about the outcome. They&#39;d like an outcome as close to
+											what they are interested in as possible.
+											They&#39;re careerists, they also care about getting credit —
+											there&#39;s ego involvement,
+											they want to be seen as important in shaping the outcome,
+											or as important, if it&#39;s their druthers, to block an outcome.
+											And so we have to figure out how they balance those two things.
+											Different people trade off
+											between standing by their outcome,
+											faithfully holding to it, going down in a blaze of glory,
+											or giving it up, putting their finger in the wind,
+											and doing whatever they think is going to be a winning position.
+											Most people fall in between, and if we can work out where they fall
+											we can work out how to negotiate with them
+											to change their behavior.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So with just that little bit of input
+											we can work out what the choices are that people have,
+											what the chances are that they&#39;re willing to take,
+											what they&#39;re after, what they value, what they want,
+											and what they believe about other people.
+											You might notice what we don&#39;t need to know:
+											there&#39;s no history in here.
+											How they got to where they are
+											may be important in shaping the input information,
+											but once we know where they are
+											we&#39;re worried about where they&#39;re going to be headed in the future.
+											How they got there turns out not to be terribly critical in predicting.
+											I remind you of that 90 percent accuracy rate.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So where are we going to get this information?
+											We can get this information
+											from the Internet, from The Economist,
+											The Financial Times, The New York Times,
+											U.S. News and World Report, lots of sources like that,
+											or we can get it from asking experts
+											who spend their lives studying places and problems,
+											because those experts know this information.
+											If they don&#39;t know, who are the people trying to influence the decision,
+											how much clout do they have,
+											how much they care about this issue, and what do they say they want,
+											are they experts? That&#39;s what it means to be an expert,
+											that&#39;s the basic stuff an expert needs to know.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Alright, lets turn to Iran.
+											Let me make three important predictions —
+											you can check this out, time will tell.
+											What is Iran going to do about its nuclear weapons program?
+											How secure is the theocratic regime in Iran?
+											What&#39;s its future?
+											And everybody&#39;s best friend,
+											Ahmadinejad. How are things going for him?
+											How are things going to be working out for him in the next year or two?
+											You take a look at this, this is not based on statistics.
+											I want to be very clear here. I&#39;m not projecting some past data into the future.
+											I&#39;ve taken inputs on positions and so forth,
+											run it through a computer model
+											that had simulated the dynamics of interaction,
+											and these are the simulated dynamics,
+											the predictions about the path of policy.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So you can see here on the vertical axis,
+											I haven&#39;t shown it all the way down to zero,
+											there are lots of other options, but here I&#39;m just showing you the prediction,
+											so I&#39;ve narrowed the scale.
+											Up at the top of the axis, &quot;Build the Bomb.&quot;
+											At 130, we start somewhere above 130,
+											between building a bomb, and making enough weapons-grade fuel
+											so that you could build a bomb.
+											That&#39;s where, according to my analyses,
+											the Iranians were at the beginning of this year.
+											And then the model makes predictions down the road.
+											At 115 they would only produce enough weapons grade fuel
+											to show that they know how, but they wouldn&#39;t build a weapon:
+											they would build a research quantity.
+											It would achieve some national pride,
+											but not go ahead and build a weapon.
+											And down at 100 they would build civilian nuclear energy,
+											which is what they say is their objective.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The yellow line shows us the most likely path.
+											The yellow line includes an analysis
+											of 87 decision makers in Iran,
+											and a vast number of outside influencers
+											trying to pressure Iran into changing its behavior,
+											various players in the United States, and Egypt,
+											and Saudi Arabia, and Russia, European Union,
+											Japan, so on and so forth.
+											The white line reproduces the analysis
+											if the international environment
+											just left Iran to make its own internal decisions,
+											under its own domestic political pressures.
+											That&#39;s not going to be happening,
+											but you can see that the line comes down faster
+											if they&#39;re not put under international pressure,
+											if they&#39;re allowed to pursue their own devices.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But in any event, by the end of this year,
+											beginning of next year, we get to a stable equilibrium outcome.
+											And that equilibrium is not what the United States would like,
+											but it&#39;s probably an equilibrium that the United States can live with,
+											and that a lot of others can live with.
+											And that is that Iran will achieve that nationalist pride
+											by making enough weapons-grade fuel, through research,
+											so that they could show that they know how to make weapons-grade fuel,
+											but not enough to actually build a bomb.
+											How is this happening?
+											Over here you can see this is the distribution
+											of power in favor of civilian nuclear energy today,
+											this is what that power block is predicted to be like
+											by the late parts of 2010, early parts of 2011.
+											Just about nobody supports research on weapons-grade fuel today,
+											but by 2011 that gets to be a big block,
+											and you put these two together, that&#39;s the controlling influence in Iran.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Out here today, there are a bunch of people —
+											Ahmadinejad for example —
+											who would like not only to build a bomb,
+											but test a bomb.
+											That power disappears completely;
+											nobody supports that by 2011.
+											These guys are all shrinking,
+											the power is all drifting out here,
+											so the outcome is going to be the weapons-grade fuel.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Who are the winners and who are the losers in Iran?
+											Take a look at these guys, they&#39;re growing in power,
+											and by the way, this was done a while ago
+											before the current economic crisis,
+											and that&#39;s probably going to get steeper.
+											These folks are the moneyed interests in Iran,
+											the bankers, the oil people, the bazaaries.
+											They are growing in political clout,
+											as the mullahs are isolating themselves —
+											with the exception of one group of mullahs,
+											who are not well known to Americans.
+											That&#39;s this line here, growing in power,
+											these are what the Iranians call the quietists.
+											These are the Ayatollahs, mostly based in Qom,
+											who have great clout in the religious community,
+											have been quiet on politics and are going to be getting louder,
+											because they see Iran going in an unhealthy direction,
+											a direction contrary
+											to what Khomeini had in mind.
+											Here is Mr. Ahmadinejad.
+											Two things to notice: he&#39;s getting weaker,
+											and while he gets a lot of attention in the United States,
+											he is not a major player in Iran.
+											He is on the way down.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											OK, so I&#39;d like you to take a little away from this.
+											Everything is not predictable: the stock market
+											is, at least for me, not predictable,
+											but most complicated negotiations are predictable.
+											Again, whether we&#39;re talking health policy, education,
+											environment, energy,
+											litigation, mergers,
+											all of these are complicated problems
+											that are predictable,
+											that this sort of technology can be applied to.
+											And the reason that being able to predict those things is important,
+											is not just because you might run a hedge fund and make money off of it,
+											but because if you can predict what people will do,
+											you can engineer what they will do.
+											And if you engineer what they do you can change the world,
+											you can get a better result.
+											I would like to leave you with one thought, which is
+											for me, the dominant theme of this gathering,
+											and is the dominant theme of this way of thinking about the world.
+											When people say to you,
+											&quot;That&#39;s impossible,&quot;
+											you say back to them,
+											&quot;When you say &#39;That&#39;s impossible,&#39;
+											you&#39;re confused with,
+											&#39;I don&#39;t know how to do it.&#39;&quot;
+											Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Chris Anderson: One question for you.
+											That was fascinating.
+											I love that you put it out there.
+											I got very nervous halfway through the talk though,
+											just panicking whether you&#39;d included in your model, the possibility that
+											putting this prediction out there might change the result.
+											We&#39;ve got 800 people in Tehran who watch TEDTalks.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Bruce Bueno de Mesquita: I&#39;ve thought about that,
+											and since I&#39;ve done a lot of work for the intelligence community,
+											they&#39;ve also pondered that.
+											It would be a good thing if
+											people paid more attention, took seriously,
+											and engaged in the same sorts of calculations,
+											because it would change things. But it would change things in two beneficial ways.
+											It would hasten how quickly people arrive at an agreement,
+											and so it would save everybody a lot of grief and time.
+											And, it would arrive at an agreement that everybody was happy with,
+											without having to manipulate them so much —
+											which is basically what I do, I manipulate them.
+											So it would be a good thing.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: So you&#39;re kind of trying to say, &quot;People of Iran, this is your destiny, lets go there.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											BBM: Well, people of Iran, this is what many of you are going to evolve to want,
+											and we could get there a lot sooner,
+											and you would suffer a lot less trouble from economic sanctions,
+											and we would suffer a lot less fear of the use of military force on our end,
+											and the world would be a better place.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: Here&#39;s hoping they hear it that way. Thank you very much Bruce.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											BBM: Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":424,"count":260,"talk_id":507},"threadId":424,"current_talk":"507","description":"Bruce Bueno de Mesquita uses mathematical analysis to predict (very often correctly) such messy human events as war, political power shifts, Intifada ... After a crisp explanation of how he does it, he offers three predictions on the future of Iran.","event":"TED2009","language":"en","name":"Bruce Bueno de Mesquita: A prediction for the future of Iran","slug":"bruce_bueno_de_mesquita_predicts_iran_s_future","speakers":[{"id":"344","slug":"bruce_bueno_de_mesquita","is_published":true,"firstname":"Bruce","lastname":"Bueno de Mesquita","middleinitial":"","title":"","description":"Political scientist","photo_url":"https://pe.tedcdn.com/images/ted/82473_254x191.jpg","whatotherssay":"If you listen to Bruce Bueno de Mesquita, and a lot of people don’t, he’ll claim that mathematics can tell you the future.","whotheyare":"A consultant to the CIA and the Department of Defense, Bruce Bueno de Mesquita has built an intricate computer model that can predict the outcomes of international conflicts with bewildering accuracy.","whylisten":"<p>Every motive has a number, says Bruce Bueno de Mesquita. A specialist in foreign policy, international relations and state building, he is also a leading -- if controversial -- scholar of rational choice theory, which says <strong>math underlies the nation-scale consequences of individuals acting for personal benefit</strong>. He created forecasting technology that has, time and again, exceeded the accuracy of old-school analysis, even with thorny quarrels charged by obscure contenders, and often against odds. (One example: He called the second Intifada two years in advance.) <br /><br />Bueno de Mesquita&#39;s company, Mesquita &amp; Roundell, sells his system&#39;s predictions and analysis to influential government and private institutions that need heads-ups on policy. He teaches at NYU and is a senior fellow at the Hoover Institution.</p>"}],"url":"https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future","viewed_count":795367,"talks":[{"recommendations":{"status":"approved","headline":"Bruce Bueno de Mesquita recommends","blurb":"Find out more about future geopolitical shifts from must-read articles provided by the political scientist.","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"recommendation","rec_lists":[{"title":"reading list","description":"","rec_items":[{"label":"READ_Article","headline":"Applications of Game Theory in Support of Intelligence Analysis","blurb":"","note":"Bruce Bueno de Mesquita\r\nin *Intelligence Analysis*, Baruch Fischhoff and Cherie Chauvin (Editors), The National Academies Press, 2011","link_url":"http://www.nap.edu/openbook.php?record_id=13062&page=57","position":null,"is_pdf":false,"eyebrow":null},{"label":"READ_Article","headline":"A Political Economy of Aid ","blurb":"","note":"Bruce Bueno de Mesquita and Alastair Smith\r\n*International Organization*, April 2009","link_url":"http://alexanderhamilton.as.nyu.edu/docs/CP/1124/PEofAID_IOrevisionsJan_2008.pdf","position":null,"is_pdf":false,"eyebrow":null},{"label":"READ_Article","headline":"Political Survival and Endogenous Institutional Change","blurb":"","note":"Bruce Bueno de Mesquita and Alastair Smith\r\n*Comparative Political Studies*, January 2009","link_url":"http://as.nyu.edu/docs/IO/2806/BdM_Smith2009cps.pdf","position":null,"is_pdf":false,"eyebrow":null}]}]},"more_resources":[{"status":"approved","headline":"*The Predictioneer's Game*","blurb":null,"link_url":"http://www.amazon.com/The-Predictioneers-Game-Brazen-Self-Interest/dp/081297977X/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","image_url":"https://pe.tedcdn.com/images/ted/c01146b51a7d3822373fbfe54c3b1b46fb28ec82_448x655.jpg","author":"Bruce Bueno de Mesquita","year":"2010","publisher":"Random House Trade","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"book"}],"corrections":[],"has_citations":false,"take_action":[],"curator_approved":true,"description":"Bruce Bueno de Mesquita uses mathematical analysis to predict (very often correctly) such messy human events as war, political power shifts, Intifada ... After a crisp explanation of how he does it, he offers three predictions on the future of Iran.","downloads":{"id":507,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/BruceBuenodeMesquita_2009.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"de":{"name":"German","high":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-480p-de.mp4","low":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-low-de.mp4"},"ja":{"name":"Japanese","high":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-480p-ja.mp4","low":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-low-ja.mp4"},"zh-tw":{"name":"Chinese, Traditional","high":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-480p-zh-tw.mp4","low":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-low-zh-tw.mp4"},"fr":{"name":"French","high":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-480p-fr.mp4","low":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-low-fr.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-low-zh-cn.mp4","high":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-480p-zh-cn.mp4"},"ko":{"name":"Korean","high":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-480p-ko.mp4","low":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-low-ko.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-low-es.mp4","high":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-480p-es.mp4"},"en":{"name":"English","low":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-low-en.mp4","high":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-480p-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-low-pt-br.mp4","high":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-low-it.mp4","high":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-480p-it.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-low-he.mp4","high":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-480p-he.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-low-bg.mp4","high":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-480p-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-low-ro.mp4","high":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-480p-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-low-pl.mp4","high":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-480p-pl.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-low-nl.mp4","high":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-480p-nl.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-low-tr.mp4","high":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-480p-tr.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-low-ru.mp4","high":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-480p-ru.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-low-fa.mp4","high":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-480p-fa.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-low-ar.mp4","high":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-480p-ar.mp4"},"cs":{"name":"Czech","low":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-low-cs.mp4","high":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-480p-cs.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-low-vi.mp4","high":"https://download.ted.com/talks/BruceBuenodeMesquita_2009-480p-vi.mp4"}},"audioDownload":null},"duration":1145.0,"event":"TED2009","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/82468_800x600.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/82468_800x600.jpg?q=50&w=15","id":"507","player_talks":[{"id":"507","duration":1145.0,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2009/Blank/BruceBuenodeMesquita_2009-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTED2009%26id%3D507%26tag%3Dglobal%2Bissues%2Cmath%2Cprediction%2Ctechnology%2Cwar%26talk%3Dbruce_bueno_de_mesquita_predicts_iran_s_future%26year%3D2009&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"507","talk":"bruce_bueno_de_mesquita_predicts_iran_s_future","tag":"global issues,math,prediction,technology,war","year":"2009","event":"TED2009"},"stream":"https://hls.ted.com/talks/507.m3u8","metadata":"https://hls.ted.com/talks/507.json"}},"targeting":{"id":"507","talk":"bruce_bueno_de_mesquita_predicts_iran_s_future","tag":"global issues,math,prediction,technology,war","year":"2009","event":"TED2009"},"canonical":"https://www.ted.com/talks/bruce_bueno_de_mesquita_predicts_iran_s_future","name":"Bruce Bueno de Mesquita: A prediction for the future of Iran","title":"A prediction for the future of Iran","speaker":"Bruce Bueno de Mesquita","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/82468_800x600.jpg?quality=89&w=600","slug":"bruce_bueno_de_mesquita_predicts_iran_s_future","event":"TED2009","published":1239066000}],"ratings":[{"id":3,"name":"Courageous","count":60},{"id":9,"name":"Ingenious","count":152},{"id":22,"name":"Fascinating","count":217},{"id":21,"name":"Unconvincing","count":209},{"id":24,"name":"Persuasive","count":175},{"id":8,"name":"Informative","count":289},{"id":2,"name":"Confusing","count":49},{"id":11,"name":"Longwinded","count":72},{"id":25,"name":"OK","count":109},{"id":26,"name":"Obnoxious","count":85},{"id":23,"name":"Jaw-dropping","count":54},{"id":10,"name":"Inspiring","count":72},{"id":1,"name":"Beautiful","count":41},{"id":7,"name":"Funny","count":0}],"recorded_at":"2009-02-07T00:00:00.000+00:00","related_talks":[{"id":"33","hero":"https://pe.tedcdn.com/images/ted/199_480x360.jpg","speaker":"Thomas Barnett","title":"Let's rethink America's military strategy","duration":1402.0,"slug":"thomas_barnett_draws_a_new_map_for_peace","viewed_count":1182803},{"id":"358","hero":"https://pe.tedcdn.com/images/ted/55011_480x360.jpg","speaker":"Noah Feldman","title":"Politics and religion are technologies","duration":907.0,"slug":"noah_feldman_says_politics_and_religion_are_technologies","viewed_count":399135},{"id":"177","hero":"https://pe.tedcdn.com/images/ted/20741_480x360.jpg","speaker":"Larry Brilliant","title":"The case for optimism","duration":1261.0,"slug":"larry_brilliant_makes_the_case_for_optimism","viewed_count":437227},{"id":"1839","hero":"https://pe.tedcdn.com/images/ted/4d7bd3902c70dbd83030efbd9e6ec34f8aac0761_1600x1200.jpg","speaker":"Trita Parsi","title":"Iran and Israel: Peace is possible","duration":645.0,"slug":"trita_parsi_iran_and_israel_peace_is_possible","viewed_count":759119},{"id":"1364","hero":"https://pe.tedcdn.com/images/ted/0ce08679141b71a982a05ba162e87a834deabd7f_800x600.jpg","speaker":"Neil MacGregor","title":"2600 years of history in one object","duration":1177.0,"slug":"neil_macgregor_2600_years_of_history_in_one_object","viewed_count":1034214},{"id":"1636","hero":"https://pe.tedcdn.com/images/ted/1cd8ab3b6e94be6d86ee94b2fa52c271abd140a9_1600x1200.jpg","speaker":"Ronny Edry","title":"Israel and Iran: A love story?","duration":897.0,"slug":"israel_and_iran_a_love_story","viewed_count":2059783}],"slug":"bruce_bueno_de_mesquita_predicts_iran_s_future","speakers":[{"id":"344","slug":"bruce_bueno_de_mesquita","is_published":true,"firstname":"Bruce","lastname":"Bueno de Mesquita","middleinitial":"","title":"","description":"Political scientist","photo_url":"https://pe.tedcdn.com/images/ted/82473_254x191.jpg","whatotherssay":"If you listen to Bruce Bueno de Mesquita, and a lot of people don’t, he’ll claim that mathematics can tell you the future.","whotheyare":"A consultant to the CIA and the Department of Defense, Bruce Bueno de Mesquita has built an intricate computer model that can predict the outcomes of international conflicts with bewildering accuracy.","whylisten":"<p>Every motive has a number, says Bruce Bueno de Mesquita. A specialist in foreign policy, international relations and state building, he is also a leading -- if controversial -- scholar of rational choice theory, which says <strong>math underlies the nation-scale consequences of individuals acting for personal benefit</strong>. He created forecasting technology that has, time and again, exceeded the accuracy of old-school analysis, even with thorny quarrels charged by obscure contenders, and often against odds. (One example: He called the second Intifada two years in advance.) <br /><br />Bueno de Mesquita&#39;s company, Mesquita &amp; Roundell, sells his system&#39;s predictions and analysis to influential government and private institutions that need heads-ups on policy. He teaches at NYU and is a senior fellow at the Hoover Institution.</p>"}],"speaker_name":"Bruce Bueno de Mesquita","tags":["global issues","math","prediction","technology","war"],"title":"A prediction for the future of Iran","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":795367}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

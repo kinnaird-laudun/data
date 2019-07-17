@@ -1,0 +1,1314 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Vijay Kumar: The future of flying robots | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: At his lab at the University of Pennsylvania, Vijay Kumar and his team have created autonomous aerial robots inspired by honeybees. Their latest breakthrough: Precision Farming, in which swarms of robots map, reconstruct and analyze every plant and piece of fruit in an orchard, providing vital information to farmers that can help improve yields and make water management smarter." />
+<meta name="author" content="Vijay Kumar" />
+<link rel="canonical" href="https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=el" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=en" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=vi" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=pt-br" />
+<link rel="alternate" hreflang="cs" href="https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=cs" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=ru" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=pt" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=tr" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=fr" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=hu" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=fa" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=he" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=ko" />
+<link rel="alternate" hreflang="uk" href="https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript?language=uk" />
+<meta property="og:title" content="Transcript of &quot;The future of flying robots&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/87f82eddb91d2c806ebb11465d846c47f481902c_2880x1620.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/87f82eddb91d2c806ebb11465d846c47f481902c_2880x1620.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Vijay Kumar: The future of flying robots" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: At his lab at the University of Pennsylvania, Vijay Kumar and his team have created autonomous aerial robots inspired by honeybees. Their latest breakthrough: Precision Farming, in which swarms of robots map, reconstruct and analyze every plant and piece of fruit in an orchard, providing vital information to farmers that can help improve yields and make water management smarter." />
+<meta property="og:url" content="https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 2346);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots' itemprop='url'>
+<meta content='The future of flying robots' itemprop='name'>
+<meta content='At his lab at the University of Pennsylvania, Vijay Kumar and his team have created autonomous aerial robots inspired by honeybees. Their latest breakthrough: Precision Farming, in which swarms of robots map, reconstruct and analyze every plant and piece of fruit in an orchard, providing vital information to farmers that can help improve yields and make water management smarter.' itemprop='description'>
+<meta content='PT13M9S' itemprop='duration'>
+<meta content='2015-10-13T15:35:01+00:00' itemprop='uploadDate'>
+<meta content='1510105' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/87f82eddb91d2c806ebb11465d846c47f481902c_2880x1620.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/vijay_kumar' itemprop='url'>
+<meta content='Vijay Kumar' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/1c6de67b5b0f5e92f3a5c8d03d48705eee13a6a1_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/vijay_kumar_the_future_of_flying_robots' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/87f82eddb91d2c806ebb11465d846c47f481902c_2880x1620.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Vijay Kumar
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,510,105
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 13:09</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											In my lab, we build
+autonomous aerial robots
+											like the one you see flying here.
+											Unlike the commercially available drones
+that you can buy today,
+											this robot doesn&#39;t have any GPS on board.
+											So without GPS,
+											it&#39;s hard for robots like this
+to determine their position.
+											This robot uses onboard sensors,
+cameras and laser scanners,
+											to scan the environment.
+											It detects features from the environment,
+											and it determines where it is
+relative to those features,
+											using a method of triangulation.
+											And then it can assemble
+all these features into a map,
+											like you see behind me.
+											And this map then allows the robot
+to understand where the obstacles are
+											and navigate in a collision-free manner.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											What I want to show you next
+											is a set of experiments
+we did inside our laboratory,
+											where this robot was able
+to go for longer distances.
+											So here you&#39;ll see, on the top right,
+what the robot sees with the camera.
+											And on the main screen —
+											and of course this is sped up
+by a factor of four —
+											on the main screen you&#39;ll see
+the map that it&#39;s building.
+											So this is a high-resolution map
+of the corridor around our laboratory.
+											And in a minute
+you&#39;ll see it enter our lab,
+											which is recognizable
+by the clutter that you see.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But the main point I want to convey to you
+											is that these robots are capable
+of building high-resolution maps
+											at five centimeters resolution,
+											allowing somebody who is outside the lab,
+or outside the building
+											to deploy these
+without actually going inside,
+											and trying to infer
+what happens inside the building.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now there&#39;s one problem
+with robots like this.
+											The first problem is it&#39;s pretty big.
+											Because it&#39;s big, it&#39;s heavy.
+											And these robots consume
+about 100 watts per pound.
+											And this makes for
+a very short mission life.
+											The second problem
+											is that these robots have onboard sensors
+that end up being very expensive —
+											a laser scanner, a camera
+and the processors.
+											That drives up the cost of this robot.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So we asked ourselves a question:
+											what consumer product
+can you buy in an electronics store
+											that is inexpensive, that&#39;s lightweight,
+that has sensing onboard and computation?
+											And we invented the flying phone.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So this robot uses a Samsung Galaxy
+smartphone that you can buy off the shelf,
+											and all you need is an app that you
+can download from our app store.
+											And you can see this robot
+reading the letters, &quot;TED&quot; in this case,
+											looking at the corners
+of the &quot;T&quot; and the &quot;E&quot;
+											and then triangulating off of that,
+flying autonomously.
+											That joystick is just there
+to make sure if the robot goes crazy,
+											Giuseppe can kill it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											In addition to building
+these small robots,
+											we also experiment with aggressive
+behaviors, like you see here.
+											So this robot is now traveling
+at two to three meters per second,
+											pitching and rolling aggressively
+as it changes direction.
+											The main point is we can have
+smaller robots that can go faster
+											and then travel in these
+very unstructured environments.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And in this next video,
+											just like you see this bird, an eagle,
+gracefully coordinating its wings,
+											its eyes and feet
+to grab prey out of the water,
+											our robot can go fishing, too.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											In this case, this is a Philly cheesesteak
+hoagie that it&#39;s grabbing out of thin air.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So you can see this robot
+going at about three meters per second,
+											which is faster than walking speed,
+coordinating its arms, its claws
+											and its flight with split-second timing
+to achieve this maneuver.
+											In another experiment,
+											I want to show you
+how the robot adapts its flight
+											to control its suspended payload,
+											whose length is actually larger
+than the width of the window.
+											So in order to accomplish this,
+											it actually has to pitch
+and adjust the altitude
+											and swing the payload through.
+											But of course we want
+to make these even smaller,
+											and we&#39;re inspired
+in particular by honeybees.
+											So if you look at honeybees,
+and this is a slowed down video,
+											they&#39;re so small,
+the inertia is so lightweight —
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											that they don&#39;t care —
+they bounce off my hand, for example.
+											This is a little robot
+that mimics the honeybee behavior.
+											And smaller is better,
+											because along with the small size
+you get lower inertia.
+											Along with lower inertia —
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Robot buzzing, laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											along with lower inertia,
+you&#39;re resistant to collisions.
+											And that makes you more robust.
+											So just like these honeybees,
+we build small robots.
+											And this particular one
+is only 25 grams in weight.
+											It consumes only six watts of power.
+											And it can travel
+up to six meters per second.
+											So if I normalize that to its size,
+											it&#39;s like a Boeing 787 traveling
+ten times the speed of sound.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And I want to show you an example.
+											This is probably the first planned mid-air
+collision, at one-twentieth normal speed.
+											These are going at a relative speed
+of two meters per second,
+											and this illustrates the basic principle.
+											The two-gram carbon fiber cage around it
+prevents the propellers from entangling,
+											but essentially the collision is absorbed
+and the robot responds to the collisions.
+											And so small also means safe.
+											In my lab, as we developed these robots,
+											we start off with these big robots
+											and then now we&#39;re down
+to these small robots.
+											And if you plot a histogram
+of the number of Band-Aids we&#39;ve ordered
+											in the past, that sort of tailed off now.
+											Because these robots are really safe.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The small size has some disadvantages,
+											and nature has found a number of ways
+to compensate for these disadvantages.
+											The basic idea is they aggregate
+to form large groups, or swarms.
+											So, similarly, in our lab,
+we try to create artificial robot swarms.
+											And this is quite challenging
+											because now you have to think
+about networks of robots.
+											And within each robot,
+											you have to think about the interplay
+of sensing, communication, computation —
+											and this network then becomes
+quite difficult to control and manage.
+											So from nature we take away
+three organizing principles
+											that essentially allow us
+to develop our algorithms.
+											The first idea is that robots
+need to be aware of their neighbors.
+											They need to be able to sense
+and communicate with their neighbors.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So this video illustrates the basic idea.
+											You have four robots —
+											one of the robots has actually been
+hijacked by a human operator, literally.
+											But because the robots
+interact with each other,
+											they sense their neighbors,
+											they essentially follow.
+											And here there&#39;s a single person
+able to lead this network of followers.
+											So again, it&#39;s not because all the robots
+know where they&#39;re supposed to go.
+											It&#39;s because they&#39;re just reacting
+to the positions of their neighbors.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So the next experiment illustrates
+the second organizing principle.
+											And this principle has to do
+with the principle of anonymity.
+											Here the key idea is that
+											the robots are agnostic
+to the identities of their neighbors.
+											They&#39;re asked to form a circular shape,
+											and no matter how many robots
+you introduce into the formation,
+											or how many robots you pull out,
+											each robot is simply
+reacting to its neighbor.
+											It&#39;s aware of the fact that it needs
+to form the circular shape,
+											but collaborating with its neighbors
+											it forms the shape
+without central coordination.
+											Now if you put these ideas together,
+											the third idea is that we
+essentially give these robots
+											mathematical descriptions
+of the shape they need to execute.
+											And these shapes can be varying
+as a function of time,
+											and you&#39;ll see these robots
+start from a circular formation,
+											change into a rectangular formation,
+stretch into a straight line,
+											back into an ellipse.
+											And they do this with the same
+kind of split-second coordination
+											that you see in natural swarms, in nature.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So why work with swarms?
+											Let me tell you about two applications
+that we are very interested in.
+											The first one has to do with agriculture,
+											which is probably the biggest problem
+that we&#39;re facing worldwide.
+											As you well know,
+											one in every seven persons
+in this earth is malnourished.
+											Most of the land that we can cultivate
+has already been cultivated.
+											And the efficiency of most systems
+in the world is improving,
+											but our production system
+efficiency is actually declining.
+											And that&#39;s mostly because of water
+shortage, crop diseases, climate change
+											and a couple of other things.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So what can robots do?
+											Well, we adopt an approach that&#39;s
+called Precision Farming in the community.
+											And the basic idea is that we fly
+aerial robots through orchards,
+											and then we build
+precision models of individual plants.
+											So just like personalized medicine,
+											while you might imagine wanting
+to treat every patient individually,
+											what we&#39;d like to do is build
+models of individual plants
+											and then tell the farmer
+what kind of inputs every plant needs —
+											the inputs in this case being water,
+fertilizer and pesticide.
+											Here you&#39;ll see robots
+traveling through an apple orchard,
+											and in a minute you&#39;ll see
+two of its companions
+											doing the same thing on the left side.
+											And what they&#39;re doing is essentially
+building a map of the orchard.
+											Within the map is a map
+of every plant in this orchard.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Robot buzzing)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Let&#39;s see what those maps look like.
+											In the next video, you&#39;ll see the cameras
+that are being used on this robot.
+											On the top-left is essentially
+a standard color camera.
+											On the left-center is an infrared camera.
+											And on the bottom-left
+is a thermal camera.
+											And on the main panel, you&#39;re seeing
+a three-dimensional reconstruction
+											of every tree in the orchard
+as the sensors fly right past the trees.
+											Armed with information like this,
+we can do several things.
+											The first and possibly the most important
+thing we can do is very simple:
+											count the number of fruits on every tree.
+											By doing this, you tell the farmer
+how many fruits she has in every tree
+											and allow her to estimate
+the yield in the orchard,
+											optimizing the production
+chain downstream.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The second thing we can do
+											is take models of plants, construct
+three-dimensional reconstructions,
+											and from that estimate the canopy size,
+											and then correlate the canopy size
+to the amount of leaf area on every plant.
+											And this is called the leaf area index.
+											So if you know this leaf area index,
+											you essentially have a measure of how much
+photosynthesis is possible in every plant,
+											which again tells you
+how healthy each plant is.
+											By combining visual
+and infrared information,
+											we can also compute indices such as NDVI.
+											And in this particular case,
+you can essentially see
+											there are some crops that are
+not doing as well as other crops.
+											This is easily discernible from imagery,
+											not just visual imagery but combining
+											both visual imagery and infrared imagery.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And then lastly,
+											one thing we&#39;re interested in doing is
+detecting the early onset of chlorosis —
+											and this is an orange tree —
+											which is essentially seen
+by yellowing of leaves.
+											But robots flying overhead
+can easily spot this autonomously
+											and then report to the farmer
+that he or she has a problem
+											in this section of the orchard.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Systems like this can really help,
+											and we&#39;re projecting yields
+that can improve by about ten percent
+											and, more importantly, decrease
+the amount of inputs such as water
+											by 25 percent by using
+aerial robot swarms.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Lastly, I want you to applaud
+the people who actually create the future,
+											Yash Mulgaonkar, Sikang Liu
+and Giuseppe Loianno,
+											who are responsible for the three
+demonstrations that you saw.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":26966,"count":39,"talk_id":2346},"threadId":26966,"current_talk":"2346","description":"At his lab at the University of Pennsylvania, Vijay Kumar and his team have created autonomous aerial robots inspired by honeybees. Their latest breakthrough: Precision Farming, in which swarms of robots map, reconstruct and analyze every plant and piece of fruit in an orchard, providing vital information to farmers that can help improve yields and make water management smarter.","event":"TEDxPenn","language":"en","name":"Vijay Kumar: The future of flying robots","slug":"vijay_kumar_the_future_of_flying_robots","speakers":[{"id":"1248","slug":"vijay_kumar","is_published":true,"firstname":"Vijay","lastname":"Kumar","middleinitial":"","title":"","description":"Roboticist","photo_url":"https://pe.tedcdn.com/images/ted/1c6de67b5b0f5e92f3a5c8d03d48705eee13a6a1_254x191.jpg","whatotherssay":"","whotheyare":"As the dean of the University of Pennsylvania's School of Engineering and Applied Science, Vijay Kumar studies the control and coordination of multi-robot formations.","whylisten":"<p>At the General Robotics, Automation, Sensing and Perception (GRASP) Lab at the University of Pennsylvania, flying quadrotor robots move together in eerie formation, tightening themselves into perfect battalions, even filling in the gap when one of their own drops out. You might have seen viral videos of the quads zipping around the netting-draped GRASP Lab (they juggle! they fly through a hula hoop!). Vijay Kumar headed this lab from 1998-2004. He&#39;s now the dean of the School of Engineering and Applied Science at the University of Pennsylvania in Philadelphia, where he continues his work in robotics, blending computer science and mechanical engineering to create the next generation of robotic wonders.</p>"}],"url":"https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots","viewed_count":1510105,"talks":[{"curator_approved":true,"description":"At his lab at the University of Pennsylvania, Vijay Kumar and his team have created autonomous aerial robots inspired by honeybees. Their latest breakthrough: Precision Farming, in which swarms of robots map, reconstruct and analyze every plant and piece of fruit in an orchard, providing vital information to farmers that can help improve yields and make water management smarter.","downloads":{"id":2346,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/VijayKumar_2015X-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/VijayKumar_2015X.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/VijayKumar_2015X-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"en":{"name":"English","low":"https://download.ted.com/talks/VijayKumar_2015X-low-en.mp4","high":"https://download.ted.com/talks/VijayKumar_2015X-480p-en.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/VijayKumar_2015X-low-pt.mp4","high":"https://download.ted.com/talks/VijayKumar_2015X-480p-pt.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/VijayKumar_2015X-low-ja.mp4","high":"https://download.ted.com/talks/VijayKumar_2015X-480p-ja.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/VijayKumar_2015X-low-pt-br.mp4","high":"https://download.ted.com/talks/VijayKumar_2015X-480p-pt-br.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/VijayKumar_2015X-low-ru.mp4","high":"https://download.ted.com/talks/VijayKumar_2015X-480p-ru.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/VijayKumar_2015X-low-es.mp4","high":"https://download.ted.com/talks/VijayKumar_2015X-480p-es.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/VijayKumar_2015X-low-hu.mp4","high":"https://download.ted.com/talks/VijayKumar_2015X-480p-hu.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/VijayKumar_2015X-low-fa.mp4","high":"https://download.ted.com/talks/VijayKumar_2015X-480p-fa.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/VijayKumar_2015X-low-ko.mp4","high":"https://download.ted.com/talks/VijayKumar_2015X-480p-ko.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/VijayKumar_2015X-low-tr.mp4","high":"https://download.ted.com/talks/VijayKumar_2015X-480p-tr.mp4"},"fr":{"name":"French","low":"https://download.ted.com/talks/VijayKumar_2015X-low-fr.mp4","high":"https://download.ted.com/talks/VijayKumar_2015X-480p-fr.mp4"},"uk":{"name":"Ukrainian","low":"https://download.ted.com/talks/VijayKumar_2015X-low-uk.mp4","high":"https://download.ted.com/talks/VijayKumar_2015X-480p-uk.mp4"},"cs":{"name":"Czech","low":"https://download.ted.com/talks/VijayKumar_2015X-low-cs.mp4","high":"https://download.ted.com/talks/VijayKumar_2015X-480p-cs.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/VijayKumar_2015X-low-pl.mp4","high":"https://download.ted.com/talks/VijayKumar_2015X-480p-pl.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/VijayKumar_2015X-low-ro.mp4","high":"https://download.ted.com/talks/VijayKumar_2015X-480p-ro.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/VijayKumar_2015X-low-el.mp4","high":"https://download.ted.com/talks/VijayKumar_2015X-480p-el.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/VijayKumar_2015X-low-he.mp4","high":"https://download.ted.com/talks/VijayKumar_2015X-480p-he.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/VijayKumar_2015X-low-ar.mp4","high":"https://download.ted.com/talks/VijayKumar_2015X-480p-ar.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/VijayKumar_2015X-low-zh-cn.mp4","high":"https://download.ted.com/talks/VijayKumar_2015X-480p-zh-cn.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/VijayKumar_2015X-low-it.mp4","high":"https://download.ted.com/talks/VijayKumar_2015X-480p-it.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/VijayKumar_2015X-low-zh-tw.mp4","high":"https://download.ted.com/talks/VijayKumar_2015X-480p-zh-tw.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/VijayKumar_2015X-low-vi.mp4","high":"https://download.ted.com/talks/VijayKumar_2015X-480p-vi.mp4"}},"audioDownload":null},"duration":789.0,"event":"TEDxPenn","event_blurb":"This talk was presented to a local audience at TEDxPenn, an independent event. TED's editors chose to feature it for you.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/87f82eddb91d2c806ebb11465d846c47f481902c_2880x1620.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/87f82eddb91d2c806ebb11465d846c47f481902c_2880x1620.jpg?q=50&w=15","id":"2346","player_talks":[{"id":"2346","duration":789.0,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2015X/Blank/VijayKumar_2015X-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDxPenn%26id%3D2346%26tag%3DTEDx%2Cagriculture%2Ccomputers%2Cdesign%2Cengineering%2Crobots%2Cscience%2Ctechnology%2Cbiomimicry%2Cdrones%2Cmachine%2Blearning%2Cflight%2Cdemo%2Cinsects%2Cinnovation%2Cbees%2Cfarming%2Cgarden%2Cplants%26talk%3Dvijay_kumar_the_future_of_flying_robots%26year%3D2015&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"2346","talk":"vijay_kumar_the_future_of_flying_robots","tag":"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants","year":"2015","event":"TEDxPenn"},"stream":"https://hls.ted.com/talks/2346.m3u8","metadata":"https://hls.ted.com/talks/2346.json"}},"targeting":{"id":"2346","talk":"vijay_kumar_the_future_of_flying_robots","tag":"TEDx,agriculture,computers,design,engineering,robots,science,technology,biomimicry,drones,machine learning,flight,demo,insects,innovation,bees,farming,garden,plants","year":"2015","event":"TEDxPenn"},"canonical":"https://www.ted.com/talks/vijay_kumar_the_future_of_flying_robots","name":"Vijay Kumar: The future of flying robots","title":"The future of flying robots","speaker":"Vijay Kumar","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/87f82eddb91d2c806ebb11465d846c47f481902c_2880x1620.jpg?quality=89&w=600","slug":"vijay_kumar_the_future_of_flying_robots","event":"TEDxPenn","published":1444750501}],"ratings":[{"id":1,"name":"Beautiful","count":148},{"id":8,"name":"Informative","count":275},{"id":10,"name":"Inspiring","count":250},{"id":22,"name":"Fascinating","count":250},{"id":25,"name":"OK","count":67},{"id":9,"name":"Ingenious","count":159},{"id":23,"name":"Jaw-dropping","count":49},{"id":24,"name":"Persuasive","count":17},{"id":7,"name":"Funny","count":44},{"id":26,"name":"Obnoxious","count":4},{"id":3,"name":"Courageous","count":10},{"id":11,"name":"Longwinded","count":5},{"id":21,"name":"Unconvincing","count":8},{"id":2,"name":"Confusing","count":3}],"recorded_at":"2015-04-12T00:00:00.000+00:00","related_talks":[{"id":"1376","hero":"https://pe.tedcdn.com/images/ted/8aa84e7e5d405e75f19fc51bf6f9918312fff4e5_800x600.jpg","speaker":"Vijay Kumar","title":"Robots that fly ... and cooperate","duration":1006.0,"slug":"vijay_kumar_robots_that_fly_and_cooperate","viewed_count":4433506},{"id":"2318","hero":"https://pe.tedcdn.com/images/ted/366ebe1ea6814d45aae5cda773ab491397094ada_2880x1620.jpg","speaker":"Robin Murphy","title":"These robots come to the rescue after a disaster","duration":539.0,"slug":"robin_murphy_these_robots_come_to_the_rescue_after_a_disaster","viewed_count":1033630},{"id":"1764","hero":"https://pe.tedcdn.com/images/ted/e15213155418fc82875680062821e32eccd30a5f_1600x1200.jpg","speaker":"Raffaello D'Andrea","title":"The astounding athletic power of quadcopters","duration":968.0,"slug":"raffaello_d_andrea_the_astounding_athletic_power_of_quadcopters","viewed_count":10737693},{"id":"2825","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/5de472da-6423-4058-83f8-45c4fc52a34b/MarcRaibert_2017-embed.jpg","speaker":"Marc Raibert","title":"Meet Spot, the robot dog that can run, hop and open doors","duration":873.0,"slug":"marc_raibert_meet_spot_the_robot_dog_that_can_run_hop_and_open_doors","viewed_count":2473371},{"id":"355","hero":"https://pe.tedcdn.com/images/ted/6e961b846dce5acc40f38bbb3bd89f17fe6613dd_1200x900.jpg","speaker":"Rodney Brooks","title":"Robots will invade our lives","duration":1127.0,"slug":"rodney_brooks_on_robots","viewed_count":620339},{"id":"8780","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/214de943-de4e-4ff5-8c3b-de60b71901e7/LeilaTakayama_2017X-embed.jpg","speaker":"Leila Takayama","title":"What's it like to be a robot?","duration":775.0,"slug":"leila_takayama_what_s_it_like_to_be_a_robot","viewed_count":1006351}],"slug":"vijay_kumar_the_future_of_flying_robots","speakers":[{"id":"1248","slug":"vijay_kumar","is_published":true,"firstname":"Vijay","lastname":"Kumar","middleinitial":"","title":"","description":"Roboticist","photo_url":"https://pe.tedcdn.com/images/ted/1c6de67b5b0f5e92f3a5c8d03d48705eee13a6a1_254x191.jpg","whatotherssay":"","whotheyare":"As the dean of the University of Pennsylvania's School of Engineering and Applied Science, Vijay Kumar studies the control and coordination of multi-robot formations.","whylisten":"<p>At the General Robotics, Automation, Sensing and Perception (GRASP) Lab at the University of Pennsylvania, flying quadrotor robots move together in eerie formation, tightening themselves into perfect battalions, even filling in the gap when one of their own drops out. You might have seen viral videos of the quads zipping around the netting-draped GRASP Lab (they juggle! they fly through a hula hoop!). Vijay Kumar headed this lab from 1998-2004. He&#39;s now the dean of the School of Engineering and Applied Science at the University of Pennsylvania in Philadelphia, where he continues his work in robotics, blending computer science and mechanical engineering to create the next generation of robotic wonders.</p>"}],"speaker_name":"Vijay Kumar","tags":["TEDx","agriculture","computers","design","engineering","robots","science","technology","biomimicry","drones","machine learning","flight","demo","insects","innovation","bees","farming","garden","plants"],"title":"The future of flying robots","video_type":{"id":"2","name":"TEDx Talk"},"viewed_count":1510105}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

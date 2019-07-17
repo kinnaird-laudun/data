@@ -1,0 +1,1284 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Rachel Botsman: The currency of the new economy is trust | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: There&#39;s been an explosion of collaborative consumption -- web-powered sharing of cars, apartments, skills. Rachel Botsman explores the currency that makes systems like Airbnb and Taskrabbit work: trust, influence, and what she calls &quot;reputation capital.&quot;" />
+<meta name="author" content="Rachel Botsman" />
+<link rel="canonical" href="https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust/transcript" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust/transcript?language=en" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust/transcript?language=pt-br" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust/transcript?language=nl" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust/transcript?language=pt" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust/transcript?language=bg" />
+<link rel="alternate" hreflang="ku" href="https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust/transcript?language=ku" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust/transcript?language=de" />
+<link rel="alternate" hreflang="da" href="https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust/transcript?language=da" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust/transcript?language=he" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust/transcript?language=sr" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust/transcript?language=ko" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust/transcript?language=fa" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust/transcript?language=vi" />
+<meta property="og:title" content="Transcript of &quot;The currency of the new economy is trust&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/57dd4a180def67dc98275172cf5e83eabc061006_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/57dd4a180def67dc98275172cf5e83eabc061006_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Rachel Botsman: The currency of the new economy is trust" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: There&#39;s been an explosion of collaborative consumption -- web-powered sharing of cars, apartments, skills. Rachel Botsman explores the currency that makes systems like Airbnb and Taskrabbit work: trust, influence, and what she calls &quot;reputation capital.&quot;" />
+<meta property="og:url" content="https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 1572);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust' itemprop='url'>
+<meta content='The currency of the new economy is trust' itemprop='name'>
+<meta content='There&#x0027;s been an explosion of collaborative consumption — web-powered sharing of cars, apartments, skills. Rachel Botsman explores the currency that makes systems like Airbnb and Taskrabbit work: trust, influence, and what she calls "reputation capital."' itemprop='description'>
+<meta content='PT19M46S' itemprop='duration'>
+<meta content='2012-09-22T15:38:57+00:00' itemprop='uploadDate'>
+<meta content='1306306' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/57dd4a180def67dc98275172cf5e83eabc061006_1600x1200.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/rachel_botsman' itemprop='url'>
+<meta content='Rachel Botsman' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/1c06f2498aea2914fd0d80631500818e16553db8_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/57dd4a180def67dc98275172cf5e83eabc061006_1600x1200.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Rachel Botsman
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,306,306
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 19:46</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So if someone asked you
+											for the three words that would sum up
+											your reputation, what would you say?
+											How would people describe your judgment,
+											your knowledge, your behaviors, in different situations?
+											Today I&#39;d like to explore with you
+											why the answer to this question
+											will become profoundly important
+											in an age where reputation will be your most valuable asset.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I&#39;d like to start by introducing you to someone
+											whose life has been changed by a marketplace
+											fueled by reputation.
+											Sebastian Sandys has been a bed and breakfast host
+											on Airbnb since 2008.
+											I caught up with him recently, where, over the course
+											of several cups of tea, he told me how
+											hosting guests from all over the world
+											has enriched his life.
+											More than 50 people have come to stay in the 18th-century
+											watchhouse he lives in with his cat, Squeak.
+											Now, I mention Squeak because Sebastian&#39;s first guest
+											happened to see a rather large mouse run across the kitchen,
+											and she promised that she would refrain from leaving
+											a bad review on one condition: he got a cat.
+											And so Sebastian bought Squeak to protect his reputation.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, as many of you know, Airbnb is a peer-to-peer
+											marketplace that matches people who have space to rent
+											with people who are looking for a place to stay
+											in over 192 countries.
+											The places being rented out are things that you might
+											expect, like spare rooms and holiday homes,
+											but part of the magic is the unique places
+											that you can now access: treehouses, teepees,
+											airplane hangars, igloos.
+											If you don&#39;t like the hotel, there&#39;s a castle down the road
+											that you can rent for 5,000 dollars a night.
+											It&#39;s a fantastic example of how technology
+											is creating a market
+											for things that never had a marketplace before.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now let me show you these heat maps of Paris
+											to see how insanely fast it&#39;s growing.
+											This image here is from 2008.
+											The pink dots represent host properties.
+											Even four years ago, letting strangers stay in your home
+											seemed like a crazy idea.
+											Now the same view in 2010.
+											And now, 2012.
+											There is an Airbnb host on almost every main street in Paris.
+											Now, what&#39;s happening here is people are realizing
+											the power of technology to unlock the idling capacity
+											and value of all kinds of assets,
+											from skills to spaces to material possessions,
+											in ways and on a scale never possible before.
+											It&#39;s an economy and culture called collaborative consumption,
+											and, through it, people like Sebastian
+											are becoming micro-entrepreneurs.
+											They&#39;re empowered to make money and save money
+											from their existing assets.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But the real magic and the secret source behind
+											collaborative consumption marketplaces like Airbnb
+											isn&#39;t the inventory or the money.
+											It&#39;s using the power of technology to build trust
+											between strangers.
+											This side of Airbnb really hit home to Sebastian last summer
+											during the London riots.
+											He woke up around 9, and he checked his email
+											and he saw a bunch of messages all asking him
+											if he was okay.
+											Former guests from around the world had seen that
+											the riots were happening just down the street, and wanted
+											to check if he needed anything.
+											Sebastian actually said to me, he said, &quot;Thirteen former guests
+											contacted me before my own mother rang.&quot; (Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, this little anecdote gets to the heart of why
+											I&#39;m really passionate about collaborative consumption,
+											and why, after I finished my book, I decided
+											I&#39;m going to try and spread this into a global movement.
+											Because at its core, it&#39;s about empowerment.
+											It&#39;s about empowering people to make meaningful connections,
+											connections that are enabling us to rediscover
+											a humanness that we&#39;ve lost somewhere along the way,
+											by engaging in marketplaces like Airbnb, like Kickstarter,
+											like Etsy, that are built on personal relationships
+											versus empty transactions.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now the irony is that these ideas are actually taking us back
+											to old market principles and collaborative behaviors
+											that are hard-wired in all of us.
+											They&#39;re just being reinvented in ways that are relevant
+											for the Facebook age.
+											We&#39;re literally beginning to realize that we have wired
+											our world to share, swap, rent, barter or trade
+											just about anything. We&#39;re sharing our cars on WhipCar,
+											our bikes on Spinlister, our offices on Loosecubes,
+											our gardens on Landshare. We&#39;re lending and borrowing
+											money from strangers on Zopa and Lending Club.
+											We are trading lessons on everything from sushi-making
+											to coding on Skillshare,
+											and we&#39;re even sharing our pets on DogVacay.
+											Now welcome to the wonderful world of collaborative consumption
+											that&#39;s enabling us to match wants with haves
+											in more democratic ways.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, collaborative consumption is creating the start
+											of a transformation in the way we think about supply and demand,
+											but it&#39;s also a part of a massive value shift underway,
+											where instead of consuming to keep up with the Joneses,
+											people are consuming to get to know the Joneses.
+											But the key reason why it&#39;s taking off now so fast
+											is because every new advancement of technology
+											increases the efficiency and the social glue of trust
+											to make sharing easier and easier.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, I&#39;ve looked at thousands of these marketplaces,
+											and trust and efficiency are always the critical ingredients.
+											Let me give you an example.
+											Meet 46-year-old Chris Mok, who has, I bet,
+											the best job title here of SuperRabbit.
+											Now, four years ago, Chris lost his job, unfortunately,
+											as an art buyer at Macy&#39;s, and like so many people,
+											he struggled to find a new one during the recession.
+											And then he happened to stumble across a post about
+											TaskRabbit.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, the story behind TaskRabbit starts like so many
+											great stories with a very cute dog by the name of Kobe.
+											Now what happened was, in February 2008,
+											Leah and her husband were waiting for a cab to take them
+											out for dinner, when Kobe came trotting up to them
+											and he was salivating with saliva.
+											They realized they&#39;d run out of dog food.
+											Kevin had to cancel the cab and trudge out in the snow.
+											Now, later that evening, the two self-confessed tech geeks
+											starting talking about how cool it would be if some kind of
+											eBay for errands existed.
+											Six months later, Leah quit her job,
+											and TaskRabbit was born.
+											At the time, she didn&#39;t realize that she was actually hitting
+											on a bigger idea she later called service networking.
+											It&#39;s essentially about how we use our online relationships
+											to get things done in the real world.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now the way TaskRabbit works is, people outsource
+											the tasks that they want doing, name the price
+											they&#39;re willing to pay, and then vetted Rabbits
+											bid to run the errand.
+											Yes, there&#39;s actually a four-stage, rigorous interview process
+											that&#39;s designed to find the people that would make
+											great personal assistants and weed out the dodgy Rabbits.
+											Now, there&#39;s over 4,000 Rabbits across the United States
+											and 5,000 more on the waiting list.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now the tasks being posted are things that you might
+											expect, like help with household chores
+											or doing some supermarket runs.
+											I actually learned the other day that 12 and a half thousand
+											loads of laundry have been cleaned and folded
+											through TaskRabbit.
+											But I love that the number one task posted,
+											over a hundred times a day, is something that many of us
+											have felt the pain of doing:
+											yes, assembling Ikea furniture. (Laughter) (Applause)
+											It&#39;s brilliant. Now, we may laugh, but Chris here
+											is actually making up to 5,000 dollars a month
+											running errands around his life.
+											And 70 percent of this new labor force
+											were previously unemployed or underemployed.
+											I think TaskRabbit and other examples of collaborative consumption
+											are like lemonade stands on steroids. They&#39;re just brilliant.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, when you think about it, it&#39;s amazing, right,
+											that over the past 20 years, we&#39;ve evolved
+											from trusting people online to share information
+											to trusting to handing over our credit card information,
+											and now we&#39;re entering the third trust wave:
+											connecting trustworthy strangers to create all kinds
+											of people-powered marketplaces.
+											I actually came across this fascinating study
+											by the Pew Center this week that revealed
+											that an active Facebook user is three times as likely
+											as a non-Internet user to believe that most people are trustworthy.
+											Virtual trust will transform the way we trust one another
+											face to face.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, with all of my optimism, and I am an optimist,
+											comes a healthy dose of caution, or rather, an urgent need
+											to address some pressing, complex questions.
+											How to ensure our digital identities reflect our
+											real world identities? Do we want them to be the same?
+											How do we mimic the way trust is built face-to-face online?
+											How do we stop people who&#39;ve behaved badly
+											in one community doing so under a different guise?
+											In a similar way that companies often use some kind of
+											credit rating to decide whether to give you a mobile plan,
+											or the rate of a mortgage, marketplaces that depend
+											on transactions between relative strangers
+											need some kind of device to let you know that Sebastian
+											and Chris are good eggs,
+											and that device is reputation.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Reputation is the measurement of how much a community trusts you.
+											Let&#39;s just take a look at Chris.
+											You can see that over 200 people have given him
+											an average rating over 4.99 out of 5.
+											There are over 20 pages of reviews of his work
+											describing him as super-friendly and fast,
+											and he&#39;s reached level 25, the highest level,
+											making him a SuperRabbit.
+											Now — (Laughter) — I love that word, SuperRabbit.
+											And interestingly, what Chris has noted is that as his reputation
+											has gone up, so has his chances of winning a bid
+											and how much he can charge.
+											In other words, for SuperRabbits, reputation
+											has a real world value.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, I know what you might be thinking.
+											Well, this isn&#39;t anything new. Just think of power sellers
+											on eBay or star ratings on Amazon.
+											The difference today is that, with every trade we make,
+											comment we leave, person we flag, badge we earn,
+											we leave a reputation trail
+											of how well we can and can&#39;t be trusted.
+											And it&#39;s not just the breadth but the volume
+											of reputation data out there that is staggering.
+											Just consider this: Five million nights have been booked
+											on Airbnb in the past six months alone.
+											30 million rides have been shared on Carpooling.com.
+											This year, two billion dollars worth of loans
+											will go through peer-to-peer lending platforms.
+											This adds up to millions of pieces of reputation data
+											on how well we behave or misbehave.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, capturing and correlating the trails of information
+											that we leave in different places is a massive challenge,
+											but one we&#39;re being asked to figure out.
+											What the likes of Sebastian are starting to rightfully ask
+											is, shouldn&#39;t they own their reputation data?
+											Shouldn&#39;t the reputation that he&#39;s personally invested
+											on building on Airbnb mean that it should travel with him
+											from one community to another?
+											What I mean by this is, say he started selling second-hand
+											books on Amazon. Why should he have to start from scratch?
+											It&#39;s a bit like when I moved from New York to Sydney.
+											It was ridiculous. I couldn&#39;t get a mobile phone plan
+											because my credit history didn&#39;t travel with me.
+											I was essentially a ghost in the system.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now I&#39;m not suggesting that the next stage
+											of the reputation economy is about
+											adding up multiple ratings into some kind of empty score.
+											People&#39;s lives are too complex, and who wants to do that?
+											I also want to be clear that this isn&#39;t about adding up
+											tweets and likes and friends in a Klout-like fashion.
+											Those guys are measuring influence, not behaviors
+											that indicate our trustworthiness.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But the most important thing that we have to keep in mind
+											is that reputation is largely contextual.
+											Just because Sebastian is a wonderful host
+											does not mean that he can assemble Ikea furniture.
+											The big challenge is figuring out what data
+											makes sense to pull, because the future&#39;s
+											going to be driven by a smart aggregation of reputation,
+											not a single algorithm.
+											It&#39;s only a matter of time before we&#39;ll be able to perform
+											a Facebook- or Google-like search
+											and see a complete picture of someone&#39;s behaviors
+											in different contexts over time.
+											I envision a realtime stream of who has trusted you,
+											when, where and why, your reliability on TaskRabbit,
+											your cleanliness as a guest on Airbnb,
+											the knowledge that you display on Quora or Tripovo,
+											they&#39;ll all live together in one place,
+											and this will live in some kind of reputation dashboard
+											that will paint a picture of your reputation capital.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now this is a concept that I&#39;m currently researching
+											and writing my next book on, and currently define
+											as the worth of your reputation, your intentions,
+											capabilities and values across communities and marketplaces.
+											This isn&#39;t some far-off frontier.
+											There are actually a wave of startups like Connect.Me
+											and Legit and TrustCloud that are figuring out how
+											you can aggregate, monitor and use your online reputation.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, I realize that this concept may sound a little
+											Big Brother to some of you, and yes, there are some
+											enormous transparency and privacy issues to solve,
+											but ultimately, if we can collect our personal reputation,
+											we can actually control it more, and extract
+											the immense value that will flow from it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Also, more so than our credit history,
+											we can actually shape our reputation.
+											Just think of Sebastian
+											and how he bought the cat to influence his.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now privacy issues aside, the other really interesting issue
+											I&#39;m looking at is how do we empower digital ghosts,
+											people [who] for whatever reason, are not active online,
+											but are some of the most trustworthy people in the world?
+											How do we take their contributions to their jobs,
+											their communities and their families,
+											and convert that value into reputation capital?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Ultimately, when we get it right, reputation capital
+											could create a massive positive disruption
+											in who has power, trust and influence.
+											A three-digit score, your traditional credit history,
+											that only 30 percent of us actually know what it is,
+											will no longer be the determining factor
+											in how much things cost, what we can access,
+											and, in many instances, limit what we can do in the world.
+											Indeed, reputation is a currency that I believe will become
+											more powerful than our credit history in the 21st century.
+											Reputation will be the currency that says
+											that you can trust me.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now the interesting thing is, reputation
+											is the socioeconomic lubricant
+											that makes collaborative consumption work and scale,
+											but the sources it will be generated from,
+											and its applications, are far bigger than this space alone.
+											Let me give you one example from the world of recruiting,
+											where reputation data will make the résumé seem
+											like an archaic relic of the past.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Four years ago, tech bloggers and entrepreneurs
+											Joel Spolsky and Jeff Atwood, decided to start something
+											called Stack Overflow.
+											Now, Stack Overflow is basically a platform where
+											experienced programmers can ask
+											other good programmers highly detailed technical questions
+											on things like tiny pixels and chrome extensions.
+											This site receives five and a half thousand questions a day,
+											and 80 percent of these receive accurate answers.
+											Now users earn reputation in a whole range of ways,
+											but it&#39;s basically by convincing their peers
+											they know what they&#39;re talking about.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now a few months after this site launched, the founders
+											heard about something interesting,
+											and it actually didn&#39;t surprise them.
+											What they heard was that users were putting
+											their reputation scores on the top of their résumés,
+											and that recruiters were searching the platform
+											to find people with unique talents.
+											Now thousands of programmers today are finding
+											better jobs this way, because Stack Overflow
+											and the reputation dashboards provide a priceless window
+											into how someone really behaves,
+											and what their peers think of them.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But the bigger principle of what&#39;s happening behind Stack Overflow,
+											I think, is incredibly exciting.
+											People are starting to realize that the reputation
+											they generate in one place has value
+											beyond the environments from which it was built.
+											You know, it&#39;s very interesting.
+											When you talk to super-users, whether that&#39;s SuperRabbits
+											or super-people on Stack Overflow, or Uberhosts,
+											they all talk about how having a high reputation
+											unlocks a sense of their own power.
+											On Stack Overflow, it creates a level playing field,
+											enabling the people with the real talent to rise to the top.
+											On Airbnb, the people often become more important
+											than the spaces. On TaskRabbit,
+											it gives people control of their economic activity.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now at the end of my tea with Sebastian, he told me how,
+											on a bad, rainy day, when he hasn&#39;t had a customer
+											in his bookstore, he thinks of all the people around
+											the world who&#39;ve said something wonderful about him,
+											and what that says about him as a person.
+											He&#39;s turning 50 this year, and he&#39;s convinced
+											that the rich tapestry of reputation he&#39;s built on Airbnb
+											will lead him to doing something interesting
+											with the rest of his life.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											You know, there are only a few windows in history
+											where the opportunity exists to reinvent
+											part of how our socioeconomic system works.
+											We&#39;re living through one of those moments.
+											I believe that we are at the start of a collaborative revolution
+											that will be as significant as the Industrial Revolution.
+											In the 20th century, the invention of traditional credit
+											transformed our consumer system, and in many ways
+											controlled who had access to what.
+											In the 21st century, new trust networks,
+											and the reputation capital they generate, will reinvent
+											the way we think about wealth, markets, power
+											and personal identity, in ways we can&#39;t yet even imagine.
+											Thank you very much. (Applause)
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":15426,"count":170,"talk_id":1572},"threadId":15426,"current_talk":"1572","description":"There's been an explosion of collaborative consumption -- web-powered sharing of cars, apartments, skills. Rachel Botsman explores the currency that makes systems like Airbnb and Taskrabbit work: trust, influence, and what she calls \"reputation capital.\"","event":"TEDGlobal 2012","language":"en","name":"Rachel Botsman: The currency of the new economy is trust","slug":"rachel_botsman_the_currency_of_the_new_economy_is_trust","speakers":[{"id":"882","slug":"rachel_botsman","is_published":true,"firstname":"Rachel","lastname":"Botsman","middleinitial":"","title":"","description":"Trust researcher","photo_url":"https://pe.tedcdn.com/images/ted/1c06f2498aea2914fd0d80631500818e16553db8_254x191.jpg","whatotherssay":"Without buying into the shallow potential of the latest fad, be that Twitter or Facebook, Botsman takes a more intelligent long view of how technology will change the terms on which people live and work.","whotheyare":"Rachel Botsman is a recognized expert on how collaboration and trust enabled by digital technologies will change the way we live, work, bank and consume.","whylisten":"<p>Rachel Botsman is an author and a visiting academic at the University of Oxford, Sa&iuml;d Business School. Her work focuses on how technology is enabling trust in ways that are changing the way we live, work, bank and consume. She defined the theory of &quot;collaborative consumption&quot; in her first book,&nbsp;<a href=\"https://www.harpercollins.com/9780061963544/whats-mine-is-yours\" target=\"_blank\"><em>What&#39;s Mine Is Yours</em></a>, which she co-authored with Roo Rogers. The concept was subsequently named by TIME as one of the &quot;10 Ideas that Will Change the World&quot; and by Thinkers50 as the&nbsp;<a href=\"http://thinkers50.com/blog/thinkers50-in-50-seconds-rachel-botsman/\" target=\"_blank\">2015 Breakthrough Idea</a>.</p><p>Named a &quot;Young Global Leader&quot; by the World Economic Forum, Botsman examines the growth and challenges of start-ups such as Airbnb, TaskRabbit and Uber. She is regular writer and commentator in leading international publications including the <em>New York Times</em>, <em>The Wall Street Journal</em>, <em>Harvard Business Review</em>, <em>The Economist</em>, <em>WIRED</em> and more. She is currently writing a new book that explores why the real disruption happening isn&rsquo;t technology; it&rsquo;s a profound shift in trust.</p>"}],"url":"https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust","viewed_count":1306306,"talks":[{"recommendations":{"status":"approved","headline":"Rachel Botsman recommends","blurb":"Check out reading resources curated by Rachel Botsman.","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"recommendation","rec_lists":[{"title":"","description":"","rec_items":[{"label":"READ_Article","headline":"New Trust Networks: Your Best Friend is a Stranger","blurb":"","note":"Rachel Botsman\r\nWired UK, January 2016","link_url":"http://rachelbotsman.com/wp/wp-content/uploads/2016/01/Rachel-Botsman-in-WW2016.pdf","position":null,"is_pdf":true,"eyebrow":null},{"label":"READ_Article","headline":"The Changing Rules of Trust in the Digital Age","blurb":"","note":"Rachel Botsman\r\nHarvard Business Review, October 20, 2015","link_url":"https://hbr.org/2015/10/the-changing-rules-of-trust-in-the-digital-age","position":null,"is_pdf":false,"eyebrow":null},{"label":"READ_Article","headline":"41 Lessons from Uber’s Success","blurb":"","note":"Rachel Botsman\r\nWired UK, May 18, 2015","link_url":"http://rachelbotsman.com/wp/wp-content/uploads/2015/07/Uber-WIRED.pdf","position":null,"is_pdf":false,"eyebrow":null},{"label":"READ_Article","headline":"The New Reputation Economy","blurb":"","note":"Rachel Botsman\r\nWired UK, August 1, 2012","link_url":"http://www.wired.co.uk/magazine/archive/2012/09/features/welcome-to-the-new-reputation-economy","position":null,"is_pdf":false,"eyebrow":null},{"label":"READ_Article","headline":"How Airbnb and Lyft Finally Got Americans to Trust Each Other","blurb":"","note":"Jason Tanz\r\nWired, April 23, 2014","link_url":"http://www.wired.com/2014/04/trust-in-the-share-economy/","position":null,"is_pdf":false,"eyebrow":null},{"label":"READ_Article","headline":"The Evolution of Trust","blurb":"","note":"David Brooks\r\n*The New York Times*, June 30, 2014","link_url":"http://www.nytimes.com/2014/07/01/opinion/david-brooks-the-evolution-of-trust.html?_r=0","position":null,"is_pdf":false,"eyebrow":null}]}]},"more_resources":[{"status":"approved","headline":"What's Mine Is Yours: The Rise of Collaborative Consumption","blurb":null,"link_url":"http://www.amazon.com/Whats-Mine-Yours-Collaborative-Consumption/dp/0061963542/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","image_url":"http://pe.tedcdn.com/images/ted/b0f4e6f57004a7e87140feaa55adc897003996d7_800x1165.jpg","author":"Rachel Botsman and Roo Rogers","year":"2010","publisher":"HarperBusiness","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"book"},{"status":"approved","headline":"*Who Can You Trust?: How Technology Brought Us Together and Why It Might Drive Us Apart*","blurb":null,"link_url":"https://www.amazon.com/Who-Can-You-Trust-Technology/dp/1541773675/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","image_url":"https://pe.tedcdn.com/images/ted/9ff0bc4e2db41c6e471db95cf53b3ff9f07e564a_654x1000.jpg","author":"Rachel Botsman","year":"2017","publisher":"PublicAffairs","start_at":null,"end_at":null,"published":true,"eyebrow":"","type":"book"}],"corrections":[],"has_citations":false,"take_action":[{"status":"approved","blurb":"**Help** bring significant research studies on the collaborative economy to people's attention by submitting papers to the research hub, [collaborativeeconomy.com](http://collaborativeeconomy.com).","link_url":"http://collaborativeeconomy.com","visible_url":"collaborativeeconomy.com","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"take_action","verb":"petition"}],"curator_approved":true,"description":"There's been an explosion of collaborative consumption -- web-powered sharing of cars, apartments, skills. Rachel Botsman explores the currency that makes systems like Airbnb and Taskrabbit work: trust, influence, and what she calls \"reputation capital.\"","downloads":{"id":1572,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Kurdish","endonym":"کوردی","languageCode":"ku","ianaCode":"ku","isRtl":true},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Danish","endonym":"Dansk","languageCode":"da","ianaCode":"da","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/RachelBotsman_2012G-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/RachelBotsman_2012G.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/RachelBotsman_2012G-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"he":{"name":"Hebrew","low":"https://download.ted.com/talks/RachelBotsman_2012G-low-he.mp4","high":"https://download.ted.com/talks/RachelBotsman_2012G-480p-he.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/RachelBotsman_2012G-low-ko.mp4","high":"https://download.ted.com/talks/RachelBotsman_2012G-480p-ko.mp4"},"da":{"name":"Danish","low":"https://download.ted.com/talks/RachelBotsman_2012G-low-da.mp4","high":"https://download.ted.com/talks/RachelBotsman_2012G-480p-da.mp4"},"en":{"name":"English","low":"https://download.ted.com/talks/RachelBotsman_2012G-low-en.mp4","high":"https://download.ted.com/talks/RachelBotsman_2012G-480p-en.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/RachelBotsman_2012G-low-nl.mp4","high":"https://download.ted.com/talks/RachelBotsman_2012G-480p-nl.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/RachelBotsman_2012G-low-pl.mp4","high":"https://download.ted.com/talks/RachelBotsman_2012G-480p-pl.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/RachelBotsman_2012G-low-pt.mp4","high":"https://download.ted.com/talks/RachelBotsman_2012G-480p-pt.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/RachelBotsman_2012G-low-it.mp4","high":"https://download.ted.com/talks/RachelBotsman_2012G-480p-it.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/RachelBotsman_2012G-low-es.mp4","high":"https://download.ted.com/talks/RachelBotsman_2012G-480p-es.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/RachelBotsman_2012G-low-pt-br.mp4","high":"https://download.ted.com/talks/RachelBotsman_2012G-480p-pt-br.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/RachelBotsman_2012G-low-ru.mp4","high":"https://download.ted.com/talks/RachelBotsman_2012G-480p-ru.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/RachelBotsman_2012G-low-ar.mp4","high":"https://download.ted.com/talks/RachelBotsman_2012G-480p-ar.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/RachelBotsman_2012G-low-bg.mp4","high":"https://download.ted.com/talks/RachelBotsman_2012G-480p-bg.mp4"},"de":{"name":"German","low":"https://download.ted.com/talks/RachelBotsman_2012G-low-de.mp4","high":"https://download.ted.com/talks/RachelBotsman_2012G-480p-de.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/RachelBotsman_2012G-low-zh-cn.mp4","high":"https://download.ted.com/talks/RachelBotsman_2012G-480p-zh-cn.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/RachelBotsman_2012G-low-zh-tw.mp4","high":"https://download.ted.com/talks/RachelBotsman_2012G-480p-zh-tw.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/RachelBotsman_2012G-low-ro.mp4","high":"https://download.ted.com/talks/RachelBotsman_2012G-480p-ro.mp4"},"fr":{"name":"French","low":"https://download.ted.com/talks/RachelBotsman_2012G-low-fr.mp4","high":"https://download.ted.com/talks/RachelBotsman_2012G-480p-fr.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/RachelBotsman_2012G-low-ja.mp4","high":"https://download.ted.com/talks/RachelBotsman_2012G-480p-ja.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/RachelBotsman_2012G-low-sr.mp4","high":"https://download.ted.com/talks/RachelBotsman_2012G-480p-sr.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/RachelBotsman_2012G-low-fa.mp4","high":"https://download.ted.com/talks/RachelBotsman_2012G-480p-fa.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/RachelBotsman_2012G-low-vi.mp4","high":"https://download.ted.com/talks/RachelBotsman_2012G-480p-vi.mp4"}},"audioDownload":"https://download.ted.com/talks/RachelBotsman_2012G.mp3?apikey=acme-roadrunner"},"duration":1186.0,"event":"TEDGlobal 2012","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/57dd4a180def67dc98275172cf5e83eabc061006_1600x1200.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/57dd4a180def67dc98275172cf5e83eabc061006_1600x1200.jpg?q=50&w=15","id":"1572","player_talks":[{"id":"1572","duration":1186.0,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Kurdish","endonym":"کوردی","languageCode":"ku","ianaCode":"ku","isRtl":true},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Danish","endonym":"Dansk","languageCode":"da","ianaCode":"da","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2012G/Blank/RachelBotsman_2012G-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDGlobal%2B2012%26id%3D1572%26tag%3Dbusiness%2Ccollaboration%2Ccommunity%2Cweb%2Ctrust%26talk%3Drachel_botsman_the_currency_of_the_new_economy_is_trust%26year%3D2012&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"1572","talk":"rachel_botsman_the_currency_of_the_new_economy_is_trust","tag":"business,collaboration,community,web,trust","year":"2012","event":"TEDGlobal 2012"},"stream":"https://hls.ted.com/talks/1572.m3u8","metadata":"https://hls.ted.com/talks/1572.json"}},"targeting":{"id":"1572","talk":"rachel_botsman_the_currency_of_the_new_economy_is_trust","tag":"business,collaboration,community,web,trust","year":"2012","event":"TEDGlobal 2012"},"canonical":"https://www.ted.com/talks/rachel_botsman_the_currency_of_the_new_economy_is_trust","name":"Rachel Botsman: The currency of the new economy is trust","title":"The currency of the new economy is trust","speaker":"Rachel Botsman","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/57dd4a180def67dc98275172cf5e83eabc061006_1600x1200.jpg?quality=89&w=600","slug":"rachel_botsman_the_currency_of_the_new_economy_is_trust","event":"TEDGlobal 2012","published":1348328337}],"ratings":[{"id":3,"name":"Courageous","count":41},{"id":10,"name":"Inspiring","count":403},{"id":1,"name":"Beautiful","count":65},{"id":11,"name":"Longwinded","count":28},{"id":22,"name":"Fascinating","count":311},{"id":24,"name":"Persuasive","count":265},{"id":8,"name":"Informative","count":405},{"id":9,"name":"Ingenious","count":110},{"id":23,"name":"Jaw-dropping","count":54},{"id":21,"name":"Unconvincing","count":34},{"id":25,"name":"OK","count":64},{"id":26,"name":"Obnoxious","count":11},{"id":7,"name":"Funny","count":14},{"id":2,"name":"Confusing","count":10}],"recorded_at":"2012-06-26T00:00:00.000+00:00","related_talks":[{"id":"1037","hero":"https://pe.tedcdn.com/images/ted/8e7641dcd3c52ceb27772363bc9efbcfaf8f710a_800x600.jpg","speaker":"Rachel Botsman","title":"The case for collaborative consumption","duration":994.0,"slug":"rachel_botsman_the_case_for_collaborative_consumption","viewed_count":1175704},{"id":"1077","hero":"https://pe.tedcdn.com/images/ted/238f71d5fa06084dcafa573a891af68d4e5ce088_800x600.jpg","speaker":"Lisa Gansky","title":"The future of business is the \"mesh\"","duration":887.0,"slug":"lisa_gansky_the_future_of_business_is_the_mesh","viewed_count":727232},{"id":"247","hero":"https://pe.tedcdn.com/images/ted/38680_480x360.jpg","speaker":"Yochai Benkler","title":"The new open-source economics","duration":1072.0,"slug":"yochai_benkler_on_the_new_open_source_economics","viewed_count":785148},{"id":"2604","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/b55d3f2a-bb4c-45e4-9d40-fb46a9e8c415/RachelBotsman_2016T-embed.jpg","speaker":"Rachel Botsman","title":"We've stopped trusting institutions and started trusting strangers","duration":1028.0,"slug":"rachel_botsman_we_ve_stopped_trusting_institutions_and_started_trusting_strangers","viewed_count":1496014},{"id":"2447","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/9adf755b-5da7-466f-bca1-9675bb17bc67/JoeGebbia_2016-embed.jpg","speaker":"Joe Gebbia","title":"How Airbnb designs for trust","duration":951.0,"slug":"joe_gebbia_how_airbnb_designs_for_trust","viewed_count":2168623},{"id":"15471","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/611ad8b7-2d90-4b39-9bf9-cbd59d5d26d4/FrancesFrei_2018-embed.jpg","speaker":"Frances Frei","title":"How to build (and rebuild) trust","duration":905.0,"slug":"frances_frei_how_to_build_and_rebuild_trust","viewed_count":1259737}],"slug":"rachel_botsman_the_currency_of_the_new_economy_is_trust","speakers":[{"id":"882","slug":"rachel_botsman","is_published":true,"firstname":"Rachel","lastname":"Botsman","middleinitial":"","title":"","description":"Trust researcher","photo_url":"https://pe.tedcdn.com/images/ted/1c06f2498aea2914fd0d80631500818e16553db8_254x191.jpg","whatotherssay":"Without buying into the shallow potential of the latest fad, be that Twitter or Facebook, Botsman takes a more intelligent long view of how technology will change the terms on which people live and work.","whotheyare":"Rachel Botsman is a recognized expert on how collaboration and trust enabled by digital technologies will change the way we live, work, bank and consume.","whylisten":"<p>Rachel Botsman is an author and a visiting academic at the University of Oxford, Sa&iuml;d Business School. Her work focuses on how technology is enabling trust in ways that are changing the way we live, work, bank and consume. She defined the theory of &quot;collaborative consumption&quot; in her first book,&nbsp;<a href=\"https://www.harpercollins.com/9780061963544/whats-mine-is-yours\" target=\"_blank\"><em>What&#39;s Mine Is Yours</em></a>, which she co-authored with Roo Rogers. The concept was subsequently named by TIME as one of the &quot;10 Ideas that Will Change the World&quot; and by Thinkers50 as the&nbsp;<a href=\"http://thinkers50.com/blog/thinkers50-in-50-seconds-rachel-botsman/\" target=\"_blank\">2015 Breakthrough Idea</a>.</p><p>Named a &quot;Young Global Leader&quot; by the World Economic Forum, Botsman examines the growth and challenges of start-ups such as Airbnb, TaskRabbit and Uber. She is regular writer and commentator in leading international publications including the <em>New York Times</em>, <em>The Wall Street Journal</em>, <em>Harvard Business Review</em>, <em>The Economist</em>, <em>WIRED</em> and more. She is currently writing a new book that explores why the real disruption happening isn&rsquo;t technology; it&rsquo;s a profound shift in trust.</p>"}],"speaker_name":"Rachel Botsman","tags":["business","collaboration","community","web","trust"],"title":"The currency of the new economy is trust","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":1306306}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

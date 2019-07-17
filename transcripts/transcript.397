@@ -1,0 +1,1282 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Tim Berners-Lee: The next web | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: 20 years ago, Tim Berners-Lee invented the World Wide Web. For his next project, he&#39;s building a web for open, linked data that could do for numbers what the Web did for words, pictures, video: unlock our data and reframe the way we use it together." />
+<meta name="author" content="Tim Berners-Lee" />
+<link rel="canonical" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=el" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=en" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=vi" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=pt-br" />
+<link rel="alternate" hreflang="id" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=id" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=nl" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=tr" />
+<link rel="alternate" hreflang="lv" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=lv" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="lt" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=lt" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=bg" />
+<link rel="alternate" hreflang="ms" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=ms" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=de" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=hu" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=fa" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=he" />
+<link rel="alternate" hreflang="sq" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=sq" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=ko" />
+<link rel="alternate" hreflang="uk" href="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript?language=uk" />
+<meta property="og:title" content="Transcript of &quot;The next web&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/77260_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/77260_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Tim Berners-Lee: The next web" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: 20 years ago, Tim Berners-Lee invented the World Wide Web. For his next project, he&#39;s building a web for open, linked data that could do for numbers what the Web did for words, pictures, video: unlock our data and reframe the way we use it together." />
+<meta property="og:url" content="https://www.ted.com/talks/tim_berners_lee_on_the_next_web/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 484);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/tim_berners_lee_on_the_next_web' itemprop='url'>
+<meta content='The next web' itemprop='name'>
+<meta content="20 years ago, Tim Berners-Lee invented the World Wide Web. For his next project, he's building a web for open, linked data that could do for numbers what the Web did for words, pictures, video: unlock our data and reframe the way we use it together." itemprop='description'>
+<meta content='PT16M23S' itemprop='duration'>
+<meta content='2009-03-13T01:00:00+00:00' itemprop='uploadDate'>
+<meta content='1429447' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/77260_800x600.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/tim_berners_lee' itemprop='url'>
+<meta content='Tim Berners-Lee' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/77261_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/tim_berners_lee_on_the_next_web' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/77260_800x600.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Tim Berners-Lee
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,429,447
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 16:23</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Time flies.
+											It&#39;s actually almost 20 years ago
+											when I wanted to reframe the way we use information,
+											the way we work together: I invented the World Wide Web.
+											Now, 20 years on, at TED,
+											I want to ask your help in a new reframing.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So going back to 1989,
+											I wrote a memo suggesting the global hypertext system.
+											Nobody really did anything with it, pretty much.
+											But 18 months later — this is how innovation happens —
+											18 months later, my boss said I could do it on the side,
+											as a sort of a play project,
+											kick the tires of a new computer we&#39;d got.
+											And so he gave me the time to code it up.
+											So I basically roughed out what HTML should look like:
+											hypertext protocol, HTTP;
+											the idea of URLs, these names for things
+											which started with HTTP.
+											I wrote the code and put it out there.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Why did I do it?
+											Well, it was basically frustration.
+											I was frustrated — I was working as a software engineer
+											in this huge, very exciting lab,
+											lots of people coming from all over the world.
+											They brought all sorts of different computers with them.
+											They had all sorts of different data formats,
+											all sorts, all kinds of documentation systems.
+											So that, in all that diversity,
+											if I wanted to figure out how to build something
+											out of a bit of this and a bit of this,
+											everything I looked into, I had to connect to some new machine,
+											I had to learn to run some new program,
+											I would find the information I wanted in some new data format.
+											And these were all incompatible.
+											It was just very frustrating.
+											The frustration was all this unlocked potential.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											In fact, on all these discs there were documents.
+											So if you just imagined them all
+											being part of some big, virtual documentation system in the sky,
+											say on the Internet,
+											then life would be so much easier.
+											Well, once you&#39;ve had an idea like that it kind of gets under your skin
+											and even if people don&#39;t read your memo —
+											actually he did, it was found after he died, his copy.
+											He had written, &quot;Vague, but exciting,&quot; in pencil, in the corner.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But in general it was difficult — it was really difficult to explain
+											what the web was like.
+											It&#39;s difficult to explain to people now that it was difficult then.
+											But then — OK, when TED started, there was no web
+											so things like &quot;click&quot; didn&#39;t have the same meaning.
+											I can show somebody a piece of hypertext,
+											a page which has got links,
+											and we click on the link and bing — there&#39;ll be another hypertext page.
+											Not impressive.
+											You know, we&#39;ve seen that — we&#39;ve got things on hypertext on CD-ROMs.
+											What was difficult was to get them to imagine:
+											so, imagine that that link could have gone
+											to virtually any document you could imagine.
+											Alright, that is the leap that was very difficult for people to make.
+											Well, some people did.
+											So yeah, it was difficult to explain, but there was a grassroots movement.
+											And that is what has made it most fun.
+											That has been the most exciting thing,
+											not the technology, not the things people have done with it,
+											but actually the community, the spirit of all these people
+											getting together, sending the emails.
+											That&#39;s what it was like then.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Do you know what? It&#39;s funny, but right now it&#39;s kind of like that again.
+											I asked everybody, more or less, to put their documents —
+											I said, &quot;Could you put your documents on this web thing?&quot;
+											And you did.
+											Thanks.
+											It&#39;s been a blast, hasn&#39;t it?
+											I mean, it has been quite interesting
+											because we&#39;ve found out that the things that happen with the web
+											really sort of blow us away.
+											They&#39;re much more than we&#39;d originally imagined
+											when we put together the little, initial website
+											that we started off with.
+											Now, I want you to put your data on the web.
+											Turns out that there is still huge unlocked potential.
+											There is still a huge frustration
+											that people have because we haven&#39;t got data on the web as data.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											What do you mean, &quot;data&quot;? What&#39;s the difference — documents, data?
+											Well, documents you read, OK?
+											More or less, you read them, you can follow links from them, and that&#39;s it.
+											Data — you can do all kinds of stuff with a computer.
+											Who was here or has otherwise seen Hans Rosling&#39;s talk?
+											One of the great — yes a lot of people have seen it —
+											one of the great TED Talks.
+											Hans put up this presentation
+											in which he showed, for various different countries, in various different colors —
+											he showed income levels on one axis
+											and he showed infant mortality, and he shot this thing animated through time.
+											So, he&#39;d taken this data and made a presentation
+											which just shattered a lot of myths that people had
+											about the economics in the developing world.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											He put up a slide a little bit like this.
+											It had underground all the data
+											OK, data is brown and boxy and boring,
+											and that&#39;s how we think of it, isn&#39;t it?
+											Because data you can&#39;t naturally use by itself
+											But in fact, data drives a huge amount of what happens in our lives
+											and it happens because somebody takes that data and does something with it.
+											In this case, Hans had put the data together
+											he had found from all kinds of United Nations websites and things.
+											He had put it together,
+											combined it into something more interesting than the original pieces
+											and then he&#39;d put it into this software,
+											which I think his son developed, originally,
+											and produces this wonderful presentation.
+											And Hans made a point
+											of saying, &quot;Look, it&#39;s really important to have a lot of data.&quot;
+											And I was happy to see that at the party last night
+											that he was still saying, very forcibly, &quot;It&#39;s really important to have a lot of data.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So I want us now to think about
+											not just two pieces of data being connected, or six like he did,
+											but I want to think about a world where everybody has put data on the web
+											and so virtually everything you can imagine is on the web
+											and then calling that linked data.
+											The technology is linked data, and it&#39;s extremely simple.
+											If you want to put something on the web there are three rules:
+											first thing is that those HTTP names —
+											those things that start with &quot;http:&quot; —
+											we&#39;re using them not just for documents now,
+											we&#39;re using them for things that the documents are about.
+											We&#39;re using them for people, we&#39;re using them for places,
+											we&#39;re using them for your products, we&#39;re using them for events.
+											All kinds of conceptual things, they have names now that start with HTTP.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Second rule, if I take one of these HTTP names and I look it up
+											and I do the web thing with it and I fetch the data
+											using the HTTP protocol from the web,
+											I will get back some data in a standard format
+											which is kind of useful data that somebody might like to know
+											about that thing, about that event.
+											Who&#39;s at the event? Whatever it is about that person,
+											where they were born, things like that.
+											So the second rule is I get important information back.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Third rule is that when I get back that information
+											it&#39;s not just got somebody&#39;s height and weight and when they were born,
+											it&#39;s got relationships.
+											Data is relationships.
+											Interestingly, data is relationships.
+											This person was born in Berlin; Berlin is in Germany.
+											And when it has relationships, whenever it expresses a relationship
+											then the other thing that it&#39;s related to
+											is given one of those names that starts HTTP.
+											So, I can go ahead and look that thing up.
+											So I look up a person — I can look up then the city where they were born; then
+											I can look up the region it&#39;s in, and the town it&#39;s in,
+											and the population of it, and so on.
+											So I can browse this stuff.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So that&#39;s it, really.
+											That is linked data.
+											I wrote an article entitled &quot;Linked Data&quot; a couple of years ago
+											and soon after that, things started to happen.
+											The idea of linked data is that we get lots and lots and lots
+											of these boxes that Hans had,
+											and we get lots and lots and lots of things sprouting.
+											It&#39;s not just a whole lot of other plants.
+											It&#39;s not just a root supplying a plant,
+											but for each of those plants, whatever it is —
+											a presentation, an analysis, somebody&#39;s looking for patterns in the data —
+											they get to look at all the data
+											and they get it connected together,
+											and the really important thing about data
+											is the more things you have to connect together, the more powerful it is.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, linked data.
+											The meme went out there.
+											And, pretty soon Chris Bizer at the Freie Universitat in Berlin
+											who was one of the first people to put interesting things up,
+											he noticed that Wikipedia —
+											you know Wikipedia, the online encyclopedia
+											with lots and lots of interesting documents in it.
+											Well, in those documents, there are little squares, little boxes.
+											And in most information boxes, there&#39;s data.
+											So he wrote a program to take the data, extract it from Wikipedia,
+											and put it into a blob of linked data
+											on the web, which he called dbpedia.
+											Dbpedia is represented by the blue blob in the middle of this slide
+											and if you actually go and look up Berlin,
+											you&#39;ll find that there are other blobs of data
+											which also have stuff about Berlin, and they&#39;re linked together.
+											So if you pull the data from dbpedia about Berlin,
+											you&#39;ll end up pulling up these other things as well.
+											And the exciting thing is it&#39;s starting to grow.
+											This is just the grassroots stuff again, OK?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Let&#39;s think about data for a bit.
+											Data comes in fact in lots and lots of different forms.
+											Think of the diversity of the web. It&#39;s a really important thing
+											that the web allows you to put all kinds of data up there.
+											So it is with data. I could talk about all kinds of data.
+											We could talk about government data, enterprise data is really important,
+											there&#39;s scientific data, there&#39;s personal data,
+											there&#39;s weather data, there&#39;s data about events,
+											there&#39;s data about talks, and there&#39;s news and there&#39;s all kinds of stuff.
+											I&#39;m just going to mention a few of them
+											so that you get the idea of the diversity of it,
+											so that you also see how much unlocked potential.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Let&#39;s start with government data.
+											Barack Obama said in a speech,
+											that he — American government data would be available on the Internet
+											in accessible formats.
+											And I hope that they will put it up as linked data.
+											That&#39;s important. Why is it important?
+											Not just for transparency, yeah transparency in government is important,
+											but that data — this is the data from all the government departments
+											Think about how much of that data is about how life is lived in America.
+											It&#39;s actual useful. It&#39;s got value.
+											I can use it in my company.
+											I could use it as a kid to do my homework.
+											So we&#39;re talking about making the place, making the world run better
+											by making this data available.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											In fact if you&#39;re responsible — if you know about some data
+											in a government department, often you find that
+											these people, they&#39;re very tempted to keep it —
+											Hans calls it database hugging.
+											You hug your database, you don&#39;t want to let it go
+											until you&#39;ve made a beautiful website for it.
+											Well, I&#39;d like to suggest that rather —
+											yes, make a beautiful website,
+											who am I to say don&#39;t make a beautiful website?
+											Make a beautiful website, but first
+											give us the unadulterated data,
+											we want the data.
+											We want unadulterated data.
+											OK, we have to ask for raw data now.
+											And I&#39;m going to ask you to practice that, OK?
+											Can you say &quot;raw&quot;?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Audience: Raw.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Tim Berners-Lee: Can you say &quot;data&quot;?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Audience: Data.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											TBL: Can you say &quot;now&quot;?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Audience: Now!
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											TBL: Alright, &quot;raw data now&quot;!
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Audience: Raw data now!
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Practice that. It&#39;s important because you have no idea the number of excuses
+											people come up with to hang onto their data
+											and not give it to you, even though you&#39;ve paid for it as a taxpayer.
+											And it&#39;s not just America. It&#39;s all over the world.
+											And it&#39;s not just governments, of course — it&#39;s enterprises as well.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So I&#39;m just going to mention a few other thoughts on data.
+											Here we are at TED, and all the time we are very conscious
+											of the huge challenges that human society has right now —
+											curing cancer, understanding the brain for Alzheimer&#39;s,
+											understanding the economy to make it a little bit more stable,
+											understanding how the world works.
+											The people who are going to solve those — the scientists —
+											they have half-formed ideas in their head,
+											they try to communicate those over the web.
+											But a lot of the state of knowledge of the human race at the moment
+											is on databases, often sitting in their computers,
+											and actually, currently not shared.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											In fact, I&#39;ll just go into one area —
+											if you&#39;re looking at Alzheimer&#39;s, for example,
+											drug discovery — there is a whole lot of linked data which is just coming out
+											because scientists in that field realize
+											this is a great way of getting out of those silos,
+											because they had their genomics data in one database
+											in one building, and they had their protein data in another.
+											Now, they are sticking it onto — linked data —
+											and now they can ask the sort of question, that you probably wouldn&#39;t ask,
+											I wouldn&#39;t ask — they would.
+											What proteins are involved in signal transduction
+											and also related to pyramidal neurons?
+											Well, you take that mouthful and you put it into Google.
+											Of course, there&#39;s no page on the web which has answered that question
+											because nobody has asked that question before.
+											You get 223,000 hits —
+											no results you can use.
+											You ask the linked data — which they&#39;ve now put together —
+											32 hits, each of which is a protein which has those properties
+											and you can look at.
+											The power of being able to ask those questions, as a scientist —
+											questions which actually bridge across different disciplines —
+											is really a complete sea change.
+											It&#39;s very very important.
+											Scientists are totally stymied at the moment —
+											the power of the data that other scientists have collected is locked up
+											and we need to get it unlocked so we can tackle those huge problems.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now if I go on like this, you&#39;ll think that all the data comes from huge institutions
+											and has nothing to do with you.
+											But, that&#39;s not true.
+											In fact, data is about our lives.
+											You just — you log on to your social networking site,
+											your favorite one, you say, &quot;This is my friend.&quot;
+											Bing! Relationship. Data.
+											You say, &quot;This photograph, it&#39;s about — it depicts this person. &quot;
+											Bing! That&#39;s data. Data, data, data.
+											Every time you do things on the social networking site,
+											the social networking site is taking data and using it — re-purposing it —
+											and using it to make other people&#39;s lives more interesting on the site.
+											But, when you go to another linked data site —
+											and let&#39;s say this is one about travel,
+											and you say, &quot;I want to send this photo to all the people in that group,&quot;
+											you can&#39;t get over the walls.
+											The Economist wrote an article about it, and lots of people have blogged about it —
+											tremendous frustration.
+											The way to break down the silos is to get inter-operability
+											between social networking sites.
+											We need to do that with linked data.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											One last type of data I&#39;ll talk about, maybe it&#39;s the most exciting.
+											Before I came down here, I looked it up on OpenStreetMap
+											The OpenStreetMap&#39;s a map, but it&#39;s also a Wiki.
+											Zoom in and that square thing is a theater — which we&#39;re in right now —
+											The Terrace Theater. It didn&#39;t have a name on it.
+											So I could go into edit mode, I could select the theater,
+											I could add down at the bottom the name, and I could save it back.
+											And now if you go back to the OpenStreetMap. org,
+											and you find this place, you will find that The Terrace Theater has got a name.
+											I did that. Me!
+											I did that to the map. I just did that!
+											I put that up on there. Hey, you know what?
+											If I — that street map is all about everybody doing their bit
+											and it creates an incredible resource
+											because everybody else does theirs.
+											And that is what linked data is all about.
+											It&#39;s about people doing their bit
+											to produce a little bit, and it all connecting.
+											That&#39;s how linked data works.
+											You do your bit. Everybody else does theirs.
+											You may not have lots of data which you have yourself to put on there
+											but you know to demand it.
+											And we&#39;ve practiced that.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, linked data — it&#39;s huge.
+											I&#39;ve only told you a very small number of things
+											There are data in every aspect of our lives,
+											every aspect of work and pleasure,
+											and it&#39;s not just about the number of places where data comes,
+											it&#39;s about connecting it together.
+											And when you connect data together, you get power
+											in a way that doesn&#39;t happen just with the web, with documents.
+											You get this really huge power out of it.
+											So, we&#39;re at the stage now
+											where we have to do this — the people who think it&#39;s a great idea.
+											And all the people — and I think there&#39;s a lot of people at TED who do things because —
+											even though there&#39;s not an immediate return on the investment
+											because it will only really pay off when everybody else has done it —
+											they&#39;ll do it because they&#39;re the sort of person who just does things
+											which would be good if everybody else did them.
+											OK, so it&#39;s called linked data.
+											I want you to make it.
+											I want you to demand it.
+											And I think it&#39;s an idea worth spreading.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thanks.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":407,"count":181,"talk_id":484},"threadId":407,"current_talk":"484","description":"20 years ago, Tim Berners-Lee invented the World Wide Web. For his next project, he's building a web for open, linked data that could do for numbers what the Web did for words, pictures, video: unlock our data and reframe the way we use it together.","event":"TED2009","language":"en","name":"Tim Berners-Lee: The next web","slug":"tim_berners_lee_on_the_next_web","speakers":[{"id":"338","slug":"tim_berners_lee","is_published":true,"firstname":"Tim","lastname":"Berners-Lee","middleinitial":"","title":"","description":"Inventor","photo_url":"https://pe.tedcdn.com/images/ted/77261_254x191.jpg","whatotherssay":"It's hard to overstate the impact of the global system he created. It's almost Gutenbergian.","whotheyare":"Tim Berners-Lee invented the World Wide Web. He leads the World Wide Web Consortium (W3C), overseeing the Web's standards and development.","whylisten":"<p>In the 1980s, scientists at CERN were asking themselves how massive, complex, collaborative projects -- like the fledgling LHC -- could be orchestrated and tracked. Tim Berners-Lee, then a contractor, answered by inventing the World Wide Web. This global system of hypertext documents, linked through the Internet, brought about a massive cultural shift ushered in by the new tech and content it made possible: AOL, eBay, Wikipedia, TED.com...</p><p>Berners-Lee is now director of the World Wide Web Consortium (W3C), which maintains standards for the Web and continues to refine its design. Recently he has envisioned a &quot;Semantic Web&quot; -- an evolved version of the same system that recognizes the meaning of the information it carries. He&#39;s the 3Com Founders Professor of Engineering in the School of Engineering with a joint appointment in the Department of Electrical Engineering and Computer Science at the Laboratory for Computer Science and Artificial Intelligence (CSAIL) at the MIT, where he also heads the Decentralized Information Group (DIG). He is also a Professor in the Electronics and Computer Science Department at the University of Southampton, UK. </p>"}],"url":"https://www.ted.com/talks/tim_berners_lee_on_the_next_web","viewed_count":1429447,"talks":[{"recommendations":{"status":"approved","headline":"Tim Berners-Lee recommends","blurb":"12 key resources on open data from the \"father of the World Wide Web.\"","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"recommendation","rec_lists":[{"title":"Reading List","description":"","rec_items":[{"label":"EXPLORE","headline":"data.gov.uk","blurb":"This began as an initiative back in 2009. Now, [data.gov.uk](http://data.gov.uk/) contains more than 9,000 UK government datasets. ","note":"","link_url":"http://data.gov.uk/","position":null,"is_pdf":false,"eyebrow":null},{"label":"EXPLORE","headline":"data.gov","blurb":"This website is the US government's equivalent resource to [data.gov.uk](http://data.gov.uk). It includes more than 85,000 datasets and includes tools for those interested in playing around with data.","note":"","link_url":"http://www.data.gov","position":null,"is_pdf":false,"eyebrow":null},{"label":"READ_Article","headline":"G8 Open Data Charter and Technical Annex","blurb":"Charter signed by G8 leaders on June 17, 2013.","note":"G8 Summit 2013","link_url":"https://www.gov.uk/government/publications/open-data-charter/g8-open-data-charter-and-technical-annex","position":null,"is_pdf":false,"eyebrow":null},{"label":"READ_Book","headline":"Facts Are Sacred","blurb":"Data-related book by the editor of guardian.co.uk/data.","note":"Simon Rogers \r\nFaber & Faber, 2013","link_url":"http://www.amazon.com/books/dp/0571301614/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":null},{"label":"EXPLORE","headline":"Guides to the Open Data Initiative","blurb":"Not sure what open data actually is? Wonder how open data might affect you? Curious how to make the business case for open data? Check out these handy guides from the Open Data Institute.","note":"","link_url":"http://theodi.org/guides","position":null,"is_pdf":false,"eyebrow":null},{"label":"EXPLORE","headline":"World Wide Web Foundation\r\n","blurb":"I established the World Wide Web Foundation in 2009 to tackle the fundamental obstacles to realizing my vision of an open web that is available, usable and valuable for everyone.","note":"","link_url":"http://www.webfoundation.org","position":null,"is_pdf":false,"eyebrow":null},{"label":"EXPLORE","headline":"W3C","blurb":"The World Wide Web Consortium (W3C) is an international group where member organizations, a full-time staff and the public work together to develop web standards. Together with CEO Jeffrey Jaffe, the organization and I are on a mission to lead the web to its full potential.","note":"","link_url":"http://www.w3.org","position":null,"is_pdf":false,"eyebrow":null},{"label":"EXPLORE","headline":"The Web Index","blurb":"The Web Index is designed and produced by the World Wide Web Foundation. It is the world’s first measure of the web’s contribution to development and human rights globally in countries across the world. By compiling data across many different dimensions and making it freely available, the Web Index will help deepen and broaden our understanding of how countries can maximize the impact of this powerful tool. It will eventually allow for comparisons of trends over time and the benchmarking of performance across countries, continuously improving our understanding of the web’s value for humanity.","note":"","link_url":"https://thewebindex.org","position":null,"is_pdf":false,"eyebrow":null},{"label":"EXPLORE","headline":"Web We Want\r\n","blurb":"I launched this campaign at a UN gathering in Geneva. [Web We Want](https://webwewant.org/) seeks to engage millions of people across the world to help set a positive agenda for Internet users.","note":"","link_url":"https://webwewant.org","position":null,"is_pdf":false,"eyebrow":null},{"label":"EXPLORE","headline":"Open Data Research Network","blurb":"This collaborative initiative is coordinated by the World Wide Web Foundation with support from the International Development Research Centre (IDRC). It exists to connect open data-focused researchers from across the world, bring together information and news relating to research into the implementation and impacts of open data initiatives, and host research projects into open data. The network has a number of projects: \"[Emerging Impacts of Open Data in Developing Countries](http://www.opendataresearch.org/emergingimpacts)” is a multi-country, multi-year study to examine how open data is being used differently around the developing world; the “[Open Data Barometer] (http://www.opendataresearch.org/project/2013/odb)” is a multi-dimensional look at the spread of open government data policy and practice across the world.","note":"","link_url":"http://opendataresearch.org\r\n","position":null,"is_pdf":false,"eyebrow":null},{"label":"EXPLORE","headline":"Open Contracting Data Standard","blurb":"The development of a common standard for the disclosure of contracting data is a key pillar of the work to promote disclosure and participation in public contracting — empowering citizens around the world to hold their governments to account for the estimated $9.5 trillion they spend each year through contracts. The [Open Contracting Data Standard](http://www.open-contracting.org/open_contracting_data_standards) will be essential to advancing the objective of achieving a new norm in which all public contracting is open. Its development comes as a result of a collaboration between the Open Contracting Partnership and the World Wide Web Foundation, supported by a grant from the Omidyar Network.","note":"","link_url":"http://www.open-contracting.org/","position":null,"is_pdf":false,"eyebrow":null},{"label":"READ_Article","headline":"Long Live the Web: A Call for Continued Open Standards and Neutrality","blurb":"","note":"Tim Berners-Lee\r\n*Scientific American*, December 2010","link_url":"http://www.scientificamerican.com/article/long-live-the-web/\r\n","position":null,"is_pdf":false,"eyebrow":null}]}]},"more_resources":[{"status":"approved","headline":"What we've learned from 20 years of the web","blurb":"The web left its teen years behind in 2013. Here, some lessons on how the Internet has reframed how we use information — and how we work.","link_url":"http://blog.ted.com/2013/04/30/as-we-celebrate-20-years-of-the-world-wide-web-lessons-from-tim-berners-lee/","image_url":"","visible_url":"","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"from_the_blog"}],"corrections":[],"has_citations":false,"take_action":[],"curator_approved":true,"description":"20 years ago, Tim Berners-Lee invented the World Wide Web. For his next project, he's building a web for open, linked data that could do for numbers what the Web did for words, pictures, video: unlock our data and reframe the way we use it together.","downloads":{"id":484,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Latvian","endonym":"Latviešu","languageCode":"lv","ianaCode":"lv","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Lithuanian","endonym":"Lietuvių kalba","languageCode":"lt","ianaCode":"lt","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Malay","endonym":"Bahasa melayu","languageCode":"ms","ianaCode":"ms","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Albanian","endonym":"Shqip","languageCode":"sq","ianaCode":"sq","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/TimBernersLee_2009-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/TimBernersLee_2009.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/TimBernersLee_2009-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"fr":{"name":"French","low":"https://download.ted.com/talks/TimBernersLee_2009-low-fr.mp4","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-fr.mp4"},"ja":{"name":"Japanese","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-ja.mp4","low":"https://download.ted.com/talks/TimBernersLee_2009-low-ja.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/TimBernersLee_2009-low-zh-tw.mp4","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-zh-tw.mp4"},"de":{"name":"German","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-de.mp4","low":"https://download.ted.com/talks/TimBernersLee_2009-low-de.mp4"},"zh-cn":{"name":"Chinese, Simplified","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-zh-cn.mp4","low":"https://download.ted.com/talks/TimBernersLee_2009-low-zh-cn.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/TimBernersLee_2009-low-ko.mp4","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-ko.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/TimBernersLee_2009-low-es.mp4","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-es.mp4"},"en":{"name":"English","low":"https://download.ted.com/talks/TimBernersLee_2009-low-en.mp4","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/TimBernersLee_2009-low-pt-br.mp4","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/TimBernersLee_2009-low-it.mp4","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-it.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/TimBernersLee_2009-low-he.mp4","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-he.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/TimBernersLee_2009-low-bg.mp4","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/TimBernersLee_2009-low-ro.mp4","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/TimBernersLee_2009-low-pl.mp4","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-pl.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/TimBernersLee_2009-low-nl.mp4","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-nl.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/TimBernersLee_2009-low-tr.mp4","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-tr.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/TimBernersLee_2009-low-ru.mp4","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-ru.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/TimBernersLee_2009-low-hu.mp4","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-hu.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/TimBernersLee_2009-low-el.mp4","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-el.mp4"},"id":{"name":"Indonesian","low":"https://download.ted.com/talks/TimBernersLee_2009-low-id.mp4","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-id.mp4"},"uk":{"name":"Ukrainian","low":"https://download.ted.com/talks/TimBernersLee_2009-low-uk.mp4","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-uk.mp4"},"lt":{"name":"Lithuanian","low":"https://download.ted.com/talks/TimBernersLee_2009-low-lt.mp4","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-lt.mp4"},"sq":{"name":"Albanian","low":"https://download.ted.com/talks/TimBernersLee_2009-low-sq.mp4","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-sq.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/TimBernersLee_2009-low-ar.mp4","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-ar.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/TimBernersLee_2009-low-fa.mp4","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-fa.mp4"},"lv":{"name":"Latvian","low":"https://download.ted.com/talks/TimBernersLee_2009-low-lv.mp4","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-lv.mp4"},"ms":{"name":"Malay","low":"https://download.ted.com/talks/TimBernersLee_2009-low-ms.mp4","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-ms.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/TimBernersLee_2009-low-vi.mp4","high":"https://download.ted.com/talks/TimBernersLee_2009-480p-vi.mp4"}},"audioDownload":"https://download.ted.com/talks/TimBernersLee_2009.mp3?apikey=acme-roadrunner"},"duration":983.0,"event":"TED2009","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/77260_800x600.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/77260_800x600.jpg?q=50&w=15","id":"484","player_talks":[{"id":"484","duration":983.0,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Latvian","endonym":"Latviešu","languageCode":"lv","ianaCode":"lv","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Lithuanian","endonym":"Lietuvių kalba","languageCode":"lt","ianaCode":"lt","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Malay","endonym":"Bahasa melayu","languageCode":"ms","ianaCode":"ms","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Albanian","endonym":"Shqip","languageCode":"sq","ianaCode":"sq","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2009/Blank/TimBernersLee_2009-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTED2009%26id%3D484%26tag%3Dbusiness%2Ccommunication%2Cdesign%2Cinvention%2Ctechnology%2Cweb%26talk%3Dtim_berners_lee_on_the_next_web%26year%3D2009&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"484","talk":"tim_berners_lee_on_the_next_web","tag":"business,communication,design,invention,technology,web","year":"2009","event":"TED2009"},"stream":"https://hls.ted.com/talks/484.m3u8","metadata":"https://hls.ted.com/talks/484.json"}},"targeting":{"id":"484","talk":"tim_berners_lee_on_the_next_web","tag":"business,communication,design,invention,technology,web","year":"2009","event":"TED2009"},"canonical":"https://www.ted.com/talks/tim_berners_lee_on_the_next_web","name":"Tim Berners-Lee: The next web","title":"The next web","speaker":"Tim Berners-Lee","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/77260_800x600.jpg?quality=89&w=600","slug":"tim_berners_lee_on_the_next_web","event":"TED2009","published":1236906000}],"ratings":[{"id":8,"name":"Informative","count":513},{"id":25,"name":"OK","count":174},{"id":24,"name":"Persuasive","count":300},{"id":10,"name":"Inspiring","count":473},{"id":21,"name":"Unconvincing","count":55},{"id":11,"name":"Longwinded","count":78},{"id":2,"name":"Confusing","count":51},{"id":22,"name":"Fascinating","count":222},{"id":26,"name":"Obnoxious","count":31},{"id":3,"name":"Courageous","count":82},{"id":23,"name":"Jaw-dropping","count":90},{"id":1,"name":"Beautiful","count":51},{"id":7,"name":"Funny","count":27},{"id":9,"name":"Ingenious","count":219}],"recorded_at":"2009-02-05T00:00:00.000+00:00","related_talks":[{"id":"92","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/91206e56-87be-4387-830b-c38f37d02d78/HansRosling_2006-embed.jpg","speaker":"Hans Rosling","title":"The best stats you've ever seen","duration":1190.0,"slug":"hans_rosling_shows_the_best_stats_you_ve_ever_seen","viewed_count":12662143},{"id":"2727","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/9e067eef-7f85-46c4-9d1f-6bf296722c34/GiorgiaLupi_2017S-embed.jpg","speaker":"Giorgia Lupi","title":"How we can find ourselves in data","duration":673.0,"slug":"giorgia_lupi_how_we_can_find_ourselves_in_data","viewed_count":1186468},{"id":"2818","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/22696ce9-3576-4f47-bb0d-e56ddbbef8a3/TriciaWang_2016X-embed.jpg","speaker":"Tricia Wang","title":"The human insights missing from big data","duration":972.0,"slug":"tricia_wang_the_human_insights_missing_from_big_data","viewed_count":1452132},{"id":"2403","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/5a6b744b-45e3-4d95-9afb-5f17052b445e/SebastianWernicke_2015X-embed.jpg","speaker":"Sebastian Wernicke","title":"How to use data to make a hit TV show","duration":745.0,"slug":"sebastian_wernicke_how_to_use_data_to_make_a_hit_tv_show","viewed_count":1520437},{"id":"2094","hero":"https://pe.tedcdn.com/images/ted/c08e045faca0cd007e468e7950e6ef5433c3f44c_2880x1620.jpg","speaker":"Kenneth Cukier","title":"Big data is better data","duration":951.0,"slug":"kenneth_cukier_big_data_is_better_data","viewed_count":1425585},{"id":"788","hero":"https://pe.tedcdn.com/images/ted/154673_800x600.jpg","speaker":"Tim Berners-Lee","title":"The year open data went worldwide","duration":333.0,"slug":"tim_berners_lee_the_year_open_data_went_worldwide","viewed_count":695812}],"slug":"tim_berners_lee_on_the_next_web","speakers":[{"id":"338","slug":"tim_berners_lee","is_published":true,"firstname":"Tim","lastname":"Berners-Lee","middleinitial":"","title":"","description":"Inventor","photo_url":"https://pe.tedcdn.com/images/ted/77261_254x191.jpg","whatotherssay":"It's hard to overstate the impact of the global system he created. It's almost Gutenbergian.","whotheyare":"Tim Berners-Lee invented the World Wide Web. He leads the World Wide Web Consortium (W3C), overseeing the Web's standards and development.","whylisten":"<p>In the 1980s, scientists at CERN were asking themselves how massive, complex, collaborative projects -- like the fledgling LHC -- could be orchestrated and tracked. Tim Berners-Lee, then a contractor, answered by inventing the World Wide Web. This global system of hypertext documents, linked through the Internet, brought about a massive cultural shift ushered in by the new tech and content it made possible: AOL, eBay, Wikipedia, TED.com...</p><p>Berners-Lee is now director of the World Wide Web Consortium (W3C), which maintains standards for the Web and continues to refine its design. Recently he has envisioned a &quot;Semantic Web&quot; -- an evolved version of the same system that recognizes the meaning of the information it carries. He&#39;s the 3Com Founders Professor of Engineering in the School of Engineering with a joint appointment in the Department of Electrical Engineering and Computer Science at the Laboratory for Computer Science and Artificial Intelligence (CSAIL) at the MIT, where he also heads the Decentralized Information Group (DIG). He is also a Professor in the Electronics and Computer Science Department at the University of Southampton, UK. </p>"}],"speaker_name":"Tim Berners-Lee","tags":["business","communication","design","invention","technology","web"],"title":"The next web","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":1429447}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

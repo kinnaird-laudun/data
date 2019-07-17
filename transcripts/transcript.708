@@ -1,0 +1,1423 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Laurie Santos: A monkey economy as irrational as ours | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Laurie Santos looks for the roots of human irrationality by watching the way our primate relatives make decisions. A clever series of experiments in &quot;monkeynomics&quot; shows that some of the silly choices we make, monkeys make too." />
+<meta name="author" content="Laurie Santos" />
+<link rel="canonical" href="https://www.ted.com/talks/laurie_santos/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/laurie_santos/transcript" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/laurie_santos/transcript?language=vi" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/laurie_santos/transcript?language=el" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/laurie_santos/transcript?language=en" />
+<link rel="alternate" hreflang="ca" href="https://www.ted.com/talks/laurie_santos/transcript?language=ca" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/laurie_santos/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/laurie_santos/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/laurie_santos/transcript?language=pt-br" />
+<link rel="alternate" hreflang="cs" href="https://www.ted.com/talks/laurie_santos/transcript?language=cs" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/laurie_santos/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/laurie_santos/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/laurie_santos/transcript?language=nl" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/laurie_santos/transcript?language=pt" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/laurie_santos/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/laurie_santos/transcript?language=tr" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/laurie_santos/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/laurie_santos/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/laurie_santos/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/laurie_santos/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/laurie_santos/transcript?language=bg" />
+<link rel="alternate" hreflang="hr" href="https://www.ted.com/talks/laurie_santos/transcript?language=hr" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/laurie_santos/transcript?language=de" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/laurie_santos/transcript?language=hu" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/laurie_santos/transcript?language=fa" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/laurie_santos/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/laurie_santos/transcript?language=he" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/laurie_santos/transcript?language=sr" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/laurie_santos/transcript?language=ko" />
+<link rel="alternate" hreflang="sk" href="https://www.ted.com/talks/laurie_santos/transcript?language=sk" />
+<meta property="og:title" content="Transcript of &quot;A monkey economy as irrational as ours&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/187437_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/187437_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Laurie Santos: A monkey economy as irrational as ours" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Laurie Santos looks for the roots of human irrationality by watching the way our primate relatives make decisions. A clever series of experiments in &quot;monkeynomics&quot; shows that some of the silly choices we make, monkeys make too." />
+<meta property="og:url" content="https://www.ted.com/talks/laurie_santos/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 927);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/laurie_santos' itemprop='url'>
+<meta content='A monkey economy as irrational as ours' itemprop='name'>
+<meta content='Laurie Santos looks for the roots of human irrationality by watching the way our primate relatives make decisions. A clever series of experiments in "monkeynomics" shows that some of the silly choices we make, monkeys make too.' itemprop='description'>
+<meta content='PT19M45S' itemprop='duration'>
+<meta content='2010-07-29T08:47:00+00:00' itemprop='uploadDate'>
+<meta content='1320133' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/187437_800x600.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/laurie_santos' itemprop='url'>
+<meta content='Laurie Santos' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/187439_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/laurie_santos' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/187437_800x600.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Laurie Santos
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,320,133
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 19:45</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I want to start my talk today with two observations
+											about the human species.
+											The first observation is something that you might think is quite obvious,
+											and that&#39;s that our species, Homo sapiens,
+											is actually really, really smart —
+											like, ridiculously smart —
+											like you&#39;re all doing things
+											that no other species on the planet does right now.
+											And this is, of course,
+											not the first time you&#39;ve probably recognized this.
+											Of course, in addition to being smart, we&#39;re also an extremely vain species.
+											So we like pointing out the fact that we&#39;re smart.
+											You know, so I could turn to pretty much any sage
+											from Shakespeare to Stephen Colbert
+											to point out things like the fact that
+											we&#39;re noble in reason and infinite in faculties
+											and just kind of awesome-er than anything else on the planet
+											when it comes to all things cerebral.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But of course, there&#39;s a second observation about the human species
+											that I want to focus on a little bit more,
+											and that&#39;s the fact that
+											even though we&#39;re actually really smart, sometimes uniquely smart,
+											we can also be incredibly, incredibly dumb
+											when it comes to some aspects of our decision making.
+											Now I&#39;m seeing lots of smirks out there.
+											Don&#39;t worry, I&#39;m not going to call anyone in particular out
+											on any aspects of your own mistakes.
+											But of course, just in the last two years
+											we see these unprecedented examples of human ineptitude.
+											And we&#39;ve watched as the tools we uniquely make
+											to pull the resources out of our environment
+											kind of just blow up in our face.
+											We&#39;ve watched the financial markets that we uniquely create —
+											these markets that were supposed to be foolproof —
+											we&#39;ve watched them kind of collapse before our eyes.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But both of these two embarrassing examples, I think,
+											don&#39;t highlight what I think is most embarrassing
+											about the mistakes that humans make,
+											which is that we&#39;d like to think that the mistakes we make
+											are really just the result of a couple bad apples
+											or a couple really sort of FAIL Blog-worthy decisions.
+											But it turns out, what social scientists are actually learning
+											is that most of us, when put in certain contexts,
+											will actually make very specific mistakes.
+											The errors we make are actually predictable.
+											We make them again and again.
+											And they&#39;re actually immune to lots of evidence.
+											When we get negative feedback,
+											we still, the next time we&#39;re face with a certain context,
+											tend to make the same errors.
+											And so this has been a real puzzle to me
+											as a sort of scholar of human nature.
+											What I&#39;m most curious about is,
+											how is a species that&#39;s as smart as we are
+											capable of such bad
+											and such consistent errors all the time?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											You know, we&#39;re the smartest thing out there, why can&#39;t we figure this out?
+											In some sense, where do our mistakes really come from?
+											And having thought about this a little bit, I see a couple different possibilities.
+											One possibility is, in some sense, it&#39;s not really our fault.
+											Because we&#39;re a smart species,
+											we can actually create all kinds of environments
+											that are super, super complicated,
+											sometimes too complicated for us to even actually understand,
+											even though we&#39;ve actually created them.
+											We create financial markets that are super complex.
+											We create mortgage terms that we can&#39;t actually deal with.
+											And of course, if we are put in environments where we can&#39;t deal with it,
+											in some sense makes sense that we actually
+											might mess certain things up.
+											If this was the case, we&#39;d have a really easy solution
+											to the problem of human error.
+											We&#39;d actually just say, okay, let&#39;s figure out
+											the kinds of technologies we can&#39;t deal with,
+											the kinds of environments that are bad —
+											get rid of those, design things better,
+											and we should be the noble species
+											that we expect ourselves to be.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But there&#39;s another possibility that I find a little bit more worrying,
+											which is, maybe it&#39;s not our environments that are messed up.
+											Maybe it&#39;s actually us that&#39;s designed badly.
+											This is a hint that I&#39;ve gotten
+											from watching the ways that social scientists have learned about human errors.
+											And what we see is that people tend to keep making errors
+											exactly the same way, over and over again.
+											It feels like we might almost just be built
+											to make errors in certain ways.
+											This is a possibility that I worry a little bit more about,
+											because, if it&#39;s us that&#39;s messed up,
+											it&#39;s not actually clear how we go about dealing with it.
+											We might just have to accept the fact that we&#39;re error prone
+											and try to design things around it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So this is the question my students and I wanted to get at.
+											How can we tell the difference between possibility one and possibility two?
+											What we need is a population
+											that&#39;s basically smart, can make lots of decisions,
+											but doesn&#39;t have access to any of the systems we have,
+											any of the things that might mess us up —
+											no human technology, human culture,
+											maybe even not human language.
+											And so this is why we turned to these guys here.
+											These are one of the guys I work with. This is a brown capuchin monkey.
+											These guys are New World primates,
+											which means they broke off from the human branch
+											about 35 million years ago.
+											This means that your great, great, great great, great, great —
+											with about five million &quot;greats&quot; in there —
+											grandmother was probably the same great, great, great, great
+											grandmother with five million &quot;greats&quot; in there
+											as Holly up here.
+											You know, so you can take comfort in the fact that this guy up here is a really really distant,
+											but albeit evolutionary, relative.
+											The good news about Holly though is that
+											she doesn&#39;t actually have the same kinds of technologies we do.
+											You know, she&#39;s a smart, very cut creature, a primate as well,
+											but she lacks all the stuff we think might be messing us up.
+											So she&#39;s the perfect test case.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											What if we put Holly into the same context as humans?
+											Does she make the same mistakes as us?
+											Does she not learn from them? And so on.
+											And so this is the kind of thing we decided to do.
+											My students and I got very excited about this a few years ago.
+											We said, all right, let&#39;s, you know, throw so problems at Holly,
+											see if she messes these things up.
+											First problem is just, well, where should we start?
+											Because, you know, it&#39;s great for us, but bad for humans.
+											We make a lot of mistakes in a lot of different contexts.
+											You know, where are we actually going to start with this?
+											And because we started this work around the time of the financial collapse,
+											around the time when foreclosures were hitting the news,
+											we said, hhmm, maybe we should
+											actually start in the financial domain.
+											Maybe we should look at monkey&#39;s economic decisions
+											and try to see if they do the same kinds of dumb things that we do.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Of course, that&#39;s when we hit a sort second problem —
+											a little bit more methodological —
+											which is that, maybe you guys don&#39;t know,
+											but monkeys don&#39;t actually use money. I know, you haven&#39;t met them.
+											But this is why, you know, they&#39;re not in the queue behind you
+											at the grocery store or the ATM — you know, they don&#39;t do this stuff.
+											So now we faced, you know, a little bit of a problem here.
+											How are we actually going to ask monkeys about money
+											if they don&#39;t actually use it?
+											So we said, well, maybe we should just, actually just suck it up
+											and teach monkeys how to use money.
+											So that&#39;s just what we did.
+											What you&#39;re looking at over here is actually the first unit that I know of
+											of non-human currency.
+											We weren&#39;t very creative at the time we started these studies,
+											so we just called it a token.
+											But this is the unit of currency that we&#39;ve taught our monkeys at Yale
+											to actually use with humans,
+											to actually buy different pieces of food.
+											It doesn&#39;t look like much — in fact, it isn&#39;t like much.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Like most of our money, it&#39;s just a piece of metal.
+											As those of you who&#39;ve taken currencies home from your trip know,
+											once you get home, it&#39;s actually pretty useless.
+											It was useless to the monkeys at first
+											before they realized what they could do with it.
+											When we first gave it to them in their enclosures,
+											they actually kind of picked them up, looked at them.
+											They were these kind of weird things.
+											But very quickly, the monkeys realized
+											that they could actually hand these tokens over
+											to different humans in the lab for some food.
+											And so you see one of our monkeys, Mayday, up here doing this.
+											This is A and B are kind of the points where she&#39;s sort of a little bit
+											curious about these things — doesn&#39;t know.
+											There&#39;s this waiting hand from a human experimenter,
+											and Mayday quickly figures out, apparently the human wants this.
+											Hands it over, and then gets some food.
+											It turns out not just Mayday, all of our monkeys get good
+											at trading tokens with human salesman.
+											So here&#39;s just a quick video of what this looks like.
+											Here&#39;s Mayday. She&#39;s going to be trading a token for some food
+											and waiting happily and getting her food.
+											Here&#39;s Felix, I think. He&#39;s our alpha male; he&#39;s a kind of big guy.
+											But he too waits patiently, gets his food and goes on.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So the monkeys get really good at this.
+											They&#39;re surprisingly good at this with very little training.
+											We just allowed them to pick this up on their own.
+											The question is: is this anything like human money?
+											Is this a market at all,
+											or did we just do a weird psychologist&#39;s trick
+											by getting monkeys to do something,
+											looking smart, but not really being smart.
+											And so we said, well, what would the monkeys spontaneously do
+											if this was really their currency, if they were really using it like money?
+											Well, you might actually imagine them
+											to do all the kinds of smart things
+											that humans do when they start exchanging money with each other.
+											You might have them start paying attention to price,
+											paying attention to how much they buy —
+											sort of keeping track of their monkey token, as it were.
+											Do the monkeys do anything like this?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so our monkey marketplace was born.
+											The way this works is that
+											our monkeys normally live in a kind of big zoo social enclosure.
+											When they get a hankering for some treats,
+											we actually allowed them a way out
+											into a little smaller enclosure where they could enter the market.
+											Upon entering the market —
+											it was actually a much more fun market for the monkeys than most human markets
+											because, as the monkeys entered the door of the market,
+											a human would give them a big wallet full of tokens
+											so they could actually trade the tokens
+											with one of these two guys here —
+											two different possible human salesmen
+											that they could actually buy stuff from.
+											The salesmen were students from my lab.
+											They dressed differently; they were different people.
+											And over time, they did basically the same thing
+											so the monkeys could learn, you know,
+											who sold what at what price — you know, who was reliable, who wasn&#39;t, and so on.
+											And you can see that each of the experimenters
+											is actually holding up a little, yellow food dish.
+											and that&#39;s what the monkey can for a single token.
+											So everything costs one token,
+											but as you can see, sometimes tokens buy more than others,
+											sometimes more grapes than others.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So I&#39;ll show you a quick video of what this marketplace actually looks like.
+											Here&#39;s a monkey-eye-view. Monkeys are shorter, so it&#39;s a little short.
+											But here&#39;s Honey.
+											She&#39;s waiting for the market to open a little impatiently.
+											All of a sudden the market opens. Here&#39;s her choice: one grapes or two grapes.
+											You can see Honey, very good market economist,
+											goes with the guy who gives more.
+											She could teach our financial advisers a few things or two.
+											So not just Honey,
+											most of the monkeys went with guys who had more.
+											Most of the monkeys went with guys who had better food.
+											When we introduced sales, we saw the monkeys paid attention to that.
+											They really cared about their monkey token dollar.
+											The more surprising thing was that when we collaborated with economists
+											to actually look at the monkeys&#39; data using economic tools,
+											they basically matched, not just qualitatively,
+											but quantitatively with what we saw
+											humans doing in a real market.
+											So much so that, if you saw the monkeys&#39; numbers,
+											you couldn&#39;t tell whether they came from a monkey or a human in the same market.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And what we&#39;d really thought we&#39;d done
+											is like we&#39;d actually introduced something
+											that, at least for the monkeys and us,
+											works like a real financial currency.
+											Question is: do the monkeys start messing up in the same ways we do?
+											Well, we already saw anecdotally a couple of signs that they might.
+											One thing we never saw in the monkey marketplace
+											was any evidence of saving —
+											you know, just like our own species.
+											The monkeys entered the market, spent their entire budget
+											and then went back to everyone else.
+											The other thing we also spontaneously saw,
+											embarrassingly enough,
+											is spontaneous evidence of larceny.
+											The monkeys would rip-off the tokens at every available opportunity —
+											from each other, often from us —
+											you know, things we didn&#39;t necessarily think we were introducing,
+											but things we spontaneously saw.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So we said, this looks bad.
+											Can we actually see if the monkeys
+											are doing exactly the same dumb things as humans do?
+											One possibility is just kind of let
+											the monkey financial system play out,
+											you know, see if they start calling us for bailouts in a few years.
+											We were a little impatient so we wanted
+											to sort of speed things up a bit.
+											So we said, let&#39;s actually give the monkeys
+											the same kinds of problems
+											that humans tend to get wrong
+											in certain kinds of economic challenges,
+											or certain kinds of economic experiments.
+											And so, since the best way to see how people go wrong
+											is to actually do it yourself,
+											I&#39;m going to give you guys a quick experiment
+											to sort of watch your own financial intuitions in action.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So imagine that right now
+											I handed each and every one of you
+											a thousand U.S. dollars — so 10 crisp hundred dollar bills.
+											Take these, put it in your wallet
+											and spend a second thinking about what you&#39;re going to do with it.
+											Because it&#39;s yours now; you can buy whatever you want.
+											Donate it, take it, and so on.
+											Sounds great, but you get one more choice to earn a little bit more money.
+											And here&#39;s your choice: you can either be risky,
+											in which case I&#39;m going to flip one of these monkey tokens.
+											If it comes up heads, you&#39;re going to get a thousand dollars more.
+											If it comes up tails, you get nothing.
+											So it&#39;s a chance to get more, but it&#39;s pretty risky.
+											Your other option is a bit safe. Your just going to get some money for sure.
+											I&#39;m just going to give you 500 bucks.
+											You can stick it in your wallet and use it immediately.
+											So see what your intuition is here.
+											Most people actually go with the play-it-safe option.
+											Most people say, why should I be risky when I can get 1,500 dollars for sure?
+											This seems like a good bet. I&#39;m going to go with that.
+											You might say, eh, that&#39;s not really irrational.
+											People are a little risk-averse. So what?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Well, the &quot;so what?&quot; comes when start thinking
+											about the same problem
+											set up just a little bit differently.
+											So now imagine that I give each and every one of you
+											2,000 dollars — 20 crisp hundred dollar bills.
+											Now you can buy double to stuff you were going to get before.
+											Think about how you&#39;d feel sticking it in your wallet.
+											And now imagine that I have you make another choice
+											But this time, it&#39;s a little bit worse.
+											Now, you&#39;re going to be deciding how you&#39;re going to lose money,
+											but you&#39;re going to get the same choice.
+											You can either take a risky loss —
+											so I&#39;ll flip a coin. If it comes up heads, you&#39;re going to actually lose a lot.
+											If it comes up tails, you lose nothing, you&#39;re fine, get to keep the whole thing —
+											or you could play it safe, which means you have to reach back into your wallet
+											and give me five of those $100 bills, for certain.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And I&#39;m seeing a lot of furrowed brows out there.
+											So maybe you&#39;re having the same intuitions
+											as the subjects that were actually tested in this,
+											which is when presented with these options,
+											people don&#39;t choose to play it safe.
+											They actually tend to go a little risky.
+											The reason this is irrational is that we&#39;ve given people in both situations
+											the same choice.
+											It&#39;s a 50/50 shot of a thousand or 2,000,
+											or just 1,500 dollars with certainty.
+											But people&#39;s intuitions about how much risk to take
+											varies depending on where they started with.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So what&#39;s going on?
+											Well, it turns out that this seems to be the result
+											of at least two biases that we have at the psychological level.
+											One is that we have a really hard time thinking in absolute terms.
+											You really have to do work to figure out,
+											well, one option&#39;s a thousand, 2,000;
+											one is 1,500.
+											Instead, we find it very easy to think in very relative terms
+											as options change from one time to another.
+											So we think of things as, &quot;Oh, I&#39;m going to get more,&quot; or &quot;Oh, I&#39;m going to get less.&quot;
+											This is all well and good, except that
+											changes in different directions
+											actually effect whether or not we think
+											options are good or not.
+											And this leads to the second bias,
+											which economists have called loss aversion.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The idea is that we really hate it when things go into the red.
+											We really hate it when we have to lose out on some money.
+											And this means that sometimes we&#39;ll actually
+											switch our preferences to avoid this.
+											What you saw in that last scenario is that
+											subjects get risky
+											because they want the small shot that there won&#39;t be any loss.
+											That means when we&#39;re in a risk mindset —
+											excuse me, when we&#39;re in a loss mindset,
+											we actually become more risky,
+											which can actually be really worrying.
+											These kinds of things play out in lots of bad ways in humans.
+											They&#39;re why stock investors hold onto losing stocks longer —
+											because they&#39;re evaluating them in relative terms.
+											They&#39;re why people in the housing market refused to sell their house —
+											because they don&#39;t want to sell at a loss.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The question we were interested in
+											is whether the monkeys show the same biases.
+											If we set up those same scenarios in our little monkey market,
+											would they do the same thing as people?
+											And so this is what we did, we gave the monkeys choices
+											between guys who were safe — they did the same thing every time —
+											or guys who were risky —
+											they did things differently half the time.
+											And then we gave them options that were bonuses —
+											like you guys did in the first scenario —
+											so they actually have a chance more,
+											or pieces where they were experiencing losses —
+											they actually thought they were going to get more than they really got.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so this is what this looks like.
+											We introduced the monkeys to two new monkey salesmen.
+											The guy on the left and right both start with one piece of grape,
+											so it looks pretty good.
+											But they&#39;re going to give the monkeys bonuses.
+											The guy on the left is a safe bonus.
+											All the time, he adds one, to give the monkeys two.
+											The guy on the right is actually a risky bonus.
+											Sometimes the monkeys get no bonus — so this is a bonus of zero.
+											Sometimes the monkeys get two extra.
+											For a big bonus, now they get three.
+											But this is the same choice you guys just faced.
+											Do the monkeys actually want to play it safe
+											and then go with the guy who&#39;s going to do the same thing on every trial,
+											or do they want to be risky
+											and try to get a risky, but big, bonus,
+											but risk the possibility of getting no bonus.
+											People here played it safe.
+											Turns out, the monkeys play it safe too.
+											Qualitatively and quantitatively,
+											they choose exactly the same way as people,
+											when tested in the same thing.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											You might say, well, maybe the monkeys just don&#39;t like risk.
+											Maybe we should see how they do with losses.
+											And so we ran a second version of this.
+											Now, the monkeys meet two guys
+											who aren&#39;t giving them bonuses;
+											they&#39;re actually giving them less than they expect.
+											So they look like they&#39;re starting out with a big amount.
+											These are three grapes; the monkey&#39;s really psyched for this.
+											But now they learn these guys are going to give them less than they expect.
+											They guy on the left is a safe loss.
+											Every single time, he&#39;s going to take one of these away
+											and give the monkeys just two.
+											the guy on the right is the risky loss.
+											Sometimes he gives no loss, so the monkeys are really psyched,
+											but sometimes he actually gives a big loss,
+											taking away two to give the monkeys only one.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so what do the monkeys do?
+											Again, same choice; they can play it safe
+											for always getting two grapes every single time,
+											or they can take a risky bet and choose between one and three.
+											The remarkable thing to us is that, when you give monkeys this choice,
+											they do the same irrational thing that people do.
+											They actually become more risky
+											depending on how the experimenters started.
+											This is crazy because it suggests that the monkeys too
+											are evaluating things in relative terms
+											and actually treating losses differently than they treat gains.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So what does all of this mean?
+											Well, what we&#39;ve shown is that, first of all,
+											we can actually give the monkeys a financial currency,
+											and they do very similar things with it.
+											They do some of the smart things we do,
+											some of the kind of not so nice things we do,
+											like steal it and so on.
+											But they also do some of the irrational things we do.
+											They systematically get things wrong
+											and in the same ways that we do.
+											This is the first take-home message of the Talk,
+											which is that if you saw the beginning of this and you thought,
+											oh, I&#39;m totally going to go home and hire a capuchin monkey financial adviser.
+											They&#39;re way cuter than the one at ... you know —
+											Don&#39;t do that; they&#39;re probably going to be just as dumb
+											as the human one you already have.
+											So, you know, a little bad — Sorry, sorry, sorry.
+											A little bad for monkey investors.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But of course, you know, the reason you&#39;re laughing is bad for humans too.
+											Because we&#39;ve answered the question we started out with.
+											We wanted to know where these kinds of errors came from.
+											And we started with the hope that maybe we can
+											sort of tweak our financial institutions,
+											tweak our technologies to make ourselves better.
+											But what we&#39;ve learn is that these biases might be a deeper part of us than that.
+											In fact, they might be due to the very nature
+											of our evolutionary history.
+											You know, maybe it&#39;s not just humans
+											at the right side of this chain that&#39;s duncey.
+											Maybe it&#39;s sort of duncey all the way back.
+											And this, if we believe the capuchin monkey results,
+											means that these duncey strategies
+											might be 35 million years old.
+											That&#39;s a long time for a strategy
+											to potentially get changed around — really, really old.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											What do we know about other old strategies like this?
+											Well, one thing we know is that they tend to be really hard to overcome.
+											You know, think of our evolutionary predilection
+											for eating sweet things, fatty things like cheesecake.
+											You can&#39;t just shut that off.
+											You can&#39;t just look at the dessert cart as say, &quot;No, no, no. That looks disgusting to me.&quot;
+											We&#39;re just built differently.
+											We&#39;re going to perceive it as a good thing to go after.
+											My guess is that the same thing is going to be true
+											when humans are perceiving
+											different financial decisions.
+											When you&#39;re watching your stocks plummet into the red,
+											when you&#39;re watching your house price go down,
+											you&#39;re not going to be able to see that
+											in anything but old evolutionary terms.
+											This means that the biases
+											that lead investors to do badly,
+											that lead to the foreclosure crisis
+											are going to be really hard to overcome.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So that&#39;s the bad news. The question is: is there any good news?
+											I&#39;m supposed to be up here telling you the good news.
+											Well, the good news, I think,
+											is what I started with at the beginning of the Talk,
+											which is that humans are not only smart;
+											we&#39;re really inspirationally smart
+											to the rest of the animals in the biological kingdom.
+											We&#39;re so good at overcoming our biological limitations —
+											you know, I flew over here in an airplane.
+											I didn&#39;t have to try to flap my wings.
+											I&#39;m wearing contact lenses now so that I can see all of you.
+											I don&#39;t have to rely on my own near-sightedness.
+											We actually have all of these cases
+											where we overcome our biological limitations
+											through technology and other means, seemingly pretty easily.
+											But we have to recognize that we have those limitations.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And here&#39;s the rub.
+											It was Camus who once said that, &quot;Man is the only species
+											who refuses to be what he really is.&quot;
+											But the irony is that
+											it might only be in recognizing our limitations
+											that we can really actually overcome them.
+											The hope is that you all will think about your limitations,
+											not necessarily as unovercomable,
+											but to recognize them, accept them
+											and then use the world of design to actually figure them out.
+											That might be the only way that we will really be able
+											to achieve our own human potential
+											and really be the noble species we hope to all be.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":759,"count":613,"talk_id":927},"threadId":759,"current_talk":"927","description":"Laurie Santos looks for the roots of human irrationality by watching the way our primate relatives make decisions. A clever series of experiments in \"monkeynomics\" shows that some of the silly choices we make, monkeys make too.","event":"TEDGlobal 2010","language":"en","name":"Laurie Santos: A monkey economy as irrational as ours","slug":"laurie_santos","speakers":[{"id":"749","slug":"laurie_santos","is_published":true,"firstname":"Laurie","lastname":"Santos","middleinitial":"","title":"","description":"Cognitive psychologist","photo_url":"https://pe.tedcdn.com/images/ted/187439_254x191.jpg","whatotherssay":"Through a series of groundbreaking experiments, Santos has seen in her primates a humanlike propensity for hoarding, larceny, and competitiveness. By exploring the inner lives of primates, she has offered persuasive evidence that monkeys are capable of sophisticated insight, complex reasoning, and calculated action.","whotheyare":"Laurie Santos studies primate psychology and monkeynomics -- testing problems in human psychology on primates, who (not so surprisingly) have many of the same predictable irrationalities we do.","whylisten":"<p>Laurie Santos runs the Comparative Cognition Laboratory (CapLab) at Yale, where she and collaborators across departments (from psychology to primatology to neurobiology) <strong>explore the evolutionary origins of the human mind</strong> by studying lemurs, capuchin monkeys and other primates. The twist: Santos looks not only for positive humanlike traits, like tool-using and altruism, but irrational ones, like biased decisionmaking.</p><p>In elegant, carefully constructed experiments, Santos and CapLab have studied <strong>how primates understand and categorize objects in the physical world</strong> -- for instance, that monkeys understand an object is still whole even when part of it is obscured. Going deeper, their experiments also search for clues that primates possess a theory of mind -- an ability to think about what other people think. </p><p>Most recently, the lab has been looking at behaviors that were once the province mainly of novelists: jealousy, frustration, judgment of others&#39; intentions, poor economic choices. In one experiment, Santos and her team <strong>taught monkeys to use a form of money</strong>, tradeable for food. When certain foods became cheaper, monkeys would, like humans, overbuy. As we humans search for clues to our own irrational behaviors, Santos&#39; research suggests that the source of our genius for bad decisions might be our monkey brains.</p>"}],"url":"https://www.ted.com/talks/laurie_santos","viewed_count":1320133,"talks":[{"recommendations":null,"more_resources":[{"status":"approved","headline":"Laurie Santos recommends","blurb":"To find out more about your own economic biases, the cognitive psychologist strongly suggests reading Daniel Kahneman's *Thinking, Fast and Slow*.","link_url":"http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555?tag=teco06-20","image_url":"","visible_url":"","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"external_website"}],"corrections":[],"has_citations":true,"take_action":[],"curator_approved":true,"description":"Laurie Santos looks for the roots of human irrationality by watching the way our primate relatives make decisions. A clever series of experiments in \"monkeynomics\" shows that some of the silly choices we make, monkeys make too.","downloads":{"id":927,"languages":[{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Catalan","endonym":"Català","languageCode":"ca","ianaCode":"ca","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Slovak","endonym":"Slovenčina","languageCode":"sk","ianaCode":"sk","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/LaurieSantos_2010G-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/LaurieSantos_2010G.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"de":{"name":"German","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-de.mp4","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-de.mp4"},"fr":{"name":"French","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-fr.mp4","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-fr.mp4"},"zh-tw":{"name":"Chinese, Traditional","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-zh-tw.mp4","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-zh-tw.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-ja.mp4","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-ja.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-zh-cn.mp4","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-zh-cn.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-ko.mp4","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-ko.mp4"},"en":{"name":"English","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-en.mp4","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-pt-br.mp4","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-it.mp4","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-it.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-he.mp4","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-he.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-bg.mp4","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-ro.mp4","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-pl.mp4","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-pl.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-nl.mp4","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-nl.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-tr.mp4","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-tr.mp4"},"hr":{"name":"Croatian","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-hr.mp4","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-hr.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-ru.mp4","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-ru.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-hu.mp4","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-hu.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-el.mp4","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-el.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-es.mp4","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-es.mp4"},"cs":{"name":"Czech","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-cs.mp4","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-cs.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-pt.mp4","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-pt.mp4"},"ca":{"name":"Catalan","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-ca.mp4","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-ca.mp4"},"sk":{"name":"Slovak","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-sk.mp4","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-sk.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-sr.mp4","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-sr.mp4"},"ar":{"name":"Arabic","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-ar.mp4","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-ar.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-fa.mp4","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-fa.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/LaurieSantos_2010G-low-vi.mp4","high":"https://download.ted.com/talks/LaurieSantos_2010G-480p-vi.mp4"}},"audioDownload":null},"duration":1185.0,"event":"TEDGlobal 2010","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/187437_800x600.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/187437_800x600.jpg?q=50&w=15","id":"927","player_talks":[{"id":"927","duration":1185.0,"languages":[{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Catalan","endonym":"Català","languageCode":"ca","ianaCode":"ca","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Slovak","endonym":"Slovenčina","languageCode":"sk","ianaCode":"sk","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2010G/Blank/LaurieSantos_2010G-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDGlobal%2B2010%26id%3D927%26tag%3Dbrain%2Cbusiness%2Cdesign%2Ceconomics%2Cmoney%2Cmonkeys%2Cpsychology%2Cscience%26talk%3Dlaurie_santos%26year%3D2010&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"927","talk":"laurie_santos","tag":"brain,business,design,economics,money,monkeys,psychology,science","year":"2010","event":"TEDGlobal 2010"},"stream":"https://hls.ted.com/talks/927.m3u8","metadata":"https://hls.ted.com/talks/927.json"}},"targeting":{"id":"927","talk":"laurie_santos","tag":"brain,business,design,economics,money,monkeys,psychology,science","year":"2010","event":"TEDGlobal 2010"},"canonical":"https://www.ted.com/talks/laurie_santos","name":"Laurie Santos: A monkey economy as irrational as ours","title":"A monkey economy as irrational as ours","speaker":"Laurie Santos","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/187437_800x600.jpg?quality=89&w=600","slug":"laurie_santos","event":"TEDGlobal 2010","published":1280393220}],"ratings":[{"id":22,"name":"Fascinating","count":873},{"id":8,"name":"Informative","count":850},{"id":7,"name":"Funny","count":277},{"id":10,"name":"Inspiring","count":334},{"id":23,"name":"Jaw-dropping","count":174},{"id":21,"name":"Unconvincing","count":93},{"id":9,"name":"Ingenious","count":409},{"id":24,"name":"Persuasive","count":420},{"id":11,"name":"Longwinded","count":91},{"id":25,"name":"OK","count":148},{"id":1,"name":"Beautiful","count":49},{"id":3,"name":"Courageous","count":44},{"id":26,"name":"Obnoxious","count":37},{"id":2,"name":"Confusing","count":27}],"recorded_at":"2010-07-16T00:00:00.000+00:00","related_talks":[{"id":"76","hero":"https://pe.tedcdn.com/images/ted/967edc6222feee0e6cb9d2f32aa7766fee852c11_1600x1200.jpg","speaker":"Susan Savage-Rumbaugh","title":"The gentle genius of bonobos","duration":1045.0,"slug":"susan_savage_rumbaugh_on_apes_that_write","viewed_count":2358373},{"id":"548","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/bc922644-09d4-47e6-b6e1-c0afb84d050c/DanAriely_2008P-embed.jpg","speaker":"Dan Ariely","title":"Are we in control of our own decisions?","duration":1046.0,"slug":"dan_ariely_asks_are_we_in_control_of_our_own_decisions","viewed_count":5411251},{"id":"779","hero":"https://pe.tedcdn.com/images/ted/cedfa6cd9d9b0c01b013c3bb4395f57625d5ce69_1600x1200.jpg","speaker":"Daniel Kahneman","title":"The riddle of experience vs. memory","duration":1206.0,"slug":"daniel_kahneman_the_riddle_of_experience_vs_memory","viewed_count":4114315},{"id":"2458","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/d5d00454-d7aa-434c-8fae-ff2bc97c5f02/TimUrban_2016-embed.jpg","speaker":"Tim Urban","title":"Inside the mind of a master procrastinator","duration":843.0,"slug":"tim_urban_inside_the_mind_of_a_master_procrastinator","viewed_count":19641353},{"id":"2721","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/de9113f0-b8bd-4df4-aec6-02e7c5fa0b32/MosheSzyf_2016X-embed.jpg","speaker":"Moshe Szyf","title":"How early life experience is written into DNA","duration":995.0,"slug":"moshe_szyf_how_early_life_experience_is_written_into_dna","viewed_count":1271770},{"id":"2172","hero":"https://pe.tedcdn.com/images/ted/2689358c500f6100e9b372d5a88e1c2e53437f2f_2880x1620.jpg","speaker":"Miguel Nicolelis","title":"Brain-to-brain communication has arrived. How we did it","duration":1137.0,"slug":"miguel_nicolelis_brain_to_brain_communication_has_arrived_how_we_did_it","viewed_count":1341878}],"slug":"laurie_santos","speakers":[{"id":"749","slug":"laurie_santos","is_published":true,"firstname":"Laurie","lastname":"Santos","middleinitial":"","title":"","description":"Cognitive psychologist","photo_url":"https://pe.tedcdn.com/images/ted/187439_254x191.jpg","whatotherssay":"Through a series of groundbreaking experiments, Santos has seen in her primates a humanlike propensity for hoarding, larceny, and competitiveness. By exploring the inner lives of primates, she has offered persuasive evidence that monkeys are capable of sophisticated insight, complex reasoning, and calculated action.","whotheyare":"Laurie Santos studies primate psychology and monkeynomics -- testing problems in human psychology on primates, who (not so surprisingly) have many of the same predictable irrationalities we do.","whylisten":"<p>Laurie Santos runs the Comparative Cognition Laboratory (CapLab) at Yale, where she and collaborators across departments (from psychology to primatology to neurobiology) <strong>explore the evolutionary origins of the human mind</strong> by studying lemurs, capuchin monkeys and other primates. The twist: Santos looks not only for positive humanlike traits, like tool-using and altruism, but irrational ones, like biased decisionmaking.</p><p>In elegant, carefully constructed experiments, Santos and CapLab have studied <strong>how primates understand and categorize objects in the physical world</strong> -- for instance, that monkeys understand an object is still whole even when part of it is obscured. Going deeper, their experiments also search for clues that primates possess a theory of mind -- an ability to think about what other people think. </p><p>Most recently, the lab has been looking at behaviors that were once the province mainly of novelists: jealousy, frustration, judgment of others&#39; intentions, poor economic choices. In one experiment, Santos and her team <strong>taught monkeys to use a form of money</strong>, tradeable for food. When certain foods became cheaper, monkeys would, like humans, overbuy. As we humans search for clues to our own irrational behaviors, Santos&#39; research suggests that the source of our genius for bad decisions might be our monkey brains.</p>"}],"speaker_name":"Laurie Santos","tags":["brain","business","design","economics","money","monkeys","psychology","science"],"title":"A monkey economy as irrational as ours","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":1320133}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

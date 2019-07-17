@@ -1,0 +1,3027 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>WorkLife with Adam Grant: Your hidden personality | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Are you an introvert ... or an extrovert? You might not know yourself as well as you think. Adam Grant talks with &quot;Quiet&quot; author Susan Cain and visits a workplace where personality training starts even before job training, to help you discover what your traits really are -- and how you can stretch beyond them. This episode is brought to you by Warby Parker, Accenture, Bonobos and JPMorgan Chase &amp;amp; Co. (Audio only)" />
+<meta name="author" content="WorkLife with Adam Grant" />
+<link rel="canonical" href="https://www.ted.com/talks/worklife_with_adam_grant_is_your_personality_more_flexible_than_you_think/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/worklife_with_adam_grant_is_your_personality_more_flexible_than_you_think/transcript" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/worklife_with_adam_grant_is_your_personality_more_flexible_than_you_think/transcript?language=en" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/worklife_with_adam_grant_is_your_personality_more_flexible_than_you_think/transcript?language=es" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/worklife_with_adam_grant_is_your_personality_more_flexible_than_you_think/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/worklife_with_adam_grant_is_your_personality_more_flexible_than_you_think/transcript?language=sr" />
+<meta property="og:title" content="Transcript of &quot;Your hidden personality&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/118da09d-84f4-4f98-9098-46380cdd2e84/WorkLife.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/118da09d-84f4-4f98-9098-46380cdd2e84/WorkLife.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="WorkLife with Adam Grant: Your hidden personality" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Are you an introvert ... or an extrovert? You might not know yourself as well as you think. Adam Grant talks with &quot;Quiet&quot; author Susan Cain and visits a workplace where personality training starts even before job training, to help you discover what your traits really are -- and how you can stretch beyond them. This episode is brought to you by Warby Parker, Accenture, Bonobos and JPMorgan Chase &amp;amp; Co. (Audio only)" />
+<meta property="og:url" content="https://www.ted.com/talks/worklife_with_adam_grant_is_your_personality_more_flexible_than_you_think/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 12748);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/worklife_with_adam_grant_is_your_personality_more_flexible_than_you_think' itemprop='url'>
+<meta content='Your hidden personality' itemprop='name'>
+<meta content='Are you an introvert ... or an extrovert? You might not know yourself as well as you think. Adam Grant talks with "Quiet" author Susan Cain and visits a workplace where personality training starts even before job training, to help you discover what your traits really are — and how you can stretch beyond them. This episode is brought to you by Warby Parker, Accenture, Bonobos and JPMorgan Chase &amp; Co. (Audio only)' itemprop='description'>
+<meta content='PT32M13S' itemprop='duration'>
+<meta content='2018-03-22T19:20:20+00:00' itemprop='uploadDate'>
+<meta content='0' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/118da09d-84f4-4f98-9098-46380cdd2e84/WorkLife.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/adam_grant' itemprop='url'>
+<meta content='Adam Grant' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/4539f3cc574c36cae93ab8e542ada5ae2e470e98_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/worklife_with_adam_grant_is_your_personality_more_flexible_than_you_think' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/118da09d-84f4-4f98-9098-46380cdd2e84/WorkLife.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				WorkLife with Adam Grant
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					0
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 32:13</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Adam Grant: A few months ago,
+I heard a story so crazy
+											that I had to call the source directly
+to hear it for myself.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Marie-Louise: Yeah, absolutely,
+I&#39;m happy to tell you,
+											and I&#39;ll just sort of talk
+and make a synopsis of what happened.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Her name is Marie-Louise.
+She&#39;s a lawyer.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											ML: So to set the stage,
+I was working in a capacity
+											as general counsel
+for a multinational company,
+											and we had just been acquired.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: They were merging with another firm,
+so she was already nervous.
+											Who were they going to keep?
+Who would get fired?
+											There was a big executive retreat
+to figure it out.
+											Right before the retreat,
+											everyone on Marie-Louise&#39;s team
+was asked to take a personality test.
+											She showed up for the meeting
+and the new bosses ...
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											ML: They wanted to broadcast who was who.
+											And they&#39;d made T-shirts
+with our personality types,
+											and we had to wear them.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Sounds like summer camp.
+											Summer camp from hell,
+because one of the senior execs
+											told everyone who didn&#39;t match
+his personality type —
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											ML: &quot;Don&#39;t worry, you won&#39;t be fired,
+but you&#39;ll slowly be weeded out.&quot;
+											And then he laughed and lots of others
+on their team laughed as well,
+											but it was completely apparent
+that it wasn&#39;t a joke.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: People got fired
+for having the wrong personality.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I&#39;m Adam Grant and this is WorkLife,
+											my podcast with TED.
+											I&#39;m an organizational psychologist.
+											I study how to make work not suck.
+											In this show, I take you
+to some truly unusual places
+											where they&#39;ve mastered something
+I wish everyone knew about work.
+											Today, personality:
+											what you might not know about yours
+											and why it&#39;s more flexible than you think.
+											Thanks to Warby Parker
+for sponsoring this episode.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											OK, it&#39;s ridiculous to fire someone
+for having the wrong personality,
+											but here&#39;s the thing:
+											at some point in your life,
+											you probably fired yourself
+for having the wrong personality.
+											What I mean is, we opt
+out of entire career paths,
+											saying things like,
+											&quot;I&#39;m not outgoing enough to be in sales&quot;
+											and &quot;I just don&#39;t have the patience
+to study to be a lawyer or a doctor.&quot;
+											We decide not to pursue jobs that feel
+like a stretch for our personalities.
+											We close the door on opportunities
+											and on ourselves.
+											Personality is the set
+of tendencies you carry with you,
+											how friendly, assertive, hardworking,
+curious and anxious you might be
+											from one situation to another.
+											There are way too many traits
+to cover them all in this episode,
+											so I&#39;m going to zoom in on one key trait
+as an example throughout:
+											introversion-extraversion.
+											Of all of the major personality traits,
+											it&#39;s the most widely studied
+and the most visible.
+											We can see signs of it at an early age.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Susan Cain: I remember
+thinking about this stuff
+											when I was four years old, at a day camp.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Meet Susan Cain.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											SC: And I remember us all
+being gathered around
+											to sing that song,
+											&quot;If you&#39;re happy and you know it,
+clap your hands.&quot; You know that one?
+											And I remember thinking,
+I was happy five minutes ago,
+											when I was hanging out
+with my friend over there,
+											and I&#39;m not happy now and I don&#39;t know
+why they&#39;re making us sing this song.
+											I feel so ridiculous.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Susan didn&#39;t know
+the word at the time,
+											but decades later
+she discovered she was an introvert.
+											A light bulb went off.
+											She dove headfirst into the science.
+											Eventually, she started
+a prototypically introverted project:
+											writing a book about introverts.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											SC: I felt like I was working
+on an odd project
+											that was hard to talk about
+at dinner parties.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Well, it also makes it hard
+to go to dinner parties.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											SC: (Laughs)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Susan&#39;s book, &quot;Quiet,&quot;
+											ignited a national conversation
+about the neglected role of introverts
+											in work and life.
+											She learned that,
+like all the major traits,
+											introversion-extraversion
+has roots in your physiology,
+											your brain chemistry.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											SC: Scientists have done
+longitudinal studies
+											where they follow people
+throughout their lives,
+											and they&#39;ve started with babies
+as young as four days old.
+											And they give sugar water
+to these babies to suck on.
+											And the thing is that sugar water
+is a form of stimulation,
+											just the way going
+to a noisy party would be.
+											And so what you find
+is that the babies who salivate more
+											in response to the sugar water —
+											suggesting they have a more
+activating kind of nervous system
+											that reacts more
+to all the inputs coming in —
+											those same babies
+are somewhat more likely,
+											as they grow older,
+to be more introverted.
+											So those same babies
+when they&#39;re two years old
+											and you put them in a playgroup
+of kids who they&#39;ve never seen before,
+											they&#39;re more likely to react
+to that scenario by freezing up
+											and letting their
+nervous systems settle down
+											as they take in all
+the new inputs coming at them.
+											And it continues this way
+throughout their lives.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: It wasn&#39;t until her early 30s
+											that Susan finally
+took a personality test.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											SC: I took the test, and I felt
+like the scales had fallen from my eyes.
+											It was such a moment of epiphany!
+											But after that, every time
+a friend would come over to my house,
+											the first thing they had to do
+was take the test
+											and then we would sit around
+and talk about it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Wait, back up.
+											You invited friends over
+to take personality tests
+											and then talk about your results?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											SC: (Laughs)
+											Well, I don&#39;t know,
+I mean they were good friends.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: What was it about
+your introversion-extraversion results
+											in particular that resonated with you?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											SC: It explained so much
+											about why I felt so comfortable and alive
+											and activated in some situations
+											and why I felt so intensely
+uncomfortable in others.
+											I was a Wall Street lawyer at the time
+											and I was spending half of my work life
+											sitting in my office drafting documents,
+											which is actually a pretty
+intense intellectual exercise,
+											and I really liked doing it.
+											And then I was spending the other half
+sitting at boardroom tables,
+											often with 10, 15 people
+assembled around the table,
+											and they were often
+kind of intimidating types,
+											feeling the sense of having
+to overcome an innate discomfort.
+											And I hadn&#39;t ever been able
+to put my finger on what explained that
+											until I came across this language.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Most people think
+about introversion-extraversion
+											as where you get your energy,
+											like extraverts get it from people,
+											introverts get it from being alone.
+											But when Susan studied the science,
+											she learned that wasn&#39;t quite right.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											SC: Everybody, whether you&#39;re
+an introvert or an extravert,
+											draws energy from other people
+											and I think that we don&#39;t make
+enough distinction
+											between how many people
+and in what kind of setting.
+											There ends up being this idea,
+oh, introverts are antisocial,
+											and I always say, it&#39;s not that,
+it&#39;s just differently social.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: When you meet someone new,
+											introversion-extraversion
+is often the very first thing you notice.
+											You can even pick up clues
+in a split second,
+											before they&#39;ve said a word.
+											Hey Allison?
+Allison: Yeah?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Allison is my wife.
+											What are you doing?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											A: Googling you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: What did you find?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											A: Just you in the middle of a speech,
+or with your mouth hanging open.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: (Laughs)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: It&#39;s always interesting to see
+											how the people closest to you
+perceive you personality.
+											Early on, Allison saw me
+a little differently than she does now.
+											When you first met me,
+											did you think I was an introvert
+or an extravert?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											A: An extravert.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Why?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											A: Because you&#39;re loud,
+like physically loud.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Wait, what are you talking about?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											A: And clunky. Uncoordinated.
+Everything you do is —
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Uncoordinated? I was
+a junior Olympic springboard diver.
+											That&#39;s all about coordination.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											A: No, that&#39;s totally different.
+											Just because you can do
+a somersault in the air
+											doesn&#39;t mean you can quietly
+open the refrigerator.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: (Laughs)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											A: Everything you do is noisy.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Why do you think
+that makes me an extravert though?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											A: Because no introvert could ever
+live with themselves being that noisy.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: It&#39;s true.
+											So I believe you that I&#39;m noisy.
+Allison: You are.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: But I don&#39;t think
+that makes me an extravert.
+											I think if I were really an extravert,
+											you&#39;d be complaining about
+all the wild parties that I was throwing.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											A: That may be true, but you do like
+more outgoing things than I do.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: That&#39;s because
+you&#39;re more introverted than I am.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											A: Right.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: You can laugh
+about these kinds of differences
+											with family and friends,
+											but they can be
+pretty awkward in your job.
+											To work well with other people,
+											you need to understand their personalities
+and they need to understand yours.
+											That requires a common vocabulary,
+											a language for talking about personality
+that everyone speaks.
+											Enter personality tests.
+											They give us that language,
+which is why so many companies love them.
+											Of all the workplaces I&#39;ve visited,
+											there&#39;s one where personality tests
+seem to be indispensable.
+											It&#39;s called Bain &amp; Company,
+											a hugely successful
+management consulting firm.
+											They hire smart people
+to help fix other companies&#39; problems.
+											Mitt Romney is a former CEO there
+											and recently Glassdoor named them
+the best place to work in all of America.
+											The leaders at Bain think
+personality is pretty important,
+											so important, in fact, that before
+new hires even learn how to do their jobs,
+											they learn about themselves.
+											And I want to see how.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Crowd murmuring)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We&#39;re in a giant ballroom
+in Cape Cod, Massachusetts.
+											150 of Bain&#39;s newest hires
+are here for training.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Sierra Stewart: My name is Sierra Stewart.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Sierra is a team leader at Bain.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											SS: I&#39;m here in Cape Cod,
+acting as a trainer
+											at our associate consultant
+training session.
+											I have a team of six students here with me
+that are from all around the world
+											and they met a couple of days ago,
+											and so it&#39;s pretty easy for any
+little mismatch in personality type
+											to bubble to the surface pretty quickly.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Mismatch in personality
+											is exactly what Bain is trying
+to help people plan for and deal with
+											so they can work effectively together
+											instead of spiraling
+into personal conflicts.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											SS: The way we staff teams at Bain,
+											we typically have anywhere
+from maybe five to seven people on a team,
+											and so the impact of that on us
+											is that you&#39;re pretty regularly
+kicking off work
+											with a new set of people
+you&#39;ve never worked with before,
+											and so figuring out how
+to understand them is really important
+											and you have to do it pretty quickly.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Bain uses several different
+personality tools.
+											One of them is an immensely popular survey
+called the Myers-Briggs Type Indicator,
+											MBTI for short.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Conley Zani: It is a tool
+that gives you insight
+											into four dimensions of your personality.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: This is Conley Zani.
+											She used to work at Bain.
+											During her time there,
+											she found herself
+drawing on the MBTI regularly
+											to make sense of colleagues
+who worked differently
+											and to recognize
+some of her own blind spots.
+											Now Conley helps new recruits at Bain
+											figure out what their personality scores
+might reveal about them.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CZ: How you are energized,
+											how you see the world
+and process information,
+											how you make decisions,
+											and last but not least,
+your lifestyle or work style.
+											You can be right down the middle.
+											Some of you might be right
+in the middle on all of them
+											and that doesn&#39;t mean
+you don&#39;t have a personality.
+											It just literally means you&#39;ve answered
+as many things one way as another.
+											All right? It&#39;s all a spectrum
+and, again, it&#39;s all good.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: But we&#39;ve all been in situations
+where personalities clash.
+											Conley&#39;s goal is to help people
+become aware of their differences
+											and appreciate them.
+											To do that, all you need is a Coke can.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CZ: When you get to your seat,
+											get out a piece of paper
+and tell me about this object.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: That&#39;s what the Bain recruits
+are looking at right now,
+											a can of Coca-Cola.
+											Conley has asked them
+to write down what they see.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CZ: Some of you in the room
+probably have a list
+											that looks a little like,
+											&quot;It&#39;s a Coke can.
+											It&#39;s red.
+											It&#39;s aluminum.
+											Cylindrical.
+											12 fluid ounces.
+											White script letters.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: So far, so good.
+											But not everyone stops at red aluminum.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CZ: But you guys have things
+like &quot;diabetes&quot; on your list.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And &quot;Christmas time&quot; and &quot;polar bears&quot;
+											and &quot;you mix it with rum
+and it&#39;s awesome.&quot;
+											Right? Is anybody willing
+to just read their list?
+											Shout it out real fast?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(An audience member talking indistinctly)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Yeah, sugar, energy, capitalism and USA.
+											We&#39;re all looking at the exact same thing
+and I say, &quot;Tell me about this,&quot;
+											and we go off in different directions.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: When you work closely with someone,
+											it&#39;s critical to understand that
+you might be looking at the same thing
+											but seeing it completely differently.
+											That&#39;s an upside of personality tests.
+											They can help you see your blind spots.
+											But they have a downside too.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Merve Emre: There&#39;s something
+very comforting, I think, about saying,
+											&quot;I am an extravert, I am a thinker.&quot;
+											I think it&#39;s tremendously seductive
+											because it gives you
+such an easy language for self-definition
+											and by extension for self-cultivation.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: This is Merve Emre,
+											an English professor
+at McGill University in Montreal.
+											She&#39;s writing a book about personality
+											and she finds that for some people,
+											discovering their traits
+can be like a spiritual awakening.
+											Why? Why are people so attached to it
+to the point of almost religious zeal?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											ME: I think you&#39;re not wrong at all
+											to draw the parallel
+between religion and types,
+											technique of self, or language of self.
+											And I think it&#39;s really
+the simplicity of it,
+											the promise of taking human relationships
+and human encounters that are so fraught
+											and boiling it down
+to something as easy as,
+											&quot;I am something and you are something else
+											and that&#39;s why we interact
+the way that we do.
+											I don&#39;t think we should
+underestimate the power that has
+											over people&#39;s sense of self.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: At the beginning of her career,
+Merve had to take a personality test.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											ME: There was a woman who came in
+and debriefed us on what our results were,
+											and after that at work,
+											our type was often used
+to try to anticipate
+											how we might function
+in certain group settings.
+											But I was really excited by it
+and I remember going up to the woman
+											who had debriefed us afterwards
+											and talking to her
+a little bit more about it.
+											And she said, &quot;You know,
+you&#39;re the real sort of CEO type.
+											I see great things in your future.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Fortune-teller!
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											ME: Right, right, I mean,
+yes, everything but the orb.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: A personality test doesn&#39;t explain
+why you are the way you are.
+											It just describes what your traits are.
+											You want to know your traits
+so you can work better with others,
+											but there are times when your success
+and your happiness
+											depends on stretching beyond your traits.
+											More on that after the break.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is going to be
+a different kind of ad.
+											I&#39;ve played a personal role in selecting
+the sponsors for this podcast,
+											because they all have
+interesting cultures of their own.
+											Today, we&#39;re going inside
+the workplace at Warby Parker.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Many companies claim
+to have cultures of learning,
+											but Warby Parker
+takes that to a whole new level.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Lon Binder: People are hungry
+											and they want to look
+for what&#39;s next for themselves.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: At Warby Parker,
+they believe everyone is capable
+											of mastering more than one role
+											and they encourage people
+to reinvent themselves with new skills.
+											They call the philosophy
+&quot;Learn, Grow, Repeat.&quot;
+											You can see it all over the company,
+											but my favorite example
+is the story of Lon and Mary.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											LB: I&#39;m Lon Binder. I&#39;m the chief
+technology officer at Warby Parker
+											and I&#39;ve been here just about six years.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Mary Nagle: My name&#39;s Mary Nagle
+											and I started initially as the executive
+associate for technology and finance.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											LB: She joined actually as my assistant.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											MN: It was mainly administrative duties,
+not much in the weeds with technology.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: And she was great at her job,
+											but every month,
+											Lon and Mary would talk about
+what she wanted to do with her career.
+											Mary always had an analytical mind.
+											She loved puzzles, solving things,
+											and then one day,
+Lon came to her with a problem.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											LB: I had an app that I was working on
+											and I needed somebody
+to help me with some bugs
+											that were coming up in the app.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											MN: I think he knew that I&#39;d shown
+some interest and curiosity
+											in what the engineers did for a living.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											LB: And so I turned to Mary and said —
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											MN: Do you want to do it? Like, a shrug.
+											It was like, actually, yeah,
+											I think that&#39;s something
+I&#39;d be really interested in taking on.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											LB: She did amazing,
+											and for the technical folks
+in the audience,
+											she started unrolling a loop.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											MN: It took me a very long time,
+but I eventually was able to fix the bug,
+											get the application working.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											LB: She just figured it out.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											MN: I remember just feeling
+this huge sense of accomplishment.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: She&#39;d also developed a new passion,
+which is a big priority at Warby Parker.
+											So Lon didn&#39;t say,
+											&quot;Thanks, Mary, you can go back
+to your executive assistant role now.&quot;
+											Instead he turned to her and asked —
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											MN: &quot;Have you ever considered
+becoming a software engineer?&quot;
+											And my answer was yes.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: And Warby also created
+a path for her to get there,
+											which they do across the whole company.
+											Mary had the time, space
+and resources to pursue her dream.
+											Now, two years later, Mary has gone
+from being an executive assistant
+											to a full software engineer.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											MN: I love it.
+											It&#39;s like I get to go into work
+and solve a puzzle every single day.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: So at Warby Parker, there&#39;s no telling
+just how far Mary will go.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And how long will it be
+until Mary has your job?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											LB: Probably another month.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											MN: He knows I&#39;m coming for him.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Mary isn&#39;t alone.
+											Lon&#39;s next executive assistant went on
+to become a technical product manager
+											and many other Warby employees
+have made leaps into new roles too.
+											I&#39;d love to see that happen
+in every company.
+											Instead of being kept in a box
+tethered to a job title,
+											people are encouraged to explore
+and empowered to advance.
+											Curiosity is a core value at Warby Parker
+											and their frames are so fashionable
+											that I actually know people who wear them
+even though they don&#39;t need glasses.
+											Looking for somewhere to start?
+											Their home try-on program
+lets you select five frames
+											to test out free for five days.
+											If you don&#39;t like them,
+you can send them back.
+											Try it today at warbyparker.com/ted.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: When I was in college,
+											my roommate tried to talk me
+into taking a class on personality.
+											I said it was a waste of time.
+											I wasn&#39;t interested in studying
+why people are stuck the way they are.
+											I care about how psychology
+can improve people&#39;s lives.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Brian Little: Oh, it makes me giddy.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: And so does this guy.
+											Brian Little is a wildly popular
+personality psychology professor,
+											now at the University of Cambridge.
+											I ended up taking his class after all
+											and he was so compelling that I decided
+to become a psychologist too.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											BL: The study of personality
+helps bring together
+											two passions of mine
+from the very beginning,
+											one with the sciences and the other
+the arts and humanities.
+											And to be able to study
+neurons and narratives
+											in the morning and the afternoon
+											to me was quite intoxicating.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Neurons and narratives,
+											the biological stuff
+and the stories we tell ourselves,
+											they both influence our personality.
+											But so does the situation we&#39;re in.
+											Studies have shown that personality,
+at least for some of us,
+											shifts depending on the circumstance.
+											For some people, being adaptable
+is one of their traits.
+											It&#39;s called self-monitoring.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											BL: High self-monitors
+are able to flex themselves
+											to the demands of the situation.
+											When they&#39;re at a funeral,
+they act funereal.
+											When they&#39;re at a party, they act party.
+											They&#39;re different people
+in different situations,
+											what I sometimes call stand-up chameleons.
+											They change color to suit the context.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: A low self-monitor is the opposite.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											BL: He knows what he wants,
+he knows what he feels
+											and he isn&#39;t going to bend himself
+to the situation
+											if it calls for different behavior.
+											Why should he?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: It&#39;s not just at parties.
+											Self-monitoring can affect
+every part of our lives.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											BL: High self-monitors,
+when they eat steak,
+											will taste it first to see what it&#39;s like
+before putting salt on.
+											Whereas low self-monitors, they know,
+they like salt, they don&#39;t like salt
+											and they go ahead and they do whatever
+they feel without testing it out first.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: I guess the first thing
+that I was puzzled by in that study
+											was that people put salt on steak,
+which was new to me,
+											but I think one of the first things
+that self-monitoring did for me
+											was it opened up this idea
+that maybe my personality isn&#39;t fixed.
+											If I discover that I have
+a set of personality traits,
+											like I&#39;m an introvert,
+or I&#39;m highly agreeable,
+											am I stuck with those traits?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											BL: No. To simply say
+I&#39;m an introvert or I&#39;m agreeable
+											misses the fact that in many
+situations you may not be.
+											I think that people have to be careful
+											that once they diagnose themselves
+or something like that,
+											that they don&#39;t see it as something
+from which they can&#39;t escape.
+											We have far more degrees of freedom
+to shape our lives
+											than those strong
+&quot;trait is your destiny&quot; positions
+											would encourage us to believe.
+											I think there are fates beyond traits.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: In the workplace,
+											the evidence shows that high self-monitors
+are more effective on average.
+											They get higher performance reviews
+and get promoted more often.
+											They&#39;re better at getting ahead
+and getting along.
+											The time they spend adapting
+allows them to overcome obstacles
+											and obstinate people.
+											Self-monitoring is all about
+assessing the situation and adapting,
+											and the good news is that many of us
+underestimate our adaptability.
+											Remember Susan Cain,
+who wrote the book &quot;Quiet&quot;?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											SC: (Laughs)
+											Hi, my name is Susan and I&#39;m an introvert.
+											When I was in 8th grade,
+we were studying &quot;Macbeth.&quot;
+											I don&#39;t think the teacher knew
+that I was kind of shy.
+											She called me up to the front of the room
+to improvise a scene
+											where I was going to play Lady Macbeth
+											and my friend Rob
+was going to play Macbeth.
+											And that was the kind of thing
+that really triggered my shyness,
+											and so I stood up in front of the room
+and couldn&#39;t say a word, couldn&#39;t think,
+											and so I just stood there gaping,
+											and then a minute later
+just sat back down and that was that,
+											and I just felt incredibly ashamed
+and humiliated by this.
+											And after that my fear of public speaking
+was intensified really
+											for the next few decades.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Earlier, Susan mentioned
+that introverts aren&#39;t antisocial,
+											they&#39;re differently social.
+											Psychologists tested this
+by texting people throughout the day
+											to ask them how they
+were feeling at that moment
+											and what they were doing.
+											It turned out that everyone
+was more energized
+											during their more social moments,
+											even the introverts.
+											Introverts just get
+overloaded more easily.
+											Bright lights are brighter,
+loud sounds are louder
+											and loud people are a lot more annoying.
+											Overload was a big concern for Susan,
+											because when she
+finished writing her book,
+											she knew she would have to overcome
+her middle school fear
+											of talking in front of big groups.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											SC: When you have a fear-inducing
+or horrifying thing happen to you,
+											it gets encoded into
+your amygdala in your brain,
+											and so for the rest of your life,
+											every time you encounter
+a situation like that,
+											your amygdala is sending you the signal,
+&quot;Get the hell out of here.&quot;
+											So I set out on what I called
+my year of speaking dangerously.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: (Laughs)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And I was drawing on what I knew
+from the psychological research,
+											which is if you&#39;re afraid of anything,
+											the thing to do is to expose yourself
+to the thing you fear
+											in very small and manageable doses.
+											I remember feeling
+incredibly raw and exposed,
+											and it was just incredibly unnatural.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: So she had to figure out how to adapt.
+											She had gotten to know Brian Little
+											during her deep dive
+into the science of introversion.
+											She ended up drawing on his theory
+of acting out of character.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											BL: Acting out of character
+is where you engage in action
+											that runs counter to your disposition,
+											and I think there are
+many reasons why we do that,
+											but the two that are
+most prevalent, I believe,
+											are that we do it out of professionalism
+											and we do it out of love.
+											So it&#39;s a call to stand up.
+											Lean in.
+											Be what you may be afraid to admit
+could be disingenuous
+											but isn&#39;t disingenuous.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Acting out of character
+often feels inauthentic,
+											but that feeling doesn&#39;t hold you back
+when you&#39;re pursuing a passion.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											SC: If I do get butterflies,
+let&#39;s say, before I speak,
+											what I will always tell myself is,
+											OK, there&#39;s at least one person
+in this audience
+											who has a child who is suffering because
+their introversion is misunderstood,
+											or who has a marriage
+that&#39;s not doing as well as it could
+											because they don&#39;t understand
+the differences
+											between their temperaments,
+											and if I can reach just one person
+and make that life better,
+											then it&#39;s worth all
+the butterflies in the world.
+											We&#39;ll all do almost anything
+for our passions. Right?
+											Whether they&#39;re other people
+or ideas or whatever,
+											it&#39;s almost the definition of a passion,
+											that you&#39;re so consumed by it
+and you love it so much,
+											you&#39;ll do almost anything in its service,
+											including taking the stage,
+											which now, by the way, I do all the time
+and I don&#39;t even think twice about it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Are you just a raging extravert now?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											SC: Oh God, no, not at all.
+											Still on any given day,
+											I would so much rather be in my office
+											or in a cafe with my laptop
+											sitting around thinking about ideas
+or listening to great music.
+											That&#39;s really my sweet spot.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: For Susan, that sweet spot is way over
+on the introverted end of the spectrum.
+											In the US, about a quarter
+of the population is the opposite,
+											on the extraverted end,
+											which is where about half
+of all leaders and managers are.
+											But many people are
+somewhere in the middle.
+											They&#39;re ambiverts,
+											equally comfortable
+being the center of attention
+											and being in the background.
+											I&#39;ve found that ambiverts
+actually make more effective leaders
+											and more productive salespeople.
+											They strike a balance
+of talking and listening.
+											Adapting is easy when you&#39;re
+in the middle on a trait.
+											It takes more work if you&#39;re
+on the extreme, like Susan.
+											The goal is not to change
+your personality.
+											It&#39;s to expand your comfort zone.
+											And that means sometimes
+you need to recharge.
+											Brian Little encourages us all
+to find our restorative niches,
+											places you can go or projects
+you can do to reorient.
+											For Susan, it&#39;s sitting in a coffee shop
+or listening to music,
+											so she works well with people
+who give her that space.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											SC: That&#39;s what coworkers
+should be doing with each other, right?
+											It should be that everybody
+understands who the other is,
+											you can kind of joke around about it
+and accommodate each other,
+											and then it all becomes no big deal.
+											And that way everybody&#39;s
+getting their restorative niches,
+											because I think we&#39;ll gladly
+grant each other those niches
+											once we understand why they&#39;re needed.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: So how can you make that
+happen in your job?
+											As weird as it might sound,
+											it can actually help to talk
+about personality with your colleagues.
+											To find out how to have that conversation,
+											I went back to Bain,
+											the management consulting firm
+with the Coke can exercise.
+											They have a creative way
+of making personality useful
+											when a team comes together.
+											Or Skolnik: We are doing a new project
+every few months with a new team
+											and so the ability to get a new team
+up to speed very quickly
+											and kind of get over the initial hurdles
+of working styles is extremely important.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Or Skolnik is a principal at Bain.
+											When he kicks off a new project,
+he gives everyone a sheet of paper.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											OS: Just a one-page overview
+of working with me,
+											and actually it&#39;s written by people
+who have formerly worked with me.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: He asks his colleagues
+to describe his personality
+											and the most effective ways
+to work with him.
+											Think of it as an operating manual,
+											kind of like the one
+in the glove compartment of your car,
+											only for a human instead.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											OS: And pretty much everyone
+at least has something
+											that they&#39;ve written to say,
+											&quot;Here is my preferences,
+what I do well, what I don&#39;t do well,
+											what I&#39;m working on,
+											just so you know
+when you start working with me.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: I think it&#39;s brilliant to do that
+											and I&#39;m kind of stunned
+that every manager on earth doesn&#39;t do it.
+											Those are things you would learn
+in six months of working with you anyway.
+											Why would I not want
+to know them on day one?
+											Do you ever see things on there
+that you don&#39;t like?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											OS: I do.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: And what do you do?
+											Are you like, &quot;Nah,
+I&#39;m going to edit that out,&quot; or what?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											OS: No. The truth is something I do
+that might be annoying to one team member
+											is actually the best part about working
+with me to another team member.
+											So I think, again,
+it&#39;s all about just saying,
+											let&#39;s have a conversation about it
+											to figure out how we can be
+most productive.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: We can all have that discussion,
+											not just to accelerate
+collaboration in new teams
+											but to understand
+our current teams better.
+											But if you&#39;re not aware
+that your traits are flexible,
+											they can become shackles.
+											So often, we chain ourselves
+to who we were at summer camp
+											or how we failed in middle school.
+											I think personality
+should be more of an anchor.
+											It gives you the freedom
+to pursue new possibilities
+											without drifting
+too far away from your place.
+											Your personality matters,
+											but your ability to adapt matters more.
+											Who you become is not
+about the traits you have.
+											It&#39;s about what you decide
+to do with them.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											WorkLife is hosted by me, Adam Grant.
+											The show is produced by TED
+with Transmitter Media
+											and Pineapple Street Media.
+											Our team includes Colin Helms,
+Gretta Cohn, Gabrielle Lewis,
+											Angela Cheng and Janet Lee.
+											This episode was produced by Dan O&#39;Donnell
+											with help from Julia Alsop.
+											Our show is mixed by David Herman
+with help from Dan Dzula.
+											Original music by Hahnsdale Hsu.
+											Special thanks to our sponsors,
+Warby Parker, Accenture,
+											Bonobos and JP Morgan Chase.
+											On April 24, we&#39;re taping an episode
+of WorkLife in New York
+											at the 92nd Street Y.
+											I&#39;ll be onstage with Malcolm Gladwell
+for a fireside chat about all things work
+											and we&#39;re going to answer
+questions from you.
+											If there&#39;s something you&#39;re curious about,
+											you can submit a question
+by email or voicemail.
+											Check out the show
+description for details.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Next time on WorkLife, astronauts
+on the International Space Station.
+											If they want to survive,
+they have to build trust.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Paolo: They&#39;re asking me all these things.
+											How do you work
+in a stressful environment?
+											How do you behave?
+											Risk management and all these things.
+											And I&#39;m like, &quot;What the hell do I know,
+I&#39;m just an engineer.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											That&#39;s next time on WorkLife.
+											Thanks for listening!
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											If you liked what you heard,
+rate and review the show.
+											It helps people find us.
+											See you next week!
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											You&#39;ve known me
+for almost half my life now.
+											What do you know about my personality
+that I am totally oblivious to?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											BL: Nothing, Adam.
+You&#39;re perfect and you know it.
+											This is Brian Little
+signing off and thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":null,"threadId":null,"current_talk":"12748","description":"Are you an introvert ... or an extrovert? You might not know yourself as well as you think. Adam Grant talks with \"Quiet\" author Susan Cain and visits a workplace where personality training starts even before job training, to help you discover what your traits really are -- and how you can stretch beyond them. This episode is brought to you by Warby Parker, Accenture, Bonobos and JPMorgan Chase & Co. (Audio only)","event":"A TED Original Podcast","language":"en","name":"WorkLife with Adam Grant: Your hidden personality","slug":"worklife_with_adam_grant_is_your_personality_more_flexible_than_you_think","speakers":[{"id":"2872","slug":"adam_grant","is_published":true,"firstname":"Adam","lastname":"Grant","middleinitial":"","title":"","description":"Organizational psychologist","photo_url":"https://pe.tedcdn.com/images/ted/4539f3cc574c36cae93ab8e542ada5ae2e470e98_254x191.jpg","whatotherssay":"For Grant, helping is not the enemy of productivity, a time-sapping diversion from the actual work at hand; it is the mother lode, the motivator that spurs increased productivity and creativity.","whotheyare":"After years of studying the dynamics of success and productivity in the workplace, Adam Grant discovered a powerful and often overlooked motivator: helping others.","whylisten":"<p>In his groundbreaking book <em>Give and Take</em>, top-rated Wharton professor Adam Grant upended decades of conventional motivational thinking with the thesis that giving unselfishly to colleagues or clients can lead to one&rsquo;s own long-term success. Grant&rsquo;s research has led hundreds of advice seekers (and HR departments) to his doorstep, and it&rsquo;s changing the way leaders view their workforces.</p><p>Grant&#39;s book <em>Originals: How Non-Conformists Move the World</em> examines how unconventional thinkers overturn the status quo and champion game-changing ideas.</p><p>Grant is the host of the TED original podcast&nbsp;<a href=\"https://www.ted.com/read/ted-podcasts/worklife\" target=\"_blank\"><em>WorkLife</em></a>,&nbsp;taking us inside unconventional workplaces to explore the ideas we can all use to make work more meaningful and creative.</p>"}],"url":"https://www.ted.com/talks/worklife_with_adam_grant_is_your_personality_more_flexible_than_you_think","viewed_count":0,"talks":[{"recommendations":null,"more_resources":[{"status":"approved","headline":"*WorkLife with Adam Grant: A TED original podcast*","blurb":"We spend a quarter of our lives at work, but too little time thinking about how to make it better. Organizational psychologist Adam Grant takes us inside unconventional workplaces to explore ideas we can all use to make work more meaningful and creative.","link_url":"https://www.ted.com/read/ted-podcasts/worklife","image_url":"https://page-builder.ted.com/system/baubles/files/000/005/863/original/worklife.png","visible_url":"ted.com","start_at":null,"end_at":null,"published":true,"eyebrow":"PODCAST","type":"external_website"}],"corrections":[],"has_citations":false,"take_action":[],"curator_approved":true,"description":"Are you an introvert ... or an extrovert? You might not know yourself as well as you think. Adam Grant talks with \"Quiet\" author Susan Cain and visits a workplace where personality training starts even before job training, to help you discover what your traits really are -- and how you can stretch beyond them. This episode is brought to you by Warby Parker, Accenture, Bonobos and JPMorgan Chase & Co. (Audio only)","downloads":{"id":12748,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false}],"nativeDownloads":null,"subtitledDownloads":null,"audioDownload":null},"duration":1933.0,"event":"A TED Original Podcast","event_blurb":null,"event_badge":null,"hero":"https://s3.amazonaws.com/talkstar-photos/uploads/118da09d-84f4-4f98-9098-46380cdd2e84/WorkLife.jpg","hero_load":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/118da09d-84f4-4f98-9098-46380cdd2e84/WorkLife.jpg?q=50&w=15","id":"12748","player_talks":[{"id":"12748","duration":1933.0,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":true,"introDuration":0.0,"adDuration":0.0,"postAdDuration":0.0,"resources":{"h264":null,"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DA%2BTED%2BOriginal%2BPodcast%26id%3D12748%26tag%3Dwork-life%2Bbalance%2Cwork%2Cself%2Cpersonality%26talk%3Dworklife_with_adam_grant_is_your_personality_more_flexible_than_you_think%26year%3D2018&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"12748","talk":"worklife_with_adam_grant_is_your_personality_more_flexible_than_you_think","tag":"work-life balance,work,self,personality","year":"2018","event":"A TED Original Podcast"},"stream":"https://hls.ted.com/talks/12748.m3u8","metadata":"https://hls.ted.com/talks/12748.json"}},"targeting":{"id":"12748","talk":"worklife_with_adam_grant_is_your_personality_more_flexible_than_you_think","tag":"work-life balance,work,self,personality","year":"2018","event":"A TED Original Podcast"},"canonical":"https://www.ted.com/talks/worklife_with_adam_grant_is_your_personality_more_flexible_than_you_think","name":"WorkLife with Adam Grant: Your hidden personality","title":"Your hidden personality","speaker":"WorkLife with Adam Grant","thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/118da09d-84f4-4f98-9098-46380cdd2e84/WorkLife.jpg?quality=89&w=600","slug":"worklife_with_adam_grant_is_your_personality_more_flexible_than_you_think","event":"A TED Original Podcast","published":1521746420}],"ratings":[],"recorded_at":"2018-03-21T00:00:00.000+00:00","related_talks":[{"id":"12355","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/db2b237d-4563-4ef9-b6f9-95d7dc94dc69/WorkLife.jpg","speaker":"WorkLife with Adam Grant","title":"How to love criticism","duration":2079.0,"slug":"worklife_with_adam_grant_dear_billionaire_i_give_you_a_d_minus","viewed_count":656813},{"id":"12356","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/996a8448-7846-41dd-b8b5-d20daa584866/WorkLife.jpg","speaker":"WorkLife with Adam Grant","title":"The Daily Show's secret to creativity","duration":2024.0,"slug":"worklife_with_adam_grant_creative_burstiness_at_the_daily_show","viewed_count":0},{"id":"12499","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/7747ac9c-75ad-47e1-bfc5-6b8f93bd6212/WorkLife.jpg","speaker":"WorkLife with Adam Grant","title":"The problem with all-stars","duration":1994.0,"slug":"worklife_with_adam_grant_the_team_of_humble_stars","viewed_count":430301}],"slug":"worklife_with_adam_grant_is_your_personality_more_flexible_than_you_think","speakers":[{"id":"2872","slug":"adam_grant","is_published":true,"firstname":"Adam","lastname":"Grant","middleinitial":"","title":"","description":"Organizational psychologist","photo_url":"https://pe.tedcdn.com/images/ted/4539f3cc574c36cae93ab8e542ada5ae2e470e98_254x191.jpg","whatotherssay":"For Grant, helping is not the enemy of productivity, a time-sapping diversion from the actual work at hand; it is the mother lode, the motivator that spurs increased productivity and creativity.","whotheyare":"After years of studying the dynamics of success and productivity in the workplace, Adam Grant discovered a powerful and often overlooked motivator: helping others.","whylisten":"<p>In his groundbreaking book <em>Give and Take</em>, top-rated Wharton professor Adam Grant upended decades of conventional motivational thinking with the thesis that giving unselfishly to colleagues or clients can lead to one&rsquo;s own long-term success. Grant&rsquo;s research has led hundreds of advice seekers (and HR departments) to his doorstep, and it&rsquo;s changing the way leaders view their workforces.</p><p>Grant&#39;s book <em>Originals: How Non-Conformists Move the World</em> examines how unconventional thinkers overturn the status quo and champion game-changing ideas.</p><p>Grant is the host of the TED original podcast&nbsp;<a href=\"https://www.ted.com/read/ted-podcasts/worklife\" target=\"_blank\"><em>WorkLife</em></a>,&nbsp;taking us inside unconventional workplaces to explore the ideas we can all use to make work more meaningful and creative.</p>"}],"speaker_name":"WorkLife with Adam Grant","tags":["work-life balance","work","self","personality"],"title":"Your hidden personality","video_type":{"id":"6","name":"Original Content"},"viewed_count":0}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

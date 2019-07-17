@@ -1,0 +1,1214 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Deborah Gordon: The emergent genius of ant colonies | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Deborah Gordon studies ant colonies in the Arizona desert to understand their complex social system. She asks: How do these chitinous creatures get down to business -- and even multitask when they need to -- with no language, memory or visible leadership? Her answers could lead to a better understanding of all complex systems, from the brain to the Web. Thanks, ants." />
+<meta name="author" content="Deborah Gordon" />
+<link rel="canonical" href="https://www.ted.com/talks/deborah_gordon_digs_ants/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/deborah_gordon_digs_ants/transcript" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/deborah_gordon_digs_ants/transcript?language=en" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/deborah_gordon_digs_ants/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/deborah_gordon_digs_ants/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/deborah_gordon_digs_ants/transcript?language=pt-br" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/deborah_gordon_digs_ants/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/deborah_gordon_digs_ants/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/deborah_gordon_digs_ants/transcript?language=nl" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/deborah_gordon_digs_ants/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/deborah_gordon_digs_ants/transcript?language=tr" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/deborah_gordon_digs_ants/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/deborah_gordon_digs_ants/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/deborah_gordon_digs_ants/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/deborah_gordon_digs_ants/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/deborah_gordon_digs_ants/transcript?language=bg" />
+<link rel="alternate" hreflang="hr" href="https://www.ted.com/talks/deborah_gordon_digs_ants/transcript?language=hr" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/deborah_gordon_digs_ants/transcript?language=de" />
+<link rel="alternate" hreflang="da" href="https://www.ted.com/talks/deborah_gordon_digs_ants/transcript?language=da" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/deborah_gordon_digs_ants/transcript?language=fa" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/deborah_gordon_digs_ants/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/deborah_gordon_digs_ants/transcript?language=he" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/deborah_gordon_digs_ants/transcript?language=ko" />
+<meta property="og:title" content="Transcript of &quot;The emergent genius of ant colonies&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/29333ffe97803b733ce8a21f90c0b0e738a3adc5_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/29333ffe97803b733ce8a21f90c0b0e738a3adc5_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Deborah Gordon: The emergent genius of ant colonies" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Deborah Gordon studies ant colonies in the Arizona desert to understand their complex social system. She asks: How do these chitinous creatures get down to business -- and even multitask when they need to -- with no language, memory or visible leadership? Her answers could lead to a better understanding of all complex systems, from the brain to the Web. Thanks, ants." />
+<meta property="og:url" content="https://www.ted.com/talks/deborah_gordon_digs_ants/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 145);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/deborah_gordon_digs_ants' itemprop='url'>
+<meta content='The emergent genius of ant colonies' itemprop='name'>
+<meta content='Deborah Gordon studies ant colonies in the Arizona desert to understand their complex social system. She asks: How do these chitinous creatures get down to business — and even multitask when they need to — with no language, memory or visible leadership? Her answers could lead to a better understanding of all complex systems, from the brain to the Web. Thanks, ants.' itemprop='description'>
+<meta content='PT20M31S' itemprop='duration'>
+<meta content='2008-01-08T00:26:00+00:00' itemprop='uploadDate'>
+<meta content='1005640' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/29333ffe97803b733ce8a21f90c0b0e738a3adc5_1600x1200.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/deborah_gordon' itemprop='url'>
+<meta content='Deborah Gordon' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/5684cdf77548fe6deaa1b865e95fa233fffd9fe7_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/deborah_gordon_digs_ants' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/29333ffe97803b733ce8a21f90c0b0e738a3adc5_1600x1200.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Deborah Gordon
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,005,640
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 20:31</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I study ants, and that&#39;s because I like to think about how organizations work.
+											And in particular, how the simple parts of organizations
+											interact to create the behavior of the whole organization.
+											So, ant colonies are a good example of an organization like that,
+											and there are many others. The web is one.
+											There are many biological systems like that —
+											brains, cells, developing embryos.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											There are about 10,000 species of ants.
+											They all live in colonies consisting of one or a few queens,
+											and then all the ants you see walking around are sterile female workers.
+											And all ant colonies have in common that there&#39;s no central control.
+											Nobody tells anybody what to do.
+											The queen just lays the eggs. There&#39;s no management.
+											No ant directs the behavior of any other ant.
+											And I try to figure out how that works.
+											And I&#39;ve been working for the past 20 years
+											on a population of seed-eating ants in southeastern Arizona.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Here&#39;s my study site. This is really a picture of ants,
+											and the rabbit just happens to be there.
+											And these ants are called harvester ants because they eat seeds.
+											This is the nest of the mature colony, and there&#39;s the nest entrance.
+											And they forage maybe for about 20 meters away,
+											gather up the seeds and bring them back to the nest, and store them.
+											And every year I go there and make a map of my study site.
+											This is just a road. And it&#39;s not very big:
+											it&#39;s about 250 meters on one side, 400 on the other.
+											And every colony has a name, which is a number,
+											which is painted on a rock. And I go there every year
+											and look for all the colonies that were alive the year before,
+											and figure out which ones have died, and put all the new ones on the map.
+											And by doing this I know how old they all are.
+											And because of that, I&#39;ve been able to study how their behavior changes
+											as the colony gets older and larger.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So I want to tell you about the life cycle of a colony.
+											Ants never make more ants; colonies make more colonies.
+											And they do that by each year sending out the reproductives —
+											those are the ones with wings — on a mating flight.
+											So every year, on the same day — and it&#39;s a mystery exactly how that happens —
+											each colony sends out its virgin, unmated queens with wings, and the males,
+											and they all fly to a common place. And they mate.
+											And this shows a recently virgin queen. Here&#39;s her wings.
+											And she&#39;s in the process of mating with this male,
+											and there&#39;s another male on top waiting his turn.
+											Often the queens mate more than once.
+											And after that, the males all die. That&#39;s it for them.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And then the newly mated queens fly off somewhere, drop their wings,
+											dig a hole and go into that hole and start laying eggs.
+											And they will live for 15 or 20 years, continuing to lay eggs
+											using the sperm from that original mating.
+											So the queen goes down in there.
+											She lays eggs, she feeds the larvae — so an ant starts as an egg, then it&#39;s a larva.
+											She feeds the larvae by regurgitating from her fat reserves.
+											Then, as soon as the ants — the first group of ants — emerge,
+											they&#39;re larvae. Then they&#39;re pupae. Then they come out as adult ants.
+											They go out, they get the food, they dig the nest,
+											and the queen never comes out again.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So this is a one-year-old colony — this happens to be 536.
+											There&#39;s the nest entrance, there&#39;s a pencil for scale.
+											So this is the colony founded by a queen the previous summer.
+											This is a three-year-old colony.
+											There&#39;s the nest entrance, there&#39;s a pencil for scale.
+											They make a midden, a pile of refuse — mostly the husks of the seeds that they eat.
+											This is a five-year-old colony. This is the nest entrance, here&#39;s a pencil for scale.
+											This is about as big as they get, about a meter across.
+											And then this is how colony size and numbers of worker ants changes —
+											so this is about 10,000 worker ants —
+											changes as a function of colony age, in years.
+											So it starts out with zero ants, just the founding queen,
+											and it grows to a size of about 10 or 12 thousand ants when the colony is five.
+											And it stays that size until the queen dies
+											and there&#39;s nobody to make more ants, when she&#39;s about 15 or 20 years old.
+											And it&#39;s when they reach this stable size, in numbers of ants,
+											that they start to reproduce.
+											That is, to send more winged queens and males to that year&#39;s mating flight.
+											And I know how colony size changes as a function of colony age
+											because I&#39;ve dug up colonies of known age and counted all the ants. (Laughter)
+											So that&#39;s not the most fun part of this research, although it&#39;s interesting.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Really the question that I think about with these ants is what I call task allocation.
+											That&#39;s not just how is the colony organized,
+											but how does it change what it&#39;s doing?
+											How is it that the colony manages to adjust
+											the numbers of workers performing each task as conditions change?
+											So, things happen to an ant colony.
+											When it rains in the summer, it floods in the desert.
+											There&#39;s a lot of damage to the nest,
+											and extra ants are needed to clean up that mess.
+											When extra food becomes available —
+											and this is what everybody knows about picnics —
+											then extra ants are allocated to collect the food.
+											So, with nobody telling anybody what to do, how is it that
+											the colony manages to adjust the numbers of workers performing each task?
+											And that&#39;s the process that I call task allocation.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And in harvester ants, I divide the tasks
+											of the ants I see just outside the nest
+											into these four categories: where an ant is foraging,
+											when it&#39;s out along the foraging trail, searching for food or bringing food back.
+											The patrollers — that&#39;s supposed to be a magnifying glass —
+											are an interesting group that go out early in the morning
+											before the foragers are active.
+											They somehow choose the direction that the foragers will go,
+											and by coming back — just by making it back —
+											they tell the foragers that it&#39;s safe to go out.
+											Then the nest maintenance workers work inside the nest,
+											and I wanted to say that the nests look a lot like Bill Lishman&#39;s house.
+											That is, that there are chambers inside,
+											they line the walls of the chambers with moist soil
+											and it dries to a kind of an adobe-like surface in it.
+											It also looks very similar to some of the cave dwellings
+											of the Hopi people that are in that area.
+											And the nest maintenance workers do that inside the nest,
+											and then they come out of the nest carrying bits of dry soil in their mandibles.
+											So you see the nest maintenance workers come out with a bit of sand,
+											put it down, turn around, and go back in.
+											And finally, the midden workers put some kind of territorial chemical in the garbage.
+											So what you see the midden workers doing is making a pile of refuse.
+											On one day, it&#39;ll all be here, and then the next day
+											they&#39;ll move it over there, and then they&#39;ll move it back.
+											So that&#39;s what the midden workers do.
+											And these four groups are just the ants outside the nest.
+											So that&#39;s only about 25 percent of the colony, and they&#39;re the oldest ants.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, an ant starts out somewhere near the queen.
+											And when we dig up nests we find they&#39;re about as deep
+											as the colony is wide, so about a meter deep for the big old nests.
+											And then there&#39;s another long tunnel and a chamber, where we often find the queen,
+											after eight hours of hacking away at the rock with pickaxes.
+											I don&#39;t think that chamber has evolved because of me and my backhoe
+											and my crew of students with pickaxes,
+											but instead because when there&#39;s flooding,
+											occasionally the colony has to go down deep.
+											So there&#39;s this whole network of chambers.
+											The queen&#39;s in there somewhere; she just lays eggs.
+											There&#39;s the larvae, and they consume most of the food.
+											And this is true of most ants —
+											that the ants you see walking around don&#39;t do much eating.
+											They bring it back and feed it to the larvae.
+											When the foragers come in with food, they just drop it into the upper chamber,
+											and other ants come up from below, get the food,
+											bring it back, husk the seeds, and pile them up.
+											There are nest maintenance workers working throughout the nest.
+											And curiously, and interestingly, it looks as though at any time
+											about half the ants in the colony are just doing nothing.
+											So, despite what it says in the Bible,
+											about, you know, &quot;Look to the ant, thou sluggard,&quot;
+											in fact, you could think of those ants as reserves.
+											That is to say, if something happened — and I&#39;ve never seen anything like this happen,
+											but I&#39;ve only been looking for 20 years —
+											if something happened, they might all come out if they were needed.
+											But in fact, mostly they&#39;re just hanging around in there.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And I think it&#39;s a very interesting question —
+											what is there about the way the colony is organized
+											that might give some function to a reserve of ants who are doing nothing?
+											And they sort of stand as a buffer in between
+											the ants working deep inside the nest and the ants working outside.
+											And if you mark ants that are working outside, and dig up a colony,
+											you never see them deep down.
+											So what&#39;s happening is that the ants work inside the nest when they&#39;re younger.
+											They somehow get into this reserve.
+											And then eventually they get recruited to join this exterior workforce.
+											And once they belong to the ants that work outside, they never go back down.
+											Now ants — most ants, including these, don&#39;t see very well.
+											They have eyes, they can distinguish between light and dark,
+											but they mostly work by smell.
+											So just to reinforce that what you might have thought
+											about ant queens isn&#39;t true —
+											you know, even if the queen did have the intelligence
+											to send chemical messages through this whole network of chambers
+											to tell the ants outside what to do,
+											there is no way that such messages could make it in time to see
+											the shifts in the allocation of workers that we actually see outside the nest.
+											So that&#39;s one way that we know the queen isn&#39;t directing the behavior of the colony.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So when I first set out to work on task allocation,
+											my first question was, &quot;What&#39;s the relationship
+											between the ants doing different tasks?
+											Does it matter to the foragers what the nest maintenance workers are doing?
+											Does it matter to the midden workers what the patrollers are doing?&quot;
+											And I was working in the context of a view of ant colonies in which each ant
+											was somehow dedicated to its task from birth
+											and sort of performed independently of the others,
+											knowing its place on the assembly line.
+											And instead I wanted to ask, &quot;How are the different task groups interdependent?&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So I did experiments where I changed one thing.
+											So for example, I created more work for the nest maintenance workers
+											by putting out a pile of toothpicks near the nest entrance,
+											early in the morning when the nest maintenance workers are first active.
+											This is what it looks like about 20 minutes later.
+											Here it is about 40 minutes later.
+											And the nest maintenance workers just take all the toothpicks
+											to the outer edge of the nest mound and leave them there.
+											And what I wanted to know was, &quot;OK,
+											here&#39;s a situation where extra nest maintenance workers were recruited —
+											is this going to have any effect on the workers performing other tasks?&quot;
+											Then we repeated all those experiments with the ants marked.
+											So here&#39;s some blue nest maintenance workers.
+											And lately we&#39;ve gotten more sophisticated
+											and we have this three-color system.
+											And we can mark them individually so we know which ant is which.
+											We started out with model airplane paint
+											and then we found these wonderful little Japanese markers,
+											and they work really well.
+											And so just to summarize the result,
+											well it turns out that yes, the different tasks are interdependent.
+											So, if I change the numbers performing one task,
+											it changes the numbers performing another.
+											So for example, if I make a mess
+											that the nest maintenance workers have to clean up,
+											then I see fewer ants out foraging.
+											And this was true for all the pair-wise combinations of tasks.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And the second result, which was surprising to a lot of people,
+											was that ants actually switch tasks.
+											The same ant doesn&#39;t do the same task over and over its whole life.
+											So for example, if I put out extra food, everybody else —
+											the midden workers stop doing midden work and go get the food,
+											they become foragers.
+											The nest maintenance workers become foragers.
+											The patrollers become foragers.
+											But not every transition is possible. And this shows how it works.
+											Like I just said, if there is more food to collect, the patrollers, the midden workers,
+											the nest maintenance workers will all change to forage.
+											If there&#39;s more patrolling to do —
+											so I created a disturbance, so extra patrollers were needed —
+											the nest maintenance workers will switch to patrol.
+											But if more nest maintenance work is needed —
+											for example, if I put out a bunch of toothpicks —
+											then nobody will ever switch back to nest maintenance,
+											they have to get nest maintenance workers from inside the nest.
+											So foraging acts as a sink, and the ants inside the nest act as a source.
+											And finally, it looks like each ant is deciding
+											moment to moment whether to be active or not.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, for example, when there&#39;s extra nest maintenance work to do,
+											it&#39;s not that the foragers switch over. I know that they don&#39;t do that.
+											But the foragers somehow decide not to come out.
+											And here was the most intriguing result: the task allocation.
+											This process changes with colony age, and it changes like this.
+											When I do these experiments with older colonies —
+											so ones that are five years or older —
+											they&#39;re much more consistent from one time to another
+											and much more homeostatic. The worse things get,
+											the more I hassle them, the more they act like undisturbed colonies.
+											Whereas the young, small colonies —
+											the two-year-old colonies of just 2,000 ants — are much more variable.
+											And the amazing thing about this is that an ant lives only a year.
+											It could be this year, or this year.
+											So, the ants in the older colony that seem to be more stable
+											are not any older than the ants in the younger colony.
+											It&#39;s not due to the experience of older, wiser ants.
+											Instead, something about the organization
+											must be changing as the colony gets older.
+											And the obvious thing that&#39;s changing is its size.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So since I&#39;ve had this result, I&#39;ve spent a lot of time trying to figure out
+											what kinds of decision rules — very simple, local, probably olfactory, chemical
+											rules could an ant could be using, since no ant can assess the global situation —
+											that would have the outcome that I see,
+											these predictable dynamics, in who does what task.
+											And it would change as the colony gets larger.
+											And what I&#39;ve found out is that ants are using a network of antennal contact.
+											So anybody who&#39;s ever looked at ants has seen them touch antennae.
+											They smell with their antennae.
+											When one ant touches another, it&#39;s smelling it,
+											and it can tell, for example, whether the other ant is a nest mate
+											because ants cover themselves and each other, through grooming,
+											with a layer of grease, which carries a colony-specific odor.
+											And what we&#39;re learning is that an ant uses the pattern of its antennal contacts,
+											the rate at which it meets ants of other tasks, in deciding what to do.
+											And so what the message is, is not any message
+											that they transmit from one ant to another, but the pattern.
+											The pattern itself is the message.
+											And I&#39;ll tell you a little bit more about that.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But first you might be wondering:
+											how is it that an ant can tell, for example, I&#39;m a forager.
+											I expect to meet another forager every so often.
+											But if instead I start to meet a higher number of nest maintenance workers,
+											I&#39;m less likely to forage.
+											So it has to know the difference between
+											a forager and a nest maintenance worker.
+											And we&#39;ve learned that, in this species —
+											and I suspect in others as well —
+											these hydrocarbons, this layer of grease on the outside of ants,
+											is different as ants perform different tasks.
+											And we&#39;ve done experiments that show that
+											that&#39;s because the longer an ant stays outside,
+											the more these simple hydrocarbons on its surface change,
+											and so they come to smell different by doing different tasks.
+											And they can use that task-specific odor in cuticular hydrocarbons —
+											they can use that in their brief antennal contacts to somehow
+											keep track of the rate at which they&#39;re meeting ants of certain tasks.
+											And we&#39;ve just recently demonstrated this
+											by putting extract of hydrocarbons on little glass beads,
+											and dropping the beads gently down into the nest entrance at the right rate.
+											And it turns out that ants will respond to the right rate of contact
+											with a glass bead with hydrocarbon extract on it,
+											as they would to contact with real ants.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So I want now to show you a bit of film —
+											and this will start out, first of all, showing you the nest entrance.
+											So the idea is that ants are coming in and out of the nest entrance.
+											They&#39;ve gone out to do different tasks, and the rate at which they meet
+											as they come in and out of the nest entrance determines, or influences,
+											each ant&#39;s decision about whether to go out, and which task to perform.
+											This is taken through a fiber optics microscope. It&#39;s down inside the nest.
+											In the beginning you see the ants
+											just kind of engaging with the fiber optics microscope.
+											But the idea is that the ants are in there,
+											and each ant is experiencing a certain flow of ants past it —
+											a stream of contacts with other ants.
+											And the pattern of these interactions determines
+											whether the ant comes back out, and what it does when it comes back out.
+											You can also see this in the ants just outside the nest entrance like these.
+											Each ant, then, as it comes back in, is contacting other ants.
+											And the ants that are waiting just inside the nest entrance
+											to decide whether to go out on their next trip,
+											are contacting the ants coming in.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, what&#39;s interesting about this system is that it&#39;s messy.
+											It&#39;s variable. It&#39;s noisy. And, in particular, in two ways.
+											The first is that the experience of the ant — of each ant — can&#39;t be very predictable.
+											Because the rate at which ants come back depends on
+											all the little things that happen to an ant as it goes out and does its task outside.
+											And the second thing is that an ant&#39;s ability to assess this pattern
+											must be very crude because no ant can do any sophisticated counting.
+											So, we do a lot of simulation and modeling, and also experimental work,
+											to try to figure out how those two kinds of noise combine to,
+											in the aggregate, produce the predictable behavior of ant colonies.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Again, I don&#39;t want to say that this kind of haphazard pattern of interactions
+											produces a factory that works with the precision and efficiency of clockwork.
+											In fact, if you watch ants at all, you end up trying to help them
+											because they never seem to be doing anything
+											exactly the way that you think that they ought to be doing it.
+											So it&#39;s not really that out of these haphazard contacts, perfection arises.
+											But it works pretty well.
+											Ants have been around for several hundred million years.
+											They cover the earth, except for Antarctica.
+											Something that they&#39;re doing is clearly successful enough
+											that this pattern of haphazard contacts, in the aggregate,
+											produces something that allows ants to make a lot more ants.
+											And one of the things that we&#39;re studying is how natural selection
+											might be acting now to shape this use of interaction patterns —
+											this network of interaction patterns —
+											to perhaps increase the foraging efficiency of ant colonies.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So the one thing, though, that I want you to remember about this
+											is that these patterns of interactions
+											are something that you&#39;d expect to be closely connected to colony size.
+											The simplest idea is that when an ant is in a small colony —
+											and an ant in a large colony can use the same rule,
+											like &quot;I expect to meet another forager every three seconds.&quot;
+											But in a small colony, it&#39;s likely to meet fewer foragers,
+											just because there are fewer other foragers there to meet.
+											So this is the kind of rule that, as the colony develops and gets older and larger,
+											will produce different behavior in an old colony and a small young one.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":131,"count":95,"talk_id":145},"threadId":131,"current_talk":"145","description":"Deborah Gordon studies ant colonies in the Arizona desert to understand their complex social system. She asks: How do these chitinous creatures get down to business -- and even multitask when they need to -- with no language, memory or visible leadership? Her answers could lead to a better understanding of all complex systems, from the brain to the Web. Thanks, ants.","event":"TED2003","language":"en","name":"Deborah Gordon: The emergent genius of ant colonies","slug":"deborah_gordon_digs_ants","speakers":[{"id":"127","slug":"deborah_gordon","is_published":true,"firstname":"Deborah","lastname":"Gordon","middleinitial":"","title":"","description":"Ecologist","photo_url":"https://pe.tedcdn.com/images/ted/5684cdf77548fe6deaa1b865e95fa233fffd9fe7_254x191.jpg","whatotherssay":"To understand how [harvester ant] foraging differences pay off in the long run, you’d need to study a group of harvesters for decades. That’s exactly what Gordon has done. Since she was a graduate student in 1985, she has almost single-handedly kept an annual census of around 300 harvester colonies in an area of New Mexico.","whotheyare":"By studying how ant colonies work without any one leader, Deborah Gordon has identified striking similarities in how ant colonies, brains, cells and computer networks regulate themselves.","whylisten":"<p>Ecologist Deborah M. Gordon has learned that ant colonies can work without central control by using simple interactions like how often the insects touch antennae. Contrary to the notion that colonies are organized by efficient ants, she has instead discovered that evolution has produced<span> </span>&ldquo;noisy&rdquo; systems that tolerate accident and respond flexibly to the environment. When conditions are tough, natural selection favors colonies that conserve resources. </p><p>Her studies of ant colonies have led her and her Stanford colleagues to the discovery of the &ldquo;Anternet,&rdquo; which regulates foraging in ants in the same way the internet regulates data traffic.  But as she said to <a href=\"http://www.wired.com/opinion/2013/07/what-ants-yes-know-that-we-dont-the-future-of-networking/\" target=\"_blank\"><em>Wired</em></a>  in 2013, &quot;Insect behavior mimicking human networks ... is actually not what&rsquo;s most interesting about ant networks. What&rsquo;s far more interesting are the parallels in the other direction: What have the ants worked out that we humans haven&rsquo;t thought of yet?&quot; Her latest exploration: How do ants behave <a href=\"http://news.stanford.edu/pr/2014/pr-ants-in-space-011714.html\" target=\"_blank\">in space</a>?</p>"}],"url":"https://www.ted.com/talks/deborah_gordon_digs_ants","viewed_count":1005640,"talks":[{"curator_approved":true,"description":"Deborah Gordon studies ant colonies in the Arizona desert to understand their complex social system. She asks: How do these chitinous creatures get down to business -- and even multitask when they need to -- with no language, memory or visible leadership? Her answers could lead to a better understanding of all complex systems, from the brain to the Web. Thanks, ants.","downloads":{"id":145,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Danish","endonym":"Dansk","languageCode":"da","ianaCode":"da","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/DeborahGordon_2003-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/DeborahGordon_2003.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/DeborahGordon_2003-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"de":{"name":"German","high":"https://download.ted.com/talks/DeborahGordon_2003-480p-de.mp4","low":"https://download.ted.com/talks/DeborahGordon_2003-low-de.mp4"},"fr":{"name":"French","high":"https://download.ted.com/talks/DeborahGordon_2003-480p-fr.mp4","low":"https://download.ted.com/talks/DeborahGordon_2003-low-fr.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/DeborahGordon_2003-low-zh-tw.mp4","high":"https://download.ted.com/talks/DeborahGordon_2003-480p-zh-tw.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/DeborahGordon_2003-low-ja.mp4","high":"https://download.ted.com/talks/DeborahGordon_2003-480p-ja.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/DeborahGordon_2003-low-zh-cn.mp4","high":"https://download.ted.com/talks/DeborahGordon_2003-480p-zh-cn.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/DeborahGordon_2003-low-ko.mp4","high":"https://download.ted.com/talks/DeborahGordon_2003-480p-ko.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/DeborahGordon_2003-low-es.mp4","high":"https://download.ted.com/talks/DeborahGordon_2003-480p-es.mp4"},"en":{"name":"English","low":"https://download.ted.com/talks/DeborahGordon_2003-low-en.mp4","high":"https://download.ted.com/talks/DeborahGordon_2003-480p-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/DeborahGordon_2003-low-pt-br.mp4","high":"https://download.ted.com/talks/DeborahGordon_2003-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/DeborahGordon_2003-low-it.mp4","high":"https://download.ted.com/talks/DeborahGordon_2003-480p-it.mp4"},"he":{"name":"Hebrew","high":"https://download.ted.com/talks/DeborahGordon_2003-480p-he.mp4","low":"https://download.ted.com/talks/DeborahGordon_2003-low-he.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/DeborahGordon_2003-low-bg.mp4","high":"https://download.ted.com/talks/DeborahGordon_2003-480p-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/DeborahGordon_2003-low-ro.mp4","high":"https://download.ted.com/talks/DeborahGordon_2003-480p-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/DeborahGordon_2003-low-pl.mp4","high":"https://download.ted.com/talks/DeborahGordon_2003-480p-pl.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/DeborahGordon_2003-low-nl.mp4","high":"https://download.ted.com/talks/DeborahGordon_2003-480p-nl.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/DeborahGordon_2003-low-tr.mp4","high":"https://download.ted.com/talks/DeborahGordon_2003-480p-tr.mp4"},"hr":{"name":"Croatian","low":"https://download.ted.com/talks/DeborahGordon_2003-low-hr.mp4","high":"https://download.ted.com/talks/DeborahGordon_2003-480p-hr.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/DeborahGordon_2003-low-ru.mp4","high":"https://download.ted.com/talks/DeborahGordon_2003-480p-ru.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/DeborahGordon_2003-low-ar.mp4","high":"https://download.ted.com/talks/DeborahGordon_2003-480p-ar.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/DeborahGordon_2003-low-fa.mp4","high":"https://download.ted.com/talks/DeborahGordon_2003-480p-fa.mp4"},"da":{"name":"Danish","low":"https://download.ted.com/talks/DeborahGordon_2003-low-da.mp4","high":"https://download.ted.com/talks/DeborahGordon_2003-480p-da.mp4"}},"audioDownload":"https://download.ted.com/talks/DeborahGordon_2003.mp3?apikey=acme-roadrunner"},"duration":1231.0,"event":"TED2003","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/29333ffe97803b733ce8a21f90c0b0e738a3adc5_1600x1200.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/29333ffe97803b733ce8a21f90c0b0e738a3adc5_1600x1200.jpg?q=50&w=15","id":"145","player_talks":[{"id":"145","duration":1231.0,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Danish","endonym":"Dansk","languageCode":"da","ianaCode":"da","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2003/Blank/DeborahGordon_2003-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTED2003%26id%3D145%26tag%3Dants%2Cbiology%2Ccollaboration%2Cdesign%2Cinsects%2Cscience%26talk%3Ddeborah_gordon_digs_ants%26year%3D2003&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"145","talk":"deborah_gordon_digs_ants","tag":"ants,biology,collaboration,design,insects,science","year":"2003","event":"TED2003"},"stream":"https://hls.ted.com/talks/145.m3u8","metadata":"https://hls.ted.com/talks/145.json"}},"targeting":{"id":"145","talk":"deborah_gordon_digs_ants","tag":"ants,biology,collaboration,design,insects,science","year":"2003","event":"TED2003"},"canonical":"https://www.ted.com/talks/deborah_gordon_digs_ants","name":"Deborah Gordon: The emergent genius of ant colonies","title":"The emergent genius of ant colonies","speaker":"Deborah Gordon","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/29333ffe97803b733ce8a21f90c0b0e738a3adc5_1600x1200.jpg?quality=89&w=600","slug":"deborah_gordon_digs_ants","event":"TED2003","published":1199751960}],"ratings":[{"id":22,"name":"Fascinating","count":894},{"id":8,"name":"Informative","count":874},{"id":10,"name":"Inspiring","count":132},{"id":2,"name":"Confusing","count":16},{"id":9,"name":"Ingenious","count":158},{"id":1,"name":"Beautiful","count":66},{"id":11,"name":"Longwinded","count":61},{"id":7,"name":"Funny","count":41},{"id":3,"name":"Courageous","count":19},{"id":24,"name":"Persuasive","count":43},{"id":23,"name":"Jaw-dropping","count":74},{"id":25,"name":"OK","count":115},{"id":21,"name":"Unconvincing","count":10},{"id":26,"name":"Obnoxious","count":4}],"recorded_at":"2003-02-02T00:00:00.000+00:00","related_talks":[{"id":"83","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/cedbc775-0f52-4750-b26a-bf2f6f7642c3/EOWilson_2007-embed.jpg","speaker":"E.O. Wilson","title":"My wish: Build the Encyclopedia of Life","duration":1355.0,"slug":"e_o_wilson_on_saving_life_on_earth","viewed_count":1418270},{"id":"77","hero":"https://pe.tedcdn.com/images/ted/428_480x360.jpg","speaker":"Sheila Patek","title":"The shrimp with a kick!","duration":985.0,"slug":"sheila_patek_clocks_the_fastest_animals","viewed_count":1288954},{"id":"76","hero":"https://pe.tedcdn.com/images/ted/967edc6222feee0e6cb9d2f32aa7766fee852c11_1600x1200.jpg","speaker":"Susan Savage-Rumbaugh","title":"The gentle genius of bonobos","duration":1045.0,"slug":"susan_savage_rumbaugh_on_apes_that_write","viewed_count":2358367},{"id":"1995","hero":"https://pe.tedcdn.com/images/ted/856d11b361f4de89de9c962613ae3510e6f7c178_1600x1200.jpg","speaker":"Deborah Gordon","title":"What ants teach us about the brain, cancer and the Internet","duration":849.0,"slug":"deborah_gordon_what_ants_teach_us_about_the_brain_cancer_and_the_internet","viewed_count":1416527},{"id":"116","hero":"https://pe.tedcdn.com/images/ted/6348_480x360.jpg","speaker":"Dan Dennett","title":"Dangerous memes","duration":926.0,"slug":"dan_dennett_on_dangerous_memes","viewed_count":1668610},{"id":"390","hero":"https://pe.tedcdn.com/images/ted/b3f08de406d119a01844cbdd5eeed3c41d5d20ae_1600x1200.jpg","speaker":"James Surowiecki","title":"The power and the danger of online crowds","duration":1019.0,"slug":"james_surowiecki_on_the_turning_point_for_social_media","viewed_count":455532}],"slug":"deborah_gordon_digs_ants","speakers":[{"id":"127","slug":"deborah_gordon","is_published":true,"firstname":"Deborah","lastname":"Gordon","middleinitial":"","title":"","description":"Ecologist","photo_url":"https://pe.tedcdn.com/images/ted/5684cdf77548fe6deaa1b865e95fa233fffd9fe7_254x191.jpg","whatotherssay":"To understand how [harvester ant] foraging differences pay off in the long run, you’d need to study a group of harvesters for decades. That’s exactly what Gordon has done. Since she was a graduate student in 1985, she has almost single-handedly kept an annual census of around 300 harvester colonies in an area of New Mexico.","whotheyare":"By studying how ant colonies work without any one leader, Deborah Gordon has identified striking similarities in how ant colonies, brains, cells and computer networks regulate themselves.","whylisten":"<p>Ecologist Deborah M. Gordon has learned that ant colonies can work without central control by using simple interactions like how often the insects touch antennae. Contrary to the notion that colonies are organized by efficient ants, she has instead discovered that evolution has produced<span> </span>&ldquo;noisy&rdquo; systems that tolerate accident and respond flexibly to the environment. When conditions are tough, natural selection favors colonies that conserve resources. </p><p>Her studies of ant colonies have led her and her Stanford colleagues to the discovery of the &ldquo;Anternet,&rdquo; which regulates foraging in ants in the same way the internet regulates data traffic.  But as she said to <a href=\"http://www.wired.com/opinion/2013/07/what-ants-yes-know-that-we-dont-the-future-of-networking/\" target=\"_blank\"><em>Wired</em></a>  in 2013, &quot;Insect behavior mimicking human networks ... is actually not what&rsquo;s most interesting about ant networks. What&rsquo;s far more interesting are the parallels in the other direction: What have the ants worked out that we humans haven&rsquo;t thought of yet?&quot; Her latest exploration: How do ants behave <a href=\"http://news.stanford.edu/pr/2014/pr-ants-in-space-011714.html\" target=\"_blank\">in space</a>?</p>"}],"speaker_name":"Deborah Gordon","tags":["ants","biology","collaboration","design","insects","science"],"title":"The emergent genius of ant colonies","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":1005640}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

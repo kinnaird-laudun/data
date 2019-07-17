@@ -1,0 +1,1336 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>R.A. Mashelkar: Breakthrough designs for ultra-low-cost products | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Engineer RA Mashelkar shares three stories of ultra-low-cost design from India that use bottom-up rethinking, and some clever engineering, to bring expensive products (cars, prosthetics) into the realm of the possible for everyone." />
+<meta name="author" content="R.A. Mashelkar" />
+<link rel="canonical" href="https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products/transcript" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products/transcript?language=en" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products/transcript?language=vi" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products/transcript?language=pt-br" />
+<link rel="alternate" hreflang="cs" href="https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products/transcript?language=cs" />
+<link rel="alternate" hreflang="id" href="https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products/transcript?language=id" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products/transcript?language=nl" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products/transcript?language=tr" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products/transcript?language=bg" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products/transcript?language=de" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products/transcript?language=fa" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products/transcript?language=he" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products/transcript?language=ko" />
+<link rel="alternate" hreflang="mr" href="https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products/transcript?language=mr" />
+<meta property="og:title" content="Transcript of &quot;Breakthrough designs for ultra-low-cost products&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/209416_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/209416_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="R.A. Mashelkar: Breakthrough designs for ultra-low-cost products" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Engineer RA Mashelkar shares three stories of ultra-low-cost design from India that use bottom-up rethinking, and some clever engineering, to bring expensive products (cars, prosthetics) into the realm of the possible for everyone." />
+<meta property="og:url" content="https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 991);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products' itemprop='url'>
+<meta content='Breakthrough designs for ultra-low-cost products' itemprop='name'>
+<meta content='Engineer RA Mashelkar shares three stories of ultra-low-cost design from India that use bottom-up rethinking, and some clever engineering, to bring expensive products (cars, prosthetics) into the realm of the possible for everyone.' itemprop='description'>
+<meta content='PT19M40S' itemprop='duration'>
+<meta content='2010-10-25T09:07:00+00:00' itemprop='uploadDate'>
+<meta content='636598' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/209416_800x600.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/r_a_mashelkar' itemprop='url'>
+<meta content='R.A. Mashelkar' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/209418_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/209416_800x600.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				R.A. Mashelkar
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					636,598
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 19:40</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The big residual
+											is always value for money.
+											All the time we are trying to get value for money.
+											What we don&#39;t look for
+											is value for many,
+											while we are generating value for money.
+											Do we care about those four billion people
+											whose income levels are less than two dollars a day,
+											the so-called bottom of the pyramid?
+											What are the challenges in getting value for money
+											as well as value for many?
+											We have described here
+											in terms of the performance
+											and the price.
+											If you have money, of course, you can get the value.
+											You can get a Mercedes
+											for a very high price,
+											very high performance.
+											But if you don&#39;t have money, what happens?
+											Well, you are to ride a bicycle,
+											carrying your own weight and also some other weight,
+											so that you can earn the bread for the day.
+											Well, poor do not remain poor;
+											they become lower-middle-class.
+											And if they do so,
+											then, of course, the conditions improve,
+											and they start riding on scooters.
+											But the challenge is, again, they don&#39;t get much value,
+											because they can&#39;t afford anything more than the scooter.
+											The issue is, at that price,
+											can you give them some extra value?
+											A super value,
+											in terms of their ability to ride in a car,
+											to get that dignity, to get that safety,
+											looks practically impossible, isn&#39;t it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, this is something
+											that we see on Indian streets
+											all the time.
+											But many people see the same thing
+											and think things differently,
+											and one of them is here, Ratan Tata.
+											The great thing about our leaders
+											is that, should they not only have passion in their belly,
+											which practically all of them have,
+											they&#39;re also very innovative.
+											An innovator is one who does not know it cannot be done.
+											They believe that things can be done.
+											But great leaders like Ratan
+											have compassion.
+											And what you said, Lakshmi, is absolutely true:
+											it&#39;s not just Ratan Tata,
+											it&#39;s the house of Tatas over time.
+											Let me confirm what she said.
+											Yes, I went barefoot
+											until I was 12.
+											I struggled to [unclear] day
+											was a huge issue.
+											And when I finished my SSC, the eleventh standard,
+											I stood eleventh among 125,000 students.
+											But I was about to leave the school,
+											because my poor mother couldn&#39;t afford schooling.
+											And it was [unclear] Tata Trust, which gave me six rupees per month,
+											almost a dollar per month for six years.
+											That&#39;s how I&#39;m standing before you.
+											So that is the House of Tata.
+											(Applause)
+											Innovation, compassion and passion.
+											They combine all that.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And it was that compassion which bothered them,
+											because when he saw — in fact, he told me about eight or nine years ago
+											how he was driving his own car —
+											he drives his own car by the way —
+											and he saw in the rain,
+											a family like the one that I showed to you
+											getting drenched with an infant.
+											And then he said, &quot;Well, I must give them a car that they can afford,
+											one lakh car, $2,000 car.&quot;
+											Of course, as soon as you say something like this
+											people say it is impossible,
+											and that&#39;s what was said by Suzuki.
+											He said, oh, probably he is going to build a three-wheeler
+											with stepney.
+											And you can see the cartoon here.
+											Well they didn&#39;t build that. They built a proper car. Nano.
+											And mind you, I&#39;m six feet half an inch,
+											Ratan is taller than me,
+											and we have ample space in the front
+											and ample space in the back in this particular car.
+											And incredible car.
+											And of course, nothing succeeds like success;
+											the cynics then turned around,
+											and one after the other
+											they also started saying, &quot;Yes, we also want to make a car in the Nano Segment.
+											We&#39;ll manufacture a car in the Nano Segment.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											How did this great story unfold,
+											the making of Nano?
+											Let me tell you a bit about it.
+											For example, how we started:
+											Ratan just began with a five-engineer team,
+											young people in their mid-twenties.
+											And he said,
+											&quot;Well, I won&#39;t define the vehicle for you,
+											but I will define the cost for you.
+											It is one lakh, 100,000 rupees,
+											and you are to make it within that.&quot;
+											And he told them,
+											&quot;Question the unquestionable.
+											Stretch the envelope.&quot;
+											And at a point in time,
+											he got so engrossed in the whole challenge,
+											that he himself became a member of the team.
+											Can you believe it?
+											I still am told about this story
+											of that single wiper design in which he participated.
+											Until midnight, he&#39;d be thinking.
+											Early morning he&#39;ll be coming back with sort of solutions.
+											But who was the team leader?
+											The team leader was Girish Wagh,
+											a 34 year-old boy in [unclear].
+											And the Nano team average age
+											was just 27 years.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And they did innovation in design and beyond.
+											Broke many norms of the standard conventions for the first time.
+											For example, that a two-cylinder gas engine
+											was used in a car with a single balancer shaft.
+											Adhesives were replacing the rivets.
+											There was a co-creation, a huge co-creation,
+											with vendors and suppliers.
+											All ideas on board were welcome.
+											100 vendors were co-located adjacent to the plant,
+											and innovative business models for automobile dealerships were developed.
+											Imagine that a fellow
+											who sells cloth, for example, will be selling Nano.
+											I mean, it was incredible innovation.
+											Seeking solutions for non-auto sectors.
+											It was an open innovation,
+											ideas from all over were welcome.
+											The mechanism of helicopters seats and windows was used, by the way,
+											as well as a dashboard
+											that was inspired by two-wheelers.
+											The fuel lines and lamps
+											were as in two-wheelers.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And the crux of the matter was, however,
+											getting more from less.
+											All the time, you have been given an envelope.
+											You can&#39;t cross that envelope,
+											which is 100,000 rupees, 2,000 dollars.
+											And therefore, each component
+											had to have a dual functionality.
+											And the seat riser, for example,
+											serving as a mounting for the seat
+											as well as a structural part
+											of the functional rigidity.
+											Half the number of parts
+											are contained in Nano
+											in comparison to a typical passenger car.
+											The length is smaller by eight percent by the way.
+											But the current entry-level cars
+											in comparison to that is eight percent less,
+											but 21 percent more inside space.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And what happened
+											was that — more from less —
+											you can see how much more for how much less.
+											When the Model T was launched —
+											and this is, by the way, all the figures
+											that are adjusted to 2007 dollar prices —
+											Model T was 19,700 by Ford.
+											Volkswagon was 11,333.
+											And British Motor was around 11,000.
+											And Nano was, bang, 2,000 dollars.
+											This is why
+											you started
+											actually a new paradigm shift,
+											where the same people
+											who could not dream of sitting in a car,
+											who were carrying their entire family in a scooter,
+											started dreaming of being in a car.
+											And those dreams are getting fulfilled.
+											This is a photograph
+											of a house and a driver and a car
+											near my own home.
+											The driver&#39;s name is Naran.
+											He has bought his own Nano.
+											And you can see, there is a physical space
+											that has been created for him,
+											parking that car, along with the owner&#39;s car,
+											but more importantly, they&#39;ve created
+											a space in their mind that
+											&quot;Yes, my chauffeur is going to come in his own car and park it.&quot;
+											And that&#39;s why I call it a transformational innovation.
+											It is not just technological,
+											it is social innovation that we talk about.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And that is where, ladies and gentlemen,
+											this famous theme
+											of getting more from less for more
+											becomes important.
+											I remember talking about this for the first time in Australia,
+											about one and a half years ago,
+											when their academy honored me with a fellowship.
+											And unbelievably, in 40 years,
+											I was the first Indian to be honored.
+											And the title of my talk
+											was therefore &quot;Indian innovation
+											from Gandhi to Gandhian engineering.&quot;
+											And I titled this more from less for more and more people
+											as Gandhian engineering.
+											And Gandhian engineering, in my judgment,
+											is the one which is going to take the world forward,
+											is going to make a difference,
+											not just for a few, but for everyone.
+											Let me move from mobility in a car to individual mobility
+											for those unfortunates
+											who have lost their legs.
+											Here is an American citizen and his son
+											having an artificial foot.
+											What is its price? 20,000 dollars.
+											And of course, these feet are so designed
+											that they can walk only on
+											such perfect pavement or roads.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Unfortunately, that&#39;s not the case in India.
+											You can see him walk barefoot
+											on an awkward land, sometimes in a marshy land,
+											and so on and so forth.
+											More importantly,
+											they not only walk far to work,
+											and not only do they cycle to work,
+											but they cycle for work, as you can see here.
+											And they climb up for their work.
+											You have to design an artificial foot for such conditions.
+											A challenge, of course.
+											Four billion people, their incomes are less then two dollars a day.
+											And if you talk about a 20,000-dollar shoe,
+											you&#39;re talking about 10,000 days of income.
+											You just don&#39;t have it.
+											And therefore, you ought to look at alternatives.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And that is how Jaipur Foot was created in India.
+											It had a revolutionary prosthetic fitment and delivery system,
+											a quick molding and modular components,
+											enabling custom-made, on-the-spot limb fitments.
+											You could feel it actually in an hour, by the way,
+											whereas the equivalent other feet
+											took something like a day, as so on.
+											Outer socket made by using heated high-density polyethylene pipes,
+											rather than using heated sheets.
+											And unique high-ankle design and human-like looks,
+											[unclear] and functions.
+											And I like to show how it looks
+											and how it works.
+											(Music)
+											See, he jumps. You can see what stress it must have.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Text: ... any person with a below the knee limb could do this.
+											... above the limb, yes, it would be difficult ...
+											&quot;Did it hurt?&quot;
+											&quot;No ... not at all.&quot;
+											... he can run a kilometer in four minutes and 30 seconds ...)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											One kilometer in four minutes and 30 seconds.
+											(Applause)
+											So that&#39;s what it is all about.
+											And therefore Time took notice
+											of this 28-dollar foot, basically.
+											(Applause)
+											An incredible story.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Let&#39;s move on to something else.
+											I&#39;ve been talking about getting more from less for more.
+											Let&#39;s move to health.
+											We&#39;ve talked about mobility and the rest of it, let&#39;s talk about health.
+											What&#39;s happening in the area of health?
+											You know, you have new diseases that require new drugs.
+											And if you look at the drug development 10 years ago and now,
+											what has happened?
+											10 years ago, it used to cost about a quarter billion.
+											Today it costs 1.5 billion dollars.
+											Time taken for moving a molecule to marketplace,
+											after all the human and animal testing,
+											was 10 years, now it is 15 years.
+											Are you getting more drugs because you are spending more time and more money?
+											No, I&#39;m sorry.
+											We used to have 40, now they have come down to 30.
+											So actually we are getting less from more
+											for less and less people.
+											Why less and less people? Because it is so expensive,
+											so very few will be able to basically afford that.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Let us just take an example.
+											Psoriasis is very dreadful
+											disease of the skin.
+											The cost of treatment, 20,000 dollars.
+											1,000-dollar antibody injections under the skin, by the way,
+											and 20 of them.
+											Time for development — it took around 10 years
+											and 700 million dollars.
+											Let&#39;s start in the spirit
+											of more from less and more for more
+											and start putting some targets.
+											For example, we don&#39;t want 20,000 dollars; we don&#39;t have it.
+											Can we do it [for] 100 dollars?
+											Time for development, not 10 years.
+											We are in a hurry. Five years.
+											Cost of development — 300 million dollars.
+											Sorry. I can&#39;t spend more than 10 million dollars.
+											Looks absolutely audacious.
+											Looks absolutely ridiculous.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											You know something? This has been achieved in India.
+											These targets have been achieved in India.
+											And how they have been achieved ...
+											Sir Francis Bacon once said,
+											&quot;When you wish to achieve results
+											that have not been achieved before,
+											it is an unwise fancy to think
+											that they can be achieved by using methods
+											that have been used before.&quot;
+											And therefore, the standard process,
+											where you develop a molecule, put it into mice, into men,
+											are not yielding those results —
+											the billions of dollars that have been spent.
+											The Indian cleverness
+											was using its traditional knowledge,
+											however, scientifically validating it
+											and making that journey from men to mice to men,
+											not molecule to mice to men, you know.
+											And that is how this difference has come.
+											And you can see this blending
+											of traditional medicine, modern medicine, modern science.
+											I launched a big program
+											[unclear] CSIR about nine years ago.
+											He is giving us not just for Psoriasis,
+											for cancer and a whole range of things, changing the whole paradigm.
+											And you can see this Indian Psoriasis breakthrough
+											obtained by this reverse form of [unclear]
+											by doing things differently.
+											You can see before treatment and after treatment.
+											This is really getting more from less for more and more people,
+											because these are all affordable treatments now.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Let me just remind you
+											of what Mahatma Gandhi had said.
+											He had said, &quot;Earth provides enough
+											to satisfy every man&#39;s need, but not every man&#39;s greed.&quot;
+											So the message he was giving us
+											was you must get more from less and less and less
+											so that you can share it for more and more people,
+											not only the current generation,
+											but the future generations.
+											And he also said, &quot;I would prize every invention of science
+											made for the benefit for all.&quot;
+											So he was giving you the message that you must have it for more and more people,
+											not just a few people.
+											And therefore, ladies and gentlemen,
+											this is the theme, getting more
+											from less for more.
+											And mind you,
+											it is not getting just a little more for just a little less.
+											It&#39;s not about low cost.
+											It&#39;s about ultra-low cost.
+											You cannot say it&#39;s a mere treatment 10,000 dollars,
+											but because you are poor I&#39;ll give it for 9,000.
+											Sorry, it doesn&#39;t work. You have to give it for 100 dollars, 200 dollars.
+											Is it possible? It has been made possible, by the way,
+											for certain other different reasons.
+											So you are not talking about low cost, you are talking about ultra-low cost.
+											You are not talking about affordability,
+											you are talking about extreme affordability.
+											Because of the four billion people whose income is under two dollars a day.
+											You&#39;re not talking exclusive innovation.
+											You&#39;re talking about inclusive innovation.
+											And therefore, you&#39;re not talking about incremental innovation,
+											you&#39;re talking about disruptive innovation.
+											The ideas have to be such
+											that you think in completely different terms.
+											And I would also add,
+											it is not only getting more from less for more
+											by more and more people, the whole world working for it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I was very touched when I saw a breakthrough the other day.
+											You know, incubators for infants, for example.
+											They&#39;re not available in Africa.
+											They&#39;re not available in Indian villages.
+											And infants die.
+											And incubator costs 2,000 dollars.
+											And there&#39;s a 25-dollar incubator
+											giving that performance that had been created.
+											And by whom?
+											By young students from Standford University
+											on an extreme affordability project that they had, basically.
+											Their heart is in the right place, like Ratan Tata.
+											It&#39;s not just innovation, compassion and passion —
+											compassion in the heart and passion in the belly.
+											That&#39;s the new world that we want to create.
+											And that is why the message is that of Gandhian engineering.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Ladies and gentlemen, I&#39;d like to end before time.
+											I was also afraid of those 18 minutes.
+											I&#39;ve still one and a half to go.
+											The message, the final message, is this:
+											India gave a great gift to the world.
+											What was that?
+											[In the] 20th century, we gave Gandhi to the world.
+											The 21st century gift,
+											which is very, very important for the whole world,
+											whether it is global economic meltdown,
+											whether it is climate change —
+											any problem that you talk about
+											is gaining more from less for more and more —
+											not only the current generations,
+											for the future generations.
+											And that can come only from Gandhian engineering.
+											So ladies and gentlemen, I&#39;m very happy to announce,
+											this gift of the 21st century
+											to the world from India,
+											Gandhian engineering.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Lakshmi Pratury: Thank you, Dr. Mashelkar. (R.A. Mashelkar: Thank you very much.)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											LP: A quick question for you.
+											Now, when you were a young boy in this school,
+											what were your thoughts, like what did you think you could become?
+											What do you think that drove you?
+											Was there a vision you had? What is it that drove you?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RAM: I&#39;ll tell you a story that drove me, that transformed my life.
+											I remember, I went to a poor school,
+											because my mother could not gather the 21 rupees,
+											that half a dollar that was required
+											within the stipulated time.
+											It was [unclear] high school.
+											But it was a poor school with rich teachers, honestly.
+											And one of them was [unclear] who taught us physics.
+											One day he took us out into the sun
+											and tried to show us how to find
+											the focal length of a convex lens.
+											The lens was here. The piece of paper was there. He moved it up and down.
+											And there was a bright spot up there.
+											And then he said, &quot;This is the focal length.&quot;
+											But then he held it for a little while, Lakshmi.
+											And then the paper burned.
+											When the paper burned, for some reason he turned to me,
+											and he said, &quot;Mashelkar, like this,
+											if you do not diffuse your energies,
+											if you focus your energies,
+											you can achieve anything in the world.&quot;
+											That gave me a great message: focus and you can achieve.
+											I said, &quot;Whoa, science is so wonderful,
+											I have to become a scientist.&quot;
+											But more importantly, focus and you can achieve.
+											And that message, very frankly,
+											is valuable for society today.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											What does that focal length do?
+											It has parallel lines, which are sun rays.
+											And the property of parallel lines
+											is that they never meet.
+											What does that convex lens do?
+											It makes them meet.
+											This is convex lens leadership.
+											You know what today&#39;s leadership is doing? Concave length.
+											They divide them farther.
+											So I learned the lesson
+											of convex lens leadership from that.
+											And when I was at National Chemical Laboratory [unclear].
+											When I was at Council of Scientific Industry Research —
+											40 laboratories — when two laboratories were not talking to each other,
+											I would [unclear].
+											And currently I&#39;m president of Global Research Alliance,
+											60,000 scientists in nine counties, right from India to the U.S.
+											I&#39;m trying to build a global team,
+											which will look at the global grand challenges that the world is facing.
+											That was the lesson. That was the inspirational moment.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											LP: Thank you very much. (RAM: Thank you.)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":815,"count":190,"talk_id":991},"threadId":815,"current_talk":"991","description":"Engineer RA Mashelkar shares three stories of ultra-low-cost design from India that use bottom-up rethinking, and some clever engineering, to bring expensive products (cars, prosthetics) into the realm of the possible for everyone.","event":"TEDIndia 2009","language":"en","name":"R.A. Mashelkar: Breakthrough designs for ultra-low-cost products","slug":"r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products","speakers":[{"id":"543","slug":"r_a_mashelkar","is_published":true,"firstname":"R.A.","lastname":"Mashelkar","middleinitial":"","title":"","description":"Scientist, innovator","photo_url":"https://pe.tedcdn.com/images/ted/209418_254x191.jpg","whatotherssay":"Dr. Mashelkar’s life and work are an immense source of inspiration for young scientists and technologists.","whotheyare":"Using a principle he calls “convex lens leadership,” R.A. Mashelkar’s vision has catapulted india’s talent for science and innovation onto the international stage.","whylisten":"<p>R.A. Mashelkar holds a long list of directorships, degrees and awards, all focused on advancing science and inclusive innovation in india. He&#39;s the president of the Global Research Alliance. While promoting and leading research agencies, he also has spearheaded efforts to protect traditional knowledge and expand intellectual property rights. </p><p>Known for his pioneering scientific contributions in polymer science, he is now propagating the principles of gandhian engineering, a system of development aligned with sustainability principles to create more useful goods and services for more people using fewer resources.</p>"}],"url":"https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products","viewed_count":636598,"talks":[{"curator_approved":true,"description":"Engineer RA Mashelkar shares three stories of ultra-low-cost design from India that use bottom-up rethinking, and some clever engineering, to bring expensive products (cars, prosthetics) into the realm of the possible for everyone.","downloads":{"id":991,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Marathi","endonym":"मराठी","languageCode":"mr","ianaCode":"mr","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/RAMashelkar_2009I-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/RAMashelkar_2009I.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/RAMashelkar_2009I-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"de":{"name":"German","high":"https://download.ted.com/talks/RAMashelkar_2009I-480p-de.mp4","low":"https://download.ted.com/talks/RAMashelkar_2009I-low-de.mp4"},"fr":{"name":"French","low":"https://download.ted.com/talks/RAMashelkar_2009I-low-fr.mp4","high":"https://download.ted.com/talks/RAMashelkar_2009I-480p-fr.mp4"},"zh-tw":{"name":"Chinese, Traditional","high":"https://download.ted.com/talks/RAMashelkar_2009I-480p-zh-tw.mp4","low":"https://download.ted.com/talks/RAMashelkar_2009I-low-zh-tw.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/RAMashelkar_2009I-low-ja.mp4","high":"https://download.ted.com/talks/RAMashelkar_2009I-480p-ja.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/RAMashelkar_2009I-low-zh-cn.mp4","high":"https://download.ted.com/talks/RAMashelkar_2009I-480p-zh-cn.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/RAMashelkar_2009I-low-ko.mp4","high":"https://download.ted.com/talks/RAMashelkar_2009I-480p-ko.mp4"},"en":{"name":"English","low":"https://download.ted.com/talks/RAMashelkar_2009I-low-en.mp4","high":"https://download.ted.com/talks/RAMashelkar_2009I-480p-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/RAMashelkar_2009I-low-pt-br.mp4","high":"https://download.ted.com/talks/RAMashelkar_2009I-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/RAMashelkar_2009I-low-it.mp4","high":"https://download.ted.com/talks/RAMashelkar_2009I-480p-it.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/RAMashelkar_2009I-low-bg.mp4","high":"https://download.ted.com/talks/RAMashelkar_2009I-480p-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/RAMashelkar_2009I-low-ro.mp4","high":"https://download.ted.com/talks/RAMashelkar_2009I-480p-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/RAMashelkar_2009I-low-pl.mp4","high":"https://download.ted.com/talks/RAMashelkar_2009I-480p-pl.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/RAMashelkar_2009I-low-nl.mp4","high":"https://download.ted.com/talks/RAMashelkar_2009I-480p-nl.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/RAMashelkar_2009I-low-tr.mp4","high":"https://download.ted.com/talks/RAMashelkar_2009I-480p-tr.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/RAMashelkar_2009I-low-ru.mp4","high":"https://download.ted.com/talks/RAMashelkar_2009I-480p-ru.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/RAMashelkar_2009I-low-vi.mp4","high":"https://download.ted.com/talks/RAMashelkar_2009I-480p-vi.mp4"},"he":{"name":"Hebrew","high":"https://download.ted.com/talks/RAMashelkar_2009I-480p-he.mp4","low":"https://download.ted.com/talks/RAMashelkar_2009I-low-he.mp4"},"id":{"name":"Indonesian","low":"https://download.ted.com/talks/RAMashelkar_2009I-low-id.mp4","high":"https://download.ted.com/talks/RAMashelkar_2009I-480p-id.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/RAMashelkar_2009I-low-fa.mp4","high":"https://download.ted.com/talks/RAMashelkar_2009I-480p-fa.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/RAMashelkar_2009I-low-es.mp4","high":"https://download.ted.com/talks/RAMashelkar_2009I-480p-es.mp4"},"mr":{"name":"Marathi","low":"https://download.ted.com/talks/RAMashelkar_2009I-low-mr.mp4","high":"https://download.ted.com/talks/RAMashelkar_2009I-480p-mr.mp4"},"cs":{"name":"Czech","low":"https://download.ted.com/talks/RAMashelkar_2009I-low-cs.mp4","high":"https://download.ted.com/talks/RAMashelkar_2009I-480p-cs.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/RAMashelkar_2009I-low-ar.mp4","high":"https://download.ted.com/talks/RAMashelkar_2009I-480p-ar.mp4"}},"audioDownload":"https://download.ted.com/talks/RAMashelkar_2009I.mp3?apikey=acme-roadrunner"},"duration":1180.0,"event":"TEDIndia 2009","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/209416_800x600.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/209416_800x600.jpg?q=50&w=15","id":"991","player_talks":[{"id":"991","duration":1180.0,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Marathi","endonym":"मराठी","languageCode":"mr","ianaCode":"mr","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2009I/Blank/RAMashelkar_2009I-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDIndia%2B2009%26id%3D991%26tag%3Dbusiness%2Cdesign%2Ceconomics%2Cindustrial%2Bdesign%2Ctechnology%2Cindia%26talk%3Dr_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products%26year%3D2009&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"991","talk":"r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products","tag":"business,design,economics,industrial design,technology,india","year":"2009","event":"TEDIndia 2009"},"stream":"https://hls.ted.com/talks/991.m3u8","metadata":"https://hls.ted.com/talks/991.json"}},"targeting":{"id":"991","talk":"r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products","tag":"business,design,economics,industrial design,technology,india","year":"2009","event":"TEDIndia 2009"},"canonical":"https://www.ted.com/talks/r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products","name":"R.A. Mashelkar: Breakthrough designs for ultra-low-cost products","title":"Breakthrough designs for ultra-low-cost products","speaker":"R.A. Mashelkar","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/209416_800x600.jpg?quality=89&w=600","slug":"r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products","event":"TEDIndia 2009","published":1287997620}],"ratings":[{"id":10,"name":"Inspiring","count":493},{"id":22,"name":"Fascinating","count":142},{"id":9,"name":"Ingenious","count":162},{"id":8,"name":"Informative","count":132},{"id":24,"name":"Persuasive","count":138},{"id":11,"name":"Longwinded","count":27},{"id":1,"name":"Beautiful","count":38},{"id":23,"name":"Jaw-dropping","count":82},{"id":25,"name":"OK","count":24},{"id":21,"name":"Unconvincing","count":38},{"id":2,"name":"Confusing","count":9},{"id":3,"name":"Courageous","count":57},{"id":26,"name":"Obnoxious","count":17},{"id":7,"name":"Funny","count":6}],"recorded_at":"2009-11-02T00:00:00.000+00:00","related_talks":[{"id":"2","hero":"https://pe.tedcdn.com/images/ted/1451_480x360.jpg","speaker":"Amy Smith","title":"Simple designs to save a life","duration":906.0,"slug":"amy_smith_shares_simple_lifesaving_design","viewed_count":1513966},{"id":"757","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/93b80214-af2d-4ff0-9a16-9de4773f7f4e/SendhilMullainathan_2009I-embed.jpg","speaker":"Sendhil Mullainathan","title":"Solving social problems with a nudge","duration":1081.0,"slug":"sendhil_mullainathan","viewed_count":516996},{"id":"1174","hero":"https://pe.tedcdn.com/images/ted/229d850b073d6d8ba1f20ee937e88f51802a0a8d_800x600.jpg","speaker":"Bill Ford","title":"A future beyond traffic gridlock","duration":1008.0,"slug":"bill_ford_a_future_beyond_traffic_gridlock","viewed_count":825559},{"id":"512","hero":"https://pe.tedcdn.com/images/ted/83223_800x600.jpg","speaker":"Shai Agassi","title":"A new ecosystem for electric cars","duration":1086.0,"slug":"shai_agassi_on_electric_cars","viewed_count":1170572},{"id":"2774","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/e0bcf2a3-9f82-42b7-aeaf-054d83e84d51/ElonMusk_2017-embed.jpg","speaker":"Elon Musk","title":"The future we're building -- and boring","duration":2450.0,"slug":"elon_musk_the_future_we_re_building_and_boring","viewed_count":10423034},{"id":"6379","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/d0dfde72-8a12-45dc-b485-01c387c11896/JoelJackson_2017G-embed2.jpg","speaker":"Joel Jackson","title":"A vehicle built in Africa, for Africa","duration":497.0,"slug":"joel_jackson_a_vehicle_built_in_africa_for_africa","viewed_count":954049}],"slug":"r_a_mashelkar_breakthrough_designs_for_ultra_low_cost_products","speakers":[{"id":"543","slug":"r_a_mashelkar","is_published":true,"firstname":"R.A.","lastname":"Mashelkar","middleinitial":"","title":"","description":"Scientist, innovator","photo_url":"https://pe.tedcdn.com/images/ted/209418_254x191.jpg","whatotherssay":"Dr. Mashelkar’s life and work are an immense source of inspiration for young scientists and technologists.","whotheyare":"Using a principle he calls “convex lens leadership,” R.A. Mashelkar’s vision has catapulted india’s talent for science and innovation onto the international stage.","whylisten":"<p>R.A. Mashelkar holds a long list of directorships, degrees and awards, all focused on advancing science and inclusive innovation in india. He&#39;s the president of the Global Research Alliance. While promoting and leading research agencies, he also has spearheaded efforts to protect traditional knowledge and expand intellectual property rights. </p><p>Known for his pioneering scientific contributions in polymer science, he is now propagating the principles of gandhian engineering, a system of development aligned with sustainability principles to create more useful goods and services for more people using fewer resources.</p>"}],"speaker_name":"R.A. Mashelkar","tags":["business","design","economics","industrial design","technology","india"],"title":"Breakthrough designs for ultra-low-cost products","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":636598}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

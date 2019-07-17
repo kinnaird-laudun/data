@@ -1,0 +1,1330 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Jonathan Haidt: How common threats can make common (political) ground | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: If an asteroid were headed for Earth, we&#39;d all band together and figure out how to stop it, just like in the movies, right? And yet, when faced with major, data-supported, end-of-the-world problems in real life, too often we retreat into partisan shouting and stalemate. Jonathan Haidt shows us a few of the very real asteroids headed our way -- some pet causes of the left wing, some of the right -- and suggests how both wings could work together productively to benefit humanity as a whole." />
+<meta name="author" content="Jonathan Haidt" />
+<link rel="canonical" href="https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground/transcript" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground/transcript?language=el" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground/transcript?language=en" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground/transcript?language=vi" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground/transcript?language=it" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground/transcript?language=pt-br" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground/transcript?language=nl" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground/transcript?language=tr" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="th" href="https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground/transcript?language=th" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground/transcript?language=fr" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground/transcript?language=de" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground/transcript?language=hu" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground/transcript?language=he" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground/transcript?language=sr" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground/transcript?language=ko" />
+<link rel="alternate" hreflang="mk" href="https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground/transcript?language=mk" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground/transcript?language=ar" />
+<meta property="og:title" content="Transcript of &quot;How common threats can make common (political) ground&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/08eccdf1035b0338ee208ce18f0ba077f3c94a42_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/08eccdf1035b0338ee208ce18f0ba077f3c94a42_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Jonathan Haidt: How common threats can make common (political) ground" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: If an asteroid were headed for Earth, we&#39;d all band together and figure out how to stop it, just like in the movies, right? And yet, when faced with major, data-supported, end-of-the-world problems in real life, too often we retreat into partisan shouting and stalemate. Jonathan Haidt shows us a few of the very real asteroids headed our way -- some pet causes of the left wing, some of the right -- and suggests how both wings could work together productively to benefit humanity as a whole." />
+<meta property="og:url" content="https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 1642);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground' itemprop='url'>
+<meta content='How common threats can make common (political) ground' itemprop='name'>
+<meta content="If an asteroid were headed for Earth, we'd all band together and figure out how to stop it, just like in the movies, right? And yet, when faced with major, data-supported, end-of-the-world problems in real life, too often we retreat into partisan shouting and stalemate. Jonathan Haidt shows us a few of the very real asteroids headed our way — some pet causes of the left wing, some of the right — and suggests how both wings could work together productively to benefit humanity as a whole." itemprop='description'>
+<meta content='PT20M1S' itemprop='duration'>
+<meta content='2013-01-07T16:07:12+00:00' itemprop='uploadDate'>
+<meta content='622467' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/08eccdf1035b0338ee208ce18f0ba077f3c94a42_1600x1200.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/jonathan_haidt' itemprop='url'>
+<meta content='Jonathan Haidt' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/ba886782403e796dcd11ca109bd3451698f0023e_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/08eccdf1035b0338ee208ce18f0ba077f3c94a42_1600x1200.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Jonathan Haidt
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					622,467
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 20:01</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So if you&#39;ve been following the news,
+											you&#39;ve heard that there&#39;s a pack of giant asteroids
+											headed for the United States,
+											all scheduled to strike within the next 50 years.
+											Now I don&#39;t mean actual asteroids made of rock and metal.
+											That actually wouldn&#39;t be such a problem,
+											because if we were really all going to die,
+											we would put aside our differences, we&#39;d spend whatever it took,
+											and we&#39;d find a way to deflect them.
+											I&#39;m talking instead about threats that are headed our way,
+											but they&#39;re wrapped in a special energy field
+											that polarizes us, and therefore paralyzes us.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Last March, I went to the TED conference,
+											and I saw Jim Hansen speak, the NASA scientist
+											who first raised the alarm about global warming in the 1980s,
+											and it seems that the predictions he made back then
+											are coming true.
+											This is where we&#39;re headed in terms of global temperature rises,
+											and if we keep on going the way we&#39;re going,
+											we get a four- or five-degree-Centigrade temperature rise
+											by the end of this century.
+											Hansen says we can expect about a five-meter rise in sea levels.
+											This is what a five-meter rise in sea levels would look like.
+											Low-lying cities all around the world will disappear
+											within the lifetime of children born today.
+											Hansen closed his talk by saying,
+											&quot;Imagine a giant asteroid on a collision course with Earth.
+											That is the equivalent of what we face now.
+											Yet we dither, taking no action to deflect the asteroid,
+											even though the longer we wait,
+											the more difficult and expensive it becomes.&quot;
+											Of course, the left wants to take action,
+											but the right denies that there&#39;s any problem.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											All right, so I go back from TED,
+											and then the following week, I&#39;m invited to a dinner party
+											in Washington, D.C., where I know that I&#39;ll be meeting
+											a number of conservative intellectuals, including Yuval Levin,
+											and to prepare for the meeting, I read this article by Levin
+											in National Affairs called &quot;Beyond the Welfare State.&quot;
+											Levin writes that all over the world,
+											nations are coming to terms with the fact
+											that the social democratic welfare state
+											is turning out to be untenable and unaffordable,
+											dependent upon dubious economics
+											and the demographic model of a bygone era.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											All right, now this might not sound as scary as an asteroid,
+											but look at these graphs that Levin showed.
+											This graph shows the national debt
+											as a percentage of America&#39;s GDP, and as you see,
+											if you go all the way back to the founding,
+											we borrowed a lot of money to fight the Revolutionary War.
+											Wars are expensive. But then we&#39;d pay it off, pay it off, pay it off,
+											and then, oh, what&#39;s this? The Civil War. Even more expensive.
+											Borrow a lot of money, pay it off, pay it off, pay it off,
+											get down to near zero, and bang! — World War I.
+											Once again, the same process repeats.
+											Now then we get the Great Depression and World War II.
+											We rise to an astronomical level, around 118 percent of GDP,
+											really unsustainable, really dangerous.
+											But we pay it off, pay it off, pay it off, and then, what&#39;s this?
+											Why has it been rising since the &#39;70s?
+											It&#39;s partly due to tax cuts that were unfunded,
+											but it&#39;s due primarily to the rise of entitlement spending,
+											especially Medicare.
+											We&#39;re approaching the levels of indebtedness we had at World War II,
+											and the baby boomers haven&#39;t even retired yet,
+											and when they do, this is what will happen.
+											This is data from the Congressional Budget Office
+											showing its most realistic forecast of what would happen
+											if current situations and expectations and trends are extended.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											All right, now what you might notice is that these two graphs
+											are actually identical, not in terms of the x- and y-axes,
+											or in terms of the data they present,
+											but in terms of their moral and political implications, they say the same thing.
+											Let me translate for you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											&quot;We are doomed unless we start acting now.
+											What&#39;s wrong with you people on the other side in the other party?
+											Can&#39;t you see reality? If you won&#39;t help, then get the hell out of the way.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We can deflect both of these asteroids.
+											These problems are both technically solvable.
+											Our problem and our tragedy is that in these hyper-partisan times,
+											the mere fact that one side says, &quot;Look, there&#39;s an asteroid,&quot;
+											means that the other side&#39;s going to say, &quot;Huh? What?
+											No, I&#39;m not even going to look up. No.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											To understand why this is happening to us,
+											and what we can do about it, we need to learn more about moral psychology.
+											So I&#39;m a social psychologist, and I study morality,
+											and one of the most important principles of morality
+											is that morality binds and blinds.
+											It binds us into teams that circle around sacred values
+											but thereby makes us go blind to objective reality.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Think of it like this.
+											Large-scale cooperation is extremely rare on this planet.
+											There are only a few species that can do it.
+											That&#39;s a beehive. That&#39;s a termite mound, a giant termite mound.
+											And when you find this in other animals, it&#39;s always the same story.
+											They&#39;re always all siblings who are children of a single queen,
+											so they&#39;re all in the same boat.
+											They rise or fall, they live or die, as one.
+											There&#39;s only one species on the planet that can do this
+											without kinship, and that, of course, is us.
+											This is a reconstruction of ancient Babylon,
+											and this is Tenochtitlan.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now how did we do this? How did we go
+											from being hunter-gatherers 10,000 years ago
+											to building these gigantic cities in just a few thousand years?
+											It&#39;s miraculous, and part of the explanation
+											is this ability to circle around sacred values.
+											As you see, temples and gods play a big role in all ancient civilizations.
+											This is an image of Muslims circling the Kaaba in Mecca.
+											It&#39;s a sacred rock, and when people circle something together,
+											they unite, they can trust each other, they become one.
+											It&#39;s as though you&#39;re moving an electrical wire
+											through a magnetic field that generates current.
+											When people circle together, they generate a current.
+											We love to circle around things.
+											We circle around flags, and then we can trust each other.
+											We can fight as a team, as a unit.
+											But even as morality binds people together into a unit,
+											into a team, the circling blinds them.
+											It causes them to distort reality.
+											We begin separating everything into good versus evil.
+											Now that process feels great. It feels really satisfying.
+											But it is a gross distortion of reality.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											You can see the moral electromagnet operating in the U.S. Congress.
+											This is a graph that shows the degree to which voting
+											in Congress falls strictly along the left-right axis,
+											so that if you know how liberal or conservative someone is,
+											you know exactly how they voted on all the major issues.
+											And what you can see is that,
+											in the decades after the Civil War,
+											Congress was extraordinarily polarized,
+											as you would expect, about as high as can be.
+											But then, after World War I, things dropped,
+											and we get this historically low level of polarization.
+											This was a golden age of bipartisanship,
+											at least in terms of the parties&#39; ability to work together
+											and solve grand national problems.
+											But in the 1980s and &#39;90s, the electromagnet turns back on.
+											Polarization rises.
+											It used to be that conservatives and moderates and liberals
+											could all work together in Congress.
+											They could rearrange themselves, form bipartisan committees,
+											but as the moral electromagnet got cranked up,
+											the force field increased,
+											Democrats and Republicans were pulled apart.
+											It became much harder for them to socialize,
+											much harder for them to cooperate.
+											Retiring members nowadays say that it&#39;s become like gang warfare.
+											Did anybody notice that in two of the three debates,
+											Obama wore a blue tie and Romney wore a red tie?
+											Do you know why they do this?
+											It&#39;s so that the Bloods and the Crips will know which side to vote for. (Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The polarization is strongest among our political elites.
+											Nobody doubts that this is happening in Washington.
+											But for a while, there was some doubt as to whether it was happening among the people.
+											Well, in the last 12 years it&#39;s become
+											much more apparent that it is.
+											So look at this data. This is from the American National Elections Survey.
+											And what they do on that survey is they ask
+											what&#39;s called a feeling thermometer rating.
+											So, how warm or cold do you feel about, you know,
+											Native Americans, or the military, the Republican Party,
+											the Democratic Party, all sorts of groups in American life.
+											The blue line shows how warmly Democrats feel
+											about Democrats, and they like them.
+											You know, ratings in the 70s on a 100-point scale.
+											Republicans like Republicans. That&#39;s not a surprise.
+											But when you look at cross-party ratings,
+											you find, well, that it&#39;s lower, but actually,
+											when I first saw this data, I was surprised.
+											That&#39;s actually not so bad. If you go back to the Carter and even Reagan administrations,
+											they were rating the other party 43, 45. It&#39;s not terrible.
+											It drifts downwards very slightly,
+											but now look what happens under George W. Bush and Obama.
+											It plummets. Something is going on here.
+											The moral electromagnet is turning back on,
+											and nowadays, just very recently,
+											Democrats really dislike Republicans.
+											Republicans really dislike the Democrats. We&#39;re changing.
+											It&#39;s as though the moral electromagnet is affecting us too.
+											It&#39;s like put out in the two oceans and it&#39;s pulling the whole country apart,
+											pulling left and right into their own territories
+											like the Bloods and the Crips.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, there are many reasons why this is happening to us,
+											and many of them we cannot reverse.
+											We will never again have a political class
+											that was forged by the experience of fighting together
+											in World War II against a common enemy.
+											We will never again have just three television networks,
+											all of which are relatively centrist.
+											And we will never again have a large group of conservative southern Democrats
+											and liberal northern Republicans making it easy,
+											making there be a lot of overlap for bipartisan cooperation.
+											So for a lot of reasons, those decades after the Second World War
+											were an historically anomalous time.
+											We will never get back to those low levels of polarization, I believe.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But there&#39;s a lot that we can do. There are dozens
+											and dozens of reforms we can do that will make things better,
+											because a lot of our dysfunction can be traced directly
+											to things that Congress did to itself in the 1990s
+											that created a much more polarized and dysfunctional institution.
+											These changes are detailed in many books.
+											These are two that I strongly recommend,
+											and they list a whole bunch of reforms.
+											I&#39;m just going to group them into three broad classes here.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So if you think about this as the problem of a dysfunctional,
+											hyper-polarized institution, well, the first step is,
+											do what you can so that fewer hyper-partisans get elected in the first place,
+											and when you have closed party primaries,
+											and only the most committed Republicans and Democrats are voting,
+											you&#39;re nominating and selecting the most extreme hyper-partisans.
+											So open primaries would make that problem much, much less severe.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But the problem isn&#39;t primarily that we&#39;re electing bad people to Congress.
+											From my experience, and from what I&#39;ve heard from Congressional insiders,
+											most of the people going to Congress are good, hard-working,
+											intelligent people who really want to solve problems,
+											but once they get there, they find that they are forced
+											to play a game that rewards hyper-partisanship
+											and that punishes independent thinking.
+											You step out of line, you get punished.
+											So there are a lot of reforms we could do
+											that will counteract this.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											For example, this &quot;Citizens United&quot; ruling is a disaster,
+											because it means there&#39;s like a money gun aimed at your head,
+											and if you step out of line, if you try to reach across the aisle,
+											there&#39;s a ton of money waiting to be given to your opponent
+											to make everybody think that you are a terrible person through negative advertising.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But the third class of reforms is that we&#39;ve got to change
+											the nature of social relationships in Congress.
+											The politicians I&#39;ve met are generally very extroverted,
+											friendly, very socially skillful people,
+											and that&#39;s the nature of politics. You&#39;ve got to make relationships,
+											make deals, you&#39;ve got to cajole, please, flatter,
+											you&#39;ve got to use your personal skills,
+											and that&#39;s the way politics has always worked.
+											But beginning in the 1990s, first the House of Representatives
+											changed its legislative calendar
+											so that all business is basically done in the middle of the week.
+											Nowadays, Congressmen fly in on Tuesday morning,
+											they do battle for two days, then they fly home Thursday afternoon.
+											They don&#39;t move their families to the District.
+											They don&#39;t meet each other&#39;s spouses or children.
+											There&#39;s no more relationship there.
+											And trying to run Congress without human relationships
+											is like trying to run a car without motor oil.
+											Should we be surprised when the whole thing freezes up
+											and descends into paralysis and polarization?
+											A simple change to the legislative calendar,
+											such as having business stretch out for three weeks
+											and then they get a week off to go home,
+											that would change the fundamental relationships in Congress.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So there&#39;s a lot we can do, but who&#39;s going to push them to do it?
+											There are a number of groups that are working on this.
+											No Labels and Common Cause, I think,
+											have very good ideas for changes we need to do
+											to make our democracy more responsive and our Congress more effective.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But I&#39;d like to supplement their work
+											with a little psychological trick, and the trick is this.
+											Nothing pulls people together like a common threat
+											or a common attack, especially an attack from a foreign enemy,
+											unless of course that threat hits on our polarized psychology,
+											in which case, as I said before, it can actually pull us apart.
+											Sometimes a single threat can polarize us, as we saw.
+											But what if the situation we face is not a single threat
+											but is actually more like this,
+											where there&#39;s just so much stuff coming in,
+											it&#39;s just, &quot;Start shooting, come on, everybody,
+											we&#39;ve got to just work together, just start shooting.&quot;
+											Because actually, we do face this situation.
+											This is where we are as a country.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So here&#39;s another asteroid.
+											We&#39;ve all seen versions of this graph, right,
+											which shows the changes in wealth since 1979,
+											and as you can see, almost all the gains in wealth
+											have gone to the top 20 percent, and especially the top one percent.
+											Rising inequality like this is associated
+											with so many problems for a democracy.
+											Especially, it destroys our ability to trust each other,
+											to feel that we&#39;re all in the same boat, because it&#39;s obvious we&#39;re not.
+											Some of us are sitting there safe and sound in gigantic private yachts.
+											Other people are clinging to a piece of driftwood.
+											We&#39;re not all in the same boat, and that means
+											nobody&#39;s willing to sacrifice for the common good.
+											The left has been screaming about this asteroid for 30 years now,
+											and the right says, &quot;Huh, what? Hmm? No problem. No problem.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now,
+											why is that happening to us? Why is the inequality rising?
+											Well, one of the largest causes, after globalization,
+											is actually this fourth asteroid,
+											rising non-marital births.
+											This graph shows the steady rise of out-of-wedlock births
+											since the 1960s.
+											Most Hispanic and black children are now born to unmarried mothers.
+											Whites are headed that way too.
+											Within a decade or two, most American children
+											will be born into homes with no father.
+											This means that there&#39;s much less money coming into the house.
+											But it&#39;s not just money. It&#39;s also stability versus chaos.
+											As I know from working with street children in Brazil,
+											Mom&#39;s boyfriend is often a really, really dangerous person for kids.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now the right has been screaming about this asteroid since the 1960s,
+											and the left has been saying, &quot;It&#39;s not a problem. It&#39;s not a problem.&quot;
+											The left has been very reluctant to say
+											that marriage is actually good for women and for children.
+											Now let me be clear. I&#39;m not blaming the women here.
+											I&#39;m actually more critical of the men
+											who won&#39;t take responsibility for their own children
+											and of an economic system that makes it difficult
+											for many men to earn enough money to support those children.
+											But even if you blame nobody, it still is a national problem,
+											and one side has been more concerned about it than the other.
+											The New York Times finally noticed this asteroid
+											with a front-page story last July
+											showing how the decline of marriage contributes to inequality.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We are becoming a nation of just two classes.
+											When Americans go to college and marry each other,
+											they have very low divorce rates.
+											They earn a lot of money, they invest that money in their kids,
+											some of them become tiger mothers,
+											the kids rise to their full potential,
+											and the kids go on to become
+											the top two lines in this graph.
+											And then there&#39;s everybody else:
+											the children who don&#39;t benefit from a stable marriage,
+											who don&#39;t have as much invested in them,
+											who don&#39;t grow up in a stable environment,
+											and who go on to become the bottom three lines in that graph.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So once again, we see that these two graphs are actually saying the same thing.
+											As before, we&#39;ve got a problem, we&#39;ve got to start working on this,
+											we&#39;ve got to do something,
+											and what&#39;s wrong with you people that you don&#39;t see my threat?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But if everybody could just take off their partisan blinders,
+											we&#39;d see that these two problems actually
+											are best addressed together.
+											Because if you really care about income inequality,
+											you might want to talk to some evangelical Christian groups
+											that are working on ways to promote marriage.
+											But then you&#39;re going to run smack into the problem
+											that women don&#39;t generally want to marry someone
+											who doesn&#39;t have a job.
+											So if you really care about strengthening families,
+											you might want to talk to some liberal groups
+											who are working on promoting educational equality,
+											who are working on raising the minimum wage,
+											who are working on finding ways to stop so many men
+											from being sucked into the criminal justice system and
+											taken out of the marriage market for their whole lives.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So to conclude, there are at least four asteroids headed our way.
+											How many of you can see all four?
+											Please raise your hand right now if you&#39;re willing to admit
+											that all four of these are national problems.
+											Please raise your hands.
+											Okay, almost all of you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Well, congratulations, you guys are the inaugural members
+											of the Asteroids Club, which is a club
+											for all Americans who are willing to admit
+											that the other side actually might have a point.
+											In the Asteroids Club, we don&#39;t start by looking for common ground.
+											Common ground is often very hard to find.
+											No, we start by looking for common threats
+											because common threats make common ground.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, am I being naive? Is it naive to think
+											that people could ever lay down their swords,
+											and left and right could actually work together?
+											I don&#39;t think so, because it happens,
+											not all that often, but there are a variety of examples that point the way.
+											This is something we can do.
+											Because Americans on both sides care about the decline in civility,
+											and they&#39;ve formed dozens of organizations,
+											at the national level, such as this one,
+											down to many local organizations,
+											such as To The Village Square in Tallahassee, Florida,
+											which tries to bring state leaders together to help facilitate
+											that sort of working together human relationship
+											that&#39;s necessary to solve Florida&#39;s problems.
+											Americans on both sides care about global poverty and AIDS,
+											and on so many humanitarian issues,
+											liberals and evangelicals are actually natural allies,
+											and at times they really have worked together
+											to solve these problems.
+											And most surprisingly to me, they sometimes can even see
+											eye to eye on criminal justice.
+											For example, the incarceration rate, the prison population
+											in this country has quadrupled since 1980.
+											Now this is a social disaster,
+											and liberals are very concerned about this.
+											The Southern Poverty Law Center is often fighting
+											the prison-industrial complex, fighting to prevent a system
+											that&#39;s just sucking in more and more poor young men.
+											But are conservatives happy about this?
+											Well, Grover Norquist isn&#39;t, because this system
+											costs an unbelievable amount of money.
+											And so, because the prison-industrial complex
+											is bankrupting our states and corroding our souls,
+											groups of fiscal conservatives and Christian conservatives
+											have come together to form a group called Right on Crime.
+											And at times they have worked with the Southern Poverty Law Center
+											to oppose the building of new prisons
+											and to work for reforms that will make the justice system
+											more efficient and more humane.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So this is possible. We can do it.
+											Let us therefore go to battle stations,
+											not to fight each other,
+											but to begin deflecting these incoming asteroids.
+											And let our first mission be to press Congress
+											to reform itself, before it&#39;s too late for our nation.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you. (Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":17313,"count":226,"talk_id":1642},"threadId":17313,"current_talk":"1642","description":"If an asteroid were headed for Earth, we'd all band together and figure out how to stop it, just like in the movies, right? And yet, when faced with major, data-supported, end-of-the-world problems in real life, too often we retreat into partisan shouting and stalemate. Jonathan Haidt shows us a few of the very real asteroids headed our way -- some pet causes of the left wing, some of the right -- and suggests how both wings could work together productively to benefit humanity as a whole.","event":"TEDSalon NY2012","language":"en","name":"Jonathan Haidt: How common threats can make common (political) ground","slug":"jonathan_haidt_how_common_threats_can_make_common_political_ground","speakers":[{"id":"278","slug":"jonathan_haidt","is_published":true,"firstname":"Jonathan","lastname":"Haidt","middleinitial":"","title":"","description":"Social psychologist","photo_url":"https://pe.tedcdn.com/images/ted/ba886782403e796dcd11ca109bd3451698f0023e_254x191.jpg","whatotherssay":"","whotheyare":"Jonathan Haidt studies how -- and why -- we evolved to be moral and political creatures.","whylisten":"<p>By understanding more about our moral psychology and its biases, Jonathan Haidt says we can design better institutions (including companies, universities and democracy itself), and we can learn to be more civil and open-minded toward those who are not on our team.</p><p>Haidt is a social psychologist whose research on morality across cultures led to his <a href=\"https://www.ted.com/talks/jonathan_haidt_on_the_moral_mind.html\" target=\"_blank\">2008 TED Talk</a>&nbsp;on the psychological roots of the American culture war, and his 2013 TED Talk on how &quot;common threats can make common ground.&quot; In both of those talks he asks, &quot;Can&#39;t we all disagree more constructively?&quot; Haidt&#39;s&nbsp;<a href=\"http://www.ted.com/talks/jonathan_haidt_humanity_s_stairway_to_self_transcendence\" target=\"_blank\">2012 TED Talk</a>&nbsp;explored the intersection of his work on morality with his work on happiness to talk about &quot;hive psychology&quot; -- the ability that humans have to lose themselves in groups pursuing larger projects, almost like bees in a hive. This hivish ability is crucial, he argues, for understanding the origins of morality, politics, and religion. These are ideas that Haidt develops at greater length in his book, <a href=\"http://righteousmind.com/\" target=\"_blank\"><em>The Righteous Mind: Why Good People are Divided by Politics and Religion</em></a>.</p><p>Haidt joined New York University Stern School of Business in July 2011. He is the Thomas Cooley Professor of Ethical Leadership, based in the Business and Society Program. Before coming to Stern, Professor Haidt taught for 16 years at the University of Virginia in the department of psychology.</p><p>Haidt&#39;s writings appear frequently in the <em>New York Times</em> and <em>The Wall Street Journal</em>. He was named one of the top global thinkers by Foreign Policy magazine and by Prospect magazine. Haidt received a B.A. in Philosophy from Yale University, and an M.A. and Ph.D. in Psychology from the University of Pennsylvania.</p>"}],"url":"https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground","viewed_count":622467,"talks":[{"curator_approved":true,"description":"If an asteroid were headed for Earth, we'd all band together and figure out how to stop it, just like in the movies, right? And yet, when faced with major, data-supported, end-of-the-world problems in real life, too often we retreat into partisan shouting and stalemate. Jonathan Haidt shows us a few of the very real asteroids headed our way -- some pet causes of the left wing, some of the right -- and suggests how both wings could work together productively to benefit humanity as a whole.","downloads":{"id":1642,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Macedonian","endonym":"македонски","languageCode":"mk","ianaCode":"mk","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true}],"nativeDownloads":{"low":"https://download.ted.com/talks/JonathanHaidt_2012S-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/JonathanHaidt_2012S.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/JonathanHaidt_2012S-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"en":{"name":"English","low":"https://download.ted.com/talks/JonathanHaidt_2012S-low-en.mp4","high":"https://download.ted.com/talks/JonathanHaidt_2012S-480p-en.mp4"},"hu":{"name":"Hungarian","high":"https://download.ted.com/talks/JonathanHaidt_2012S-480p-hu.mp4","low":"https://download.ted.com/talks/JonathanHaidt_2012S-low-hu.mp4"},"tr":{"name":"Turkish","high":"https://download.ted.com/talks/JonathanHaidt_2012S-480p-tr.mp4","low":"https://download.ted.com/talks/JonathanHaidt_2012S-low-tr.mp4"},"ko":{"name":"Korean","high":"https://download.ted.com/talks/JonathanHaidt_2012S-480p-ko.mp4","low":"https://download.ted.com/talks/JonathanHaidt_2012S-low-ko.mp4"},"el":{"name":"Greek","high":"https://download.ted.com/talks/JonathanHaidt_2012S-480p-el.mp4","low":"https://download.ted.com/talks/JonathanHaidt_2012S-low-el.mp4"},"de":{"name":"German","high":"https://download.ted.com/talks/JonathanHaidt_2012S-480p-de.mp4","low":"https://download.ted.com/talks/JonathanHaidt_2012S-low-de.mp4"},"mk":{"name":"Macedonian","high":"https://download.ted.com/talks/JonathanHaidt_2012S-480p-mk.mp4","low":"https://download.ted.com/talks/JonathanHaidt_2012S-low-mk.mp4"},"pt-br":{"name":"Portuguese, Brazilian","high":"https://download.ted.com/talks/JonathanHaidt_2012S-480p-pt-br.mp4","low":"https://download.ted.com/talks/JonathanHaidt_2012S-low-pt-br.mp4"},"it":{"name":"Italian","high":"https://download.ted.com/talks/JonathanHaidt_2012S-480p-it.mp4","low":"https://download.ted.com/talks/JonathanHaidt_2012S-low-it.mp4"},"pl":{"name":"Polish","high":"https://download.ted.com/talks/JonathanHaidt_2012S-480p-pl.mp4","low":"https://download.ted.com/talks/JonathanHaidt_2012S-low-pl.mp4"},"es":{"name":"Spanish","high":"https://download.ted.com/talks/JonathanHaidt_2012S-480p-es.mp4","low":"https://download.ted.com/talks/JonathanHaidt_2012S-low-es.mp4"},"fr":{"name":"French","high":"https://download.ted.com/talks/JonathanHaidt_2012S-480p-fr.mp4","low":"https://download.ted.com/talks/JonathanHaidt_2012S-low-fr.mp4"},"ar":{"name":"Arabic","high":"https://download.ted.com/talks/JonathanHaidt_2012S-480p-ar.mp4","low":"https://download.ted.com/talks/JonathanHaidt_2012S-low-ar.mp4"},"ro":{"name":"Romanian","high":"https://download.ted.com/talks/JonathanHaidt_2012S-480p-ro.mp4","low":"https://download.ted.com/talks/JonathanHaidt_2012S-low-ro.mp4"},"zh-tw":{"name":"Chinese, Traditional","high":"https://download.ted.com/talks/JonathanHaidt_2012S-480p-zh-tw.mp4","low":"https://download.ted.com/talks/JonathanHaidt_2012S-low-zh-tw.mp4"},"he":{"name":"Hebrew","high":"https://download.ted.com/talks/JonathanHaidt_2012S-480p-he.mp4","low":"https://download.ted.com/talks/JonathanHaidt_2012S-low-he.mp4"},"nl":{"name":"Dutch","high":"https://download.ted.com/talks/JonathanHaidt_2012S-480p-nl.mp4","low":"https://download.ted.com/talks/JonathanHaidt_2012S-low-nl.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/JonathanHaidt_2012S-low-zh-cn.mp4","high":"https://download.ted.com/talks/JonathanHaidt_2012S-480p-zh-cn.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/JonathanHaidt_2012S-low-ru.mp4","high":"https://download.ted.com/talks/JonathanHaidt_2012S-480p-ru.mp4"},"th":{"name":"Thai","low":"https://download.ted.com/talks/JonathanHaidt_2012S-low-th.mp4","high":"https://download.ted.com/talks/JonathanHaidt_2012S-480p-th.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/JonathanHaidt_2012S-low-sr.mp4","high":"https://download.ted.com/talks/JonathanHaidt_2012S-480p-sr.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/JonathanHaidt_2012S-low-ja.mp4","high":"https://download.ted.com/talks/JonathanHaidt_2012S-480p-ja.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/JonathanHaidt_2012S-low-vi.mp4","high":"https://download.ted.com/talks/JonathanHaidt_2012S-480p-vi.mp4"}},"audioDownload":"https://download.ted.com/talks/JonathanHaidt_2012S.mp3?apikey=acme-roadrunner"},"duration":1201.0,"event":"TEDSalon NY2012","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/08eccdf1035b0338ee208ce18f0ba077f3c94a42_1600x1200.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/08eccdf1035b0338ee208ce18f0ba077f3c94a42_1600x1200.jpg?q=50&w=15","id":"1642","player_talks":[{"id":"1642","duration":1201.0,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Macedonian","endonym":"македонски","languageCode":"mk","ianaCode":"mk","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2012S/Blank/JonathanHaidt_2012S-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDSalon%2BNY2012%26id%3D1642%26tag%3Dglobal%2Bissues%2Cpolitics%2Csociety%2Cpsychology%26talk%3Djonathan_haidt_how_common_threats_can_make_common_political_ground%26year%3D2012&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"1642","talk":"jonathan_haidt_how_common_threats_can_make_common_political_ground","tag":"global issues,politics,society,psychology","year":"2012","event":"TEDSalon NY2012"},"stream":"https://hls.ted.com/talks/1642.m3u8","metadata":"https://hls.ted.com/talks/1642.json"}},"targeting":{"id":"1642","talk":"jonathan_haidt_how_common_threats_can_make_common_political_ground","tag":"global issues,politics,society,psychology","year":"2012","event":"TEDSalon NY2012"},"canonical":"https://www.ted.com/talks/jonathan_haidt_how_common_threats_can_make_common_political_ground","name":"Jonathan Haidt: How common threats can make common (political) ground","title":"How common threats can make common (political) ground","speaker":"Jonathan Haidt","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/08eccdf1035b0338ee208ce18f0ba077f3c94a42_1600x1200.jpg?quality=89&w=600","slug":"jonathan_haidt_how_common_threats_can_make_common_political_ground","event":"TEDSalon NY2012","published":1357574832}],"ratings":[{"id":10,"name":"Inspiring","count":116},{"id":24,"name":"Persuasive","count":230},{"id":3,"name":"Courageous","count":38},{"id":21,"name":"Unconvincing","count":62},{"id":8,"name":"Informative","count":164},{"id":7,"name":"Funny","count":8},{"id":25,"name":"OK","count":29},{"id":9,"name":"Ingenious","count":26},{"id":22,"name":"Fascinating","count":42},{"id":26,"name":"Obnoxious","count":25},{"id":11,"name":"Longwinded","count":17},{"id":1,"name":"Beautiful","count":4},{"id":2,"name":"Confusing","count":4},{"id":23,"name":"Jaw-dropping","count":16}],"recorded_at":"2012-12-19T00:00:00.000+00:00","related_talks":[{"id":"341","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/5720eac9-d3b3-46f8-855c-fba2ccffa96b/JonathanHaidt_2008-embed.jpg","speaker":"Jonathan Haidt","title":"The moral roots of liberals and conservatives","duration":1122.0,"slug":"jonathan_haidt_on_the_moral_mind","viewed_count":3004260},{"id":"1389","hero":"https://pe.tedcdn.com/images/ted/2bf49b05ae3fe8815f881ad005b6b15fa502165f_800x600.jpg","speaker":"Jonathan Haidt","title":"Religion, evolution, and the ecstasy of self-transcendence","duration":1096.0,"slug":"jonathan_haidt_humanity_s_stairway_to_self_transcendence","viewed_count":1177814},{"id":"1380","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/f90de6b9-1488-4357-8c45-5c261c31744b/JamesHansen_2012-embed.jpg","speaker":"James Hansen","title":"Why I must speak out about climate change","duration":1071.0,"slug":"james_hansen_why_i_must_speak_out_about_climate_change","viewed_count":1315939},{"id":"1638","hero":"https://pe.tedcdn.com/images/ted/b1dacb5808019af4af30411214a3ceb36d793a89_1600x1200.jpg","speaker":"Adam Davidson","title":"What we learned from teetering on the fiscal cliff","duration":1188.0,"slug":"adam_davidson_what_we_learned_from_teetering_on_the_fiscal_cliff","viewed_count":792331},{"id":"8799","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/9b0e1edb-fbbe-46ab-99d0-965bb1fec032/BobInglis_2017X-embed.jpg","speaker":"Bob Inglis","title":"American bipartisan politics can be saved -- here's how","duration":648.0,"slug":"bob_inglis_american_bipartisan_politics_can_be_saved_here_s_how","viewed_count":832399},{"id":"2456","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/402bae1f-d08a-46ee-a218-24576037b930/ArthurBrooks_2016-embed.jpg","speaker":"Arthur Brooks","title":"A conservative's plea: Let's work together","duration":854.0,"slug":"arthur_brooks_a_conservative_s_plea_let_s_work_together","viewed_count":1187729}],"slug":"jonathan_haidt_how_common_threats_can_make_common_political_ground","speakers":[{"id":"278","slug":"jonathan_haidt","is_published":true,"firstname":"Jonathan","lastname":"Haidt","middleinitial":"","title":"","description":"Social psychologist","photo_url":"https://pe.tedcdn.com/images/ted/ba886782403e796dcd11ca109bd3451698f0023e_254x191.jpg","whatotherssay":"","whotheyare":"Jonathan Haidt studies how -- and why -- we evolved to be moral and political creatures.","whylisten":"<p>By understanding more about our moral psychology and its biases, Jonathan Haidt says we can design better institutions (including companies, universities and democracy itself), and we can learn to be more civil and open-minded toward those who are not on our team.</p><p>Haidt is a social psychologist whose research on morality across cultures led to his <a href=\"https://www.ted.com/talks/jonathan_haidt_on_the_moral_mind.html\" target=\"_blank\">2008 TED Talk</a>&nbsp;on the psychological roots of the American culture war, and his 2013 TED Talk on how &quot;common threats can make common ground.&quot; In both of those talks he asks, &quot;Can&#39;t we all disagree more constructively?&quot; Haidt&#39;s&nbsp;<a href=\"http://www.ted.com/talks/jonathan_haidt_humanity_s_stairway_to_self_transcendence\" target=\"_blank\">2012 TED Talk</a>&nbsp;explored the intersection of his work on morality with his work on happiness to talk about &quot;hive psychology&quot; -- the ability that humans have to lose themselves in groups pursuing larger projects, almost like bees in a hive. This hivish ability is crucial, he argues, for understanding the origins of morality, politics, and religion. These are ideas that Haidt develops at greater length in his book, <a href=\"http://righteousmind.com/\" target=\"_blank\"><em>The Righteous Mind: Why Good People are Divided by Politics and Religion</em></a>.</p><p>Haidt joined New York University Stern School of Business in July 2011. He is the Thomas Cooley Professor of Ethical Leadership, based in the Business and Society Program. Before coming to Stern, Professor Haidt taught for 16 years at the University of Virginia in the department of psychology.</p><p>Haidt&#39;s writings appear frequently in the <em>New York Times</em> and <em>The Wall Street Journal</em>. He was named one of the top global thinkers by Foreign Policy magazine and by Prospect magazine. Haidt received a B.A. in Philosophy from Yale University, and an M.A. and Ph.D. in Psychology from the University of Pennsylvania.</p>"}],"speaker_name":"Jonathan Haidt","tags":["global issues","politics","society","psychology"],"title":"How common threats can make common (political) ground","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":622467}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

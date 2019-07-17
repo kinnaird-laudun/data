@@ -1,0 +1,1173 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Neil Gershenfeld: Unleash your creativity in a Fab Lab | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: MIT professor Neil Gershenfeld talks about his Fab Lab -- a low-cost lab that lets people build things they need using digital and analog tools. It&#39;s a simple idea with powerful results." />
+<meta name="author" content="Neil Gershenfeld" />
+<link rel="canonical" href="https://www.ted.com/talks/neil_gershenfeld_on_fab_labs/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/neil_gershenfeld_on_fab_labs/transcript" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/neil_gershenfeld_on_fab_labs/transcript?language=el" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/neil_gershenfeld_on_fab_labs/transcript?language=fr" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/neil_gershenfeld_on_fab_labs/transcript?language=en" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/neil_gershenfeld_on_fab_labs/transcript?language=nl" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/neil_gershenfeld_on_fab_labs/transcript?language=ru" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/neil_gershenfeld_on_fab_labs/transcript?language=ko" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/neil_gershenfeld_on_fab_labs/transcript?language=it" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/neil_gershenfeld_on_fab_labs/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/neil_gershenfeld_on_fab_labs/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/neil_gershenfeld_on_fab_labs/transcript?language=pt-br" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/neil_gershenfeld_on_fab_labs/transcript?language=pl" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/neil_gershenfeld_on_fab_labs/transcript?language=bg" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/neil_gershenfeld_on_fab_labs/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/neil_gershenfeld_on_fab_labs/transcript?language=ro" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/neil_gershenfeld_on_fab_labs/transcript?language=ja" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/neil_gershenfeld_on_fab_labs/transcript?language=es" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/neil_gershenfeld_on_fab_labs/transcript?language=he" />
+<meta property="og:title" content="Transcript of &quot;Unleash your creativity in a Fab Lab&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c634a6fe7b4b9f15c59f75f0c06a09058081c95a_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c634a6fe7b4b9f15c59f75f0c06a09058081c95a_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Neil Gershenfeld: Unleash your creativity in a Fab Lab" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: MIT professor Neil Gershenfeld talks about his Fab Lab -- a low-cost lab that lets people build things they need using digital and analog tools. It&#39;s a simple idea with powerful results." />
+<meta property="og:url" content="https://www.ted.com/talks/neil_gershenfeld_on_fab_labs/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 90);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/neil_gershenfeld_on_fab_labs' itemprop='url'>
+<meta content='Unleash your creativity in a Fab Lab' itemprop='name'>
+<meta content="MIT professor Neil Gershenfeld talks about his Fab Lab — a low-cost lab that lets people build things they need using digital and analog tools. It's a simple idea with powerful results." itemprop='description'>
+<meta content='PT17M18S' itemprop='duration'>
+<meta content='2007-02-19T00:11:00+00:00' itemprop='uploadDate'>
+<meta content='744087' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c634a6fe7b4b9f15c59f75f0c06a09058081c95a_1600x1200.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/neil_gershenfeld' itemprop='url'>
+<meta content='Neil Gershenfeld' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/05383a3cc6e156a8572785a7aa21468bc8023efc_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/neil_gershenfeld_on_fab_labs' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c634a6fe7b4b9f15c59f75f0c06a09058081c95a_1600x1200.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Neil Gershenfeld
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					744,087
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 17:18</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This meeting has really been about a digital revolution,
+											but I&#39;d like to argue that it&#39;s done; we won.
+											We&#39;ve had a digital revolution but we don&#39;t need to keep having it.
+											And I&#39;d like to look after that,
+											to look what comes after the digital revolution.
+											So, let me start projecting forward.
+											These are some projects I&#39;m involved in today at MIT,
+											looking what comes after computers.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This first one, Internet Zero, up here — this is a web server
+											that has the cost and complexity of an RFID tag —
+											about a dollar — that can go in every light bulb and doorknob,
+											and this is getting commercialized very quickly.
+											And what&#39;s interesting about it isn&#39;t the cost;
+											it&#39;s the way it encodes the Internet.
+											It uses a kind of a Morse code for the Internet
+											so you could send it optically; you can communicate acoustically
+											through a power line, through RF.
+											It takes the original principle of the Internet,
+											which is inter-networking computers,
+											and now lets devices inter-network.
+											That we can take the whole idea that gave birth to the Internet
+											and bring it down to the physical world in this Internet Zero,
+											this internet of devices.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So this is the next step from there to here,
+											and this is getting commercialized today.
+											A step after that is a project on fungible computers.
+											Fungible goods in economics can be extended and traded.
+											So, half as much grain is half as much useful,
+											but half a baby or half a computer is less useful than
+											a whole baby or a whole computer,
+											and we&#39;ve been trying to make computers that work that way.
+											So, what you see in the background is a prototype.
+											This was from a thesis of a student, Bill Butow, now at Intel,
+											who wondered why, instead of making bigger and bigger chips,
+											you don&#39;t make small chips, put them in a viscous medium,
+											and pour out computing by the pound or by the square inch.
+											And that&#39;s what you see here.
+											On the left was postscript being rendered by a conventional computer;
+											on the right is postscript being rendered from the first prototype
+											we made, but there&#39;s no frame buffer, IO processor,
+											any of that stuff — it&#39;s just this material.
+											Unlike this screen where the dots are placed carefully,
+											this is a raw material.
+											If you add twice as much of it, you have twice as much display.
+											If you shoot a gun through the middle, nothing happens.
+											If you need more resource, you just apply more computer.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, that&#39;s the step after this — of computing as a raw material.
+											That&#39;s still conventional bits, the step after that is —
+											this is an earlier prototype in the lab;
+											this is high-speed video slowed down.
+											Now, integrating chemistry in computation, where the bits are bubbles.
+											This is showing making bits, this is showing —
+											once again, slowed down so you can see it,
+											bits interacting to do logic and multiplexing and de-multiplexing.
+											So, now we can compute that the output arranges material
+											as well as information. And, ultimately, these are some slides
+											from an early project I did, computing where the bits are stored
+											quantum-mechanically in the nuclei of atoms, so
+											programs rearrange the nuclear structure of molecules.
+											All of these are in the lab pushing further and further and further,
+											not as metaphor but literally integrating bits and atoms,
+											and they lead to the following recognition.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We all know we&#39;ve had a digital revolution, but what is that?
+											Well, Shannon took us, in the &#39;40s, from here to here:
+											from a telephone being a speaker wire that degraded with distance
+											to the Internet. And he proved the first threshold theorem, that shows
+											if you add information and remove it to a signal,
+											you can compute perfectly with an imperfect device.
+											And that&#39;s when we got the Internet.
+											Von Neumann, in the &#39;50s, did the same thing for computing;
+											he showed you can have an unreliable computer but restore its state
+											to make it perfect. This was the last great analog computer at MIT:
+											a differential analyzer, and the more you ran it,
+											the worse the answer got.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											After Von Neumann, we have the Pentium, where the billionth transistor
+											is as reliable as the first one.
+											But all our fabrication is down in this lower left corner.
+											A state-of-the-art airplane factory rotating metal wax at fixed metal,
+											or you maybe melt some plastic. A 10-billion-dollar chip fab
+											uses a process a village artisan would recognize —
+											you spread stuff around and bake it.
+											All the intelligence is external to the system;
+											the materials don&#39;t have information.
+											Yesterday you heard about molecular biology,
+											which fundamentally computes to build.
+											It&#39;s an information processing system.
+											We&#39;ve had digital revolutions in communication and computation,
+											but precisely the same idea, precisely the same math
+											Shannon and Von Neuman did, hasn&#39;t yet come out
+											to the physical world. So, inspired by that,
+											colleagues in this program — the Center for Bits and Atoms
+											at MIT — which is a group of people, like me,
+											who never understood the boundary between physical science
+											and computer science. I would even go further and say
+											computer science is one of the worst things that ever happened
+											to either computers or to science —
+											(Laughter)
+											— because the canon — computer science —
+											many of them are great but the canon of computer science
+											prematurely froze a model of computation
+											based on technology that was available in 1950,
+											and nature&#39;s a much more powerful computer than that.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, you&#39;ll hear, tomorrow, from Saul Griffith. He was one of the
+											first students to emerge from this program.
+											We started to figure out how you can compute to fabricate.
+											This was just a proof of principle he did of tiles
+											that interact magnetically, where you write a code,
+											much like protein folding, that specifies their structure.
+											So, there&#39;s no feedback to a tool metrology;
+											the material itself codes for its structure in just the same ways
+											that protein are fabricated. So, you can, for example, do that.
+											You can do other things. That&#39;s in 2D. It works in 3D.
+											The video on the upper right — I won&#39;t show for time —
+											shows self-replication, templating so something can make something
+											that can make something, and we&#39;re doing that now over, maybe,
+											nine orders of magnitude. Those ideas have been used to show
+											the best fidelity and direct rate DNA to make an organism,
+											in functionalizing nanoclusters with peptide tails
+											that code for their assembly — so, much like the magnets,
+											but now on nanometer scales.
+											Laser micro-machining: essentially 3D printers that digitally fabricate
+											functional systems, all the way up to building buildings,
+											not by having blueprints,
+											but having the parts code for the structure of the building.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, these are early examples in the lab of emerging technologies
+											to digitize fabrication. Computers that don&#39;t control tools
+											but computers that are tools, where the output of a program
+											rearranges atoms as well as bits.
+											Now, to do that — with your tax dollars, thank you —
+											I bought all these machines. We made a modest proposal
+											to the NSF. We wanted to be able to make anything on any length scale,
+											all in one place, because you can&#39;t segregate digital fabrication
+											by a discipline or a length scale.
+											So we put together focused nano beam writers
+											and supersonic water jet cutters and excimer micro-machining systems.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But I had a problem. Once I had all these machines,
+											I was spending too much time teaching students to use them.
+											So I started teaching a class, modestly called,
+											&quot;How To Make Almost Anything.&quot; And that wasn&#39;t meant to be provocative;
+											it was just for a few research students.
+											But the first day of class looked like this.
+											You know, hundreds of people came in begging,
+											all my life I&#39;ve been waiting for this class; I&#39;ll do anything to do it.
+											Then they&#39;d ask, can you teach it at MIT? It seems too useful?
+											And then the next —
+											(Laughter)
+											— surprising thing was they weren&#39;t there to do research.
+											They were there because they wanted to make stuff.
+											They had no conventional technical background.
+											At the end of a semester they integrated their skills.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I&#39;ll show an old video. Kelly was a sculptor, and this is what she did
+											with her semester project.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Video): Kelly: Hi, I&#39;m Kelly and this is my scream buddy.
+											Do you ever find yourself in a situation
+											where you really have to scream, but you can&#39;t because you&#39;re at work,
+											or you&#39;re in a classroom, or you&#39;re watching your children,
+											or you&#39;re in any number of situations where it&#39;s just not permitted?
+											Well, scream buddy is a portable space for screaming.
+											When a user screams into scream buddy, their scream is silenced.
+											It is also recorded for later release where, when and how
+											the user chooses.
+											(Scream)
+											(Laughter) (Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, Einstein would like this.
+											This student made a web browser for parrots —
+											lets parrots surf the Net and talk to other parrots.
+											This student&#39;s made an alarm clock you wrestle
+											to prove you&#39;re awake; this is one that defends —
+											a dress that defends your personal space.
+											This isn&#39;t technology for communication;
+											it&#39;s technology to prevent it.
+											This is a device that lets you see your music.
+											This is a student who made a machine that makes machines,
+											and he made it by making Lego bricks that do the computing.
+											Just year after year — and I finally realized
+											the students were showing the killer app of personal fabrication
+											is products for a market of one person.
+											You don&#39;t need this for what you can get in Wal-Mart;
+											you need this for what makes you unique.
+											Ken Olsen famously said, nobody needs a computer in the home.
+											But you don&#39;t use it for inventory and payroll;
+											DEC is now twice bankrupt. You don&#39;t need personal fabrication
+											in the home to buy what you can buy because you can buy it.
+											You need it for what makes you unique, just like personalization.
+											So, with that, in turn, 20 million dollars today does this;
+											20 years from now we&#39;ll make Star Trek replicators that make anything.
+											The students hijacked all the machines I bought to do personal fabrication.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Today, when you spend that much of your money,
+											there&#39;s a government requirement to do outreach, which often means
+											classes at a local school, a website — stuff that&#39;s just not that exciting.
+											So, I made a deal with my NSF program managers that
+											instead of talking about it, I&#39;d give people the tools.
+											This wasn&#39;t meant to be provocative or important,
+											but we put together these Fab Labs. It&#39;s about 20,000 dollars in equipment
+											that approximate both what the 20 million dollars does and where it&#39;s going.
+											A laser cutter to do press-fit assembly with 3D from 2D,
+											a sign cutter to plot in copper to do electromagnetics,
+											a micron scale,
+											numerically-controlled milling machine for precise structures,
+											programming tools for less than a dollar,
+											100-nanosecond microcontrollers. It lets you work from microns
+											and microseconds on up, and they exploded around the world.
+											This wasn&#39;t scheduled, but they went from inner-city Boston
+											to Pobal in India, to Secondi-Takoradi on Ghana&#39;s coast
+											to Soshanguve in a township in South Africa,
+											to the far north of Norway, uncovering, or helping uncover,
+											for all the attention to the digital divide,
+											we would find unused computers in all these places.
+											A farmer in a rural village — a kid needs to measure and modify
+											the world, not just get information about it on a screen.
+											That there&#39;s really a fabrication and an instrumentation divide
+											bigger than the digital divide.
+											And the way you close it is not IT for the masses but IT development for the masses.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, in place after place
+											we saw this same progression: that we&#39;d open one of these Fab Labs,
+											where we didn&#39;t — this is too crazy to think of.
+											We didn&#39;t think this up, that we would get pulled to these places;
+											we&#39;d open it. The first step was just empowerment.
+											You can see it in their face, just this joy of, I can do it.
+											This is a girl in inner-city Boston who had just done a high-tech
+											on-demand craft sale in the inner city community center.
+											It goes on from there to serious hands-on technical education
+											informally, out of schools. In Ghana we had set up one of these labs.
+											We designed a network sensor, and kids would show up
+											and refuse to leave the lab.
+											There was a girl who insisted we stay late at night —
+											(Video): Kids: I love the Fab Lab.
+											— her first night in the lab because she was going to make the sensor.
+											So she insisted on fabbing the board, learning how to stuff it,
+											learning how to program it. She didn&#39;t really know
+											what she was doing or why she was doing it, but she knew
+											she just had to do it. There was something electric about it.
+											This is late at, you know, 11 o&#39;clock at night
+											and I think I was the only person surprised when what she built
+											worked the first time.
+											And I&#39;ve shown this to engineers at big companies, and they say
+											they can&#39;t do this. Any one thing she&#39;s doing, they can do better,
+											but it&#39;s distributed over many people and many sites
+											and they can&#39;t do in an afternoon
+											what this little girl in rural Ghana is doing.
+											(Video): Girl: My name is Valentina Kofi; I am eight years old.
+											I made a stacking board.
+											And, again, that was just for the joy of it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Then these labs started doing serious problem solving —
+											instrumentation for agriculture in India,
+											steam turbines for energy conversion in Ghana,
+											high-gain antennas in thin client computers.
+											And then, in turn, businesses started to grow,
+											like making these antennas.
+											And finally, the lab started doing invention.
+											We&#39;re learning more from them than we&#39;re giving them.
+											I was showing my kids in a Fab Lab how to use it.
+											They invented a way to do a construction kit out of a cardboard box —
+											which, as you see up there, that&#39;s becoming a business —
+											but their design was better than Saul&#39;s design at MIT,
+											so there&#39;s now three students at MIT doing their theses on
+											scaling the work of eight-year-old children
+											because they had better designs.
+											Real invention is happening in these labs.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And I still kept — so, in the last year I&#39;ve been spending time with
+											heads of state and generals and tribal chiefs who all want this,
+											and I keep saying, but this isn&#39;t the real thing.
+											Wait, like, 20 years and then we&#39;ll be done.
+											And I finally got what&#39;s been going on. This is Kernigan and Ritchie
+											inventing UNIX on a PDP.
+											PDPs came between mainframes and minicomputers.
+											They were tens of thousands of dollars, hard to use,
+											but they brought computing down to work groups,
+											and everything we do today happened there.
+											These Fab Labs are the cost and complexity of a PDP.
+											The projection of digital fabrication
+											isn&#39;t a projection for the future; we are now in the PDP era.
+											We talked in hushed tones about the great discoveries then.
+											It was very chaotic, it wasn&#39;t, sort of, clear what was going on.
+											In the same sense we are now, today, in the minicomputer era
+											of digital fabrication.
+											The only problem with that is it breaks everybody&#39;s boundaries.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											In DC, I go to every agency that wants to talk, you know;
+											in the Bay Area, I go to every organization you can think of —
+											they all want to talk about it, but it breaks
+											their organizational boundaries. In fact, it&#39;s illegal for them,
+											in many cases, to equip ordinary people to create
+											rather than consume technology.
+											And that problem is so severe that the ultimate invention
+											coming from this community surprised me:
+											it&#39;s the social engineering. That the lab in far north of Norway —
+											this is so far north its satellite dishes look at the ground
+											rather than the sky because that&#39;s where the satellites are —
+											the lab outgrew the little barn that it was in.
+											It was there because they wanted to find animals in the mountains
+											but it outgrew it, so they built this extraordinary village for the lab.
+											This isn&#39;t a university; it&#39;s not a company. It&#39;s essentially
+											a village for invention; it&#39;s a village for the outliers in society,
+											and those have been growing up around these Fab Labs
+											all around the world.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So this program has split into an NGO foundation,
+											a Fab Foundation to support the scaling, a micro VC fund.
+											The person who runs it nicely describes it as
+											&quot;machines that make machines need businesses that make businesses:&quot;
+											it&#39;s a cross between micro-finance and VC to do fan-out,
+											and then the research partnerships back at MIT for what&#39;s
+											making it possible.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So I&#39;d like to leave you with two thoughts.
+											There&#39;s been a sea change in aid, from top-down mega-projects
+											to bottom-up, grassroots, micro-finance investing in the roots,
+											so that everybody&#39;s got that that&#39;s what works.
+											But we still look at technology as top-down mega-projects.
+											Computing, communication, energy for the rest of the planet
+											are these top-down mega-projects.
+											If this room full of heroes is just clever enough,
+											you can solve the problems.
+											The message coming from the Fab Labs is that
+											the other five billion people on the planet
+											aren&#39;t just technical sinks; they&#39;re sources.
+											The real opportunity is to harness the inventive power of the world
+											to locally design and produce solutions to local problems.
+											I thought that&#39;s the projection 20 years hence into the future,
+											but it&#39;s where we are today.
+											It breaks every organizational boundary we can think of.
+											The hardest thing at this point is the social engineering
+											and the organizational engineering, but it&#39;s here today.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And, finally, any talk like this on the future of computing
+											is required to show Moore&#39;s law, but my favorite version —
+											this is Gordon Moore&#39;s original one from his original paper —
+											and what&#39;s happened is, year after year after year,
+											we&#39;ve scaled and we&#39;ve scaled and we&#39;ve scaled
+											and we&#39;ve scaled, and we&#39;ve scaled and we&#39;ve scaled,
+											and we&#39;ve scaled and we&#39;ve scaled,
+											and there&#39;s this looming bug of what&#39;s going to happen
+											at the end of Moore&#39;s law; this ultimate bug is coming.
+											But we&#39;re coming to appreciate, is the transition from 2D to 3D,
+											from programming bits to programming atoms,
+											turns the ends of Moore&#39;s law scaling from the ultimate bug
+											to the ultimate feature.
+											So, we&#39;re just at the edge of this digital revolution in fabrication,
+											where the output of computation programs the physical world.
+											So, together, these two projects answer questions
+											I hadn&#39;t asked carefully. The class at MIT shows the killer app
+											for personal fabrication in the developed world
+											is technology for a market of one: personal expression in technology
+											that touches a passion unlike anything I&#39;ve seen in technology
+											for a very long time.
+											And the killer app for the rest of the planet is the instrumentation
+											and the fabrication divide: people locally developing solutions
+											to local problems. Thank you.
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":87,"count":64,"talk_id":90},"threadId":87,"current_talk":"90","description":"MIT professor Neil Gershenfeld talks about his Fab Lab -- a low-cost lab that lets people build things they need using digital and analog tools. It's a simple idea with powerful results.","event":"TED2006","language":"en","name":"Neil Gershenfeld: Unleash your creativity in a Fab Lab","slug":"neil_gershenfeld_on_fab_labs","speakers":[{"id":"88","slug":"neil_gershenfeld","is_published":true,"firstname":"Neil","lastname":"Gershenfeld","middleinitial":"","title":"","description":"Physicist, personal fab pioneer","photo_url":"https://pe.tedcdn.com/images/ted/05383a3cc6e156a8572785a7aa21468bc8023efc_254x191.jpg","whatotherssay":"Neil Gershenfeld's celebrated, visionary FabLab at the Massachusetts Institute of Technology enables anybody to design and execute one-of-a-kind objects complete with brains.","whotheyare":"As Director of MIT’s Center for Bits and Atoms, Neil Gershenfeld explores the boundaries between the digital and physical worlds.","whylisten":"<p>MIT&#39;s Neil Gershenfeld is redefining the boundaries between the digital and analog worlds. The digital revolution is over, Gershenfeld says. We won. What comes next? His <a href=\"http://cba.mit.edu/\" target=\"_blank\">Center for Bits and Atoms</a>  has developed quite a few answers, including Internet 0, a tiny web server that fits into lightbulbs and doorknobs, networking the physical world in previously unimaginable ways.</p><p>But Gershenfeld is best known as a pioneer in personal fabrication -- small-scale manufacturing enabled by digital technologies, which gives people the tools to build literally anything they can imagine. His famous <a href=\"http://fab.cba.mit.edu/\" target=\"_blank\">Fab Lab</a>  is immensely popular among students at MIT, who crowd Gershenfeld&#39;s classes. But the concept is potentially life-altering in the developing world, where a Fab Lab  with just $20,000 worth of laser cutters, milling machines and soldering irons can transform a community, helping people harness their creativity to build tools, replacement parts and essential products unavailable in the local market. Read more in <a href=\"http://geni.us/fabrevolution\" target=\"_blank\"><em>Fab: The Coming Revolution on Your Desktop</em></a>.</p>"}],"url":"https://www.ted.com/talks/neil_gershenfeld_on_fab_labs","viewed_count":744087,"talks":[{"curator_approved":true,"description":"MIT professor Neil Gershenfeld talks about his Fab Lab -- a low-cost lab that lets people build things they need using digital and analog tools. It's a simple idea with powerful results.","downloads":{"id":90,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true}],"nativeDownloads":{"low":"https://download.ted.com/talks/NeilGershenfeld_2006-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/NeilGershenfeld_2006.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/NeilGershenfeld_2006-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"fr":{"name":"French","high":"https://download.ted.com/talks/NeilGershenfeld_2006-480p-fr.mp4","low":"https://download.ted.com/talks/NeilGershenfeld_2006-low-fr.mp4"},"zh-tw":{"name":"Chinese, Traditional","high":"https://download.ted.com/talks/NeilGershenfeld_2006-480p-zh-tw.mp4","low":"https://download.ted.com/talks/NeilGershenfeld_2006-low-zh-tw.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/NeilGershenfeld_2006-low-zh-cn.mp4","high":"https://download.ted.com/talks/NeilGershenfeld_2006-480p-zh-cn.mp4"},"ko":{"name":"Korean","high":"https://download.ted.com/talks/NeilGershenfeld_2006-480p-ko.mp4","low":"https://download.ted.com/talks/NeilGershenfeld_2006-low-ko.mp4"},"en":{"name":"English","high":"https://download.ted.com/talks/NeilGershenfeld_2006-480p-en.mp4","low":"https://download.ted.com/talks/NeilGershenfeld_2006-low-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/NeilGershenfeld_2006-low-pt-br.mp4","high":"https://download.ted.com/talks/NeilGershenfeld_2006-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/NeilGershenfeld_2006-low-it.mp4","high":"https://download.ted.com/talks/NeilGershenfeld_2006-480p-it.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/NeilGershenfeld_2006-low-he.mp4","high":"https://download.ted.com/talks/NeilGershenfeld_2006-480p-he.mp4"},"bg":{"name":"Bulgarian","high":"https://download.ted.com/talks/NeilGershenfeld_2006-480p-bg.mp4","low":"https://download.ted.com/talks/NeilGershenfeld_2006-low-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/NeilGershenfeld_2006-low-ro.mp4","high":"https://download.ted.com/talks/NeilGershenfeld_2006-480p-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/NeilGershenfeld_2006-low-pl.mp4","high":"https://download.ted.com/talks/NeilGershenfeld_2006-480p-pl.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/NeilGershenfeld_2006-low-ar.mp4","high":"https://download.ted.com/talks/NeilGershenfeld_2006-480p-ar.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/NeilGershenfeld_2006-low-es.mp4","high":"https://download.ted.com/talks/NeilGershenfeld_2006-480p-es.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/NeilGershenfeld_2006-low-ja.mp4","high":"https://download.ted.com/talks/NeilGershenfeld_2006-480p-ja.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/NeilGershenfeld_2006-low-nl.mp4","high":"https://download.ted.com/talks/NeilGershenfeld_2006-480p-nl.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/NeilGershenfeld_2006-low-el.mp4","high":"https://download.ted.com/talks/NeilGershenfeld_2006-480p-el.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/NeilGershenfeld_2006-low-ru.mp4","high":"https://download.ted.com/talks/NeilGershenfeld_2006-480p-ru.mp4"}},"audioDownload":"https://download.ted.com/talks/NeilGershenfeld_2006.mp3?apikey=acme-roadrunner"},"duration":1038.0,"event":"TED2006","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/c634a6fe7b4b9f15c59f75f0c06a09058081c95a_1600x1200.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c634a6fe7b4b9f15c59f75f0c06a09058081c95a_1600x1200.jpg?q=50&w=15","id":"90","player_talks":[{"id":"90","duration":1038.0,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2006/Blank/NeilGershenfeld_2006-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTED2006%26id%3D90%26tag%3Dcomputers%2Cculture%2Cengineering%2Cinvention%2Cmaterials%2Cscience%2Csocial%2Bchange%2Ctechnology%2Ceducation%2Ccode%26talk%3Dneil_gershenfeld_on_fab_labs%26year%3D2006&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"90","talk":"neil_gershenfeld_on_fab_labs","tag":"computers,culture,engineering,invention,materials,science,social change,technology,education,code","year":"2006","event":"TED2006"},"stream":"https://hls.ted.com/talks/90.m3u8","metadata":"https://hls.ted.com/talks/90.json"}},"targeting":{"id":"90","talk":"neil_gershenfeld_on_fab_labs","tag":"computers,culture,engineering,invention,materials,science,social change,technology,education,code","year":"2006","event":"TED2006"},"canonical":"https://www.ted.com/talks/neil_gershenfeld_on_fab_labs","name":"Neil Gershenfeld: Unleash your creativity in a Fab Lab","title":"Unleash your creativity in a Fab Lab","speaker":"Neil Gershenfeld","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c634a6fe7b4b9f15c59f75f0c06a09058081c95a_1600x1200.jpg?quality=89&w=600","slug":"neil_gershenfeld_on_fab_labs","event":"TED2006","published":1171843860}],"ratings":[{"id":9,"name":"Ingenious","count":158},{"id":7,"name":"Funny","count":11},{"id":2,"name":"Confusing","count":55},{"id":1,"name":"Beautiful","count":26},{"id":8,"name":"Informative","count":112},{"id":10,"name":"Inspiring","count":189},{"id":22,"name":"Fascinating","count":176},{"id":3,"name":"Courageous","count":9},{"id":11,"name":"Longwinded","count":21},{"id":21,"name":"Unconvincing","count":12},{"id":23,"name":"Jaw-dropping","count":106},{"id":24,"name":"Persuasive","count":42},{"id":26,"name":"Obnoxious","count":9},{"id":25,"name":"OK","count":10}],"recorded_at":"2006-02-02T00:00:00.000+00:00","related_talks":[{"id":"2","hero":"https://pe.tedcdn.com/images/ted/1451_480x360.jpg","speaker":"Amy Smith","title":"Simple designs to save a life","duration":906.0,"slug":"amy_smith_shares_simple_lifesaving_design","viewed_count":1513956},{"id":"48","hero":"https://pe.tedcdn.com/images/ted/231_480x360.jpg","speaker":"Saul Griffith","title":"Everyday inventions","duration":869.0,"slug":"saul_griffith_on_everyday_inventions","viewed_count":491235},{"id":"288","hero":"https://pe.tedcdn.com/images/ted/46407_480x360.jpg","speaker":"Nicholas Negroponte","title":"One Laptop per Child, two years on","duration":1000.0,"slug":"nicholas_negroponte_on_one_laptop_per_child_two_years_on","viewed_count":415753},{"id":"2664","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/043e6e74-38fe-46c6-a2f6-eb60ebeb0b08/DanBricklin_2016X-embed.jpg","speaker":"Dan Bricklin","title":"Meet the inventor of the electronic spreadsheet","duration":720.0,"slug":"dan_bricklin_meet_the_inventor_of_the_electronic_spreadsheet","viewed_count":1061247},{"id":"1348","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/651a8db0-2227-4daf-90e4-b3d582eaaaec/AlephMolinari_2011X_embed.jpg","speaker":"Aleph Molinari","title":"Let's bridge the digital divide!","duration":594.0,"slug":"aleph_molinari_let_s_bridge_the_digital_divide","viewed_count":165644},{"id":"1570","hero":"https://pe.tedcdn.com/images/ted/b5a6709fd1913ee333964a645d9c8b271ed82da5_1600x1200.jpg","speaker":"Shimon Schocken","title":"The self-organizing computer course","duration":985.0,"slug":"shimon_schocken_the_self_organizing_computer_course","viewed_count":1005532}],"slug":"neil_gershenfeld_on_fab_labs","speakers":[{"id":"88","slug":"neil_gershenfeld","is_published":true,"firstname":"Neil","lastname":"Gershenfeld","middleinitial":"","title":"","description":"Physicist, personal fab pioneer","photo_url":"https://pe.tedcdn.com/images/ted/05383a3cc6e156a8572785a7aa21468bc8023efc_254x191.jpg","whatotherssay":"Neil Gershenfeld's celebrated, visionary FabLab at the Massachusetts Institute of Technology enables anybody to design and execute one-of-a-kind objects complete with brains.","whotheyare":"As Director of MIT’s Center for Bits and Atoms, Neil Gershenfeld explores the boundaries between the digital and physical worlds.","whylisten":"<p>MIT&#39;s Neil Gershenfeld is redefining the boundaries between the digital and analog worlds. The digital revolution is over, Gershenfeld says. We won. What comes next? His <a href=\"http://cba.mit.edu/\" target=\"_blank\">Center for Bits and Atoms</a>  has developed quite a few answers, including Internet 0, a tiny web server that fits into lightbulbs and doorknobs, networking the physical world in previously unimaginable ways.</p><p>But Gershenfeld is best known as a pioneer in personal fabrication -- small-scale manufacturing enabled by digital technologies, which gives people the tools to build literally anything they can imagine. His famous <a href=\"http://fab.cba.mit.edu/\" target=\"_blank\">Fab Lab</a>  is immensely popular among students at MIT, who crowd Gershenfeld&#39;s classes. But the concept is potentially life-altering in the developing world, where a Fab Lab  with just $20,000 worth of laser cutters, milling machines and soldering irons can transform a community, helping people harness their creativity to build tools, replacement parts and essential products unavailable in the local market. Read more in <a href=\"http://geni.us/fabrevolution\" target=\"_blank\"><em>Fab: The Coming Revolution on Your Desktop</em></a>.</p>"}],"speaker_name":"Neil Gershenfeld","tags":["computers","culture","engineering","invention","materials","science","social change","technology","education","code"],"title":"Unleash your creativity in a Fab Lab","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":744087}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

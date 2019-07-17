@@ -1,0 +1,1113 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Naoko Ishii: An economic case for protecting the planet | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: We all share one planet -- we breathe the same air, drink the same water and depend on the same oceans, forests and biodiversity. Economist Naoko Ishii is on a mission to protect these shared resources, known as the global commons, that are vital for our survival. In an eye-opening talk about the wellness of the planet, Ishii outlines four economic systems we need to change to safeguard the global commons, making the case for a new kind of social contract with the earth." />
+<meta name="author" content="Naoko Ishii" />
+<link rel="canonical" href="https://www.ted.com/talks/naoko_ishii_an_economic_case_for_saving_the_planet/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/naoko_ishii_an_economic_case_for_saving_the_planet/transcript" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/naoko_ishii_an_economic_case_for_saving_the_planet/transcript?language=en" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/naoko_ishii_an_economic_case_for_saving_the_planet/transcript?language=fr" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/naoko_ishii_an_economic_case_for_saving_the_planet/transcript?language=hu" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/naoko_ishii_an_economic_case_for_saving_the_planet/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/naoko_ishii_an_economic_case_for_saving_the_planet/transcript?language=tr" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/naoko_ishii_an_economic_case_for_saving_the_planet/transcript?language=ja" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/naoko_ishii_an_economic_case_for_saving_the_planet/transcript?language=es" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/naoko_ishii_an_economic_case_for_saving_the_planet/transcript?language=ko" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/naoko_ishii_an_economic_case_for_saving_the_planet/transcript?language=pt-br" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/naoko_ishii_an_economic_case_for_saving_the_planet/transcript?language=zh-cn" />
+<meta property="og:title" content="Transcript of &quot;An economic case for protecting the planet&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/daf3246c-e27b-4968-ba1d-182f2153bde6/NaokoIshii_2017G-embed.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/daf3246c-e27b-4968-ba1d-182f2153bde6/NaokoIshii_2017G-embed.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Naoko Ishii: An economic case for protecting the planet" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: We all share one planet -- we breathe the same air, drink the same water and depend on the same oceans, forests and biodiversity. Economist Naoko Ishii is on a mission to protect these shared resources, known as the global commons, that are vital for our survival. In an eye-opening talk about the wellness of the planet, Ishii outlines four economic systems we need to change to safeguard the global commons, making the case for a new kind of social contract with the earth." />
+<meta property="og:url" content="https://www.ted.com/talks/naoko_ishii_an_economic_case_for_saving_the_planet/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 6602);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/naoko_ishii_an_economic_case_for_saving_the_planet' itemprop='url'>
+<meta content='An economic case for protecting the planet' itemprop='name'>
+<meta content='We all share one planet — we breathe the same air, drink the same water and depend on the same oceans, forests and biodiversity. Economist Naoko Ishii is on a mission to protect these shared resources, known as the global commons, that are vital for our survival. In an eye-opening talk about the wellness of the planet, Ishii outlines four economic systems we need to change to safeguard the global commons, making the case for a new kind of social contract with the earth.' itemprop='description'>
+<meta content='PT14M14S' itemprop='duration'>
+<meta content='2018-01-22T15:56:34+00:00' itemprop='uploadDate'>
+<meta content='1042518' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/daf3246c-e27b-4968-ba1d-182f2153bde6/NaokoIshii_2017G-embed.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/naoko_ishii' itemprop='url'>
+<meta content='Naoko Ishii' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/16137d147b5c20dd072d7e30ab88d3c5a4002d9c_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/naoko_ishii_an_economic_case_for_saving_the_planet' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/daf3246c-e27b-4968-ba1d-182f2153bde6/NaokoIshii_2017G-embed.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Naoko Ishii
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,042,518
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 14:14</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Good evening, everyone.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I am from Japan,
+											so I&#39;d like to start with a story
+about Japanese fishing villages.
+											In the past, every fisherman was tempted
+to catch as many as fish as possible,
+											but if everybody did that,
+											the fish, common shared resource
+in the community, would disappear.
+											The result would be hardship
+and poverty for everyone.
+											This happened in some cases,
+											but it did not happen in other cases.
+											In these communities,
+											the fishermen developed
+a kind of social contract
+											that told each one of them
+to hold back a bit to prevent overfishing.
+											The fisherman would keep
+an eye on each other.
+											There would be a penalty
+if you were caught cheating.
+											But once the benefit of a social contract
+became clear to everyone,
+											the incentive to cheat
+dramatically dropped.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We find the same story around the world.
+											This is how villagers in medieval Europe
+											managed pasture and forests.
+											This is how communities in Asia
+managed water,
+											and this is how indigenous peoples
+in the Amazon managed wildlife.
+											These communities realized
+they relied on a finite, shared resource.
+											They developed rules and practices
+on how to manage those resources,
+											and they changed their behavior
+											so that they could continue
+to rely on those shared resources tomorrow
+											by not overfishing,
+											not overgrazing,
+											not polluting or depleting
+water streams today.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is a story of the commons,
+											and also how to avoid
+the so-called tragedy of the commons.
+											But this is also a story of an economy
+											that was mainly local,
+											where everybody had
+a very strong sense of belonging.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Our economies are no longer local.
+											When we moved away from being local,
+											we started to lose
+our connection to the commons.
+											We carried economic objectives,
+goals and systems beyond the local,
+											but we did not carry the notion
+of taking care of the commons.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So our oceans, forests,
+											once very close to us
+as our local commons,
+											moved very far away from us.
+											So today, we pump millions of tons
+of greenhouse gases into the air,
+											we dump plastics, fertilizers
+and industrial waste
+											into the rivers and oceans,
+											and we cut down forests that absorb CO2.
+											We make the wild biodiversity
+much more fragile.
+											We seem to have totally forgotten
+											that there is such a thing
+as global commons:
+											air, water, forests and biodiversity.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, it is modern science
+											that reminds us how vital
+the global commons are.
+											In 2009, a group of scientists proposed
+											how to assess the health
+of the global commons.
+											They defined nine planetary boundaries
+vital to our survival,
+											then they measured how far we could go
+											before we cross over
+the tipping points or thresholds
+											that would lead us to the irreversible
+or even catastrophic change.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is where we were in the 1950s.
+											We broadly remained
+within safe operating space,
+											marked by the green line.
+											But look at where we are now.
+											We have crossed four of those boundaries,
+											and we will be crossing others
+in the future.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											How did we end up in this situation?
+											Well, my personal story
+may tell us something.
+											Five years ago, I was appointed
+											as CEO of the GEF,
+Global Environment Facility,
+											but I am not a conservationist
+											or an environmental activist.
+											I am an economist,
+											and for the last 30 years,
+											I had worked for public finance
+in my home country and around the world.
+											I can tell you one thing for sure:
+											during these 30 years,
+											the notion of the global commons
+never crossed my mind.
+											I didn&#39;t have a single conversation
+about the global commons
+											with my colleagues.
+											This tells me that the notion
+of the global commons
+											was not really entering
+into the big money decisions
+											like state budgets or investment plans.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And I&#39;m wondering,
+why do we have this sheer ignorance
+											about the global commons,
+											including me, myself?
+											One possible explanation might be
+											that until recently,
+it didn&#39;t really matter too much.
+											Even if we mess up
+some part of the environment,
+											we were not fundamentally changing
+the functions of the earth system.
+											The global commons
+had still enough capacity
+											to take the punches we gave them.
+											In fact, the fish were still plentiful,
+											the fields for grazing were still vast.
+											Our mistake was to assume
+											that the capacity
+of the earth for self-repair
+											had no limits.
+											It does have limits.
+											The message from
+the science is very clear:
+											we humans have become
+an overwhelming force
+											to determine the future
+living conditions on earth,
+											and what&#39;s more,
+we are running out of time.
+											If we don&#39;t act on them,
+											we will be losing the global commons.
+											It&#39;s only our generation
+who are able to preserve it —
+											preserve the commons as we know them.
+											Now is the time we start managing
+the global commons
+											as our parents or our grandparents
+managed their local commons.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The first thing we need to do
+											is to simply recognize
+that we do have the global commons
+											and they are very, very important.
+											Then we need to build
+the stewardship of the global commons
+											into all of our thinking,
+											our business, our economy,
+											our policy-making —
+											in all of our actions.
+											We need to recreate the social contract
+of the fishing villages
+											on the global scale.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But what does it mean in practice?
+											Where to start with?
+											I see there are four key economic systems
+											that fundamentally need to change.
+											First, we need to change our cities.
+											By 2050, two thirds of our population
+will live in cities.
+											We need green cities.
+											Second, we need to change
+our energy system.
+											The world economy
+must sharply decarbonize,
+											essentially in one generation.
+											Third, we need to change
+our production-consumption system.
+											We need to break away from current
+take-make-waste consumption patterns.
+											And finally, we need
+to change our food system,
+											what to eat and how to produce it.
+											And all of those four systems
+											are putting enormous pressure
+on the global commons,
+											and it&#39;s also very difficult to flip them.
+											They are extremely complex,
+											with many decision-makers,
+actors involved.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Let&#39;s take the example of the food system.
+											Food production is currently responsible
+											for one quarter
+of greenhouse gas emissions.
+											It is also a main user
+of the world&#39;s water resources.
+											In fact, 70 percent of today&#39;s water
+is used to grow crops.
+											Vast areas of tropical forest
+are used for agriculture.
+											This deforestation drives extinction.
+											In fact, we are losing species
+1,000 times faster
+											than the natural rate.
+											And on top of all of that bad news,
+											one third of food produced today globally
+											is not eaten.
+											It&#39;s wasted.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But there is the good news,
+											good signs.
+											Coalitions of stakeholders
+											are now coming together
+to try to transform the food system
+											with one shared goal:
+											how to produce enough
+healthy food for everyone,
+											at the same time,
+											to try to cut, to sharply reduce,
+											the footprint from the food system
+on the global commons.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I had an opportunity
+											to fly over the Indonesian
+island of Sumatra,
+											and I saw with my own eyes
+											the massive deforestation
+											to make room for palm oil plantations.
+											By the way, palm oil is included
+in thousands of food products
+											we eat every day.
+											The global demand for palm oil
+is just increasing.
+											In Sumatra, I met smallholder farmers
+											who need to make a day-to-day living
+from growing oil palm.
+											I met global food companies,
+											financial institutions
+											and local government officials.
+											All of them told me that they can&#39;t
+make the change by themselves,
+											and only by working together
+under a kind of new contract,
+											or a new practice,
+											do they have a chance
+to protect tropical forests.
+											So it&#39;s so encouraging to see,
+at least for the last few years,
+											this new coalition among these committed
+actors along the supply chain
+											come together to try
+to transform the food system.
+											In fact, what they are trying to do
+											is to create a new kind of social contract
+to manage the global commons.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											All changes start at home,
+											at your place and at my place.
+											At GEF, Global Environment Facility,
+											we have now a new strategy,
+											and we put the global commons
+at its center.
+											I hope we won&#39;t be the only ones.
+											If everybody stays on the sidelines,
+waiting for others to step in,
+											the global commons
+will continue to deteriorate,
+											and everybody will be much worse off.
+											We need to save ourselves
+from the tragedy of the commons.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, I invite all of you
+to embrace the global commons.
+											Please do remember
+that global commons do exist
+											and are waiting for your stewardship.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We all share one planet in common.
+											We breathe the same air,
+											we drink the same water,
+											we depend on the same oceans,
+forests, and biodiversity.
+											There is no space
+left on earth for egoism.
+											The global commons must be kept
+within their safe operating space,
+											and we can only do it together.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you so much.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":27633,"count":14,"talk_id":6602},"threadId":27633,"current_talk":"6602","description":"We all share one planet -- we breathe the same air, drink the same water and depend on the same oceans, forests and biodiversity. Economist Naoko Ishii is on a mission to protect these shared resources, known as the global commons, that are vital for our survival. In an eye-opening talk about the wellness of the planet, Ishii outlines four economic systems we need to change to safeguard the global commons, making the case for a new kind of social contract with the earth.","event":"TEDGlobal>NYC","language":"en","name":"Naoko Ishii: An economic case for protecting the planet","slug":"naoko_ishii_an_economic_case_for_saving_the_planet","speakers":[{"id":"3630","slug":"naoko_ishii","is_published":true,"firstname":"Naoko","lastname":"Ishii","middleinitial":"","title":"","description":"Environmental policy expert","photo_url":"https://pe.tedcdn.com/images/ted/16137d147b5c20dd072d7e30ab88d3c5a4002d9c_254x191.jpg","whatotherssay":"","whotheyare":"Naoko Ishii leads the Global Environment Facility (GEF), a public financial institution that provides around US$1 billion every year to help tackle our planet’s most pressing environmental problems.","whylisten":"<p>Since taking the helm at the&nbsp;GEF in 2012, Naoko Ishii, an economist by training, has steered the development and implementation of a new long-term strategy that addresses the underlying drivers of environmental degradation. She has put protecting the global commons -- our air, water, biodiversity, forests, land, oceans and a stable climate -- at its center.</p><p>Previously, Ishii was Deputy Vice Minister of Finance in Japan and has also worked at the World Bank and the IMF. As a sustainable development leader, Ishii strives to be build coalitions that address the &quot;<a href=\"http://www.thegef.org/news/defining-moment\" target=\"_blank\">defining moment</a>&quot; that we&#39;re in for the future of the planet. She is a leading advocate on&nbsp;<a href=\"https://www.thegef.org/news/reflections-25-years-gef-ceo-naoko-ishii\" target=\"_blank\">the need to make the environment everybody&#39;s business</a>, and she believes&nbsp;<a href=\"https://www.theguardian.com/gef-partner-zone/2016/jul/07/safeguarding-the-global-commons-is-the-wisest-investment-we-can-make\" target=\"_blank\">safeguarding the global commons is, quite simply, the wisest investment we can make</a>.</p><p>Ishii has been&nbsp;<a href=\"https://www.greenbiz.com/article/meet-9-badass-women-fighting-climate-change-cities\" target=\"_blank\">profiled for her pioneering work</a>&nbsp;on cities and climate change, and she has highlighted&nbsp;<a href=\"http://sustainability.thomsonreuters.com/women/naoko-ishii-social-norms-and-the-barriers-to-progression/\" target=\"_blank\">the role of women</a>&nbsp;in driving sustainable change around the world.</p>"}],"url":"https://www.ted.com/talks/naoko_ishii_an_economic_case_for_saving_the_planet","viewed_count":1042515,"talks":[{"recommendations":{"status":"approved","headline":"Naoko Ishii recommends","blurb":"More resources curated by Naoko Ishii","start_at":null,"end_at":null,"published":true,"eyebrow":"","type":"recommendation","rec_lists":[{"title":"","description":"","rec_items":[{"label":"READ_Book","headline":"*Big World, Small Planet: Abundance Within Planetary Boundaries*","blurb":"","note":"Johan Rockström and Mattias Klum\r\nYale University Press, 2015","link_url":"https://www.amazon.com/Big-World-Small-Planet-Boundaries/dp/0300218362/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Article","headline":"\"The Great Decoupling: Our Human Economic Footprint and the Global Environmental Commons\"","blurb":"","note":"Andrew Steer, Dominic Waughray, Gretchen Ellison, Molly McGregor","link_url":"","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Book","headline":"\"Global Commons in the Anthropocene: World Development on a Stable and Resilient Planet\"","blurb":"","note":"N. Nakicenovic, J. Rockström, O. Gaffney, C. Zimm","link_url":"https://globalcommons.earth/sites/default/files/pdfs/global_commons_in_the_anthropocene_iiasa_wp-16-019.pdf","position":null,"is_pdf":false,"eyebrow":""},{"label":"EXPLORE","headline":"The Guardian: GEF Partner Zone","blurb":"Articles by thought leaders on the state of the global commons and how to address it.","note":"","link_url":"https://www.thegef.org/content/guardian-development-2030-global-movement","position":null,"is_pdf":false,"eyebrow":""},{"label":"EXPLORE","headline":"The Opportunity of the Commons","blurb":"https://www.thegef.org/publications/opportunity-commons-0","note":"The Global Environment Facility","link_url":"","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Book","headline":"*Living in the Anthropocene: Earth in the Age of Humans*","blurb":"","note":"John W. Kress and Jeffrey K. Stine\r\nSmithsonian Books, 2017","link_url":"https://www.amazon.com/Living-Anthropocene-Earth-Age-Humans/dp/1588346013/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":""}]}]},"more_resources":[],"corrections":[],"has_citations":true,"take_action":[{"status":"approved","blurb":"**Learn more**, add your voice and share your vision for redesigning tomorrow, today with the Global Commons.","link_url":"https://globalcommons.earth/","visible_url":"globalcommons.earth","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"take_action","verb":"learn"}],"curator_approved":true,"description":"We all share one planet -- we breathe the same air, drink the same water and depend on the same oceans, forests and biodiversity. Economist Naoko Ishii is on a mission to protect these shared resources, known as the global commons, that are vital for our survival. In an eye-opening talk about the wellness of the planet, Ishii outlines four economic systems we need to change to safeguard the global commons, making the case for a new kind of social contract with the earth.","downloads":{"id":6602,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/NaokoIshii_2017G-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/NaokoIshii_2017G.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/NaokoIshii_2017G-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"en":{"name":"English","low":"https://download.ted.com/talks/NaokoIshii_2017G-low-en.mp4","high":"https://download.ted.com/talks/NaokoIshii_2017G-480p-en.mp4"},"fr":{"name":"French","low":"https://download.ted.com/talks/NaokoIshii_2017G-low-fr.mp4","high":"https://download.ted.com/talks/NaokoIshii_2017G-480p-fr.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/NaokoIshii_2017G-low-hu.mp4","high":"https://download.ted.com/talks/NaokoIshii_2017G-480p-hu.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/NaokoIshii_2017G-low-zh-tw.mp4","high":"https://download.ted.com/talks/NaokoIshii_2017G-480p-zh-tw.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/NaokoIshii_2017G-low-tr.mp4","high":"https://download.ted.com/talks/NaokoIshii_2017G-480p-tr.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/NaokoIshii_2017G-low-ja.mp4","high":"https://download.ted.com/talks/NaokoIshii_2017G-480p-ja.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/NaokoIshii_2017G-low-es.mp4","high":"https://download.ted.com/talks/NaokoIshii_2017G-480p-es.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/NaokoIshii_2017G-low-ko.mp4","high":"https://download.ted.com/talks/NaokoIshii_2017G-480p-ko.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/NaokoIshii_2017G-low-pt-br.mp4","high":"https://download.ted.com/talks/NaokoIshii_2017G-480p-pt-br.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/NaokoIshii_2017G-low-zh-cn.mp4","high":"https://download.ted.com/talks/NaokoIshii_2017G-480p-zh-cn.mp4"}},"audioDownload":"https://download.ted.com/talks/NaokoIshii_2017G.mp3?apikey=acme-roadrunner"},"duration":854.0,"event":"TEDGlobal>NYC","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://s3.amazonaws.com/talkstar-photos/uploads/daf3246c-e27b-4968-ba1d-182f2153bde6/NaokoIshii_2017G-embed.jpg","hero_load":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/daf3246c-e27b-4968-ba1d-182f2153bde6/NaokoIshii_2017G-embed.jpg?q=50&w=15","id":"6602","player_talks":[{"id":"6602","duration":854.0,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2017G/Blank/NaokoIshii_2017G-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDGlobal%3ENYC%26id%3D6602%26tag%3Dglobal%2Bcommons%2Cbiodiversity%2Cclimate%2Bchange%2Ccommunity%2Ccollaboration%2Cbiosphere%2Ceconomics%2Cconservation%2Cenvironment%2Cfuture%2Cglobal%2Bissues%2Cinnovation%2Cnatural%2Bresources%2Cnature%2Coceans%2Cpollution%2Csocial%2Bchange%2Csociety%2Csustainability%2Cwater%2Ctrees%26talk%3Dnaoko_ishii_an_economic_case_for_saving_the_planet%26year%3D2017&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"6602","talk":"naoko_ishii_an_economic_case_for_saving_the_planet","tag":"global commons,biodiversity,climate change,community,collaboration,biosphere,economics,conservation,environment,future,global issues,innovation,natural resources,nature,oceans,pollution,social change,society,sustainability,water,trees","year":"2017","event":"TEDGlobal>NYC"},"stream":"https://hls.ted.com/talks/6602.m3u8","metadata":"https://hls.ted.com/talks/6602.json"}},"targeting":{"id":"6602","talk":"naoko_ishii_an_economic_case_for_saving_the_planet","tag":"global commons,biodiversity,climate change,community,collaboration,biosphere,economics,conservation,environment,future,global issues,innovation,natural resources,nature,oceans,pollution,social change,society,sustainability,water,trees","year":"2017","event":"TEDGlobal>NYC"},"canonical":"https://www.ted.com/talks/naoko_ishii_an_economic_case_for_saving_the_planet","name":"Naoko Ishii: An economic case for protecting the planet","title":"An economic case for protecting the planet","speaker":"Naoko Ishii","thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/daf3246c-e27b-4968-ba1d-182f2153bde6/NaokoIshii_2017G-embed.jpg?quality=89&w=600","slug":"naoko_ishii_an_economic_case_for_saving_the_planet","event":"TEDGlobal>NYC","published":1516636594}],"ratings":[{"id":25,"name":"OK","count":30},{"id":8,"name":"Informative","count":88},{"id":24,"name":"Persuasive","count":55},{"id":10,"name":"Inspiring","count":46},{"id":3,"name":"Courageous","count":14},{"id":9,"name":"Ingenious","count":5},{"id":11,"name":"Longwinded","count":7},{"id":22,"name":"Fascinating","count":17},{"id":23,"name":"Jaw-dropping","count":7},{"id":1,"name":"Beautiful","count":4},{"id":2,"name":"Confusing","count":0},{"id":21,"name":"Unconvincing","count":1},{"id":7,"name":"Funny","count":0},{"id":26,"name":"Obnoxious","count":0}],"recorded_at":"2017-09-20T00:00:00.000+00:00","related_talks":[{"id":"945","hero":"https://pe.tedcdn.com/images/ted/195010_800x600.jpg","speaker":"Johan Rockstrom","title":"Let the environment guide our development","duration":1090.0,"slug":"johan_rockstrom_let_the_environment_guide_our_development","viewed_count":1040841},{"id":"2782","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/e30aff79-f491-4a7f-9bfd-e086a0d6d55a/TrionaMcGrath_2016X-embed.jpg","speaker":"Triona McGrath","title":"How pollution is changing the ocean's chemistry","duration":543.0,"slug":"triona_mcgrath_how_pollution_is_changing_the_ocean_s_chemistry","viewed_count":1303232},{"id":"2088","hero":"https://pe.tedcdn.com/images/ted/a7efe202d2a1ef4af543b0b3b80bd225bb242157_2400x1800.jpg","speaker":"Antonio Donato Nobre","title":"The magic of the Amazon: A river that flows invisibly all around us","duration":1295.0,"slug":"antonio_donato_nobre_the_magic_of_the_amazon_a_river_that_flows_invisibly_all_around_us","viewed_count":1044684},{"id":"1412","hero":"https://pe.tedcdn.com/images/ted/6215eb29100089c043d99bb122868028f02ae711_2880x1620.jpg","speaker":"Jonathan Foley","title":"The other inconvenient truth","duration":1066.0,"slug":"jonathan_foley_the_other_inconvenient_truth","viewed_count":744601},{"id":"1303","hero":"https://pe.tedcdn.com/images/ted/806b4c5fea090af91b2c1b0d56d904adace109d6_800x600.jpg","speaker":"Pavan Sukhdev","title":"Put a value on nature!","duration":991.0,"slug":"pavan_sukhdev_what_s_the_price_of_nature","viewed_count":665528},{"id":"2452","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/fc8a66cc-7256-4ee0-b051-766162cc9a50/TsheringTobgay_2016-embed.jpg","speaker":"Tshering Tobgay","title":"This country isn't just carbon neutral -- it's carbon negative","duration":1134.0,"slug":"tshering_tobgay_this_country_isn_t_just_carbon_neutral_it_s_carbon_negative","viewed_count":2169553}],"slug":"naoko_ishii_an_economic_case_for_saving_the_planet","speakers":[{"id":"3630","slug":"naoko_ishii","is_published":true,"firstname":"Naoko","lastname":"Ishii","middleinitial":"","title":"","description":"Environmental policy expert","photo_url":"https://pe.tedcdn.com/images/ted/16137d147b5c20dd072d7e30ab88d3c5a4002d9c_254x191.jpg","whatotherssay":"","whotheyare":"Naoko Ishii leads the Global Environment Facility (GEF), a public financial institution that provides around US$1 billion every year to help tackle our planet’s most pressing environmental problems.","whylisten":"<p>Since taking the helm at the&nbsp;GEF in 2012, Naoko Ishii, an economist by training, has steered the development and implementation of a new long-term strategy that addresses the underlying drivers of environmental degradation. She has put protecting the global commons -- our air, water, biodiversity, forests, land, oceans and a stable climate -- at its center.</p><p>Previously, Ishii was Deputy Vice Minister of Finance in Japan and has also worked at the World Bank and the IMF. As a sustainable development leader, Ishii strives to be build coalitions that address the &quot;<a href=\"http://www.thegef.org/news/defining-moment\" target=\"_blank\">defining moment</a>&quot; that we&#39;re in for the future of the planet. She is a leading advocate on&nbsp;<a href=\"https://www.thegef.org/news/reflections-25-years-gef-ceo-naoko-ishii\" target=\"_blank\">the need to make the environment everybody&#39;s business</a>, and she believes&nbsp;<a href=\"https://www.theguardian.com/gef-partner-zone/2016/jul/07/safeguarding-the-global-commons-is-the-wisest-investment-we-can-make\" target=\"_blank\">safeguarding the global commons is, quite simply, the wisest investment we can make</a>.</p><p>Ishii has been&nbsp;<a href=\"https://www.greenbiz.com/article/meet-9-badass-women-fighting-climate-change-cities\" target=\"_blank\">profiled for her pioneering work</a>&nbsp;on cities and climate change, and she has highlighted&nbsp;<a href=\"http://sustainability.thomsonreuters.com/women/naoko-ishii-social-norms-and-the-barriers-to-progression/\" target=\"_blank\">the role of women</a>&nbsp;in driving sustainable change around the world.</p>"}],"speaker_name":"Naoko Ishii","tags":["global commons","biodiversity","climate change","community","collaboration","biosphere","economics","conservation","environment","future","global issues","innovation","natural resources","nature","oceans","pollution","social change","society","sustainability","water","trees"],"title":"An economic case for protecting the planet","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":1042515}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

@@ -1,0 +1,3307 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>WorkLife with Adam Grant: How to love criticism | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: What if you could tell your co-workers what you really think of them? At the world&#39;s most successful hedge fund, everyone is rated and ranked constantly -- in front of everyone. They&#39;ve figured out how to embrace negative feedback, and they swear it&#39;s essential to their success. Adam Grant shows how you can learn to take criticism well -- and get better at dishing it out. This episode is brought to you by Bonobos, Accenture, JPMorgan Chase &amp;amp; Co., and Warby Parker. (Audio only)" />
+<meta name="author" content="WorkLife with Adam Grant" />
+<link rel="canonical" href="https://www.ted.com/talks/worklife_with_adam_grant_dear_billionaire_i_give_you_a_d_minus/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/worklife_with_adam_grant_dear_billionaire_i_give_you_a_d_minus/transcript" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/worklife_with_adam_grant_dear_billionaire_i_give_you_a_d_minus/transcript?language=en" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/worklife_with_adam_grant_dear_billionaire_i_give_you_a_d_minus/transcript?language=es" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/worklife_with_adam_grant_dear_billionaire_i_give_you_a_d_minus/transcript?language=pt-br" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/worklife_with_adam_grant_dear_billionaire_i_give_you_a_d_minus/transcript?language=it" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/worklife_with_adam_grant_dear_billionaire_i_give_you_a_d_minus/transcript?language=fr" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/worklife_with_adam_grant_dear_billionaire_i_give_you_a_d_minus/transcript?language=ru" />
+<meta property="og:title" content="Transcript of &quot;How to love criticism&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/db2b237d-4563-4ef9-b6f9-95d7dc94dc69/WorkLife.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/db2b237d-4563-4ef9-b6f9-95d7dc94dc69/WorkLife.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="WorkLife with Adam Grant: How to love criticism" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: What if you could tell your co-workers what you really think of them? At the world&#39;s most successful hedge fund, everyone is rated and ranked constantly -- in front of everyone. They&#39;ve figured out how to embrace negative feedback, and they swear it&#39;s essential to their success. Adam Grant shows how you can learn to take criticism well -- and get better at dishing it out. This episode is brought to you by Bonobos, Accenture, JPMorgan Chase &amp;amp; Co., and Warby Parker. (Audio only)" />
+<meta property="og:url" content="https://www.ted.com/talks/worklife_with_adam_grant_dear_billionaire_i_give_you_a_d_minus/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 12355);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/worklife_with_adam_grant_dear_billionaire_i_give_you_a_d_minus' itemprop='url'>
+<meta content='How to love criticism' itemprop='name'>
+<meta content="What if you could tell your co-workers what you really think of them? At the world's most successful hedge fund, everyone is rated and ranked constantly — in front of everyone. They've figured out how to embrace negative feedback, and they swear it's essential to their success. Adam Grant shows how you can learn to take criticism well — and get better at dishing it out. This episode is brought to you by Bonobos, Accenture, JPMorgan Chase &amp; Co., and Warby Parker. (Audio only)" itemprop='description'>
+<meta content='PT34M39S' itemprop='duration'>
+<meta content='2018-03-08T15:49:52+00:00' itemprop='uploadDate'>
+<meta content='656813' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/db2b237d-4563-4ef9-b6f9-95d7dc94dc69/WorkLife.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/adam_grant' itemprop='url'>
+<meta content='Adam Grant' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/4539f3cc574c36cae93ab8e542ada5ae2e470e98_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/worklife_with_adam_grant_dear_billionaire_i_give_you_a_d_minus' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/db2b237d-4563-4ef9-b6f9-95d7dc94dc69/WorkLife.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				WorkLife with Adam Grant
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					656,813
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 34:39</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											When I was 26 years old,
+barely out of grad school,
+											I was asked to come teach
+a half-day class about motivation.
+											I was excited for it.
+											And then I found out my audience
+would be generals and colonels
+											in the US Air Force.
+											I was way underqualified.
+											And I wanted to back out,
+but it was too late.
+											So I walked in,
+											and I was staring at a room
+full of people twice my age,
+											wearing full military garb
+with all their medals on display.
+											They had nicknames like Gunner,
+Striker and Stealth.
+											By the end of the first hour,
+I felt like I was bombing.
+											And sure enough, in the reviews
+they wrote after class,
+											they bombed me.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											One wrote,
+											&quot;There was more quality information
+in the audience than on the podium.&quot;
+											Another said,
+											&quot;I gained very little from the session,
+											but I trust the instructor
+did gain useful insight.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It felt like a punch in the stomach.
+											And I couldn&#39;t get it out of my head.
+											So I did what any self-respecting
+organizational psychologist would do:
+											I started studying why it&#39;s often
+soul-crushing to receive criticism.
+											And whether we could
+actually learn to like it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I&#39;m Adam Grant.
+											This is WorkLife, my TED podcast.
+											I study how to make work not suck.
+											Organizations like Google,
+the NBA and the Gates Foundation
+											have invited me in to help
+make jobs more meaningful,
+											teams more creative
+and cultures more collaborative.
+											In this show, I&#39;m inviting myself in
+to some truly unusual places,
+											where they&#39;ve mastered something
+I wish everyone else knew about work.
+											Today, the art and science of criticism.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thanks to Bonobos
+for sponsoring this episode.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Adam Grant: Hey, Kiran.
+Kiran Rao: Hello, Adam.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: How are you?
+KR: Doing well, and you?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Good.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is Kiran Rao.
+											He used to be a manager
+at a financial company.
+											Like most managers,
+he spent a ton of time in meetings.
+											And most of them
+were pretty run-of-the-mill.
+											But there&#39;s one meeting
+that Kiran will never forget.
+											Here&#39;s Kiran, breaking down
+a recording of that meeting for us.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KR: We were in this large white tent,
+											200 people sitting around,
+the top 200 or 300 managers.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Audio clip: Man: So the next two sections
+											are going to be
+about practical application.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KR: We&#39;d been talking
+about multiple strategic points,
+											and up comes a chart —
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Audio clip: Man: This is a list
+											of forced-ranking the people
+in this room by performance.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KR: Which was labeled
+&quot;the worst managers.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Audio clip: Man: So these are
+people we love.
+											Some of the people in this room,
+these names, probably shouldn&#39;t be here.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KR: And I was number one on the list.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Audio clip: Man: I look at this name —
+I hired Kiran.
+											Apparently in his first couple years,
+he&#39;s not doing that well.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Wow. So you&#39;re totally
+caught by surprise.
+											You&#39;re staring at a room of 200 people,
+											and being told you are the single
+worst manager in that room.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KR: That&#39;s right.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: What was that like?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KR: Um ...
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It was intense.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: We&#39;ll hear more from Kiran later.
+											But right now, I want you to imagine
+you&#39;re Kiran, right in that moment.
+											Think about what happens
+when you get criticized.
+											Like, physically: your shoulders tighten,
+your breath gets shallower.
+											Negative feedback sets off alarm bells.
+											It actually touches a nerve in your body.
+											And psychologically?
+											Your mind races.
+											You start to put up shields
+and mount a counterattack.
+											If you were a peacock, you&#39;d strut.
+											If you were an ape, you&#39;d beat your chest.
+											But humans have another kind of reaction.
+											There was a study a few decades ago
+											that said our ego can get
+so defensive in these situations
+											that it becomes its own little
+totalitarian regime.
+											It starts to control the flow
+of information to our brains
+											the way a dictator controls the media.
+											Think about that.
+											Your own ego is censoring what you hear.
+											But if we never hear criticism,
+we&#39;ll never improve.
+											What would it be like in a place
+											where people constantly
+criticize each other —
+											and crave that kind
+of feedback for themselves
+											in order to make everyone better?
+											I&#39;ve worked with hundreds of organizations
+											and I found only one
+where that&#39;s truly the norm.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Ray Dalio: You could say to me,
+&quot;Hey, jerk, you&#39;re being an asshole.&quot;
+											And then we&#39;ll say, OK,
+am I being an asshole?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: This is the guy in charge.
+											His name is Ray.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: One of the biggest
+tragedies of mankind
+											is people holding in
+their opinions in their heads,
+											and it&#39;s such a tragedy
+because it could so easily be fixed
+											if they put them out there
+											and stress-tested them in the right way.
+											They would so raise their probability
+of making a better decision.
+											Everybody&#39;s giving high fives,
+they&#39;re all smiling at each other.
+											But they&#39;re not dealing with the things
+they need to deal with.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: It&#39;s incredibly fun
+to think about, like,
+											you can go around calling people assholes
+											and their default response
+is supposed to be, &quot;Tell me more.&quot;
+											Is that really how you want
+people to react to criticism?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: Well, I want to put that
+on the table together and look at that,
+											because maybe I&#39;m the one
+who&#39;s being a jerk or misunderstanding.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: In the mid 1970s,
+											Ray Dalio started a financial firm
+called Bridgewater Associates.
+											At first, he was working
+out of a barn with his friends.
+											He got really successful really quickly.
+											And then he got cocky.
+											He placed a bad bet.
+											It tanked his firm.
+											He had to fire his friends.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: And I was so broke
+											that I had to borrow
+4,000 dollars from my dad
+											to help pay for my family bills.
+											And that was extremely painful.
+											It turned out to be terrific.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: I&#39;m sorry, you just said
+it was terrific that is was so painful?
+											Because normal human beings
+don&#39;t feel that way.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: I mean, like,
+I was absolutely miserable.
+											But it gave me the humility that I needed
+to deal with my audacity.
+											It made me want to find
+the smartest people I could find
+											who disagreed with me.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Ray realized that he crashed
+											because there wasn&#39;t anyone
+around to check his ego
+											when he was on top of the world.
+											He only listened to himself
+or people who constantly said yes.
+											Now, he was on his own.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: So that experience was the one
+that really kind of, drove it home for me.
+											And I say, if you don&#39;t look back
+on yourself and think,
+											&quot;Wow, how stupid I was a year or two ago,&quot;
+											then you must not have learned much
+in the last year or two.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Ray decided that the next
+version of his company
+											would have a different kind of culture
+											where everyone would be
+brutally honest with each other.
+											And that&#39;s what Bridgewater does today.
+											Ray calls it radical transparency.
+											Every criticism, every opinion,
+out in the open.
+											You&#39;re comfortable just putting that
+out there, transparently?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: Why shouldn&#39;t we be?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Embarrassment, pain,
+you know, ridicule, cruelty.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: OK, but it&#39;s not those
+kinds of things, right?
+											We recognize that it can be
+a difficult moment.
+											Before people come here,
+we ask them, do they want to do that.
+											Isn&#39;t this good,
+											to make them partners in that
+self-discovery of what is actually true?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Bridgewater Associates
+is now considered
+											the most successful
+hedge fund in the world.
+											And Ray believes the culture
+is the driving force behind their success.
+											They manage 160 billion dollars in assets,
+											and Ray has become one
+of the richest people on earth.
+											If you can&#39;t tell by now,
+											Bridgewater is also one of the strangest
+workplaces I&#39;ve ever seen.
+											Feedback is only one piece
+of what makes them different.
+											I&#39;m not here to analyze
+all their practices,
+											dissect their performance
+or suggest you copy them.
+											But I do believe that if we want
+to get better at something,
+											we should go and learn from the extreme.
+											You know, the same way you might try
+and pick up a workout tip
+											from an Olympic athlete.
+											Bridgewater goes
+to the extreme on criticism.
+											They think you can learn
+to dish it out and even crave it.
+											Over the years, they&#39;ve had some
+high-profile senior leaders.
+											Including James Comey,
+the recent FBI director.
+											He even talked about Bridgewater
+at his Senate confirmation hearing.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											James Comey: I went to Bridgewater
+											in part because of that culture
+of transparency —
+											it&#39;s something
+that&#39;s long been part of me.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Today, about 2,000 people work there
+											and every single one of them is expected
+to put criticism out in the open.
+											Even if the billionaire founder
+is the target.
+											Here&#39;s an email Ray got one day
+from a colleague named Jim Haskel.
+											&quot;Ray, you deserve a &#39;D-minus&#39;
+for your performance today.
+											You rambled for 50 minutes.
+											It was obvious to all of us
+that you did not prepare at all.
+											Today was really bad,
+we can&#39;t let this happen again.&quot;
+											When Jim sent his scathing review,
+Ray decided to get a few more opinions.
+											He asked his colleagues
+to rate his performance that day
+											on a scale from A to F.
+											Then he shared the feedback
+with everyone else.
+											And let me tell you, Ray did not get
+any As for that meeting.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: I sucked!
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: I think a lot of people
+in that situation
+											would have just sorted
+the conversation out with Jim.
+											And you replied and you said,
+											&quot;Hey, everybody else in the meeting,
+I&#39;m looping you in.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: No, the whole company.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: That went to the whole company?
+RD: Yeah.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: A to F?
+RD: It&#39;s very important.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: This kind of thing is happening
+constantly at Bridgewater.
+											What would you do
+if someone gave you a D-minus?
+											There are actual studies showing
+that when coworkers criticize us,
+											we tend to drop them from our lives.
+											Or at least avoid them at all costs.
+											Instead, we go straight
+to our cheerleaders
+											to complain and get reassurance.
+											Our friends, our favorite
+like-minded colleagues, mom.
+											That&#39;s our support network.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But there&#39;s another kind
+of network that we all need:
+											a challenge network.
+											A challenge network is the group of people
+that you trust to push you to get better.
+											They tell you the stuff you don&#39;t want
+to hear but need to hear.
+											And Bridgewater
+is one big challenge network.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: I want Jim&#39;s critiques.
+											Because I might be inclined to ramble,
+											and because I might be inclined
+to not be prepared.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: So Ray made a promise to Jim:
+he&#39;d do better the next time.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: He said, &quot;Listen,
+I can&#39;t trust you to do that.
+											And I say, &quot;Great, I can&#39;t trust me
+to do that, either.&quot;
+											And so as a regular protocol,
+he&#39;ll call me up,
+											because he understands
+that it works well for both of us
+											and works well for the company.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: A challenge network can only help you
+if you&#39;re ready to listen.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: It&#39;s particularly important for me
+to be showing anybody what I&#39;m doing,
+											including my failures, my successes.
+											Yes. Why would you not do that?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Well, because
+you&#39;re afraid of the answer.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: What are you afraid of?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Of the emperor
+being discovered to have no clothes.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: If your objective is to be
+as good as you can possibly be,
+											then you&#39;re going to want that.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: I think a lot of people
+would rather maintain
+											at least the illusion of a decent image
+than to actually improve.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: But then they care
+more about their image
+											than they care about results.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: And you&#39;re not willing
+to tolerate that.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: You know, life&#39;s much better
+with good results.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: The idea of criticizing
+each other this openly
+											might sound terrifying.
+											I get that.
+											In lots of workplaces,
+it would be painful at best
+											and abusive at worst.
+											There&#39;s a bunch of work by economists
+											showing that rankings
+generally demotivate people.
+											People, even at the top, are like,
+											&quot;I expected to be further at the top.&quot;
+											And everybody at the bottom
+doesn&#39;t enjoy the experience
+											of comparing themselves negatively
+to everyone else around them.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: In normal companies,
+I suspect that they don&#39;t prepare people,
+											agree on it, say, &quot;Is this a good thing?&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: What about your workplace?
+											What would happen
+if you just decided one day
+											to be radically transparent?
+											It might not go so well.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AJ: I was working at &quot;Esquire&quot;
+magazine at the time,
+											and I said to my editor
+in a meeting at one point,
+											&quot;You know what, I really
+would rather be at the &#39;New Yorker,&#39;
+											and if they offered me a job,
+I would take that.&quot;
+											And he was stone-faced,
+he did not like it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: That&#39;s AJ Jacobs,
+											a writer who thinks it&#39;s fun
+to live his life as an experiment.
+											For a story he was working on,
+											AJ committed to being 100 percent
+transparent for a few weeks.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AJ: If you hate your boss,
+tell your boss, &quot;I hate you.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: AJ did that
+with everyone he talked to.
+											His mother-in-law, elderly neighbors,
+his kids, his wife&#39;s friends.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AJ: I was out with my wife
+at a restaurant,
+											and we saw some friends of hers
+that she hadn&#39;t seen since college.
+											And they were all excited
+to see her and they said,
+											&quot;Oh, we should all get together
+and have a play date with our kids.&quot;
+											And I had to say what was on my mind,
+											which was, &quot;You guys
+seem like nice people,
+											but I really don&#39;t want to see you again.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: (Laughter) Oh, no!
+AJ: Oh, yeah.
+											They were offended, rightly,
+and my wife was furious.
+											So it was a disaster.
+											I mean, we never did see them again
+											so it is efficient, it was effective.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Kim Scott: (Laughter) So in my parlance,
+											saying something like that
+is not radical candor,
+											it&#39;s obnoxious aggression.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Kim Scott is an executive
+coach in Silicon Valley.
+											She works with CEOs and managers
+											on being radically candid
+in their feedback.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KS: Be a kick-ass boss
+without loosing your humanity.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: I asked Kim how we can all
+get better at providing criticism.
+											And guess what.
+											It&#39;s not about just blurting out whatever
+pops into your head, like AJ did.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KS: The idea of radical candor
+											is that you&#39;re caring personally
+about the other person
+											at the same time that you&#39;re
+challenging them directly.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: I guess then, how do I get comfortable
+you know, challenging directly?
+											When I do challenge,
+how do I make sure that I show care?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KS: My biggest piece of advice
+											is eliminate the phrase
+&quot;Don&#39;t take it personally&quot;
+											from your vocabulary.
+											It&#39;s OK if somebody&#39;s getting upset
+or having an emotional reaction,
+											it&#39;s normal.
+											It is inevitable.
+											What you want to do is you want to react
+with compassion to them.
+											If I had emotional Novocaine,
+I would give it to you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: I have seen so many people say,
+											&quot;Alright, I&#39;m really uncomfortable
+challenging directly,
+											and so one of the ways
+I&#39;ll show that I care personally is,
+											I&#39;m going to deliver a feedback sandwich:
+											you know, open up with some praise,
+and then criticism comes in the middle,
+											and then a slice of praise again,
+											so we start and end on a high note.
+											And the research I&#39;ve read on this
+is pretty clear in saying
+											this is a bad idea, for two reasons.
+											One, when you lead with praise,
+											they&#39;re just waiting
+for the other shoe to drop,
+											and it seems insincere.
+											And two is that people
+often tune out what&#39;s in the middle.
+											And so, what&#39;s your preferred alternative
+to the feedback sandwich?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KS: I agree, nobody
+really likes a shit sandwich.
+											And so it&#39;s important
+for both praise and criticism,
+											but especially for criticism,
+											is to go in being humble.
+											You may be wrong in what you&#39;re saying,
+											and that&#39;s OK.
+											One of the most important things
+you can do when offering criticism
+											is to state your intention to be helpful.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: There&#39;s evidence to back this up.
+											It&#39;s something I heard a lot
+at Bridgewater, too.
+											It&#39;s easier to take criticism
+when you know it&#39;s meant to help you.
+											From the outside, it might sound harsh.
+											But they think it&#39;s good for them.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KS: If you know that it&#39;s healthy,
+											and you&#39;ve experienced
+firsthand the benefit,
+											you&#39;re going to keep seeking it,
+											just like, it still hurts
+sometimes to go running,
+											but I know how important that is
+to my well-being, so I&#39;ll keep doing it,
+											even though it&#39;s always kind of an effort
+to get myself out the door.
+											I think it&#39;s the same with criticism.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: More on that after the break.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is going to be
+a different kind of ad.
+											In the spirit of exploring
+creative ideas at work,
+											we&#39;re going to take you
+inside Bonobos, our sponsor.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Like everyone else on earth,
+I hate calling customer service.
+											It&#39;s hard to get a human on the line,
+											and if you do, they&#39;re usually
+stuck reading from a script.
+											If you want to get anywhere,
+you have to ask for the manager
+											over and over and over.
+											But that&#39;s not how things work at Bonobos.
+											They make great fitting men&#39;s clothes,
+and if you call them with a problem,
+											you get a real person
+empowered to actually help.
+											Bonobos calls them Ninjas.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Kelsey Nash: My actual title is Creative
+Customer Engagement Lead.
+											I&#39;m on the management team of the Ninjas.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: This is Kelsey Nash.
+											He and all the other Ninjas at Bonobos
+											have something pretty rare
+in the world of customer service.
+											Freedom.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KN: Every Ninja is empowered
+to take care of a customer
+											in the moment, in whatever way
+that they think is necessary.
+											There&#39;s no real sending it
+up the ladder and down the ladder
+											to find a resolution,
+											like, &quot;We&#39;ll call you back
+within 24 to 48 hours.&quot;
+											So every day, we ask Ninjas,
+											&quot;What would you want
+if you were the customer?
+											How would you feel?&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Which can lead to some
+surprising interactions.
+											Like one Kelsey handled himself.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KN: There was a guy named Derek,
+and he wrote in and he said,
+											&quot;I had a fire at my house
+											and one of my favorite
+flannel shirts was damaged.
+											Do you know of some way
+to recuperate this or repair it,
+											I see you don&#39;t really have any
+on the website anymore.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Kelsey at Bonobos
+wrote back right away.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KN: &quot;We&#39;re happy to replace your shirt,
+											I&#39;m so sorry about that,
+is everybody alright?&quot;
+											He wrote back and said,
+&quot;Actually, everybody&#39;s fine,
+											except our 15-year-old dog
+was trapped in the house
+											and we lost our dog
+and that&#39;s been the only thing.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Kelsey heard that
+and went into Ninja mode.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KN: I got online and I found
+his dog on his Instagram account.
+											So I got a picture of the dog,
+I commissioned this portrait
+											and then I got a couple flannel shirts
+and I sent it to the guy.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Derek (on the phone):
+I&#39;m not an emotional guy,
+											but with all that had happened,
+it was still very fresh.
+											I definitely cried
+when I saw the painting.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: When I heard this story,
+I had to get Derek on the phone.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Derek: You know, you&#39;re kind of
+in a desperate situation.
+											Just any glimmer of something nice
+happening to you at that point
+											goes a long, long way.
+											What they did wasn&#39;t necessary,
+they didn&#39;t have to do it,
+											other than they thought
+it was the right thing to do.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KN: What we pride ourselves on,
+above everything, is that we&#39;re human.
+											Like, we deal with every contact
+on a one-to-one basis:
+											as a human answering a phone call,
+talking to another human, like,
+											&quot;Yeah, let&#39;s work this out.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Which is what you need sometimes.
+											It clearly meant something to Derek,
+who recently started a new job.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Derek: The only picture I&#39;ve put up
+on the wall so far is that painting
+											and it&#39;s right above my desk
+on the wall above the window.
+											When I walk in the door every morning,
+that&#39;s the first thing I see.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Bonobos makes great clothes,
+											but my favorite part is that I don&#39;t
+have to leave my house to get them.
+											I hate going shopping
+											almost as much as I normally hate
+calling customer service.
+											Ordering on the Bonobos
+website is super easy.
+											They ship fast, and if it doesn&#39;t fit,
+you can always call Kelsey.
+											You know, just to talk.
+											Try it today at bonobos.com/TED
+											and you&#39;ll get 20 percent
+off your first order.
+											That&#39;s bonobos.com/TED for 20 percent off.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											When I was in college,
+I was a springboard diver.
+											I was learning a new dive:
+											two and a half flips with a twist.
+											When I tried it out in a meet,
+I thought it went OK.
+											Then I saw the judges&#39; scores:
+											two, two and a half, and zero point five.
+											I don&#39;t think I&#39;d ever
+even seen that score before.
+											Anyway, when you&#39;re flipping
+and twisting in mid-air,
+											you can&#39;t always gauge
+your own performance.
+											And I think big parts
+of our work lives are like that, too.
+											We&#39;re so immersed in the situation
+											that we can&#39;t see ourselves objectively.
+											At that diving meet, there were multiple
+judges who all saw the same flaws.
+											When I watched the video
+afterward, I saw them, too.
+											I&#39;d executed a near-perfect belly flop.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											If you&#39;ve ever played sports,
+											you know the value
+of reviewing the game tape
+											with coaches and colleagues
+who keep you honest.
+											Why don&#39;t we do the same thing at work?
+											At Bridgewater, they do.
+											They&#39;re so obsessed
+with radical transparency
+											that they record video or audio
+of almost every meeting.
+											If that sounds a bit
+like Big Brother is watching,
+											well, he is.
+											But here&#39;s the difference —
+everyone is watching.
+											They&#39;re constantly going back
+to the tapes to learn.
+											This is what radical
+transparency sounds like.
+											Here&#39;s Ray Dalio, the founder,
+talking with a colleague.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: No, I&#39;m not saying
+all your advice is bad.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Colleague: Well, it sounds like
+you think it&#39;s bad.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: Some of it is bad.
+											All he&#39;s saying to you.
+											You need to display that you know
+that you don&#39;t know.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: In too many workplaces,
+											people keep those comments
+behind closed doors.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Jen Healy: In general
+hierarchical structures,
+											you don&#39;t tell people
+what you actually think.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Jen Healy is a manager at Bridgewater.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											JH: You&#39;re always managing
+other people&#39;s perceptions of you
+											and what they think of you,
+and trying to butter people up above,
+											trying to make sure they don&#39;t think
+anything is going wrong,
+											that you have all the answers.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Radical transparency is designed
+to solve for a deadly sin of work life:
+											office politics.
+											In too many places,
+what happens in the meeting
+											doesn&#39;t matter nearly as much
+as secret alliances and conversations
+											after the meeting.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											JH: And so, you&#39;re able
+to just say what you think
+											and also be held accountable
+if what you&#39;re thinking is bad.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: But for it to work,
+you need all of your colleagues
+											to get past their knee-jerk
+reactions to criticism.
+											Which isn&#39;t easy, especially at first.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Eileen Murray: When I first became
+acquainted with Bridgewater,
+											you know, I wasn&#39;t enamored.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: This is Eileen Murray.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											EM: When I first came up
+to Bridgewater for a meeting,
+											I guess it was a management
+committee meeting
+											and someone was being probed,
+											basically asking people questions
+until you get to a logical answer
+											as to what might be going on,
+											and I was like, &quot;I can&#39;t wait
+to get out of here,
+											I think I&#39;m going to put my hair on fire.
+											These people are crazy.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: But now, Eileen is one
+of the company&#39;s two CEOs.
+											Along the way, she came to hear
+the criticism as tough love.
+											Kind of like what you&#39;d get
+from your family.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											EM: I have a younger sister
+who says things to me
+											that I sometimes can&#39;t believe I tolerate,
+											but I tolerate it because
+she&#39;s trying to make me better.
+											And so once I understood the intention
+was to understand what people are like,
+											for the purpose of them
+understanding what they&#39;re like,
+											so that, you know, you basically
+are aware of what you do well,
+											you&#39;re aware of what you don&#39;t do well,
+so you can do things better in life.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: It&#39;s a little bit like Navy SEALs.
+											Take the Navy SEAL,
+put them in the cold water.
+											If that&#39;s a difficult moment,
+let&#39;s practice that, right?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Every day at the firm is a new
+encounter with your challenge network.
+											You learn to seek out
+your trusted critics,
+											which means you&#39;ve opted in.
+											And little by little, you get
+more comfortable hearing hard truths.
+											Unless you don&#39;t.
+											About a third of Bridgewater&#39;s new hires
+leave in the first year and a half.
+											It was right at that year-and-a-half mark
+that Kiran Rao, the guy you heard earlier,
+											found himself being told
+he was the company&#39;s worst manager
+											in front of 200 of his colleagues.
+											Kiran might have been prepared,
+but it still hurt.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KR: I was probably turning as red
+as my Indian complexion allows me to.
+											And I was describing it
+as like, basically,
+											dressing for the beach one day,
+											in flip-flops and your swimwear,
+											and you swing your door open
+and you&#39;re in a full-force winter storm.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: The thing you need
+to understand about Kiran
+											is that before Bridgewater,
+he&#39;d already had a successful career.
+											Actually, several.
+											He was a doctor and worked
+with the World Health Organization.
+											He was a principal in a consulting firm.
+											And he worked at a successful
+investment firm.
+											He&#39;d never failed like this before.
+											But what happened next was something
+I&#39;ve never seen anywhere else.
+											Are you embarrassed, you know,
+hide from everyone —
+											how did you move forward?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KR: No, I felt great.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: I&#39;m sorry, what?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KR: I felt great.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Do you realize
+how strange that sounds?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KR: It does.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: You can hear this
+in the tape of the meeting,
+											right after he found out his ranking.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Audio clip: I&#39;m Kiran Rao,
+											by now probably notorious/famous
+number one on the list.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I think it&#39;s a great list.
+											And I agree that I&#39;m in that spot.
+											This leaves me more energized versus not.
+											I get energy from it and I look forward
+to helping or leaving,
+											whichever is the right answer.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: So are you just
+a glutton for punishment?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KR: It&#39;s just data.
+											It&#39;s just data, objective data
+about what I&#39;m like.
+											I would rather know how bad the bad is
+											and how good the good is
+											so I can do something with it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: I think a skeptic, particularly one
+with my training, might say,
+											this is just cognitive
+dissonance reduction.
+											So you&#39;re like, &quot;This felt really bad,
+but I decided to stay
+											and so it must have taught me something,
+I must have grown from the experience,
+											otherwise, like, how the hell
+do I justify this?&quot;
+											Do you ever wonder whether
+you&#39;re just kind of rationalizing
+											the unpleasant experience?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KR: No.
+											But Bridgewater is not
+about those dramatic moments, right?
+											The real challenge for people
+											to figure out if they&#39;re fit
+for the culture or not
+											is not the dramatic moments,
+											it&#39;s the daily experience of it.
+											Right?
+											That drama is incidental to the real work
+of getting to know yourself.
+											I do believe I&#39;ve experienced deep,
+fundamental change at Bridgewater.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: It is interesting,
+because it almost sound like
+											you&#39;re trying to rewire
+or override an instinct.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KR: When I have somebody
+tell me I did something badly,
+											my ego kicks in, right,
+											and so my composure
+starts to become worse and worse.
+											&quot;That is so wrong,
+how can that possibly be true,
+											I&#39;ve done all these things in my life
+and how could I be that person?&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: That&#39;s what I call proving mode.
+											It&#39;s the primal, emotional reaction.
+											The lower-level you.
+											But your brain has another
+higher-level setting.
+											Its improving mode.
+											That&#39;s your inner Olympic diver,
+											who wants to know exactly how good you are
+											and every single thing
+you can do to get better.
+											Improving mode means
+you&#39;re always a work in progress.
+											At Bridgewater, the thinking is
+											that if you&#39;re exposed
+to feedback all the time,
+											you get better at hearing
+that improving voice.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KR: There is a much softer voice.
+											The logical person inside me who&#39;s saying,
+											&quot;Yeah, it&#39;s been a rough year.
+											It hasn&#39;t been such an impactful year.
+											Kiran, you aren&#39;t really
+accomplishing your goals.
+											That&#39;s not so surprising.&quot;
+											The difference, though,
+is that those two voices
+											are very different
+in amplitude at that moment.
+											The low-level me screaming,
+											the upper-level me is whispering.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Interesting.
+											So the two yous will always
+still be battling at some level.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KR: I think so.
+											And to me, the beauty is
+I can see that now.
+											It used to take me a month or two
+											to recognize that
+and come back to an even keel.
+											And with Ray, it takes a microsecond.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: Yes, it&#39;s almost exactly that quick.
+											I go, &quot;Damn, I wish I would have ...&quot;
+whatever that thing is,
+											and simultaneously, &quot;Where&#39;s the lesson?&quot;
+											And I think it&#39;s a habit.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: OK, that&#39;s weird.
+											Ray is suggesting he doesn&#39;t just
+feel less pain than the rest of us,
+											when he gets criticized.
+											He&#39;s trained himself
+so that the pain signal
+											is actually followed by a pleasure signal.
+											Over years of seeing
+that negative feedback
+											leads to positive outcomes,
+											he sort of seems to enjoy hearing it now.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: When you&#39;re getting criticism,
+how do you feel about it?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: So I think overall ...
+											I don&#39;t think I enjoy it most of the time,
+											but I crave it.
+											I started teaching
+and was terrified of public speaking.
+											I remember one of the feedback forms said
+											that I was so nervous
+											that I was causing the students
+to physically shake in their seats.
+											At the time, I was like,
+&quot;Ugh, I don&#39;t want to be that person.&quot;
+											But I need the feedback
+in order to not be that person.
+											I think it was easier to take
+because I asked for it.
+											I don&#39;t think I take criticism so well
+when somebody just springs it on me
+											and I don&#39;t feel like
+I&#39;ve opted in to it first.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: That&#39;s beautiful, right?
+											And it&#39;s totally understandable
+											that when it&#39;s sprung on you,
+it takes you by surprise,
+											you know, because
+it&#39;s an amygdala response.
+											And the amygdala is the fight or flight
+and it is a very short-term thing.
+											But in some period of time,
+that&#39;s going to fade
+											and then if at that moment you reflect,
+											pain plus reflection equals progress.
+											Because the pain is signaling you
+that something is wrong;
+											the reflection helps
+to produce that learning.
+											And if you do that over a period of time,
+you can&#39;t help but learn.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: That&#39;s the goal.
+											But if you&#39;re like most people,
+											reflection gets hijacked
+by your inner dictator,
+											who immediately goes
+into denial and attack.
+											We need a way to take
+a more honest look in the mirror.
+											In the moment, that&#39;s hard to do.
+											So in psychology, we have a fun way
+of making you a little more aware
+											of how you appear to others.
+											Imagine that you&#39;re sitting at a computer
+to take a timed, multiple-choice test.
+											The instructions say
+to answer question after question
+											until a timer goes off.
+											But what we haven&#39;t told you
+is that we&#39;re recording your keyboard.
+											So if you submit an answer
+after the timer, we know you&#39;re cheating.
+											It turns out you&#39;re significantly
+less likely to cheat
+											if there&#39;s a mirror in the room.
+											It reminds you to reflect
+on how your behavior will look to others.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											At Bridgewater, Ray is constantly
+trying to look in the mirror,
+											so he can see himself
+the way others see him.
+											Psychologists often talk
+about a second score.
+											The idea being that you can&#39;t control
+											your unprepared, long-winded
+meeting performance,
+											the D-minus is done,
+that already happened.
+											The only thing you can do then is say,
+											&quot;Alright, I can&#39;t control
+that first score,
+											I can control the second, which is
+how well did I take the first score.&quot;
+											Even if I got a D-minus
+for my performance,
+											I can get an A-plus for how
+I took the feedback of my performance.
+											Do you give yourself those kinds
+of explicit evaluations?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: Everybody gives those.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: If people know they&#39;re being evaluated
+											on how well they learn
+and how well they take feedback,
+											then there&#39;s no stable image
+to protect anymore.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: Well put, it&#39;s a good point.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: A second score.
+											Every time I get feedback,
+											I rate myself now
+on how well I took the feedback.
+											That&#39;s a habit we can all develop.
+											When someone gives you feedback,
+they&#39;ve already evaluated you.
+											So it helps to remind yourself
+that the main thing they&#39;re judging now
+											is whether you&#39;re open or defensive.
+											You don&#39;t always realize
+when you&#39;re being defensive.
+											So call on your challenge network.
+											Ask them to give you a second score, too.
+											&quot;How did I come across
+when you gave me feedback?&quot;
+											And then really listen to what they say.
+											And respond by saying thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The best way to prove yourself
+											is to show that you&#39;re willing
+to improve yourself.
+											Just ask Kiran.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KR: It&#39;s funny, I called my wife
+on my way home and said this happened,
+											they put up the list of the worst managers
+at Bridgewater and I was number one.
+											And I had an amazing, energizing day ...
+											And it felt great.
+											And she said, &quot;That&#39;s wonderful,
+Kiran, I&#39;m proud of you.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: She said she was proud of you?
+											For being the worst
+manager at Bridgewater?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											KR: No, for looking in the mirror,
+											for not cringing from what I look like,
+											for being able to see reality
+for what it is.
+											And I probably reached home by then.
+											It&#39;s a short commute.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: WorkLife is hosted by me, Adam Grant.
+											The show is produced by TED
+with Transmitter Media
+											and Pineapple Street Media.
+											Our team includes Colin Helms,
+Gretta Cohn, Gabrielle Lewis,
+											Angela Cheng and Janet Lee.
+											This episode was produced by Dan O&#39;Donell
+with help from Julia Alsop.
+											Our show is mixed by David Herman
+with help from Dan Dzula.
+											Original music by Hahnsdale Hsu.
+											Special thanks to our sponsors:
+											Bonobos, Accenture,
+JP Morgan Chase and Warby Parker.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Next time on WorkLife,
+											we&#39;re going inside the writer&#39;s room
+at The Daily Show
+											to find out how they do
+creative work under the gun.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											David Kibukka: The first draft
+is not meant to be the last draft.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Dan Amira: Yeah, that&#39;s why
+they call it the first draft.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											DK: That was a big part
+of the naming process.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: That&#39;s next time on WorkLife.
+											In the meantime, thanks for listening.
+											And if you like what you hear,
+rate an review the show.
+											It helps other people find us.
+											See you next week.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Ray, this has been fun and interesting
+											and thought-provoking as always.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: So, now what criticisms do I get?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Oh, I have to criticize you?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: Yeah.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											AG: Ugh. Do we have time for this?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											You stay at the level
+of abstract concepts and ideas
+											as opposed to moving down into
+sort of, the experiences that you&#39;ve had,
+											the stories that you can tell,
+											the emotions that are part of that
+that really bring your ideas to life.
+											If you brought more
+of the concrete, the emotional in
+											along with the abstract conceptual,
+											I think your communication
+would be more effective.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RD: Well, thank you.
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":null,"threadId":null,"current_talk":"12355","description":"What if you could tell your co-workers what you really think of them? At the world's most successful hedge fund, everyone is rated and ranked constantly -- in front of everyone. They've figured out how to embrace negative feedback, and they swear it's essential to their success. Adam Grant shows how you can learn to take criticism well -- and get better at dishing it out. This episode is brought to you by Bonobos, Accenture, JPMorgan Chase & Co., and Warby Parker. (Audio only)","event":"A TED Original Podcast","language":"en","name":"WorkLife with Adam Grant: How to love criticism","slug":"worklife_with_adam_grant_dear_billionaire_i_give_you_a_d_minus","speakers":[{"id":"2872","slug":"adam_grant","is_published":true,"firstname":"Adam","lastname":"Grant","middleinitial":"","title":"","description":"Organizational psychologist","photo_url":"https://pe.tedcdn.com/images/ted/4539f3cc574c36cae93ab8e542ada5ae2e470e98_254x191.jpg","whatotherssay":"For Grant, helping is not the enemy of productivity, a time-sapping diversion from the actual work at hand; it is the mother lode, the motivator that spurs increased productivity and creativity.","whotheyare":"After years of studying the dynamics of success and productivity in the workplace, Adam Grant discovered a powerful and often overlooked motivator: helping others.","whylisten":"<p>In his groundbreaking book <em>Give and Take</em>, top-rated Wharton professor Adam Grant upended decades of conventional motivational thinking with the thesis that giving unselfishly to colleagues or clients can lead to one&rsquo;s own long-term success. Grant&rsquo;s research has led hundreds of advice seekers (and HR departments) to his doorstep, and it&rsquo;s changing the way leaders view their workforces.</p><p>Grant&#39;s book <em>Originals: How Non-Conformists Move the World</em> examines how unconventional thinkers overturn the status quo and champion game-changing ideas.</p><p>Grant is the host of the TED original podcast&nbsp;<a href=\"https://www.ted.com/read/ted-podcasts/worklife\" target=\"_blank\"><em>WorkLife</em></a>,&nbsp;taking us inside unconventional workplaces to explore the ideas we can all use to make work more meaningful and creative.</p>"}],"url":"https://www.ted.com/talks/worklife_with_adam_grant_dear_billionaire_i_give_you_a_d_minus","viewed_count":656813,"talks":[{"recommendations":null,"more_resources":[{"status":"approved","headline":"*WorkLife with Adam Grant: A TED original podcast*","blurb":"We spend a quarter of our lives at work, but too little time thinking about how to make it better. Organizational psychologist Adam Grant takes us inside unconventional workplaces to explore ideas we can all use to make work more meaningful and creative.","link_url":"https://www.ted.com/read/ted-podcasts/worklife","image_url":"https://page-builder.ted.com/system/baubles/files/000/005/863/original/worklife.png","visible_url":"ted.com","start_at":null,"end_at":null,"published":true,"eyebrow":"PODCAST","type":"external_website"}],"corrections":[],"has_citations":false,"take_action":[],"curator_approved":true,"description":"What if you could tell your co-workers what you really think of them? At the world's most successful hedge fund, everyone is rated and ranked constantly -- in front of everyone. They've figured out how to embrace negative feedback, and they swear it's essential to their success. Adam Grant shows how you can learn to take criticism well -- and get better at dishing it out. This episode is brought to you by Bonobos, Accenture, JPMorgan Chase & Co., and Warby Parker. (Audio only)","downloads":{"id":12355,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false}],"nativeDownloads":null,"subtitledDownloads":null,"audioDownload":"https://download.ted.com/talks/WorkLifeS001E001_2018V.mp3?apikey=acme-roadrunner"},"duration":2079.0,"event":"A TED Original Podcast","event_blurb":null,"event_badge":null,"hero":"https://s3.amazonaws.com/talkstar-photos/uploads/db2b237d-4563-4ef9-b6f9-95d7dc94dc69/WorkLife.jpg","hero_load":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/db2b237d-4563-4ef9-b6f9-95d7dc94dc69/WorkLife.jpg?q=50&w=15","id":"12355","player_talks":[{"id":"12355","duration":2079.0,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":true,"introDuration":0.0,"adDuration":0.0,"postAdDuration":0.0,"resources":{"h264":null,"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DA%2BTED%2BOriginal%2BPodcast%26id%3D12355%26tag%3Dwork-life%2Bbalance%2Cwork%2Ccreativity%2Cwriting%26talk%3Dworklife_with_adam_grant_dear_billionaire_i_give_you_a_d_minus%26year%3D2018&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"12355","talk":"worklife_with_adam_grant_dear_billionaire_i_give_you_a_d_minus","tag":"work-life balance,work,creativity,writing","year":"2018","event":"A TED Original Podcast"},"stream":"https://hls.ted.com/talks/12355.m3u8","metadata":"https://hls.ted.com/talks/12355.json"}},"targeting":{"id":"12355","talk":"worklife_with_adam_grant_dear_billionaire_i_give_you_a_d_minus","tag":"work-life balance,work,creativity,writing","year":"2018","event":"A TED Original Podcast"},"canonical":"https://www.ted.com/talks/worklife_with_adam_grant_dear_billionaire_i_give_you_a_d_minus","name":"WorkLife with Adam Grant: How to love criticism","title":"How to love criticism","speaker":"WorkLife with Adam Grant","thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/db2b237d-4563-4ef9-b6f9-95d7dc94dc69/WorkLife.jpg?quality=89&w=600","slug":"worklife_with_adam_grant_dear_billionaire_i_give_you_a_d_minus","event":"A TED Original Podcast","published":1520524192}],"ratings":[],"recorded_at":"2018-03-07T00:00:00.000+00:00","related_talks":[{"id":"12356","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/996a8448-7846-41dd-b8b5-d20daa584866/WorkLife.jpg","speaker":"WorkLife with Adam Grant","title":"The Daily Show's secret to creativity","duration":2024.0,"slug":"worklife_with_adam_grant_creative_burstiness_at_the_daily_show","viewed_count":0},{"id":"2474","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/93b0a599-6bd5-44fb-b61f-61556ed9d413/AdamGrant_2016-embed.jpg","speaker":"Adam Grant","title":"The surprising habits of original thinkers","duration":925.0,"slug":"adam_grant_the_surprising_habits_of_original_thinkers","viewed_count":8024983},{"id":"12499","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/7747ac9c-75ad-47e1-bfc5-6b8f93bd6212/WorkLife.jpg","speaker":"WorkLife with Adam Grant","title":"The problem with all-stars","duration":1994.0,"slug":"worklife_with_adam_grant_the_team_of_humble_stars","viewed_count":430301}],"slug":"worklife_with_adam_grant_dear_billionaire_i_give_you_a_d_minus","speakers":[{"id":"2872","slug":"adam_grant","is_published":true,"firstname":"Adam","lastname":"Grant","middleinitial":"","title":"","description":"Organizational psychologist","photo_url":"https://pe.tedcdn.com/images/ted/4539f3cc574c36cae93ab8e542ada5ae2e470e98_254x191.jpg","whatotherssay":"For Grant, helping is not the enemy of productivity, a time-sapping diversion from the actual work at hand; it is the mother lode, the motivator that spurs increased productivity and creativity.","whotheyare":"After years of studying the dynamics of success and productivity in the workplace, Adam Grant discovered a powerful and often overlooked motivator: helping others.","whylisten":"<p>In his groundbreaking book <em>Give and Take</em>, top-rated Wharton professor Adam Grant upended decades of conventional motivational thinking with the thesis that giving unselfishly to colleagues or clients can lead to one&rsquo;s own long-term success. Grant&rsquo;s research has led hundreds of advice seekers (and HR departments) to his doorstep, and it&rsquo;s changing the way leaders view their workforces.</p><p>Grant&#39;s book <em>Originals: How Non-Conformists Move the World</em> examines how unconventional thinkers overturn the status quo and champion game-changing ideas.</p><p>Grant is the host of the TED original podcast&nbsp;<a href=\"https://www.ted.com/read/ted-podcasts/worklife\" target=\"_blank\"><em>WorkLife</em></a>,&nbsp;taking us inside unconventional workplaces to explore the ideas we can all use to make work more meaningful and creative.</p>"}],"speaker_name":"WorkLife with Adam Grant","tags":["work-life balance","work","creativity","writing"],"title":"How to love criticism","video_type":{"id":"6","name":"Original Content"},"viewed_count":656813}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

@@ -1,0 +1,1354 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Sherry Turkle: Connected, but alone? | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: As we expect more from technology, do we expect less from each other? Sherry Turkle studies how our devices and online personas are redefining human connection and communication -- and asks us to think deeply about the new kinds of connection we want to have." />
+<meta name="author" content="Sherry Turkle" />
+<link rel="canonical" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=en" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=el" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=vi" />
+<link rel="alternate" hreflang="ca" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=ca" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=pt-br" />
+<link rel="alternate" hreflang="cs" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=cs" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=nl" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=pt" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=tr" />
+<link rel="alternate" hreflang="hr" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=hr" />
+<link rel="alternate" hreflang="th" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=th" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=bg" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=de" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=hu" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=fa" />
+<link rel="alternate" hreflang="fi" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=fi" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=he" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=sr" />
+<link rel="alternate" hreflang="sq" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=sq" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=ko" />
+<link rel="alternate" hreflang="sv" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=sv" />
+<link rel="alternate" hreflang="sk" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=sk" />
+<link rel="alternate" hreflang="uk" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=uk" />
+<link rel="alternate" hreflang="fr-ca" href="https://www.ted.com/talks/sherry_turkle_alone_together/transcript?language=fr-ca" />
+<meta property="og:title" content="Transcript of &quot;Connected, but alone?&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6b9f1d8df425700e9c847f0c3574b599bb0208d5_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6b9f1d8df425700e9c847f0c3574b599bb0208d5_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Sherry Turkle: Connected, but alone?" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: As we expect more from technology, do we expect less from each other? Sherry Turkle studies how our devices and online personas are redefining human connection and communication -- and asks us to think deeply about the new kinds of connection we want to have." />
+<meta property="og:url" content="https://www.ted.com/talks/sherry_turkle_alone_together/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 1409);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/sherry_turkle_alone_together' itemprop='url'>
+<meta content='Connected, but alone?' itemprop='name'>
+<meta content='As we expect more from technology, do we expect less from each other? Sherry Turkle studies how our devices and online personas are redefining human connection and communication — and asks us to think deeply about the new kinds of connection we want to have.' itemprop='description'>
+<meta content='PT19M48S' itemprop='duration'>
+<meta content='2012-04-03T15:09:09+00:00' itemprop='uploadDate'>
+<meta content='4516377' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6b9f1d8df425700e9c847f0c3574b599bb0208d5_800x600.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/sherry_turkle' itemprop='url'>
+<meta content='Sherry Turkle' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/ed69fc5b161006210707ea33d74289aedba510be_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/sherry_turkle_alone_together' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6b9f1d8df425700e9c847f0c3574b599bb0208d5_800x600.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Sherry Turkle
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					4,516,377
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 19:48</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Just a moment ago,
+											my daughter Rebecca texted me for good luck.
+											Her text said,
+											&quot;Mom, you will rock.&quot;
+											I love this.
+											Getting that text
+											was like getting a hug.
+											And so there you have it.
+											I embody
+											the central paradox.
+											I&#39;m a woman
+											who loves getting texts
+											who&#39;s going to tell you
+											that too many of them can be a problem.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Actually that reminder of my daughter
+											brings me to the beginning of my story.
+											1996, when I gave my first TEDTalk,
+											Rebecca was five years old
+											and she was sitting right there
+											in the front row.
+											I had just written a book
+											that celebrated our life on the internet
+											and I was about to be on the cover
+											of Wired magazine.
+											In those heady days,
+											we were experimenting
+											with chat rooms and online virtual communities.
+											We were exploring different aspects of ourselves.
+											And then we unplugged.
+											I was excited.
+											And, as a psychologist, what excited me most
+											was the idea
+											that we would use what we learned in the virtual world
+											about ourselves, about our identity,
+											to live better lives in the real world.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now fast-forward to 2012.
+											I&#39;m back here on the TED stage again.
+											My daughter&#39;s 20. She&#39;s a college student.
+											She sleeps with her cellphone,
+											so do I.
+											And I&#39;ve just written a new book,
+											but this time it&#39;s not one
+											that will get me on the cover
+											of Wired magazine.
+											So what happened?
+											I&#39;m still excited by technology,
+											but I believe,
+											and I&#39;m here to make the case,
+											that we&#39;re letting it take us places
+											that we don&#39;t want to go.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Over the past 15 years,
+											I&#39;ve studied technologies of mobile communication
+											and I&#39;ve interviewed hundreds and hundreds of people,
+											young and old,
+											about their plugged in lives.
+											And what I&#39;ve found
+											is that our little devices,
+											those little devices in our pockets,
+											are so psychologically powerful
+											that they don&#39;t only change what we do,
+											they change who we are.
+											Some of the things we do now with our devices
+											are things that, only a few years ago,
+											we would have found odd
+											or disturbing,
+											but they&#39;ve quickly come to seem familiar,
+											just how we do things.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So just to take some quick examples:
+											People text or do email
+											during corporate board meetings.
+											They text and shop and go on Facebook
+											during classes, during presentations,
+											actually during all meetings.
+											People talk to me about the important new skill
+											of making eye contact
+											while you&#39;re texting.
+											(Laughter)
+											People explain to me
+											that it&#39;s hard, but that it can be done.
+											Parents text and do email
+											at breakfast and at dinner
+											while their children complain
+											about not having their parents&#39; full attention.
+											But then these same children
+											deny each other their full attention.
+											This is a recent shot
+											of my daughter and her friends
+											being together
+											while not being together.
+											And we even text at funerals.
+											I study this.
+											We remove ourselves
+											from our grief or from our revery
+											and we go into our phones.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Why does this matter?
+											It matters to me
+											because I think we&#39;re setting ourselves up for trouble —
+											trouble certainly
+											in how we relate to each other,
+											but also trouble
+											in how we relate to ourselves
+											and our capacity for self-reflection.
+											We&#39;re getting used to a new way
+											of being alone together.
+											People want to be with each other,
+											but also elsewhere —
+											connected to all the different places they want to be.
+											People want to customize their lives.
+											They want to go in and out of all the places they are
+											because the thing that matters most to them
+											is control over where they put their attention.
+											So you want to go to that board meeting,
+											but you only want to pay attention
+											to the bits that interest you.
+											And some people think that&#39;s a good thing.
+											But you can end up
+											hiding from each other,
+											even as we&#39;re all constantly connected to each other.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											A 50-year-old business man
+											lamented to me
+											that he feels he doesn&#39;t have colleagues anymore at work.
+											When he goes to work, he doesn&#39;t stop by to talk to anybody,
+											he doesn&#39;t call.
+											And he says he doesn&#39;t want to interrupt his colleagues
+											because, he says, &quot;They&#39;re too busy on their email.&quot;
+											But then he stops himself
+											and he says, &quot;You know, I&#39;m not telling you the truth.
+											I&#39;m the one who doesn&#39;t want to be interrupted.
+											I think I should want to,
+											but actually I&#39;d rather just do things on my Blackberry.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Across the generations,
+											I see that people can&#39;t get enough of each other,
+											if and only if
+											they can have each other at a distance,
+											in amounts they can control.
+											I call it the Goldilocks effect:
+											not too close, not too far,
+											just right.
+											But what might feel just right
+											for that middle-aged executive
+											can be a problem for an adolescent
+											who needs to develop face-to-face relationships.
+											An 18-year-old boy
+											who uses texting for almost everything
+											says to me wistfully,
+											&quot;Someday, someday,
+											but certainly not now,
+											I&#39;d like to learn how to have a conversation.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											When I ask people
+											&quot;What&#39;s wrong with having a conversation?&quot;
+											People say, &quot;I&#39;ll tell you what&#39;s wrong with having a conversation.
+											It takes place in real time
+											and you can&#39;t control what you&#39;re going to say.&quot;
+											So that&#39;s the bottom line.
+											Texting, email, posting,
+											all of these things
+											let us present the self as we want to be.
+											We get to edit,
+											and that means we get to delete,
+											and that means we get to retouch,
+											the face, the voice,
+											the flesh, the body —
+											not too little, not too much,
+											just right.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Human relationships
+											are rich and they&#39;re messy
+											and they&#39;re demanding.
+											And we clean them up with technology.
+											And when we do,
+											one of the things that can happen
+											is that we sacrifice conversation
+											for mere connection.
+											We short-change ourselves.
+											And over time,
+											we seem to forget this,
+											or we seem to stop caring.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I was caught off guard
+											when Stephen Colbert
+											asked me a profound question,
+											a profound question.
+											He said, &quot;Don&#39;t all those little tweets,
+											don&#39;t all those little sips
+											of online communication,
+											add up to one big gulp
+											of real conversation?&quot;
+											My answer was no,
+											they don&#39;t add up.
+											Connecting in sips may work
+											for gathering discrete bits of information,
+											they may work for saying, &quot;I&#39;m thinking about you,&quot;
+											or even for saying, &quot;I love you,&quot; —
+											I mean, look at how I felt
+											when I got that text from my daughter —
+											but they don&#39;t really work
+											for learning about each other,
+											for really coming to know and understand each other.
+											And we use conversations with each other
+											to learn how to have conversations
+											with ourselves.
+											So a flight from conversation
+											can really matter
+											because it can compromise
+											our capacity for self-reflection.
+											For kids growing up,
+											that skill is the bedrock of development.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Over and over I hear,
+											&quot;I would rather text than talk.&quot;
+											And what I&#39;m seeing
+											is that people get so used to being short-changed
+											out of real conversation,
+											so used to getting by with less,
+											that they&#39;ve become almost willing
+											to dispense with people altogether.
+											So for example,
+											many people share with me this wish,
+											that some day a more advanced version of Siri,
+											the digital assistant on Apple&#39;s iPhone,
+											will be more like a best friend,
+											someone who will listen
+											when others won&#39;t.
+											I believe this wish
+											reflects a painful truth
+											that I&#39;ve learned in the past 15 years.
+											That feeling that no one is listening to me
+											is very important
+											in our relationships with technology.
+											That&#39;s why it&#39;s so appealing
+											to have a Facebook page
+											or a Twitter feed —
+											so many automatic listeners.
+											And the feeling that no one is listening to me
+											make us want to spend time
+											with machines that seem to care about us.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We&#39;re developing robots,
+											they call them sociable robots,
+											that are specifically designed to be companions —
+											to the elderly,
+											to our children,
+											to us.
+											Have we so lost confidence
+											that we will be there for each other?
+											During my research
+											I worked in nursing homes,
+											and I brought in these sociable robots
+											that were designed to give the elderly
+											the feeling that they were understood.
+											And one day I came in
+											and a woman who had lost a child
+											was talking to a robot
+											in the shape of a baby seal.
+											It seemed to be looking in her eyes.
+											It seemed to be following the conversation.
+											It comforted her.
+											And many people found this amazing.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But that woman was trying to make sense of her life
+											with a machine that had no experience
+											of the arc of a human life.
+											That robot put on a great show.
+											And we&#39;re vulnerable.
+											People experience pretend empathy
+											as though it were the real thing.
+											So during that moment
+											when that woman
+											was experiencing that pretend empathy,
+											I was thinking, &quot;That robot can&#39;t empathize.
+											It doesn&#39;t face death.
+											It doesn&#39;t know life.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And as that woman took comfort
+											in her robot companion,
+											I didn&#39;t find it amazing;
+											I found it one of the most wrenching, complicated moments
+											in my 15 years of work.
+											But when I stepped back,
+											I felt myself
+											at the cold, hard center
+											of a perfect storm.
+											We expect more from technology
+											and less from each other.
+											And I ask myself,
+											&quot;Why have things come to this?&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And I believe it&#39;s because
+											technology appeals to us most
+											where we are most vulnerable.
+											And we are vulnerable.
+											We&#39;re lonely,
+											but we&#39;re afraid of intimacy.
+											And so from social networks to sociable robots,
+											we&#39;re designing technologies
+											that will give us the illusion of companionship
+											without the demands of friendship.
+											We turn to technology to help us feel connected
+											in ways we can comfortably control.
+											But we&#39;re not so comfortable.
+											We are not so much in control.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											These days, those phones in our pockets
+											are changing our minds and hearts
+											because they offer us
+											three gratifying fantasies.
+											One, that we can put our attention
+											wherever we want it to be;
+											two, that we will always be heard;
+											and three, that we will never have to be alone.
+											And that third idea,
+											that we will never have to be alone,
+											is central to changing our psyches.
+											Because the moment that people are alone,
+											even for a few seconds,
+											they become anxious, they panic, they fidget,
+											they reach for a device.
+											Just think of people at a checkout line
+											or at a red light.
+											Being alone feels like a problem that needs to be solved.
+											And so people try to solve it by connecting.
+											But here, connection
+											is more like a symptom than a cure.
+											It expresses, but it doesn&#39;t solve,
+											an underlying problem.
+											But more than a symptom,
+											constant connection is changing
+											the way people think of themselves.
+											It&#39;s shaping a new way of being.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The best way to describe it is,
+											I share therefore I am.
+											We use technology to define ourselves
+											by sharing our thoughts and feelings
+											even as we&#39;re having them.
+											So before it was:
+											I have a feeling,
+											I want to make a call.
+											Now it&#39;s: I want to have a feeling,
+											I need to send a text.
+											The problem with this new regime
+											of &quot;I share therefore I am&quot;
+											is that, if we don&#39;t have connection,
+											we don&#39;t feel like ourselves.
+											We almost don&#39;t feel ourselves.
+											So what do we do? We connect more and more.
+											But in the process,
+											we set ourselves up to be isolated.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											How do you get from connection to isolation?
+											You end up isolated
+											if you don&#39;t cultivate the capacity for solitude,
+											the ability to be separate,
+											to gather yourself.
+											Solitude is where you find yourself
+											so that you can reach out to other people
+											and form real attachments.
+											When we don&#39;t have the capacity for solitude,
+											we turn to other people in order to feel less anxious
+											or in order to feel alive.
+											When this happens,
+											we&#39;re not able to appreciate who they are.
+											It&#39;s as though we&#39;re using them
+											as spare parts
+											to support our fragile sense of self.
+											We slip into thinking that always being connected
+											is going to make us feel less alone.
+											But we&#39;re at risk,
+											because actually it&#39;s the opposite that&#39;s true.
+											If we&#39;re not able to be alone,
+											we&#39;re going to be more lonely.
+											And if we don&#39;t teach our children to be alone,
+											they&#39;re only going to know
+											how to be lonely.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											When I spoke at TED in 1996,
+											reporting on my studies
+											of the early virtual communities,
+											I said, &quot;Those who make the most
+											of their lives on the screen
+											come to it in a spirit of self-reflection.&quot;
+											And that&#39;s what I&#39;m calling for here, now:
+											reflection and, more than that, a conversation
+											about where our current use of technology
+											may be taking us,
+											what it might be costing us.
+											We&#39;re smitten with technology.
+											And we&#39;re afraid, like young lovers,
+											that too much talking might spoil the romance.
+											But it&#39;s time to talk.
+											We grew up with digital technology
+											and so we see it as all grown up.
+											But it&#39;s not, it&#39;s early days.
+											There&#39;s plenty of time
+											for us to reconsider how we use it,
+											how we build it.
+											I&#39;m not suggesting
+											that we turn away from our devices,
+											just that we develop a more self-aware relationship
+											with them, with each other
+											and with ourselves.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I see some first steps.
+											Start thinking of solitude
+											as a good thing.
+											Make room for it.
+											Find ways to demonstrate this
+											as a value to your children.
+											Create sacred spaces at home —
+											the kitchen, the dining room —
+											and reclaim them for conversation.
+											Do the same thing at work.
+											At work, we&#39;re so busy communicating
+											that we often don&#39;t have time to think,
+											we don&#39;t have time to talk,
+											about the things that really matter.
+											Change that.
+											Most important, we all really need to listen to each other,
+											including to the boring bits.
+											Because it&#39;s when we stumble
+											or hesitate or lose our words
+											that we reveal ourselves to each other.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Technology is making a bid
+											to redefine human connection —
+											how we care for each other,
+											how we care for ourselves —
+											but it&#39;s also giving us the opportunity
+											to affirm our values
+											and our direction.
+											I&#39;m optimistic.
+											We have everything we need to start.
+											We have each other.
+											And we have the greatest chance of success
+											if we recognize our vulnerability.
+											That we listen
+											when technology says
+											it will take something complicated
+											and promises something simpler.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So in my work,
+											I hear that life is hard,
+											relationships are filled with risk.
+											And then there&#39;s technology —
+											simpler, hopeful,
+											optimistic, ever-young.
+											It&#39;s like calling in the cavalry.
+											An ad campaign promises
+											that online and with avatars,
+											you can &quot;Finally, love your friends
+											love your body, love your life,
+											online and with avatars.&quot;
+											We&#39;re drawn to virtual romance,
+											to computer games that seem like worlds,
+											to the idea that robots, robots,
+											will someday be our true companions.
+											We spend an evening on the social network
+											instead of going to the pub with friends.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But our fantasies of substitution
+											have cost us.
+											Now we all need to focus
+											on the many, many ways
+											technology can lead us back
+											to our real lives, our own bodies,
+											our own communities,
+											our own politics,
+											our own planet.
+											They need us.
+											Let&#39;s talk about
+											how we can use digital technology,
+											the technology of our dreams,
+											to make this life
+											the life we can love.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":11912,"count":596,"talk_id":1409},"threadId":11912,"current_talk":"1409","description":"As we expect more from technology, do we expect less from each other? Sherry Turkle studies how our devices and online personas are redefining human connection and communication -- and asks us to think deeply about the new kinds of connection we want to have.","event":"TED2012","language":"en","name":"Sherry Turkle: Connected, but alone?","slug":"sherry_turkle_alone_together","speakers":[{"id":"1166","slug":"sherry_turkle","is_published":true,"firstname":"Sherry","lastname":"Turkle","middleinitial":"","title":"","description":"Cultural analyst","photo_url":"https://pe.tedcdn.com/images/ted/ed69fc5b161006210707ea33d74289aedba510be_254x191.jpg","whatotherssay":"In a time in which the ways we communicate and connect are constantly changing, and not always for the better, Sherry Turkle provides a much needed voice of caution and reason to help explain what the f*** is going on.\r\n","whotheyare":"Sherry Turkle studies how technology is shaping our modern relationships: with others, with ourselves, with it.","whylisten":"<p class=\"p1\">Since her path breaking&nbsp;<a href=\"http://geni.us/secondself\" target=\"_blank\"><em>The Second Self: Computers and The Human Spirit</em></a>&nbsp;in 1984 psychologist and sociologist Sherry Turkle has been studying how technology changes not only what we do but also whom we are. In 1995&#39;s&nbsp;<a href=\"http://geni.us/lifeonscreen\" target=\"_blank\"><em>Life on the Screen: Identity in the Age of the Internet</em></a>, Turkle explored how the Internet provided new possibilities for exploring identity. In her book,&nbsp;<a href=\"http://geni.us/AloneTogether\" target=\"_blank\"><em>Alone Together: Why We Expect More From Technology and Less From Each Other</em></a>, Turkle argues that the social media we encounter on a daily basis confront us with moments of temptation. Drawn by the illusion of companionship without the demands of intimacy, we confuse postings and online sharing with authentic communication. In her most&nbsp;recent bestselling book,&nbsp;<a href=\"http://geni.us/ReclaimingConvo\" target=\"_blank\"><em>Reclaiming Conversation: The Power of Talk in a Digital Age</em></a>, Turkle argues that now, with a deeper understanding of our vulnerability to technology, we must reclaim conversation, the most human&mdash;and humanizing&mdash;thing that we do. The virtues of person-to-person conversation are timeless; to the disconnections of our modern age, it is the talking cure.</p> <p class=\"p1\">Described as &quot;the Margaret Mead of digital cuture,&quot; Turkle&#39;s work focuses on the world of social media, the digital workplace, and the rise of chatbots and sociable robots. As she puts it, these are technologies that propose themselves &quot;as the architect of our intimacies.&quot; We are drawn to sacrifice conversation for mere connection. Turkle suggests that just because we grew up with the Internet, we tend to see it as all grown up, but it is not: Digital technology is still in its infancy, and there is ample time for us to reshape how we build it and use it.</p> <p class=\"p1\">Turkle is a professor in the Program in Science, Technology and Society at MIT and the founder and director of the MIT Initiative on Technology and Self.</p>"}],"url":"https://www.ted.com/talks/sherry_turkle_alone_together","viewed_count":4516383,"talks":[{"curator_approved":true,"description":"As we expect more from technology, do we expect less from each other? Sherry Turkle studies how our devices and online personas are redefining human connection and communication -- and asks us to think deeply about the new kinds of connection we want to have.","downloads":{"id":1409,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Catalan","endonym":"Català","languageCode":"ca","ianaCode":"ca","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Finnish","endonym":"Suomi","languageCode":"fi","ianaCode":"fi","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Albanian","endonym":"Shqip","languageCode":"sq","ianaCode":"sq","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Slovak","endonym":"Slovenčina","languageCode":"sk","ianaCode":"sk","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"French (Canada)","endonym":"Français canadien","languageCode":"fr-ca","ianaCode":"fr-CA","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/SherryTurkle_2012-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/SherryTurkle_2012.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/SherryTurkle_2012-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"fr":{"name":"French","low":"https://download.ted.com/talks/SherryTurkle_2012-low-fr.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-fr.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/SherryTurkle_2012-low-es.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-es.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/SherryTurkle_2012-low-zh-cn.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-zh-cn.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/SherryTurkle_2012-low-ko.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-ko.mp4"},"de":{"name":"German","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-de.mp4","low":"https://download.ted.com/talks/SherryTurkle_2012-low-de.mp4"},"ar":{"name":"Arabic","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-ar.mp4","low":"https://download.ted.com/talks/SherryTurkle_2012-low-ar.mp4"},"en":{"name":"English","low":"https://download.ted.com/talks/SherryTurkle_2012-low-en.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-en.mp4"},"hr":{"name":"Croatian","low":"https://download.ted.com/talks/SherryTurkle_2012-low-hr.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-hr.mp4"},"sq":{"name":"Albanian","low":"https://download.ted.com/talks/SherryTurkle_2012-low-sq.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-sq.mp4"},"cs":{"name":"Czech","low":"https://download.ted.com/talks/SherryTurkle_2012-low-cs.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-cs.mp4"},"ca":{"name":"Catalan","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-ca.mp4","low":"https://download.ted.com/talks/SherryTurkle_2012-low-ca.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/SherryTurkle_2012-low-he.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-he.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/SherryTurkle_2012-low-nl.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-nl.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/SherryTurkle_2012-low-el.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-el.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/SherryTurkle_2012-low-it.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-it.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/SherryTurkle_2012-low-fa.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-fa.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/SherryTurkle_2012-low-hu.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-hu.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/SherryTurkle_2012-low-pl.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-pl.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/SherryTurkle_2012-low-sr.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-sr.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/SherryTurkle_2012-low-pt.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-pt.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/SherryTurkle_2012-low-ro.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-ro.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/SherryTurkle_2012-low-tr.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-tr.mp4"},"th":{"name":"Thai","low":"https://download.ted.com/talks/SherryTurkle_2012-low-th.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-th.mp4"},"uk":{"name":"Ukrainian","low":"https://download.ted.com/talks/SherryTurkle_2012-low-uk.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-uk.mp4"},"sk":{"name":"Slovak","low":"https://download.ted.com/talks/SherryTurkle_2012-low-sk.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-sk.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/SherryTurkle_2012-low-vi.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-vi.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/SherryTurkle_2012-low-ja.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-ja.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/SherryTurkle_2012-low-bg.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-bg.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/SherryTurkle_2012-low-ru.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-ru.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/SherryTurkle_2012-low-zh-tw.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-zh-tw.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/SherryTurkle_2012-low-pt-br.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-pt-br.mp4"},"sv":{"name":"Swedish","low":"https://download.ted.com/talks/SherryTurkle_2012-low-sv.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-sv.mp4"},"fi":{"name":"Finnish","low":"https://download.ted.com/talks/SherryTurkle_2012-low-fi.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-fi.mp4"},"fr-ca":{"name":"French (Canada)","low":"https://download.ted.com/talks/SherryTurkle_2012-low-fr-ca.mp4","high":"https://download.ted.com/talks/SherryTurkle_2012-480p-fr-ca.mp4"}},"audioDownload":null},"duration":1188.0,"event":"TED2012","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/6b9f1d8df425700e9c847f0c3574b599bb0208d5_800x600.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6b9f1d8df425700e9c847f0c3574b599bb0208d5_800x600.jpg?q=50&w=15","id":"1409","player_talks":[{"id":"1409","duration":1188.0,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Catalan","endonym":"Català","languageCode":"ca","ianaCode":"ca","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Finnish","endonym":"Suomi","languageCode":"fi","ianaCode":"fi","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Albanian","endonym":"Shqip","languageCode":"sq","ianaCode":"sq","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Slovak","endonym":"Slovenčina","languageCode":"sk","ianaCode":"sk","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"French (Canada)","endonym":"Français canadien","languageCode":"fr-ca","ianaCode":"fr-CA","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2012/Blank/SherryTurkle_2012-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTED2012%26id%3D1409%26tag%3DAI%2Ccommunication%2Ccommunity%2Cculture%2Csociology%2Ctechnology%26talk%3Dsherry_turkle_alone_together%26year%3D2012&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"1409","talk":"sherry_turkle_alone_together","tag":"AI,communication,community,culture,sociology,technology","year":"2012","event":"TED2012"},"stream":"https://hls.ted.com/talks/1409.m3u8","metadata":"https://hls.ted.com/talks/1409.json"}},"targeting":{"id":"1409","talk":"sherry_turkle_alone_together","tag":"AI,communication,community,culture,sociology,technology","year":"2012","event":"TED2012"},"canonical":"https://www.ted.com/talks/sherry_turkle_alone_together","name":"Sherry Turkle: Connected, but alone?","title":"Connected, but alone?","speaker":"Sherry Turkle","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/6b9f1d8df425700e9c847f0c3574b599bb0208d5_800x600.jpg?quality=89&w=600","slug":"sherry_turkle_alone_together","event":"TED2012","published":1333465749}],"ratings":[{"id":3,"name":"Courageous","count":726},{"id":22,"name":"Fascinating","count":1188},{"id":10,"name":"Inspiring","count":2255},{"id":8,"name":"Informative","count":1424},{"id":24,"name":"Persuasive","count":1664},{"id":1,"name":"Beautiful","count":354},{"id":23,"name":"Jaw-dropping","count":246},{"id":21,"name":"Unconvincing","count":193},{"id":9,"name":"Ingenious","count":213},{"id":2,"name":"Confusing","count":53},{"id":11,"name":"Longwinded","count":168},{"id":25,"name":"OK","count":231},{"id":7,"name":"Funny","count":66},{"id":26,"name":"Obnoxious","count":92}],"recorded_at":"2012-02-29T00:00:00.000+00:00","related_talks":[{"id":"1050","hero":"https://pe.tedcdn.com/images/ted/c51aa07322a1c025c966a77e45315944967fbef2_1600x1200.jpg","speaker":"Amber Case","title":"We are all cyborgs now","duration":473.0,"slug":"amber_case_we_are_all_cyborgs_now","viewed_count":1576926},{"id":"1201","hero":"https://pe.tedcdn.com/images/ted/1c82493a6f6e64750d43b1f6e301549bc466f117_2880x1620.jpg","speaker":"Adam Ostrow","title":"After your final status update","duration":329.0,"slug":"adam_ostrow_after_your_final_status_update","viewed_count":1176167},{"id":"916","hero":"https://pe.tedcdn.com/images/ted/183882_800x600.jpg","speaker":"Ethan Zuckerman","title":"Listening to global voices","duration":1185.0,"slug":"ethan_zuckerman","viewed_count":728214},{"id":"2435","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/42293f27-ad85-4999-a72b-96b6d5d2c398/CelesteHeadlee_2015X_embed.jpg","speaker":"Celeste Headlee","title":"10 ways to have a better conversation","duration":704.0,"slug":"celeste_headlee_10_ways_to_have_a_better_conversation","viewed_count":11384522},{"id":"1070","hero":"https://pe.tedcdn.com/images/ted/d5d8a98861dcc5ee45ddc721bec6cf00005aafc6_2400x1800.jpg","speaker":"Cynthia Breazeal","title":"The rise of personal robots","duration":844.0,"slug":"cynthia_breazeal_the_rise_of_personal_robots","viewed_count":1097307},{"id":"10807","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/64bf7997-0ce4-4f97-8a53-9cd285b69b42/ChuckNice_2017-embed.jpg","speaker":"Chuck Nice","title":"A funny look at the unintended consequences of technology","duration":642.0,"slug":"chuck_nice_a_funny_look_at_the_unintended_consequences_of_technology","viewed_count":541691}],"slug":"sherry_turkle_alone_together","speakers":[{"id":"1166","slug":"sherry_turkle","is_published":true,"firstname":"Sherry","lastname":"Turkle","middleinitial":"","title":"","description":"Cultural analyst","photo_url":"https://pe.tedcdn.com/images/ted/ed69fc5b161006210707ea33d74289aedba510be_254x191.jpg","whatotherssay":"In a time in which the ways we communicate and connect are constantly changing, and not always for the better, Sherry Turkle provides a much needed voice of caution and reason to help explain what the f*** is going on.\r\n","whotheyare":"Sherry Turkle studies how technology is shaping our modern relationships: with others, with ourselves, with it.","whylisten":"<p class=\"p1\">Since her path breaking&nbsp;<a href=\"http://geni.us/secondself\" target=\"_blank\"><em>The Second Self: Computers and The Human Spirit</em></a>&nbsp;in 1984 psychologist and sociologist Sherry Turkle has been studying how technology changes not only what we do but also whom we are. In 1995&#39;s&nbsp;<a href=\"http://geni.us/lifeonscreen\" target=\"_blank\"><em>Life on the Screen: Identity in the Age of the Internet</em></a>, Turkle explored how the Internet provided new possibilities for exploring identity. In her book,&nbsp;<a href=\"http://geni.us/AloneTogether\" target=\"_blank\"><em>Alone Together: Why We Expect More From Technology and Less From Each Other</em></a>, Turkle argues that the social media we encounter on a daily basis confront us with moments of temptation. Drawn by the illusion of companionship without the demands of intimacy, we confuse postings and online sharing with authentic communication. In her most&nbsp;recent bestselling book,&nbsp;<a href=\"http://geni.us/ReclaimingConvo\" target=\"_blank\"><em>Reclaiming Conversation: The Power of Talk in a Digital Age</em></a>, Turkle argues that now, with a deeper understanding of our vulnerability to technology, we must reclaim conversation, the most human&mdash;and humanizing&mdash;thing that we do. The virtues of person-to-person conversation are timeless; to the disconnections of our modern age, it is the talking cure.</p> <p class=\"p1\">Described as &quot;the Margaret Mead of digital cuture,&quot; Turkle&#39;s work focuses on the world of social media, the digital workplace, and the rise of chatbots and sociable robots. As she puts it, these are technologies that propose themselves &quot;as the architect of our intimacies.&quot; We are drawn to sacrifice conversation for mere connection. Turkle suggests that just because we grew up with the Internet, we tend to see it as all grown up, but it is not: Digital technology is still in its infancy, and there is ample time for us to reshape how we build it and use it.</p> <p class=\"p1\">Turkle is a professor in the Program in Science, Technology and Society at MIT and the founder and director of the MIT Initiative on Technology and Self.</p>"}],"speaker_name":"Sherry Turkle","tags":["AI","communication","community","culture","sociology","technology"],"title":"Connected, but alone?","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":4516383}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

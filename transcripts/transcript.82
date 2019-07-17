@@ -1,0 +1,1149 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Nick Bostrom: A philosophical quest for our biggest problems | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Oxford philosopher and transhumanist Nick Bostrom examines the future of humankind and asks whether we might alter the fundamental nature of humanity to solve our most intrinsic problems." />
+<meta name="author" content="Nick Bostrom" />
+<link rel="canonical" href="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript?language=en" />
+<link rel="alternate" hreflang="so" href="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript?language=so" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript?language=pt-br" />
+<link rel="alternate" hreflang="cs" href="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript?language=cs" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript?language=ru" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript?language=tr" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript?language=bg" />
+<link rel="alternate" hreflang="hr" href="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript?language=hr" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript?language=de" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript?language=fa" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript?language=he" />
+<link rel="alternate" hreflang="ka" href="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript?language=ka" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript?language=ko" />
+<link rel="alternate" hreflang="mk" href="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript?language=mk" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript?language=hu" />
+<meta property="og:title" content="Transcript of &quot;A philosophical quest for our biggest problems&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c331eb763dfc01984cd1e0c42c6d8d24c5731578_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c331eb763dfc01984cd1e0c42c6d8d24c5731578_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Nick Bostrom: A philosophical quest for our biggest problems" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Oxford philosopher and transhumanist Nick Bostrom examines the future of humankind and asks whether we might alter the fundamental nature of humanity to solve our most intrinsic problems." />
+<meta property="og:url" content="https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 44);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems' itemprop='url'>
+<meta content='A philosophical quest for our biggest problems' itemprop='name'>
+<meta content='Oxford philosopher and transhumanist Nick Bostrom examines the future of humankind and asks whether we might alter the fundamental nature of humanity to solve our most intrinsic problems.' itemprop='description'>
+<meta content='PT16M52S' itemprop='duration'>
+<meta content='2007-04-05T00:11:00+00:00' itemprop='uploadDate'>
+<meta content='815269' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c331eb763dfc01984cd1e0c42c6d8d24c5731578_1600x1200.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/nick_bostrom' itemprop='url'>
+<meta content='Nick Bostrom' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/56aef93b63301ffe15f201c8b357ee2161abf955_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/nick_bostrom_on_our_biggest_problems' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c331eb763dfc01984cd1e0c42c6d8d24c5731578_1600x1200.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Nick Bostrom
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					815,269
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 16:52</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I want to talk today about —
+											I&#39;ve been asked to take the long view, and I&#39;m going to tell you what
+											I think are the three biggest problems for humanity
+											from this long point of view.
+											Some of these have already been touched upon by other speakers,
+											which is encouraging.
+											It seems that there&#39;s not just one person
+											who thinks that these problems are important.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The first is — death is a big problem.
+											If you look at the statistics,
+											the odds are not very favorable to us.
+											So far, most people who have lived have also died.
+											Roughly 90 percent of everybody who has been alive has died by now.
+											So the annual death rate adds up to 150,000 —
+											sorry, the daily death rate — 150,000 people per day,
+											which is a huge number by any standard.
+											The annual death rate, then, becomes 56 million.
+											If we just look at the single, biggest cause of death — aging —
+											it accounts for roughly two-thirds of all human people who die.
+											That adds up to an annual death toll
+											of greater than the population of Canada.
+											Sometimes, we don&#39;t see a problem
+											because either it&#39;s too familiar or it&#39;s too big.
+											Can&#39;t see it because it&#39;s too big.
+											I think death might be both too familiar and too big
+											for most people to see it as a problem.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Once you think about it, you see this is not statistical points;
+											these are — let&#39;s see, how far have I talked?
+											I&#39;ve talked for three minutes.
+											So that would be, roughly, 324 people have died since I&#39;ve begun speaking.
+											People like — it&#39;s roughly the population in this room has just died.
+											Now, the human cost of that is obvious,
+											once you start to think about it — the suffering, the loss —
+											it&#39;s also, economically, enormously wasteful.
+											I just look at the information, and knowledge, and experience
+											that is lost due to natural causes of death in general,
+											and aging, in particular.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Suppose we approximated one person with one book?
+											Now, of course, this is an underestimation.
+											A person&#39;s lifetime of learning and experience
+											is a lot more than you could put into a single book.
+											But let&#39;s suppose we did this.
+											52 million people die of natural causes each year
+											corresponds, then, to 52 million volumes destroyed.
+											Library of Congress holds 18 million volumes.
+											We are upset about the burning of the Library of Alexandria.
+											It&#39;s one of the great cultural tragedies
+											that we remember, even today.
+											But this is the equivalent of three Libraries of Congress —
+											burnt down, forever lost — each year.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So that&#39;s the first big problem.
+											And I wish Godspeed to Aubrey de Grey,
+											and other people like him,
+											to try to do something about this as soon as possible.
+											Existential risk — the second big problem.
+											Existential risk is a threat to human survival, or to the long-term potential of our species.
+											Now, why do I say that this is a big problem?
+											Well, let&#39;s first look at the probability —
+											and this is very, very difficult to estimate —
+											but there have been only four studies on this in recent years,
+											which is surprising.
+											You would think that it would be of some interest
+											to try to find out more about this given that the stakes are so big,
+											but it&#39;s a very neglected area.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But there have been four studies —
+											one by John Lesley, wrote a book on this.
+											He estimated a probability that we will fail
+											to survive the current century: 50 percent.
+											Similarly, the Astronomer Royal, whom we heard speak yesterday,
+											also has a 50 percent probability estimate.
+											Another author doesn&#39;t give any numerical estimate,
+											but says the probability is significant that it will fail.
+											I wrote a long paper on this.
+											I said assigning a less than 20 percent probability would be a mistake
+											in light of the current evidence we have.
+											Now, the exact figures here,
+											we should take with a big grain of salt,
+											but there seems to be a consensus that the risk is substantial.
+											Everybody who has looked at this and studied it agrees.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, if we think about what just reducing
+											the probability of human extinction by just one percentage point —
+											not very much — so that&#39;s equivalent to 60 million lives saved,
+											if we just count the currently living people, the current generation.
+											Now one percent of six billion people is equivalent to 60 million.
+											So that&#39;s a large number.
+											If we were to take into account future generations
+											that will never come into existence if we blow ourselves up,
+											then the figure becomes astronomical.
+											If we could eventually colonize a chunk of the universe —
+											the Virgo supercluster —
+											maybe it will take us 100 million years to get there,
+											but if we go extinct we never will.
+											Then, even a one percentage point reduction
+											in the extinction risk could be equivalent
+											to this astronomical number — 10 to the power of 32.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So if you take into account future generations as much as our own,
+											every other moral imperative of philanthropic cost just becomes irrelevant.
+											The only thing you should focus on
+											would be to reduce existential risk
+											because even the tiniest decrease in existential risk
+											would just overwhelm any other benefit you could hope to achieve.
+											And even if you just look at the current people,
+											and ignore the potential that would be lost if we went extinct,
+											it should still have a high priority.
+											Now, let me spend the rest of my time on the third big problem,
+											because it&#39;s more subtle and perhaps difficult to grasp.
+											Think about some time in your life —
+											some people might never have experienced it — but some people,
+											there are just those moments that you have experienced
+											where life was fantastic.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It might have been at the moment of some great, creative inspiration
+											you might have had when you just entered this flow stage.
+											Or when you understood something you had never done before.
+											Or perhaps in the ecstasy of romantic love.
+											Or an aesthetic experience — a sunset or a great piece of art.
+											Every once in a while we have these moments,
+											and we realize just how good life can be when it&#39;s at its best.
+											And you wonder, why can&#39;t it be like that all the time?
+											You just want to cling onto this.
+											And then, of course, it drifts back into ordinary life and the memory fades.
+											And it&#39;s really difficult to recall, in a normal frame of mind,
+											just how good life can be at its best.
+											Or how bad it can be at its worst.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The third big problem is that life isn&#39;t usually
+											as wonderful as it could be.
+											I think that&#39;s a big, big problem.
+											It&#39;s easy to say what we don&#39;t want.
+											Here are a number of things that we don&#39;t want —
+											illness, involuntary death, unnecessary suffering, cruelty,
+											stunted growth, memory loss, ignorance, absence of creativity.
+											Suppose we fixed these things — we did something about all of these.
+											We were very successful.
+											We got rid of all of these things.
+											We might end up with something like this,
+											which is — I mean, it&#39;s a heck of a lot better than that.
+											But is this really the best we can dream of?
+											Is this the best we can do?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Or is it possible to find something a little bit more inspiring to work towards?
+											And if we think about this,
+											I think it&#39;s very clear that there are ways
+											in which we could change things, not just by eliminating negatives,
+											but adding positives.
+											On my wish list, at least, would be:
+											much longer, healthier lives, greater subjective well-being,
+											enhanced cognitive capacities, more knowledge and understanding,
+											unlimited opportunity for personal growth
+											beyond our current biological limits, better relationships,
+											an unbounded potential for spiritual, moral
+											and intellectual development.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											If we want to achieve this, what, in the world, would have to change?
+											And this is the answer — we would have to change.
+											Not just the world around us, but we, ourselves.
+											Not just the way we think about the world, but the way we are — our very biology.
+											Human nature would have to change.
+											Now, when we think about changing human nature,
+											the first thing that comes to mind
+											are these human modification technologies —
+											growth hormone therapy, cosmetic surgery,
+											stimulants like Ritalin, Adderall, anti-depressants,
+											anabolic steroids, artificial hearts.
+											It&#39;s a pretty pathetic list.
+											They do great things for a few people
+											who suffer from some specific condition,
+											but for most people, they don&#39;t really transform
+											what it is to be human.
+											And they also all seem a little bit —
+											most people have this instinct that, well, sure,
+											there needs to be anti-depressants for the really depressed people.
+											But there&#39;s a kind of queasiness
+											that these are unnatural in some way.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It&#39;s worth recalling that there are a lot of other
+											modification technologies and enhancement technologies that we use.
+											We have skin enhancements, clothing.
+											As far as I can see, all of you are users of this
+											enhancement technology in this room, so that&#39;s a great thing.
+											Mood modifiers have been used from time immemorial —
+											caffeine, alcohol, nicotine, immune system enhancement,
+											vision enhancement, anesthetics —
+											we take that very much for granted,
+											but just think about how great progress that is —
+											like, having an operation before anesthetics was not fun.
+											Contraceptives, cosmetics and brain reprogramming techniques —
+											that sounds ominous,
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											but the distinction between what is a technology —
+											a gadget would be the archetype —
+											and other ways of changing and rewriting human nature is quite subtle.
+											So if you think about what it means to learn arithmetic or to learn to read,
+											you&#39;re actually, literally rewriting your own brain.
+											You&#39;re changing the microstructure of your brain as you go along.
+											So in a broad sense, we don&#39;t need to think about technology
+											as only little gadgets, like these things here,
+											but even institutions and techniques,
+											psychological methods and so forth.
+											Forms of organization can have a profound impact on human nature.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Looking ahead, there is a range of technologies
+											that are almost certain to be developed sooner or later.
+											We are very ignorant about what the time scale for these things are,
+											but they all are consistent with everything we know
+											about physical laws, laws of chemistry, etc.
+											It&#39;s possible to assume,
+											setting aside a possibility of catastrophe,
+											that sooner or later we will develop all of these.
+											And even just a couple of these would be enough
+											to transform the human condition.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So let&#39;s look at some of the dimensions of human nature
+											that seem to leave room for improvement.
+											Health span is a big and urgent thing,
+											because if you&#39;re not alive,
+											then all the other things will be to little avail.
+											Intellectual capacity — let&#39;s take that box,
+											which falls into a lot of different sub-categories:
+											memory, concentration, mental energy, intelligence, empathy.
+											These are really great things.
+											Part of the reason why we value these traits
+											is that they make us better at competing with other people —
+											they&#39;re positional goods.
+											But part of the reason —
+											and that&#39;s the reason why we have ethical ground for pursuing these —
+											is that they&#39;re also intrinsically valuable.
+											It&#39;s just better to be able to understand more of the world around you
+											and the people that you are communicating with,
+											and to remember what you have learned.
+											Modalities and special faculties.
+											Now, the human mind is not a single unitary information processor,
+											but it has a lot of different, special, evolved modules
+											that do specific things for us.
+											If you think about what we normally take as giving life a lot of its meaning —
+											music, humor, eroticism, spirituality, aesthetics,
+											nurturing and caring, gossip, chatting with people —
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											all of these, very likely, are enabled by a special circuitry
+											that we humans have,
+											but that you could have another intelligent life form that lacks these.
+											We&#39;re just lucky that we have the requisite neural machinery
+											to process music and to appreciate it and enjoy it.
+											All of these would enable, in principle — be amenable to enhancement.
+											Some people have a better musical ability
+											and ability to appreciate music than others have.
+											It&#39;s also interesting to think about what other things are —
+											so if these all enabled great values,
+											why should we think that evolution has happened to provide us
+											with all the modalities we would need to engage
+											with other values that there might be?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Imagine a species
+											that just didn&#39;t have this neural machinery for processing music.
+											And they would just stare at us with bafflement
+											when we spend time listening to a beautiful performance,
+											like the one we just heard — because of people making stupid movements,
+											and they would be really irritated and wouldn&#39;t see what we were up to.
+											But maybe they have another faculty, something else
+											that would seem equally irrational to us,
+											but they actually tap into some great possible value there.
+											But we are just literally deaf to that kind of value.
+											So we could think of adding on different,
+											new sensory capacities and mental faculties.
+											Bodily functionality and morphology and affective self-control.
+											Greater subjective well-being.
+											Be able to switch between relaxation and activity —
+											being able to go slow when you need to do that, and to speed up.
+											Able to switch back and forth more easily
+											would be a neat thing to be able to do —
+											easier to achieve the flow state,
+											when you&#39;re totally immersed in something you are doing.
+											Conscientiousness and sympathy.
+											The ability to — it&#39;s another interesting application
+											that would have large social ramification, perhaps.
+											If you could actually choose to preserve your romantic attachments to one person,
+											undiminished through time,
+											so that wouldn&#39;t have to — love would never have to fade if you didn&#39;t want it to.
+											That&#39;s probably not all that difficult.
+											It might just be a simple hormone or something that could do this.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It&#39;s been done in voles.
+											You can engineer a prairie vole to become monogamous
+											when it&#39;s naturally polygamous.
+											It&#39;s just a single gene.
+											Might be more complicated in humans, but perhaps not that much.
+											This is the last picture that I want to —
+											now we&#39;ve got to use the laser pointer.
+											A possible mode of being here would be a way of life —
+											a way of being, experiencing, thinking, seeing,
+											interacting with the world.
+											Down here in this little corner, here, we have the little sub-space
+											of this larger space that is accessible to human beings —
+											beings with our biological capacities.
+											It&#39;s a part of the space that&#39;s accessible to animals;
+											since we are animals, we are a subset of that.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And then you can imagine some enhancements of human capacities.
+											There would be different modes of being you could experience
+											if you were able to stay alive for, say, 200 years.
+											Then you could live sorts of lives and accumulate wisdoms
+											that are just not possible for humans as we currently are.
+											So then, you move off to this larger sphere of &quot;human +,&quot;
+											and you could continue that process and eventually
+											explore a lot of this larger space of possible modes of being.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, why is that a good thing to do?
+											Well, we know already that in this little human circle there,
+											there are these enormously wonderful and worthwhile modes of being —
+											human life at its best is wonderful.
+											We have no reason to believe that within this much, much larger space
+											there would not also be extremely worthwhile modes of being,
+											perhaps ones that would be way beyond our wildest ability
+											even to imagine or dream about.
+											And so, to fix this third problem,
+											I think we need — slowly, carefully, with ethical wisdom and constraint —
+											develop the means that enable us to go out in this larger space and explore it
+											and find the great values that might hide there.
+											Thanks.
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":43,"count":132,"talk_id":44},"threadId":43,"current_talk":"44","description":"Oxford philosopher and transhumanist Nick Bostrom examines the future of humankind and asks whether we might alter the fundamental nature of humanity to solve our most intrinsic problems.","event":"TEDGlobal 2005","language":"en","name":"Nick Bostrom: A philosophical quest for our biggest problems","slug":"nick_bostrom_on_our_biggest_problems","speakers":[{"id":"39","slug":"nick_bostrom","is_published":true,"firstname":"Nick","lastname":"Bostrom","middleinitial":"","title":"","description":"Philosopher","photo_url":"https://pe.tedcdn.com/images/ted/56aef93b63301ffe15f201c8b357ee2161abf955_254x191.jpg","whatotherssay":"Bostrom cogently argues that the prospect of superintelligent machines is ‘the most important and most daunting challenge humanity has ever faced.’ If we fail to meet this challenge, he concludes, malevolent or indifferent artificial intelligence (AI) will likely destroy us all.","whotheyare":"Nick Bostrom asks big questions: What should we do, as individuals and as a species, to optimize our long-term prospects? Will humanity’s technological advancements ultimately destroy us?","whylisten":"<p>Philosopher Nick Bostrom envisioned a future full of human enhancement, nanotechnology and machine intelligence long before they became mainstream concerns. From his famous simulation argument -- which identified some striking implications of rejecting the Matrix-like idea that humans are living in a computer simulation -- to his work on existential risk, Bostrom approaches both the inevitable and the speculative using the tools of philosophy, probability theory, and scientific analysis.<br /><br />Since 2005, Bostrom has led the <a href=\"http://www.fhi.ox.ac.uk/\" target=\"_blank\">Future of Humanity Institute</a>, a research group of mathematicians, philosophers and scientists at Oxford University tasked with investigating the big picture for the human condition and its future. He has been referred to as one of the most important thinkers of our age.</p><p>Nick was honored as one of <em>Foreign Policy</em>&#39;s 2015&nbsp;<a href=\"http://2015globalthinkers.foreignpolicy.com/?utm_source=Sailthru&amp;utm_medium=email&amp;utm_campaign=New%20Campaign&amp;utm_term=Flashpoints#!advocates/detail/bostrom\" target=\"_blank\">Global Thinkers</a> .</p><p>His recent book <a href=\"http://geni.us/superintelligence\" target=\"_blank\"><em>Superintelligence</em></a>  advances the ominous idea that &ldquo;the first ultraintelligent machine is the last invention that man need ever make.&rdquo;</p>"}],"url":"https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems","viewed_count":815269,"talks":[{"recommendations":null,"more_resources":[{"status":"approved","headline":"*Superintelligence*","blurb":null,"link_url":"http://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0199678111/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","image_url":"https://pe.tedcdn.com/images/ted/c44ab0b20ae06e3f65bf9146baf1414995c4fc2b_450x685.jpg","author":"Nick Bostrom","year":"2014","publisher":"Oxford University Press","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"book"},{"status":"approved","headline":"Discover what you can learn from dragon-tyrants","blurb":"Over at his site, read a fable by Nick Bostrom that gives playful insight into how to improve the quality and longitude of one's life.","link_url":"http://www.nickbostrom.com/fable/dragon.html","image_url":"","visible_url":"","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"external_website"}],"corrections":[],"has_citations":false,"take_action":[],"curator_approved":true,"description":"Oxford philosopher and transhumanist Nick Bostrom examines the future of humankind and asks whether we might alter the fundamental nature of humanity to solve our most intrinsic problems.","downloads":{"id":44,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Somali","endonym":"Af-Soomaali","languageCode":"so","ianaCode":"so","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Georgian","endonym":"ქართული","languageCode":"ka","ianaCode":"ka","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Macedonian","endonym":"македонски","languageCode":"mk","ianaCode":"mk","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/NickBostrom_2005G-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/NickBostrom_2005G.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/NickBostrom_2005G-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"fr":{"name":"French","low":"https://download.ted.com/talks/NickBostrom_2005G-low-fr.mp4","high":"https://download.ted.com/talks/NickBostrom_2005G-480p-fr.mp4"},"de":{"name":"German","low":"https://download.ted.com/talks/NickBostrom_2005G-low-de.mp4","high":"https://download.ted.com/talks/NickBostrom_2005G-480p-de.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/NickBostrom_2005G-low-ko.mp4","high":"https://download.ted.com/talks/NickBostrom_2005G-480p-ko.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/NickBostrom_2005G-low-zh-cn.mp4","high":"https://download.ted.com/talks/NickBostrom_2005G-480p-zh-cn.mp4"},"en":{"name":"English","low":"https://download.ted.com/talks/NickBostrom_2005G-low-en.mp4","high":"https://download.ted.com/talks/NickBostrom_2005G-480p-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/NickBostrom_2005G-low-pt-br.mp4","high":"https://download.ted.com/talks/NickBostrom_2005G-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/NickBostrom_2005G-low-it.mp4","high":"https://download.ted.com/talks/NickBostrom_2005G-480p-it.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/NickBostrom_2005G-low-bg.mp4","high":"https://download.ted.com/talks/NickBostrom_2005G-480p-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/NickBostrom_2005G-low-ro.mp4","high":"https://download.ted.com/talks/NickBostrom_2005G-480p-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/NickBostrom_2005G-low-pl.mp4","high":"https://download.ted.com/talks/NickBostrom_2005G-480p-pl.mp4"},"hr":{"name":"Croatian","low":"https://download.ted.com/talks/NickBostrom_2005G-low-hr.mp4","high":"https://download.ted.com/talks/NickBostrom_2005G-480p-hr.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/NickBostrom_2005G-low-ru.mp4","high":"https://download.ted.com/talks/NickBostrom_2005G-480p-ru.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/NickBostrom_2005G-low-es.mp4","high":"https://download.ted.com/talks/NickBostrom_2005G-480p-es.mp4"},"mk":{"name":"Macedonian","low":"https://download.ted.com/talks/NickBostrom_2005G-low-mk.mp4","high":"https://download.ted.com/talks/NickBostrom_2005G-480p-mk.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/NickBostrom_2005G-low-ar.mp4","high":"https://download.ted.com/talks/NickBostrom_2005G-480p-ar.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/NickBostrom_2005G-low-he.mp4","high":"https://download.ted.com/talks/NickBostrom_2005G-480p-he.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/NickBostrom_2005G-low-tr.mp4","high":"https://download.ted.com/talks/NickBostrom_2005G-480p-tr.mp4"},"so":{"name":"Somali","high":"https://download.ted.com/talks/NickBostrom_2005G-480p-so.mp4","low":"https://download.ted.com/talks/NickBostrom_2005G-low-so.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/NickBostrom_2005G-low-zh-tw.mp4","high":"https://download.ted.com/talks/NickBostrom_2005G-480p-zh-tw.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/NickBostrom_2005G-low-ja.mp4","high":"https://download.ted.com/talks/NickBostrom_2005G-480p-ja.mp4"},"cs":{"name":"Czech","low":"https://download.ted.com/talks/NickBostrom_2005G-low-cs.mp4","high":"https://download.ted.com/talks/NickBostrom_2005G-480p-cs.mp4"},"ka":{"name":"Georgian","high":"https://download.ted.com/talks/NickBostrom_2005G-480p-ka.mp4","low":"https://download.ted.com/talks/NickBostrom_2005G-low-ka.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/NickBostrom_2005G-low-fa.mp4","high":"https://download.ted.com/talks/NickBostrom_2005G-480p-fa.mp4"}},"audioDownload":null},"duration":1012.0,"event":"TEDGlobal 2005","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/c331eb763dfc01984cd1e0c42c6d8d24c5731578_1600x1200.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c331eb763dfc01984cd1e0c42c6d8d24c5731578_1600x1200.jpg?q=50&w=15","id":"44","player_talks":[{"id":"44","duration":1012.0,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Somali","endonym":"Af-Soomaali","languageCode":"so","ianaCode":"so","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Georgian","endonym":"ქართული","languageCode":"ka","ianaCode":"ka","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Macedonian","endonym":"македонски","languageCode":"mk","ianaCode":"mk","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2005G/Blank/NickBostrom_2005G-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDGlobal%2B2005%26id%3D44%26tag%3Dbiotech%2Cculture%2Cfuture%2Cglobal%2Bissues%2Chappiness%2Cphilosophy%2Ctechnology%26talk%3Dnick_bostrom_on_our_biggest_problems%26year%3D2005&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"44","talk":"nick_bostrom_on_our_biggest_problems","tag":"biotech,culture,future,global issues,happiness,philosophy,technology","year":"2005","event":"TEDGlobal 2005"},"stream":"https://hls.ted.com/talks/44.m3u8","metadata":"https://hls.ted.com/talks/44.json"}},"targeting":{"id":"44","talk":"nick_bostrom_on_our_biggest_problems","tag":"biotech,culture,future,global issues,happiness,philosophy,technology","year":"2005","event":"TEDGlobal 2005"},"canonical":"https://www.ted.com/talks/nick_bostrom_on_our_biggest_problems","name":"Nick Bostrom: A philosophical quest for our biggest problems","title":"A philosophical quest for our biggest problems","speaker":"Nick Bostrom","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/c331eb763dfc01984cd1e0c42c6d8d24c5731578_1600x1200.jpg?quality=89&w=600","slug":"nick_bostrom_on_our_biggest_problems","event":"TEDGlobal 2005","published":1175731860}],"ratings":[{"id":9,"name":"Ingenious","count":80},{"id":3,"name":"Courageous","count":66},{"id":11,"name":"Longwinded","count":174},{"id":21,"name":"Unconvincing","count":283},{"id":2,"name":"Confusing","count":89},{"id":8,"name":"Informative","count":153},{"id":10,"name":"Inspiring","count":110},{"id":22,"name":"Fascinating","count":125},{"id":7,"name":"Funny","count":16},{"id":1,"name":"Beautiful","count":21},{"id":25,"name":"OK","count":111},{"id":24,"name":"Persuasive","count":47},{"id":26,"name":"Obnoxious","count":66},{"id":23,"name":"Jaw-dropping","count":20}],"recorded_at":"2005-07-14T00:00:00.000+00:00","related_talks":[{"id":"42","hero":"https://pe.tedcdn.com/images/ted/bfd70bdb95ddbee93eb8b8e5d7b1a849cefe2159_1600x1200.jpg","speaker":"Martin Rees","title":"Is this our final century?","duration":1046.0,"slug":"martin_rees_asks_is_this_our_final_century","viewed_count":2212942},{"id":"19","hero":"https://pe.tedcdn.com/images/ted/7ddac8199e485dc8fe198d34b726f76680e7b86e_2880x1620.jpg","speaker":"Kevin Kelly","title":"How technology evolves","duration":1200.0,"slug":"kevin_kelly_on_how_technology_evolves","viewed_count":1718629},{"id":"68","hero":"https://pe.tedcdn.com/images/ted/714735a4fcc8eccc6c86beba28fdee415e02628f_2880x1620.jpg","speaker":"Robert Wright","title":"Progress is not a zero-sum game","duration":1151.0,"slug":"robert_wright_on_optimism","viewed_count":1340178},{"id":"2858","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/9727e74c-c353-4f34-a434-d85f6650f2e2/RobinHanson_2017-embed.jpg","speaker":"Robin Hanson","title":"What would happen if we upload our brains to computers?","duration":736.0,"slug":"robin_hanson_what_would_happen_if_we_upload_our_brains_to_computers","viewed_count":1261906},{"id":"39","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/a51de247-dfbb-4c34-a4bf-37d4017697c7/AubreydeGrey_2005G-embed.jpg","speaker":"Aubrey de Grey","title":"A roadmap to end aging","duration":1365.0,"slug":"aubrey_de_grey_says_we_can_avoid_aging","viewed_count":3467757},{"id":"11327","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/42135afa-b68c-4451-8be0-fba823927533/VittorioLoreto_2017S-embed.jpg","speaker":"Vittorio Loreto","title":"Need a new idea? Start at the edge of what is known","duration":968.0,"slug":"vittorio_loreto_need_a_new_idea_start_at_the_edge_of_what_is_known","viewed_count":1056117}],"slug":"nick_bostrom_on_our_biggest_problems","speakers":[{"id":"39","slug":"nick_bostrom","is_published":true,"firstname":"Nick","lastname":"Bostrom","middleinitial":"","title":"","description":"Philosopher","photo_url":"https://pe.tedcdn.com/images/ted/56aef93b63301ffe15f201c8b357ee2161abf955_254x191.jpg","whatotherssay":"Bostrom cogently argues that the prospect of superintelligent machines is ‘the most important and most daunting challenge humanity has ever faced.’ If we fail to meet this challenge, he concludes, malevolent or indifferent artificial intelligence (AI) will likely destroy us all.","whotheyare":"Nick Bostrom asks big questions: What should we do, as individuals and as a species, to optimize our long-term prospects? Will humanity’s technological advancements ultimately destroy us?","whylisten":"<p>Philosopher Nick Bostrom envisioned a future full of human enhancement, nanotechnology and machine intelligence long before they became mainstream concerns. From his famous simulation argument -- which identified some striking implications of rejecting the Matrix-like idea that humans are living in a computer simulation -- to his work on existential risk, Bostrom approaches both the inevitable and the speculative using the tools of philosophy, probability theory, and scientific analysis.<br /><br />Since 2005, Bostrom has led the <a href=\"http://www.fhi.ox.ac.uk/\" target=\"_blank\">Future of Humanity Institute</a>, a research group of mathematicians, philosophers and scientists at Oxford University tasked with investigating the big picture for the human condition and its future. He has been referred to as one of the most important thinkers of our age.</p><p>Nick was honored as one of <em>Foreign Policy</em>&#39;s 2015&nbsp;<a href=\"http://2015globalthinkers.foreignpolicy.com/?utm_source=Sailthru&amp;utm_medium=email&amp;utm_campaign=New%20Campaign&amp;utm_term=Flashpoints#!advocates/detail/bostrom\" target=\"_blank\">Global Thinkers</a> .</p><p>His recent book <a href=\"http://geni.us/superintelligence\" target=\"_blank\"><em>Superintelligence</em></a>  advances the ominous idea that &ldquo;the first ultraintelligent machine is the last invention that man need ever make.&rdquo;</p>"}],"speaker_name":"Nick Bostrom","tags":["biotech","culture","future","global issues","happiness","philosophy","technology"],"title":"A philosophical quest for our biggest problems","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":815269}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

@@ -1,0 +1,1329 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Natasha Hurley-Walker: How radio telescopes show us unseen galaxies | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Our universe is strange, wonderful and vast, says astronomer Natasha Hurley-Walker. A spaceship can&#39;t carry you into its depths (yet) -- but a radio telescope can. In this mesmerizing talk, Hurley-Walker shows how she probes the mysteries of the universe using special technology that reveals light spectrums we can&#39;t see." />
+<meta name="author" content="Natasha Hurley-Walker" />
+<link rel="canonical" href="https://www.ted.com/talks/natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies/transcript" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies/transcript?language=en" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies/transcript?language=pt-br" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies/transcript?language=pt" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies/transcript?language=ru" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies/transcript?language=ja" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies/transcript?language=hu" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies/transcript?language=fr" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies/transcript?language=ko" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies/transcript?language=vi" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies/transcript?language=sr" />
+<link rel="alternate" hreflang="uk" href="https://www.ted.com/talks/natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies/transcript?language=uk" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies/transcript?language=es" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies/transcript?language=el" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies/transcript?language=it" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies/transcript?language=fa" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies/transcript?language=ro" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies/transcript?language=nl" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies/transcript?language=zh-tw" />
+<meta property="og:title" content="Transcript of &quot;How radio telescopes show us unseen galaxies&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/6bfb7a5c-288a-4bc2-92e4-5dfb7257c0f5/NatashaHurleyWalker_2016X-embed.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/6bfb7a5c-288a-4bc2-92e4-5dfb7257c0f5/NatashaHurleyWalker_2016X-embed.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Natasha Hurley-Walker: How radio telescopes show us unseen galaxies" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Our universe is strange, wonderful and vast, says astronomer Natasha Hurley-Walker. A spaceship can&#39;t carry you into its depths (yet) -- but a radio telescope can. In this mesmerizing talk, Hurley-Walker shows how she probes the mysteries of the universe using special technology that reveals light spectrums we can&#39;t see." />
+<meta property="og:url" content="https://www.ted.com/talks/natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 2736);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies' itemprop='url'>
+<meta content='How radio telescopes show us unseen galaxies' itemprop='name'>
+<meta content="Our universe is strange, wonderful and vast, says astronomer Natasha Hurley-Walker. A spaceship can't carry you into its depths (yet) — but a radio telescope can. In this mesmerizing talk, Hurley-Walker shows how she probes the mysteries of the universe using special technology that reveals light spectrums we can't see." itemprop='description'>
+<meta content='PT15M25S' itemprop='duration'>
+<meta content='2017-04-18T15:02:39+00:00' itemprop='uploadDate'>
+<meta content='1094478' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/6bfb7a5c-288a-4bc2-92e4-5dfb7257c0f5/NatashaHurleyWalker_2016X-embed.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/natasha_hurley_walker' itemprop='url'>
+<meta content='Natasha Hurley-Walker' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/e7f42be01384a5806681841eb1fac0f6ac0d2419_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/6bfb7a5c-288a-4bc2-92e4-5dfb7257c0f5/NatashaHurleyWalker_2016X-embed.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Natasha Hurley-Walker
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,094,478
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 15:25</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Space, the final frontier.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I first heard these words
+when I was just six years old,
+											and I was completely inspired.
+											I wanted to explore strange new worlds.
+											I wanted to seek out new life.
+											I wanted to see everything
+that the universe had to offer.
+											And those dreams, those words,
+they took me on a journey,
+											a journey of discovery,
+											through school, through university,
+											to do a PhD and finally
+to become a professional astronomer.
+											Now, I learned two amazing things,
+											one slightly unfortunate,
+											when I was doing my PhD.
+											I learned that the reality was
+											I wouldn&#39;t be piloting
+a starship anytime soon.
+											But I also learned that the universe
+is strange, wonderful and vast,
+											actually too vast
+to be explored by spaceship.
+											And so I turned my attention
+to astronomy, to using telescopes.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, I show you before you
+an image of the night sky.
+											You might see it anywhere in the world.
+											And all of these stars are part
+of our local galaxy, the Milky Way.
+											Now, if you were to go
+to a darker part of the sky,
+											a nice dark site, perhaps in the desert,
+											you might see the center
+of our Milky Way galaxy
+											spread out before you,
+hundreds of billions of stars.
+											And it&#39;s a very beautiful image.
+											It&#39;s colorful.
+											And again, this is just
+a local corner of our universe.
+											You can see there&#39;s
+a sort of strange dark dust across it.
+											Now, that is local dust
+											that&#39;s obscuring the light of the stars.
+											But we can do a pretty good job.
+											Just with our own eyes, we can explore
+our little corner of the universe.
+											It&#39;s possible to do better.
+											You can use wonderful telescopes
+like the Hubble Space Telescope.
+											Now, astronomers
+have put together this image.
+											It&#39;s called the Hubble Deep Field,
+											and they&#39;ve spent hundreds of hours
+observing just a tiny patch of the sky
+											no larger than your thumbnail
+held at arm&#39;s length.
+											And in this image
+											you can see thousands of galaxies,
+											and we know that there must be
+hundreds of millions, billions of galaxies
+											in the entire universe,
+											some like our own and some very different.
+											So you think, OK, well,
+I can continue this journey.
+											This is easy. I can just
+use a very powerful telescope
+											and just look at the sky, no problem.
+											It&#39;s actually really missing out
+if we just do that.
+											Now, that&#39;s because
+everything I&#39;ve talked about so far
+											is just using the visible spectrum,
+just the thing that your eyes can see,
+											and that&#39;s a tiny slice,
+											a tiny, tiny slice
+of what the universe has to offer us.
+											Now, there&#39;s also two very important
+problems with using visible light.
+											Not only are we missing out
+on all the other processes
+											that are emitting other kinds of light,
+											but there&#39;s two issues.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, the first is that dust
+that I mentioned earlier.
+											The dust stops the visible light
+from getting to us.
+											So as we look deeper
+into the universe, we see less light.
+											The dust stops it getting to us.
+											But there&#39;s a really strange problem
+with using visible light
+											in order to try and explore the universe.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now take a break for a minute.
+											Say you&#39;re standing on a corner,
+a busy street corner.
+											There&#39;s cars going by.
+											An ambulance approaches.
+											It has a high-pitched siren.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Imitates a siren passing by)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The siren appeared to change in pitch
+											as it moved towards and away from you.
+											The ambulance driver did not change
+the siren just to mess with you.
+											That was a product of your perception.
+											The sound waves,
+as the ambulance approached,
+											were compressed,
+											and they changed higher in pitch.
+											As the ambulance receded,
+the sound waves were stretched,
+											and they sounded lower in pitch.
+											The same thing happens with light.
+											Objects moving towards us,
+											their light waves are compressed
+and they appear bluer.
+											Objects moving away from us,
+											their light waves are stretched,
+and they appear redder.
+											So we call these effects
+blueshift and redshift.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, our universe is expanding,
+											so everything is moving away
+from everything else,
+											and that means
+everything appears to be red.
+											And oddly enough, as you look
+more deeply into the universe,
+											more distant objects
+are moving away further and faster,
+											so they appear more red.
+											So if I come back to the Hubble Deep Field
+											and we were to continue
+to peer deeply into the universe
+											just using the Hubble,
+											as we get to a certain distance away,
+											everything becomes red,
+											and that presents something of a problem.
+											Eventually, we get so far away
+											everything is shifted into the infrared
+											and we can&#39;t see anything at all.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So there must be a way around this.
+											Otherwise, I&#39;m limited in my journey.
+											I wanted to explore the whole universe,
+											not just whatever I can see,
+you know, before the redshift kicks in.
+											There is a technique.
+											It&#39;s called radio astronomy.
+											Astronomers have been
+using this for decades.
+											It&#39;s a fantastic technique.
+											I show you the Parkes Radio Telescope,
+affectionately known as &quot;The Dish.&quot;
+											You may have seen the movie.
+											And radio is really brilliant.
+											It allows us to peer much more deeply.
+											It doesn&#39;t get stopped by dust,
+											so you can see everything in the universe,
+											and redshift is less of a problem
+											because we can build receivers
+that receive across a large band.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So what does Parkes see when we turn it
+to the center of the Milky Way?
+											We should see something fantastic, right?
+											Well, we do see something interesting.
+											All that dust has gone.
+											As I mentioned, radio goes
+straight through dust, so not a problem.
+											But the view is very different.
+											We can see that the center
+of the Milky Way is aglow,
+											and this isn&#39;t starlight.
+											This is a light called
+synchrotron radiation,
+											and it&#39;s formed from electrons
+spiraling around cosmic magnetic fields.
+											So the plane is aglow with this light.
+											And we can also see
+strange tufts coming off of it,
+											and objects which don&#39;t appear to line up
+											with anything that we can see
+with our own eyes.
+											But it&#39;s hard to really
+interpret this image,
+											because as you can see,
+it&#39;s very low resolution.
+											Radio waves have a wavelength that&#39;s long,
+											and that makes their resolution poorer.
+											This image is also black and white,
+											so we don&#39;t really know
+what is the color of everything in here.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Well, fast-forward to today.
+											We can build telescopes
+											which can get over these problems.
+											Now, I&#39;m showing you here an image
+of the Murchison Radio Observatory,
+											a fantastic place
+to build radio telescopes.
+											It&#39;s flat, it&#39;s dry,
+											and most importantly, it&#39;s radio quiet:
+											no mobile phones, no Wi-Fi, nothing,
+											just very, very radio quiet,
+											so a perfect place
+to build a radio telescope.
+											Now, the telescope that I&#39;ve been
+working on for a few years
+											is called the Murchison Widefield Array,
+											and I&#39;m going to show you
+a little time lapse of it being built.
+											This is a group of undergraduate
+and postgraduate students
+											located in Perth.
+											We call them the Student Army,
+											and they volunteered their time
+to build a radio telescope.
+											There&#39;s no course credit for this.
+											And they&#39;re putting together
+these radio dipoles.
+											They just receive at low frequencies,
+a bit like your FM radio or your TV.
+											And here we are deploying them
+across the desert.
+											The final telescope
+covers 10 square kilometers
+											of the Western Australian desert.
+											And the interesting thing is,
+there&#39;s no moving parts.
+											We just deploy these little antennas
+											essentially on chicken mesh.
+											It&#39;s fairly cheap.
+											Cables take the signals
+											from the antennas
+											and bring them
+to central processing units.
+											And it&#39;s the size of this telescope,
+											the fact that we&#39;ve built it
+over the entire desert
+											that gives us a better
+resolution than Parkes.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, eventually all those cables
+bring them to a unit
+											which sends it off
+to a supercomputer here in Perth,
+											and that&#39;s where I come in.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Sighs)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Radio data.
+											I have spent the last five years
+											working with very difficult,
+very interesting data
+											that no one had really looked at before.
+											I&#39;ve spent a long time calibrating it,
+											running millions of CPU hours
+on supercomputers
+											and really trying to understand that data.
+											And with this telescope,
+											with this data,
+											we&#39;ve performed a survey
+of the entire southern sky,
+											the GaLactic and Extragalactic
+All-sky MWA Survey,
+											or GLEAM, as I call it.
+											And I&#39;m very excited.
+											This survey is just about to be published,
+but it hasn&#39;t been shown yet,
+											so you are literally the first people
+											to see this southern survey
+of the entire sky.
+											So I&#39;m delighted to share with you
+some images from this survey.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, imagine you went to the Murchison,
+											you camped out underneath the stars
+											and you looked towards the south.
+											You saw the south&#39;s celestial pole,
+											the galaxy rising.
+											If I fade in the radio light,
+											this is what we observe with our survey.
+											You can see that the galactic plane
+is no longer dark with dust.
+											It&#39;s alight with synchrotron radiation,
+											and thousands of dots are in the sky.
+											Our large Magellanic Cloud,
+our nearest galactic neighbor,
+											is orange instead
+of its more familiar blue-white.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So there&#39;s a lot going on in this.
+Let&#39;s take a closer look.
+											If we look back
+towards the galactic center,
+											where we originally saw the Parkes image
+that I showed you earlier,
+											low resolution, black and white,
+											and we fade to the GLEAM view,
+											you can see the resolution
+has gone up by a factor of a hundred.
+											We now have a color view of the sky,
+											a technicolor view.
+											Now, it&#39;s not a false color view.
+											These are real radio colors.
+											What I&#39;ve done is I&#39;ve colored
+the lowest frequencies red
+											and the highest frequencies blue,
+											and the middle ones green.
+											And that gives us this rainbow view.
+											And this isn&#39;t just false color.
+											The colors in this image
+tell us about the physical processes
+											going on in the universe.
+											So for instance, if you look
+along the plane of the galaxy,
+											it&#39;s alight with synchrotron,
+											which is mostly reddish orange,
+											but if we look very closely,
+we see little blue dots.
+											Now, if we zoom in,
+											these blue dots are ionized plasma
+											around very bright stars,
+											and what happens
+is that they block the red light,
+											so they appear blue.
+											And these can tell us
+about these star-forming regions
+											in our galaxy.
+											And we just see them immediately.
+											We look at the galaxy,
+and the color tells us that they&#39;re there.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											You can see little soap bubbles,
+											little circular images
+around the galactic plane,
+											and these are supernova remnants.
+											When a star explodes,
+											its outer shell is cast off
+											and it travels outward into space
+gathering up material,
+											and it produces a little shell.
+											It&#39;s been a long-standing
+mystery to astronomers
+											where all the supernova remnants are.
+											We know that there must be a lot
+of high-energy electrons in the plane
+											to produce the synchrotron
+radiation that we see,
+											and we think they&#39;re produced
+by supernova remnants,
+											but there don&#39;t seem to be enough.
+											Fortunately, GLEAM is really, really
+good at detecting supernova remnants,
+											so we&#39;re hoping to have
+a new paper out on that soon.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, that&#39;s fine.
+											We&#39;ve explored our little local universe,
+											but I wanted to go deeper,
+I wanted to go further.
+											I wanted to go beyond the Milky Way.
+											Well, as it happens, we can see a very
+interesting object in the top right,
+											and this is a local radio galaxy,
+											Centaurus A.
+											If we zoom in on this,
+											we can see that there are
+two huge plumes going out into space.
+											And if you look right in the center
+between those two plumes,
+											you&#39;ll see a galaxy just like our own.
+											It&#39;s a spiral. It has a dust lane.
+											It&#39;s a normal galaxy.
+											But these jets
+are only visible in the radio.
+											If we looked in the visible,
+we wouldn&#39;t even know they were there,
+											and they&#39;re thousands of times larger
+than the host galaxy.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											What&#39;s going on?
+What&#39;s producing these jets?
+											At the center of every galaxy
+that we know about
+											is a supermassive black hole.
+											Now, black holes are invisible.
+That&#39;s why they&#39;re called that.
+											All you can see is the deflection
+of the light around them,
+											and occasionally, when a star
+or a cloud of gas comes into their orbit,
+											it is ripped apart by tidal forces,
+											forming what we call an accretion disk.
+											The accretion disk
+glows brightly in the x-rays,
+											and huge magnetic fields
+can launch the material into space
+											at nearly the speed of light.
+											So these jets are visible in the radio
+											and this is what we pick up in our survey.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Well, very well, so we&#39;ve seen
+one radio galaxy. That&#39;s nice.
+											But if you just look
+at the top of that image,
+											you&#39;ll see another radio galaxy.
+											It&#39;s a little bit smaller,
+and that&#39;s just because it&#39;s further away.
+											OK. Two radio galaxies.
+											We can see this. This is fine.
+											Well, what about all the other dots?
+											Presumably those are just stars.
+											They&#39;re not.
+											They&#39;re all radio galaxies.
+											Every single one of the dots in this image
+											is a distant galaxy,
+											millions to billions of light-years away
+											with a supermassive
+black hole at its center
+											pushing material into space
+at nearly the speed of light.
+											It is mind-blowing.
+											And this survey is even larger
+than what I&#39;ve shown here.
+											If we zoom out to
+the full extent of the survey,
+											you can see I found 300,000
+of these radio galaxies.
+											So it&#39;s truly an epic journey.
+											We&#39;ve discovered all of these galaxies
+											right back to the very first
+supermassive black holes.
+											I&#39;m very proud of this,
+and it will be published next week.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, that&#39;s not all.
+											I&#39;ve explored the furthest reaches
+of the galaxy with this survey,
+											but there&#39;s something
+even more in this image.
+											Now, I&#39;ll take you right back
+to the dawn of time.
+											When the universe formed,
+it was a big bang,
+											which left the universe
+as a sea of hydrogen,
+											neutral hydrogen.
+											And when the very first stars
+and galaxies switched on,
+											they ionized that hydrogen.
+											So the universe went
+from neutral to ionized.
+											That imprinted a signal all around us.
+											Everywhere, it pervades us,
+											like the Force.
+											Now, because that happened so long ago,
+											the signal was redshifted,
+											so now that signal
+is at very low frequencies.
+											It&#39;s at the same frequency as my survey,
+											but it&#39;s so faint.
+											It&#39;s a billionth the size
+of any of the objects in my survey.
+											So our telescope may not be quite
+sensitive enough to pick up this signal.
+											However, there&#39;s a new radio telescope.
+											So I can&#39;t have a starship,
+											but I can hopefully have
+											one of the biggest
+radio telescopes in the world.
+											We&#39;re building the Square Kilometre Array,
+a new radio telescope,
+											and it&#39;s going to be a thousand
+times bigger than the MWA,
+											a thousand times more sensitive,
+and have an even better resolution.
+											So we should find
+tens of millions of galaxies.
+											And perhaps, deep in that signal,
+											I will get to look upon the very first
+stars and galaxies switching on,
+											the beginning of time itself.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":27352,"count":31,"talk_id":2736},"threadId":27352,"current_talk":"2736","description":"Our universe is strange, wonderful and vast, says astronomer Natasha Hurley-Walker. A spaceship can't carry you into its depths (yet) -- but a radio telescope can. In this mesmerizing talk, Hurley-Walker shows how she probes the mysteries of the universe using special technology that reveals light spectrums we can't see.","event":"TEDxPerth","language":"en","name":"Natasha Hurley-Walker: How radio telescopes show us unseen galaxies","slug":"natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies","speakers":[{"id":"3410","slug":"natasha_hurley_walker","is_published":true,"firstname":"Natasha","lastname":"Hurley-Walker","middleinitial":"","title":"","description":"Astronomer","photo_url":"https://pe.tedcdn.com/images/ted/e7f42be01384a5806681841eb1fac0f6ac0d2419_254x191.jpg","whatotherssay":"","whotheyare":"Natasha Hurley-Walker uses novel radio telescopes to explore the universe at some of the longest wavelengths of light.","whylisten":"<p>Dr. Natasha Hurley-Walker recently completed an astronomical survey of the entire southern sky, revealing the radio glow of our own Milky Way galaxy as well as hundreds of thousands of distant galaxies: the GaLactic and Extragalactic All-sky Murchison Widefield Array (GLEAM) survey. Unlike previous work, GLEAM is the first &quot;radio color&quot; survey, observed across such a wide range of frequencies that the unique spectrum of every object can be used to understand its underlying physics.</p><p>An Early-Career Research Fellow based at the Curtin University node of the International Centre for Radio Astronomy Research, in Perth, Western Australia, Hurley-Walker is part of the international Murchison Widefield Array (MWA) collaboration, spanning thirteen institutes across six countries. At her fingertips are tens of petabytes of data collected by the MWA since 2013, which she processes using powerful supercomputers at the nearby Pawsey Centre. Hurley-Walker earned a PhD in Radio Astronomy at the University of Cambridge by commissioning and using a new radio telescope to perform its first science observations. The experience directly transferred to the MWA, which she also helped to commission.</p><p>The MWA is a precursor to the Square Kilometer Array (SKA), what will be the largest radio telescope in the world, set to come online in the 2020s. By developing software and techniques to deal with data from the MWA, creating pathfinding maps of the sky and training a new generation of astronomers in cutting-edge techniques, Hurley-Walker is working to lay the scientific groundwork for the commissioning of the SKA. In 2016 Hurley-Walker was awarded an Australian SKA Fellowship in order to visit the SKA headquarters and transfer lessons from her commissioning experiences as well as develop her survey into a useful calibration model for the SKA.</p><p>Hurley-Walker is passionate about scientific outreach and keynoted talks in 2013 and 2017 at Astrofest, Australia&#39;s largest public astronomy festival. So that anyone in the world can see the sky with the same radio eyes as her, she created the&nbsp;<a href=\"http://gleamoscope.icrar.org/\" target=\"_blank\">GLEAMoscope</a> , an interactive online viewer that shows the universe at radio wavelengths compared to other frequencies, including the more familiar &quot;optical&quot; spectrum. It being the 21st century, there&#39;s also an app: check out&nbsp;<a href=\"https://play.google.com/store/apps/details?id=com.icrar.gleam&amp;hl=en\" target=\"_blank\">GLEAM on the Google Play store</a>. In 2017 Natasha won the &quot;Best Timelapse&quot; category in the Astofest astrophotography competition with her colleague John Goldsmith for their creation of&nbsp;<a href=\"https://vimeo.com/188100117\" target=\"_blank\">a composite video showing both the optical and radio sky</a>. For more detail on Hurley-Walker&#39;s work, check out&nbsp;<a href=\"http://theconversation.com/what-the-universe-looks-like-when-viewed-with-radio-eyes-66381\" target=\"_blank\">her article on TheConversation</a>.</p><p>Working with cutting-edge data is tough, but sometimes hides serendipitous gems which Hurley-Walker has unearthed, like&nbsp;<a href=\"http://adsabs.harvard.edu/abs/2015MNRAS.447.2468H\" target=\"_blank\">the faintest dying radio galaxy ever discovered</a>,&nbsp;<a href=\"http://adsabs.harvard.edu/abs/2015GeoRL..42.3707L\" target=\"_blank\">whistling plasma ducts in the Earth&#39;s ionosphere</a>&nbsp;and&nbsp;<a href=\"http://adsabs.harvard.edu/abs/2017ApJ...836..174C\" target=\"_blank\">some of the youngest and weirdest radio galaxies ever found</a>. View a&nbsp;<a href=\"http://bit.ly/nhwpapers\" target=\"_blank\">complete list of Hurley-Walker&#39;s publications</a>.</p>"}],"url":"https://www.ted.com/talks/natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies","viewed_count":1094478,"talks":[{"recommendations":{"status":"approved","headline":"Natasha Hurley-Walker recommends","blurb":"Check out these reading resources and inspiration, curated by Natasha Hurley-Walker.","start_at":null,"end_at":null,"published":true,"eyebrow":"","type":"recommendation","rec_lists":[{"title":"Reading recommendations","description":"The first of these three books inspired me to look at the universe with wonder and go into a career in science. The latter two are recent reads which I very much enjoyed as they gave me new perspectives on humanity and our place in both the Earth and in the cosmos.","rec_items":[{"label":"READ_Book","headline":"*The Hitchhiker's Guide to the Galaxy*","blurb":"\"Space is big. Really big. You just won't believe how vastly, hugely, mind-bogglingly big it is. I mean, you may think it's a long way down the road to the chemist, but that's just peanuts to space.\" I've spent half of my career being reminded of this fact, and the other half trying to get it across to other humans. Adams' comedy not only perfectly sketches the absurdity of humans trying to understand something as random and bizarre as the Universe, it's a great adventure with hilarious characters and just the beginning of a stellar and increasingly misnamed trilogy.","note":"Douglas Adams","link_url":"https://www.amazon.com/Hitchhikers-Guide-Galaxy-Douglas-Adams/dp/0345391802/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Book","headline":"*Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character*","blurb":"This autobiography was a big inspiration for me during my childhood years in the US. Feynman wasn't just a physicist, he was a practical joker, a lock-picker, and passionate about inspiring and educating his students. That said, he worked on the atomic bomb project and mixed with greats like Einstein and Bohr! What I really took from this book was that Feynman cared little for human rituals or rewards, preferring to get to the heart of the matter and learn how things worked. That really shaped my own attitude to life: let's get past our mere human differences and customs and do some great science!","note":"Richard P. Feynman","link_url":"https://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Book","headline":"*Contact*","blurb":"Set primarily at radio observatories, in laboratories, on airplanes, and lobbying funding councils (so, all familiar settings to me!) this is a great sci-fi drama about a female radio astronomer who is first to pick up a signal from an extraterrestrial intelligence. I am not as positive as Sagan that we will detect such a signal (see my next book recommendation) but this is still a fun story which also touches on deeper themes of reconciliation of doubt and faith, science and religion. For me, it was an inspiration that women could not only be scientists, but they could change the world with their ideas.","note":"Carl Sagan","link_url":"https://www.amazon.com/Contact-Carl-Sagan/dp/0671004107/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Book","headline":"*The Three-Body Problem*","blurb":"So I thought my mind was made up on Fermi's Paradox and SETI. Then I read *The Three-body Problem,* and my entire universe was rocked. Liu uses game theory to put forward some really impressive hypotheses about what forms intelligence would take in our Galaxy, and also how they would (or would not!) contact other civilizations. That's just the backbone: add to that a fantastic story of two intertwined lives spanning decades, and an amazing setting starting with the Cultural Revolution in China, a context rarely explored in Western sci-fi. The physics is so excellent that I actually got chills reading a particular scene where a protagonist conducts some observations and finds them counter to expectation. Yes, I'm a nerd, and I'm very happy.","note":"Cixin Liu","link_url":"https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Book","headline":"*The Biggest Estate on Earth: How Aborigines Made Australia*","blurb":"Since moving to Australia, I've found the environment here to be deeply fascinating. It's incredibly hostile, with extremes in temperature and rainfall that challenge all life. Yet Australia has one of the highest biodiversities in the world and is host to some of the most ancient life forms. And incredibly, it supported the longest continuous human culture in all of history. The ecosystems here were shaped and formed by 45,000 years of human settlement, but never pillaged or exhausted until the advent of colonialism. This book explores the unique ways the Indigenous Australians maintained a bountiful and pleasant existence in a challenging environment and has lessons for us all in our stewardship of our single planet and the biosphere which is critical for our existence.","note":"Bill Gammage","link_url":"https://www.amazon.com/Biggest-Estate-Earth-Aborigines-Australia/dp/174331132X/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":""}]}]},"more_resources":[],"corrections":[],"has_citations":true,"take_action":[{"status":"approved","blurb":"Black holes are found at the center of most, if not all, galaxies. The bigger the galaxy, the bigger the black hole and the more sensational the effect it can have on the host galaxy. These supermassive black holes drag in nearby material, growing to billions of times the mass of our sun and occasionally producing spectacular jets of material traveling nearly as fast as the speed of light. These jets often can't be detected in visible light, but are seen using radio telescopes. **Help astronomers find these jets and match them to the galaxy that hosts them.**","link_url":"https://radio.galaxyzoo.org/","visible_url":"radio.galaxyzoo.org","start_at":null,"end_at":null,"published":true,"eyebrow":"","type":"take_action","verb":"participate"}],"curator_approved":true,"description":"Our universe is strange, wonderful and vast, says astronomer Natasha Hurley-Walker. A spaceship can't carry you into its depths (yet) -- but a radio telescope can. In this mesmerizing talk, Hurley-Walker shows how she probes the mysteries of the universe using special technology that reveals light spectrums we can't see.","downloads":{"id":2736,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/NatashaHurleyWalker_2016X.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"en":{"name":"English","low":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-low-en.mp4","high":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-480p-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-low-pt-br.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-low-pt.mp4","high":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-480p-pt.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-low-ru.mp4","high":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-480p-ru.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-low-ja.mp4","high":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-480p-ja.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-low-zh-cn.mp4","high":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-480p-zh-cn.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-low-hu.mp4","high":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-480p-hu.mp4"},"fr":{"name":"French","low":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-low-fr.mp4","high":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-480p-fr.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-low-ko.mp4","high":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-480p-ko.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-low-vi.mp4","high":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-480p-vi.mp4"},"uk":{"name":"Ukrainian","high":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-480p-uk.mp4","low":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-low-uk.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-low-sr.mp4","high":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-480p-sr.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-low-es.mp4","high":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-480p-es.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-low-el.mp4","high":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-480p-el.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-low-it.mp4","high":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-480p-it.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-low-fa.mp4","high":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-480p-fa.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-low-ro.mp4","high":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-480p-ro.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-low-nl.mp4","high":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-480p-nl.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-low-zh-tw.mp4","high":"https://download.ted.com/talks/NatashaHurleyWalker_2016X-480p-zh-tw.mp4"}},"audioDownload":"https://download.ted.com/talks/NatashaHurleyWalker_2016X.mp3?apikey=acme-roadrunner"},"duration":925.0,"event":"TEDxPerth","event_blurb":"This talk was presented to a local audience at TEDxPerth, an independent event. TED's editors chose to feature it for you.","event_badge":null,"hero":"https://s3.amazonaws.com/talkstar-photos/uploads/6bfb7a5c-288a-4bc2-92e4-5dfb7257c0f5/NatashaHurleyWalker_2016X-embed.jpg","hero_load":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/6bfb7a5c-288a-4bc2-92e4-5dfb7257c0f5/NatashaHurleyWalker_2016X-embed.jpg?q=50&w=15","id":"2736","player_talks":[{"id":"2736","duration":925.0,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2016X/Blank/NatashaHurleyWalker_2016X-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDxPerth%26id%3D2736%26tag%3Duniverse%2Castronomy%2Cspace%2Ctelescopes%2Cdiscovery%26talk%3Dnatasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies%26year%3D2016&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"2736","talk":"natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies","tag":"universe,astronomy,space,telescopes,discovery","year":"2016","event":"TEDxPerth"},"stream":"https://hls.ted.com/talks/2736.m3u8","metadata":"https://hls.ted.com/talks/2736.json"}},"targeting":{"id":"2736","talk":"natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies","tag":"universe,astronomy,space,telescopes,discovery","year":"2016","event":"TEDxPerth"},"canonical":"https://www.ted.com/talks/natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies","name":"Natasha Hurley-Walker: How radio telescopes show us unseen galaxies","title":"How radio telescopes show us unseen galaxies","speaker":"Natasha Hurley-Walker","thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/6bfb7a5c-288a-4bc2-92e4-5dfb7257c0f5/NatashaHurleyWalker_2016X-embed.jpg?quality=89&w=600","slug":"natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies","event":"TEDxPerth","published":1492527759}],"ratings":[{"id":8,"name":"Informative","count":225},{"id":10,"name":"Inspiring","count":114},{"id":1,"name":"Beautiful","count":120},{"id":22,"name":"Fascinating","count":228},{"id":23,"name":"Jaw-dropping","count":110},{"id":11,"name":"Longwinded","count":13},{"id":25,"name":"OK","count":11},{"id":9,"name":"Ingenious","count":35},{"id":7,"name":"Funny","count":9},{"id":2,"name":"Confusing","count":4},{"id":21,"name":"Unconvincing","count":3},{"id":26,"name":"Obnoxious","count":3},{"id":3,"name":"Courageous","count":4},{"id":24,"name":"Persuasive","count":7}],"recorded_at":"2016-10-14T00:00:00.000+00:00","related_talks":[{"id":"2723","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/2b6166b7-d016-4d75-abc1-5e1caf8f3ce3/KatieBouman_2016X-embed.jpg","speaker":"Katie Bouman","title":"How to take a picture of a black hole","duration":771.0,"slug":"katie_bouman_what_does_a_black_hole_look_like","viewed_count":1776893},{"id":"2320","hero":"https://pe.tedcdn.com/images/ted/54d2c8984c9d745434b1642f0f9dba785ee4a370_2880x1620.jpg","speaker":"Wendy Freedman","title":"This telescope might show us the beginning of the universe","duration":938.0,"slug":"wendy_freedman_this_new_telescope_might_show_us_the_beginning_of_the_universe","viewed_count":1347685},{"id":"2491","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/3568e2a5-4436-4d50-8ddf-c32edee335b2/CarrieNugent_2016U-embed.jpg","speaker":"Carrie Nugent","title":"Adventures of an asteroid hunter","duration":366.0,"slug":"carrie_nugent_adventures_of_an_asteroid_hunter","viewed_count":1172248},{"id":"404","hero":"https://pe.tedcdn.com/images/ted/59344_640x480.jpg","speaker":"George Smoot","title":"The design of the universe","duration":1140.0,"slug":"george_smoot_on_the_design_of_the_universe","viewed_count":1717121},{"id":"326","hero":"https://pe.tedcdn.com/images/ted/73f2ae0f26a1ff3806b940ef19c368ca4b714124_2880x1620.jpg","speaker":"Patricia Burchat","title":"Shedding light on dark matter","duration":969.0,"slug":"patricia_burchat_leads_a_search_for_dark_energy","viewed_count":1462619},{"id":"224","hero":"https://pe.tedcdn.com/images/ted/32606_480x360.jpg","speaker":"Roy Gould + Curtis Wong","title":"A preview of the WorldWide Telescope","duration":402.0,"slug":"roy_gould_and_curtis_wong_preview_the_worldwide_telescope","viewed_count":1043038}],"slug":"natasha_hurley_walker_how_radio_telescopes_show_us_unseen_galaxies","speakers":[{"id":"3410","slug":"natasha_hurley_walker","is_published":true,"firstname":"Natasha","lastname":"Hurley-Walker","middleinitial":"","title":"","description":"Astronomer","photo_url":"https://pe.tedcdn.com/images/ted/e7f42be01384a5806681841eb1fac0f6ac0d2419_254x191.jpg","whatotherssay":"","whotheyare":"Natasha Hurley-Walker uses novel radio telescopes to explore the universe at some of the longest wavelengths of light.","whylisten":"<p>Dr. Natasha Hurley-Walker recently completed an astronomical survey of the entire southern sky, revealing the radio glow of our own Milky Way galaxy as well as hundreds of thousands of distant galaxies: the GaLactic and Extragalactic All-sky Murchison Widefield Array (GLEAM) survey. Unlike previous work, GLEAM is the first &quot;radio color&quot; survey, observed across such a wide range of frequencies that the unique spectrum of every object can be used to understand its underlying physics.</p><p>An Early-Career Research Fellow based at the Curtin University node of the International Centre for Radio Astronomy Research, in Perth, Western Australia, Hurley-Walker is part of the international Murchison Widefield Array (MWA) collaboration, spanning thirteen institutes across six countries. At her fingertips are tens of petabytes of data collected by the MWA since 2013, which she processes using powerful supercomputers at the nearby Pawsey Centre. Hurley-Walker earned a PhD in Radio Astronomy at the University of Cambridge by commissioning and using a new radio telescope to perform its first science observations. The experience directly transferred to the MWA, which she also helped to commission.</p><p>The MWA is a precursor to the Square Kilometer Array (SKA), what will be the largest radio telescope in the world, set to come online in the 2020s. By developing software and techniques to deal with data from the MWA, creating pathfinding maps of the sky and training a new generation of astronomers in cutting-edge techniques, Hurley-Walker is working to lay the scientific groundwork for the commissioning of the SKA. In 2016 Hurley-Walker was awarded an Australian SKA Fellowship in order to visit the SKA headquarters and transfer lessons from her commissioning experiences as well as develop her survey into a useful calibration model for the SKA.</p><p>Hurley-Walker is passionate about scientific outreach and keynoted talks in 2013 and 2017 at Astrofest, Australia&#39;s largest public astronomy festival. So that anyone in the world can see the sky with the same radio eyes as her, she created the&nbsp;<a href=\"http://gleamoscope.icrar.org/\" target=\"_blank\">GLEAMoscope</a> , an interactive online viewer that shows the universe at radio wavelengths compared to other frequencies, including the more familiar &quot;optical&quot; spectrum. It being the 21st century, there&#39;s also an app: check out&nbsp;<a href=\"https://play.google.com/store/apps/details?id=com.icrar.gleam&amp;hl=en\" target=\"_blank\">GLEAM on the Google Play store</a>. In 2017 Natasha won the &quot;Best Timelapse&quot; category in the Astofest astrophotography competition with her colleague John Goldsmith for their creation of&nbsp;<a href=\"https://vimeo.com/188100117\" target=\"_blank\">a composite video showing both the optical and radio sky</a>. For more detail on Hurley-Walker&#39;s work, check out&nbsp;<a href=\"http://theconversation.com/what-the-universe-looks-like-when-viewed-with-radio-eyes-66381\" target=\"_blank\">her article on TheConversation</a>.</p><p>Working with cutting-edge data is tough, but sometimes hides serendipitous gems which Hurley-Walker has unearthed, like&nbsp;<a href=\"http://adsabs.harvard.edu/abs/2015MNRAS.447.2468H\" target=\"_blank\">the faintest dying radio galaxy ever discovered</a>,&nbsp;<a href=\"http://adsabs.harvard.edu/abs/2015GeoRL..42.3707L\" target=\"_blank\">whistling plasma ducts in the Earth&#39;s ionosphere</a>&nbsp;and&nbsp;<a href=\"http://adsabs.harvard.edu/abs/2017ApJ...836..174C\" target=\"_blank\">some of the youngest and weirdest radio galaxies ever found</a>. View a&nbsp;<a href=\"http://bit.ly/nhwpapers\" target=\"_blank\">complete list of Hurley-Walker&#39;s publications</a>.</p>"}],"speaker_name":"Natasha Hurley-Walker","tags":["universe","astronomy","space","telescopes","discovery"],"title":"How radio telescopes show us unseen galaxies","video_type":{"id":"2","name":"TEDx Talk"},"viewed_count":1094478}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

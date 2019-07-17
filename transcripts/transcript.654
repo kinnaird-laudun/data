@@ -1,0 +1,1234 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Nathan Myhrvold: Could this laser zap malaria? | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Nathan Myhrvold and team&#39;s latest inventions -- as brilliant as they are bold -- remind us that the world needs wild creativity to tackle big problems like malaria. And just as that idea sinks in, he rolls out a live demo of a new, mosquito-zapping gizmo you have to see to believe." />
+<meta name="author" content="Nathan Myhrvold" />
+<link rel="canonical" href="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript?language=el" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript?language=en" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript?language=vi" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript?language=pt-br" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript?language=nl" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript?language=pt" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript?language=tr" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="th" href="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript?language=th" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript?language=bg" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript?language=de" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript?language=hu" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript?language=he" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript?language=ko" />
+<link rel="alternate" hreflang="ku" href="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript?language=ku" />
+<meta property="og:title" content="Transcript of &quot;Could this laser zap malaria?&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/169894_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/169894_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Nathan Myhrvold: Could this laser zap malaria?" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Nathan Myhrvold and team&#39;s latest inventions -- as brilliant as they are bold -- remind us that the world needs wild creativity to tackle big problems like malaria. And just as that idea sinks in, he rolls out a live demo of a new, mosquito-zapping gizmo you have to see to believe." />
+<meta property="og:url" content="https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 853);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria' itemprop='url'>
+<meta content='Could this laser zap malaria?' itemprop='name'>
+<meta content="Nathan Myhrvold and team's latest inventions — as brilliant as they are bold — remind us that the world needs wild creativity to tackle big problems like malaria. And just as that idea sinks in, he rolls out a live demo of a new, mosquito-zapping gizmo you have to see to believe." itemprop='description'>
+<meta content='PT16M58S' itemprop='duration'>
+<meta content='2010-05-11T09:09:00+00:00' itemprop='uploadDate'>
+<meta content='868831' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/169894_800x600.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/nathan_myhrvold' itemprop='url'>
+<meta content='Nathan Myhrvold' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/50051_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/169894_800x600.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Nathan Myhrvold
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					868,831
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 16:58</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We invent.
+											My company invents
+											all kinds of new technology
+											in lots of different areas.
+											And we do that for a couple of reasons.
+											We invent for fun —
+											invention is a lot of fun to do —
+											and we also invent for profit.
+											The two are related because
+											the profit actually takes long enough that if it isn&#39;t fun,
+											you wouldn&#39;t have the time to do it.
+											So we do this
+											fun and profit-oriented inventing
+											for most of what we do,
+											but we also have a program where we invent for humanity —
+											where we take some of our best inventors,
+											and we say, &quot;Are there problems
+											where we have a good idea for solving a problem the world has?&quot; —
+											and to solve it in the way we try to solve problems,
+											which is with dramatic, crazy,
+											out-of-the-box solutions.
+											Bill Gates is one of those smartest guys of ours
+											that work on these problems
+											and he also funds this work, so thank you.
+											So I&#39;m going to briefly discuss
+											a couple of problems that we have
+											and a couple of problems where
+											we&#39;ve got some solutions underway.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Vaccination is one of the
+											key techniques in public health,
+											a fantastic thing.
+											But in the developing world a lot of vaccines
+											spoil before they&#39;re administered,
+											and that&#39;s because they need to be kept cold.
+											Almost all vaccines need to be kept at refrigerator temperatures.
+											They go bad very quickly if you don&#39;t,
+											and if you don&#39;t have stable power grid, this doesn&#39;t happen,
+											so kids die.
+											It&#39;s not just the loss of the vaccine that matters;
+											it&#39;s the fact that those kids don&#39;t get vaccinated.
+											This is one of the ways that
+											vaccines are carried:
+											These are Styrofoam chests. These are being carried by people,
+											but they&#39;re also put on the backs of pickup trucks.
+											We&#39;ve got a different solution.
+											Now, one of these Styrofoam chests
+											will last for about four hours with ice in it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And we thought, well, that&#39;s not really good enough.
+											So we made this thing.
+											This lasts six months with no power;
+											absolutely zero power,
+											because it loses less
+											than a half a watt.
+											Now, this is our second generations prototype.
+											The third generation prototype is, right now,
+											in Uganda being tested.
+											Now, the reason we were able to come up with this
+											is two key ideas:
+											One is that this is similar to a cryogenic Dewar,
+											something you&#39;d keep liquid nitrogen or liquid helium in.
+											They have incredible insulation,
+											so let&#39;s put some incredible insulation here.
+											The other idea is kind of interesting,
+											which is, you can&#39;t reach inside anymore.
+											Because if you open it up and reach inside,
+											you&#39;d let the heat in, the game would be over.
+											So the inside of this thing actually looks like a Coke machine.
+											It vends out little individual vials.
+											So a simple idea,
+											which we hope is going to change the way vaccines are distributed
+											in Africa and around the world.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We&#39;ll move on to malaria.
+											Malaria is one of the great public health problems.
+											Esther Duflo talked a little bit about this.
+											Two hundred million people a year.
+											Every 43 seconds a child in Africa dies;
+											27 will die during my talk.
+											And there&#39;s no way for us here in this country
+											to grasp really what that means to the people involved.
+											Another comment of Esther&#39;s
+											was that we react when there&#39;s
+											a tragedy like Haiti,
+											but that tragedy is ongoing.
+											So what can we do about it?
+											Well, there are a lot of things people have tried
+											for many years for solving malaria.
+											You can spray; the problem is there are environmental issues.
+											You can try to treat people and create awareness.
+											That&#39;s great, except the places that have malaria really bad,
+											they don&#39;t have health care systems.
+											A vaccine would be a terrific thing,
+											only they don&#39;t work yet.
+											People have tried for a long time. There are a couple of interesting candidates.
+											It&#39;s a very difficult thing to make a vaccine for.
+											You can distribute bed nets,
+											and bed nets are very effective if you use them.
+											You don&#39;t always use them for that. People fish with them.
+											They don&#39;t always get to everyone.
+											And bed nets
+											have an effect on the epidemic,
+											but you&#39;re never going to make it extinct with bed nets.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, malaria is
+											an incredibly complicated disease.
+											We could spend hours going over this.
+											It&#39;s got this sort of soap opera-like lifestyle;
+											they have sex, they burrow into your liver,
+											they tunnel into your blood cells ...
+											it&#39;s an incredibly complicated disease,
+											but that&#39;s actually one of the things we find interesting about it
+											and why we work on malaria:
+											There&#39;s a lot of potential ways in.
+											One of those ways might be better diagnosis.
+											So we hope this year
+											to prototype each of these devices.
+											One does an automatic malaria diagnosis
+											in the same way that a diabetic&#39;s glucose meter works:
+											You take a drop of blood,
+											you put it in there and it automatically tells you.
+											Today, you need to do a complicated laboratory procedure,
+											create a bunch of microscope slides
+											and have a trained person examine it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The other thing is, you know,
+											it would be even better if you didn&#39;t have to draw the blood.
+											And if you look through the eye,
+											or you look at the vessels on the white of the eye,
+											in fact, you may be able to do this
+											directly, without drawing any blood at all,
+											or through your nail beds.
+											Because if you actually look through your fingernails, you can see blood vessels,
+											and once you see blood vessels, we think we can see the malaria.
+											We can see it because of this molecule
+											called hemozoin.
+											It&#39;s produced by the malaria parasite
+											and it&#39;s a very interesting crystalline substance.
+											Interesting, anyway, if you&#39;re a solid-state physicist.
+											There&#39;s a lot of cool stuff we can do with it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is our femtosecond laser lab.
+											So this creates pulses of light
+											that last a femtosecond.
+											That&#39;s really, really, really short.
+											This is a pulse of light that&#39;s
+											only about one wavelength of light long,
+											so it&#39;s a whole bunch of photons
+											all coming and hitting simultaneously.
+											It creates a very high peak power
+											and it lets you do all kinds of interesting things;
+											in particular, it lets you find hemozoin.
+											So here&#39;s an image of red blood cells,
+											and now we can actually map
+											where the hemozoin and where the malaria parasites are
+											inside those red blood cells.
+											And using both this technique
+											and other optical techniques,
+											we think we can make those diagnostics.
+											We also have another hemozoin-oriented
+											therapy for malaria:
+											a way, in acute cases, to actually
+											take the malaria parasite and filter it out of the blood system.
+											Sort of like doing dialysis,
+											but for relieving the parasite load.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is our thousand-core supercomputer.
+											We&#39;re kind of software guys,
+											and so nearly any problem that you pose,
+											we like to try to solve with some software.
+											One of the problems that you have if you&#39;re trying to eradicate malaria
+											or reduce it
+											is you don&#39;t know what&#39;s the most effective thing to do.
+											Okay, we heard about bed nets earlier.
+											You spend a certain amount per bed net.
+											Or you could spray.
+											You can give drug administration.
+											There&#39;s all these different interventions
+											but they have different kinds of effectiveness.
+											How can you tell?
+											So we&#39;ve created, using our supercomputer,
+											the world&#39;s best computer model of malaria,
+											which we&#39;ll show you now.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We picked Madagascar.
+											We have every road,
+											every village,
+											every, almost, square inch of Madagascar.
+											We have all of the precipitation data
+											and the temperature data.
+											That&#39;s very important because the humidity and precipitation
+											tell you whether you&#39;ve got
+											standing pools of water for the mosquitoes to breed.
+											So that sets the stage on which you do this.
+											You then have to introduce the mosquitoes,
+											and you have to model that
+											and how they come and go.
+											Ultimately, it gives you this.
+											This is malaria spreading
+											across Madagascar.
+											And this is this latter part of the rainy season.
+											We&#39;re going to the dry season now.
+											It nearly goes away in the dry season,
+											because there&#39;s no place for the mosquitoes to breed.
+											And then, of course, the next year it comes roaring back.
+											By doing these kinds of simulations,
+											we want to eradicate or control malaria
+											thousands of times in software
+											before we actually have to do it in real life;
+											to be able to simulate both the economic trade-offs —
+											how many bed nets versus how much spraying? —
+											or the social trade-offs —
+											what happens if unrest breaks out?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We also try to study our foe.
+											This is a high-speed camera view
+											of a mosquito.
+											And, in a moment,
+											we&#39;re going to see a view of the airflow.
+											Here, we&#39;re trying to visualize the airflow
+											around the wings of the mosquito
+											with little particles we&#39;re illuminating with a laser.
+											By understanding how mosquitoes fly,
+											we hope to understand how to make them not fly.
+											Now, one of the ways you can make them not fly
+											is with DDT.
+											This is a real ad.
+											This is one of those things you just can&#39;t make up.
+											Once upon a time, this was the primary technique,
+											and, in fact, many countries got rid of malaria through DDT.
+											The United States did.
+											In 1935, there were 150,000 cases a year
+											of malaria in the United States,
+											but DDT and a massive public health effort
+											managed to squelch it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So we thought,
+											&quot;Well, we&#39;ve done all these things that are focused on the Plasmodium,
+											the parasite involved.
+											What can we do to the mosquito?
+											Well, let&#39;s try to kill it with consumer electronics.&quot;
+											Now, that sounds silly,
+											but each of these devices
+											has something interesting in it that maybe you could use.
+											Your Blu-ray player has
+											a very cheap blue laser.
+											Your laser printer has a mirror galvanometer
+											that&#39;s used to steer a laser beam very accurately;
+											that&#39;s what makes those little dots on the page.
+											And, of course, there&#39;s signal processing
+											and digital cameras.
+											So what if we could put all that together
+											to shoot them out of the sky with lasers?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, in our company, this is what we call
+											&quot;the pinky-suck moment.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											What if we could do that?
+											Now, just suspend disbelief for a moment,
+											and let&#39;s think of what could happen
+											if we could do that.
+											Well, we could protect very high-value targets like clinics.
+											Clinics are full of people that have malaria.
+											They&#39;re sick, and so they&#39;re less able to defend themselves from the mosquitoes.
+											You really want to protect them.
+											Of course, if you do that,
+											you could also protect your backyard.
+											And farmers could protect their crops
+											that they want to sell to Whole Foods
+											because our photons
+											are 100 percent organic. (Laughter)
+											They&#39;re completely natural.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, it actually gets better than this.
+											You could, if you&#39;re really smart,
+											you could shine a nonlethal laser on the bug
+											before you zap it,
+											and you could listen to the wing beat frequency
+											and you could measure the size.
+											And then you could decide:
+											&quot;Is this an insect I want to kill,
+											or an insect I don&#39;t want to kill?&quot;
+											Moore&#39;s law made computing cheap;
+											so cheap we can weigh
+											the life of an individual insect
+											and decide thumbs up
+											or thumbs down. (Laughter)
+											Now, it turns out we only kill the female mosquitoes.
+											They&#39;re the only ones that are dangerous.
+											Mosquitoes only drink blood
+											to lay eggs.
+											Mosquitoes actually live ... their day-to-day nutrition
+											comes from nectar, from flowers —
+											in fact, in the lab, we feed ours raisins —
+											but the female needs the blood meal.
+											So, this sounds really crazy, right?
+											Would you like to see it?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Audience: Yeah!
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Nathan Myhrvold: Okay, so our legal department prepared a disclaimer,
+											and here it is.
+											(Laughter)
+											Now, after thinking about this a little bit
+											we thought, you know, it probably would be simpler
+											to do this with a nonlethal laser.
+											So, Eric Johanson, who built the device,
+											actually, with parts from eBay;
+											and Pablos Holman over here,
+											he&#39;s got mosquitoes in the tank.
+											We have the device over here.
+											And we&#39;re going to show you,
+											instead of the kill laser,
+											which will be a very brief, instantaneous pulse,
+											we&#39;re going to have a green laser pointer
+											that&#39;s going to stay on the mosquito for, actually, quite a long period of time;
+											otherwise, you can&#39;t see it very well.
+											Take it away Eric.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Eric Johanson: What we have here
+											is a tank on the other side of the stage.
+											And we have ... this computer screen
+											can actually see the mosquitoes as they fly around.
+											And Pablos, if he stirs up our mosquitoes a little bit
+											we can see them flying around.
+											Now, that&#39;s a fairly straightforward image processing routine,
+											and let me show you how it works.
+											Here you can see that the insects are being tracked
+											as they&#39;re flying around,
+											which is kind of fun.
+											Next we can actually light them up with a laser. (Laughter)
+											Now, this is a low powered laser,
+											and we can actually pick up a wing-beat frequency.
+											So you may be able to hear some mosquitoes flying around.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											NM: That&#39;s a mosquito wing beat you&#39;re hearing.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											EJ: Finally, let&#39;s see what this looks like.
+											There you can see mosquitoes as they fly around, being lit up.
+											This is slowed way down
+											so that you have an opportunity to see what&#39;s happening.
+											Here we have it running at high-speed mode.
+											So this system that was built for TED is here to illustrate
+											that it is technically possible to actually deploy a system like this,
+											and we&#39;re looking very hard at how to make it
+											highly cost-effective to use in places like Africa and other parts of the world.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											NM: So it wouldn&#39;t be any fun to show you that
+											without showing you what actually happens when we hit &#39;em.
+											(Laughter)
+											(Laughter)
+											This is very satisfying.
+											(Laughter)
+											This is one of the first ones we did.
+											The energy&#39;s a little bit high here.
+											(Laughter)
+											We&#39;ll loop around here in just a second, and you&#39;ll see another one.
+											Here&#39;s another one. Bang.
+											An interesting thing is, we kill them all the time;
+											we&#39;ve never actually gotten the wings to shut off in midair.
+											The wing motor is very resilient.
+											I mean, here we&#39;re blowing wings off
+											but the wing motor keeps all the way down.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, that&#39;s what I have. Thanks very much.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":701,"count":305,"talk_id":853},"threadId":701,"current_talk":"853","description":"Nathan Myhrvold and team's latest inventions -- as brilliant as they are bold -- remind us that the world needs wild creativity to tackle big problems like malaria. And just as that idea sinks in, he rolls out a live demo of a new, mosquito-zapping gizmo you have to see to believe.","event":"TED2010","language":"en","name":"Nathan Myhrvold: Could this laser zap malaria?","slug":"nathan_myhrvold_could_this_laser_zap_malaria","speakers":[{"id":"238","slug":"nathan_myhrvold","is_published":true,"firstname":"Nathan","lastname":"Myhrvold","middleinitial":"","title":"","description":"Polymath","photo_url":"https://pe.tedcdn.com/images/ted/50051_254x191.jpg","whatotherssay":"He is gregarious, enthusiastic, and nerdy on an epic scale.","whotheyare":"Nathan Myhrvold is a professional jack-of-all-trades. After leaving Microsoft in 1999, he's been a world barbecue champion, a wildlife photographer, a chef, a contributor to SETI, and a volcano explorer.","whylisten":"<p>Since leaving his post as Microsoft&#39;s Chief Technology Officer in 1999 (with fortune in tow), Nathan Myhrvold has been a professional exemplar of the spirit of the &quot;Renaissance Man,&quot; proudly following his interests wherever they&#39;ve led. His dispersed passions have triggered an impressive list of accomplishments, including world barbecue championships, major archeological finds (several <em>Tyrannosaurus rex </em>skeletons), prize-winning <a href=\"http://www.edge.org/3rd_culture/myhrvold_lions07/myhrvold_lions07_index.html\" target=\"_blank\">wildlife photography</a>, building a section of Babbage&#39;s Difference Engine #2, s, and a new and consuming interest in the sous-vide <a href=\"http://www.wired.com/culture/lifestyle/magazine/16-03/st_nathan\" target=\"_blank\">cooking technique</a>.<br /> <br /><a href=\"http://www.newyorker.com/reporting/2008/05/12/080512fa_fact_gladwell\" target=\"_blank\">Malcolm Gladwell&#39;s 2008 <em>New Yorker</em> profile of him</a>  revealed an impish but truly inspired character whose latest company, <a href=\"http://www.intellectualventures.com/\" target=\"_blank\">Intellectual Ventures</a> -- which brainstorms and patents a wide array of inventions --&nbsp; has been accused in some quarters of acting like a &#39;patent troll&#39; but is described by Myhrvold as &quot;a disruptive organization providing&nbsp; an efficient way for patent holders to get paid for the inventions they own, and... for technology companies to gain easy access to the invention rights they need.&quot; After funding big-vision projects such as the <a href=\"http://www.seti.org/seti/projects/ata/index.php\" target=\"_blank\">Allen Telescope Array</a>, exploring active volcanoes and investigating penguin digestion, Myhrvold insists that his hobbies aren&#39;t as discursive as they seem. They do have a common denominator, after all: him.</p>"}],"url":"https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria","viewed_count":868831,"talks":[{"curator_approved":true,"description":"Nathan Myhrvold and team's latest inventions -- as brilliant as they are bold -- remind us that the world needs wild creativity to tackle big problems like malaria. And just as that idea sinks in, he rolls out a live demo of a new, mosquito-zapping gizmo you have to see to believe.","downloads":{"id":853,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Kurdish","endonym":"کوردی","languageCode":"ku","ianaCode":"ku","isRtl":true}],"nativeDownloads":{"low":"https://download.ted.com/talks/NathanMyhrvold_2010-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/NathanMyhrvold_2010.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/NathanMyhrvold_2010-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"de":{"name":"German","low":"https://download.ted.com/talks/NathanMyhrvold_2010-low-de.mp4","high":"https://download.ted.com/talks/NathanMyhrvold_2010-480p-de.mp4"},"fr":{"name":"French","low":"https://download.ted.com/talks/NathanMyhrvold_2010-low-fr.mp4","high":"https://download.ted.com/talks/NathanMyhrvold_2010-480p-fr.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/NathanMyhrvold_2010-low-zh-tw.mp4","high":"https://download.ted.com/talks/NathanMyhrvold_2010-480p-zh-tw.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/NathanMyhrvold_2010-low-ja.mp4","high":"https://download.ted.com/talks/NathanMyhrvold_2010-480p-ja.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/NathanMyhrvold_2010-low-zh-cn.mp4","high":"https://download.ted.com/talks/NathanMyhrvold_2010-480p-zh-cn.mp4"},"ko":{"name":"Korean","high":"https://download.ted.com/talks/NathanMyhrvold_2010-480p-ko.mp4","low":"https://download.ted.com/talks/NathanMyhrvold_2010-low-ko.mp4"},"en":{"name":"English","high":"https://download.ted.com/talks/NathanMyhrvold_2010-480p-en.mp4","low":"https://download.ted.com/talks/NathanMyhrvold_2010-low-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/NathanMyhrvold_2010-low-pt-br.mp4","high":"https://download.ted.com/talks/NathanMyhrvold_2010-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/NathanMyhrvold_2010-low-it.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/NathanMyhrvold_2010-low-he.mp4","high":"https://download.ted.com/talks/NathanMyhrvold_2010-480p-he.mp4"},"bg":{"name":"Bulgarian","high":"https://download.ted.com/talks/NathanMyhrvold_2010-480p-bg.mp4","low":"https://download.ted.com/talks/NathanMyhrvold_2010-low-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/NathanMyhrvold_2010-low-ro.mp4","high":"https://download.ted.com/talks/NathanMyhrvold_2010-480p-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/NathanMyhrvold_2010-low-pl.mp4","high":"https://download.ted.com/talks/NathanMyhrvold_2010-480p-pl.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/NathanMyhrvold_2010-low-nl.mp4","high":"https://download.ted.com/talks/NathanMyhrvold_2010-480p-nl.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/NathanMyhrvold_2010-low-tr.mp4","high":"https://download.ted.com/talks/NathanMyhrvold_2010-480p-tr.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/NathanMyhrvold_2010-low-ru.mp4","high":"https://download.ted.com/talks/NathanMyhrvold_2010-480p-ru.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/NathanMyhrvold_2010-low-hu.mp4","high":"https://download.ted.com/talks/NathanMyhrvold_2010-480p-hu.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/NathanMyhrvold_2010-low-vi.mp4","high":"https://download.ted.com/talks/NathanMyhrvold_2010-480p-vi.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/NathanMyhrvold_2010-low-es.mp4","high":"https://download.ted.com/talks/NathanMyhrvold_2010-480p-es.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/NathanMyhrvold_2010-low-ar.mp4","high":"https://download.ted.com/talks/NathanMyhrvold_2010-480p-ar.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/NathanMyhrvold_2010-low-pt.mp4","high":"https://download.ted.com/talks/NathanMyhrvold_2010-480p-pt.mp4"},"th":{"name":"Thai","low":"https://download.ted.com/talks/NathanMyhrvold_2010-low-th.mp4","high":"https://download.ted.com/talks/NathanMyhrvold_2010-480p-th.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/NathanMyhrvold_2010-low-el.mp4","high":"https://download.ted.com/talks/NathanMyhrvold_2010-480p-el.mp4"}},"audioDownload":"https://download.ted.com/talks/NathanMyhrvold_2010.mp3?apikey=acme-roadrunner"},"duration":1018.0,"event":"TED2010","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/169894_800x600.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/169894_800x600.jpg?q=50&w=15","id":"853","player_talks":[{"id":"853","duration":1018.0,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Kurdish","endonym":"کوردی","languageCode":"ku","ianaCode":"ku","isRtl":true}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2010/Blank/NathanMyhrvold_2010-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTED2010%26id%3D853%26tag%3Dcreativity%2Cdisease%2Cinnovation%2Cinsects%2Cinvention%2Cpoverty%2Ctechnology%26talk%3Dnathan_myhrvold_could_this_laser_zap_malaria%26year%3D2010&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"853","talk":"nathan_myhrvold_could_this_laser_zap_malaria","tag":"creativity,disease,innovation,insects,invention,poverty,technology","year":"2010","event":"TED2010"},"stream":"https://hls.ted.com/talks/853.m3u8","metadata":"https://hls.ted.com/talks/853.json"}},"targeting":{"id":"853","talk":"nathan_myhrvold_could_this_laser_zap_malaria","tag":"creativity,disease,innovation,insects,invention,poverty,technology","year":"2010","event":"TED2010"},"canonical":"https://www.ted.com/talks/nathan_myhrvold_could_this_laser_zap_malaria","name":"Nathan Myhrvold: Could this laser zap malaria?","title":"Could this laser zap malaria?","speaker":"Nathan Myhrvold","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/169894_800x600.jpg?quality=89&w=600","slug":"nathan_myhrvold_could_this_laser_zap_malaria","event":"TED2010","published":1273568940}],"ratings":[{"id":9,"name":"Ingenious","count":686},{"id":23,"name":"Jaw-dropping","count":428},{"id":3,"name":"Courageous","count":14},{"id":21,"name":"Unconvincing","count":32},{"id":24,"name":"Persuasive","count":60},{"id":22,"name":"Fascinating","count":365},{"id":10,"name":"Inspiring","count":138},{"id":8,"name":"Informative","count":120},{"id":7,"name":"Funny","count":124},{"id":11,"name":"Longwinded","count":10},{"id":2,"name":"Confusing","count":5},{"id":1,"name":"Beautiful","count":20},{"id":25,"name":"OK","count":24},{"id":26,"name":"Obnoxious","count":15}],"recorded_at":"2010-02-12T00:00:00.000+00:00","related_talks":[{"id":"271","hero":"https://pe.tedcdn.com/images/ted/43651_480x360.jpg","speaker":"Nathan Myhrvold","title":"Archeology, animal photography, BBQ ...","duration":1034.0,"slug":"nathan_myhrvold_on_archeology_animal_photography_bbq","viewed_count":483503},{"id":"664","hero":"https://pe.tedcdn.com/images/ted/124718_800x600.jpg","speaker":"Marc Koska","title":"1.3m reasons to re-invent the syringe","duration":285.0,"slug":"marc_koska_the_devastating_toll_of_syringe_reuse","viewed_count":642651},{"id":"613","hero":"https://pe.tedcdn.com/images/ted/1691fae6c58b818d8129465ed6d4550bad75450a_1600x1200.jpg","speaker":"Michael Pritchard","title":"How to make filthy water drinkable","duration":571.0,"slug":"michael_pritchard_invents_a_water_filter","viewed_count":3793920},{"id":"6672","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/4b7b569e-b432-4184-9f70-010c7bedf53c/FredrosOkumu_2017G-embed.jpg","speaker":"Fredros Okumu","title":"Why I study the most dangerous animal on earth -- mosquitoes","duration":769.0,"slug":"fredros_okumu_how_i_study_the_most_dangerous_animal_on_earth_the_mosquito","viewed_count":973557},{"id":"1819","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/1ef2dbad-b65c-4f9e-a0c9-b0c4c742103a/SoniaShah_2013G-embed.jpg","speaker":"Sonia Shah","title":"3 reasons we still haven’t gotten rid of malaria","duration":918.0,"slug":"sonia_shah_3_reasons_we_still_haven_t_gotten_rid_of_malaria","viewed_count":1156865},{"id":"1445","hero":"https://pe.tedcdn.com/images/ted/5fee917fd0c904570274ccdd81169cc979b4fc7a_1600x1200.jpg","speaker":"Bart Knols","title":"3 new ways to kill mosquitoes","duration":620.0,"slug":"bart_knols_cheese_dogs_and_pills_to_end_malaria","viewed_count":290149}],"slug":"nathan_myhrvold_could_this_laser_zap_malaria","speakers":[{"id":"238","slug":"nathan_myhrvold","is_published":true,"firstname":"Nathan","lastname":"Myhrvold","middleinitial":"","title":"","description":"Polymath","photo_url":"https://pe.tedcdn.com/images/ted/50051_254x191.jpg","whatotherssay":"He is gregarious, enthusiastic, and nerdy on an epic scale.","whotheyare":"Nathan Myhrvold is a professional jack-of-all-trades. After leaving Microsoft in 1999, he's been a world barbecue champion, a wildlife photographer, a chef, a contributor to SETI, and a volcano explorer.","whylisten":"<p>Since leaving his post as Microsoft&#39;s Chief Technology Officer in 1999 (with fortune in tow), Nathan Myhrvold has been a professional exemplar of the spirit of the &quot;Renaissance Man,&quot; proudly following his interests wherever they&#39;ve led. His dispersed passions have triggered an impressive list of accomplishments, including world barbecue championships, major archeological finds (several <em>Tyrannosaurus rex </em>skeletons), prize-winning <a href=\"http://www.edge.org/3rd_culture/myhrvold_lions07/myhrvold_lions07_index.html\" target=\"_blank\">wildlife photography</a>, building a section of Babbage&#39;s Difference Engine #2, s, and a new and consuming interest in the sous-vide <a href=\"http://www.wired.com/culture/lifestyle/magazine/16-03/st_nathan\" target=\"_blank\">cooking technique</a>.<br /> <br /><a href=\"http://www.newyorker.com/reporting/2008/05/12/080512fa_fact_gladwell\" target=\"_blank\">Malcolm Gladwell&#39;s 2008 <em>New Yorker</em> profile of him</a>  revealed an impish but truly inspired character whose latest company, <a href=\"http://www.intellectualventures.com/\" target=\"_blank\">Intellectual Ventures</a> -- which brainstorms and patents a wide array of inventions --&nbsp; has been accused in some quarters of acting like a &#39;patent troll&#39; but is described by Myhrvold as &quot;a disruptive organization providing&nbsp; an efficient way for patent holders to get paid for the inventions they own, and... for technology companies to gain easy access to the invention rights they need.&quot; After funding big-vision projects such as the <a href=\"http://www.seti.org/seti/projects/ata/index.php\" target=\"_blank\">Allen Telescope Array</a>, exploring active volcanoes and investigating penguin digestion, Myhrvold insists that his hobbies aren&#39;t as discursive as they seem. They do have a common denominator, after all: him.</p>"}],"speaker_name":"Nathan Myhrvold","tags":["creativity","disease","innovation","insects","invention","poverty","technology"],"title":"Could this laser zap malaria?","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":868831}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

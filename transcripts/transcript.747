@@ -1,0 +1,1317 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Barbara Block: Tagging tuna in the deep ocean | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Tuna are ocean athletes -- fast, far-ranging predators whose habits we&#39;re just beginning to understand. Marine biologist Barbara Block fits tuna with tracking tags (complete with transponders) that record unprecedented amounts of data about these gorgeous, threatened fish and the ocean habitats they move through." />
+<meta name="author" content="Barbara Block" />
+<link rel="canonical" href="https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean/transcript" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean/transcript?language=ru" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean/transcript?language=fr" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean/transcript?language=en" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean/transcript?language=nl" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean/transcript?language=sr" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean/transcript?language=de" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean/transcript?language=ko" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean/transcript?language=it" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean/transcript?language=hu" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean/transcript?language=tr" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean/transcript?language=pt-br" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean/transcript?language=pl" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean/transcript?language=bg" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean/transcript?language=ro" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean/transcript?language=ja" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean/transcript?language=es" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean/transcript?language=he" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean/transcript?language=vi" />
+<meta property="og:title" content="Transcript of &quot;Tagging tuna in the deep ocean&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/204749_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/204749_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Barbara Block: Tagging tuna in the deep ocean" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Tuna are ocean athletes -- fast, far-ranging predators whose habits we&#39;re just beginning to understand. Marine biologist Barbara Block fits tuna with tracking tags (complete with transponders) that record unprecedented amounts of data about these gorgeous, threatened fish and the ocean habitats they move through." />
+<meta property="og:url" content="https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 973);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean' itemprop='url'>
+<meta content='Tagging tuna in the deep ocean' itemprop='name'>
+<meta content="Tuna are ocean athletes — fast, far-ranging predators whose habits we're just beginning to understand. Marine biologist Barbara Block fits tuna with tracking tags (complete with transponders) that record unprecedented amounts of data about these gorgeous, threatened fish and the ocean habitats they move through." itemprop='description'>
+<meta content='PT20M6S' itemprop='duration'>
+<meta content='2010-10-06T08:53:00+00:00' itemprop='uploadDate'>
+<meta content='341275' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/204749_800x600.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/barbara_block' itemprop='url'>
+<meta content='Barbara Block' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/204750_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/204749_800x600.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Barbara Block
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					341,275
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 20:06</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I&#39;ve been fascinated for a lifetime
+											by the beauty, form and function
+											of giant bluefin tuna.
+											Bluefin are warmblooded like us.
+											They&#39;re the largest of the tunas,
+											the second-largest fish in the sea — bony fish.
+											They actually are a fish
+											that is endothermic —
+											powers through the ocean with warm muscles like a mammal.
+											That&#39;s one of our bluefin at the Monterey Bay Aquarium.
+											You can see in its shape and its streamlined design
+											it&#39;s powered for ocean swimming.
+											It flies through the ocean on its pectoral fins, gets lift,
+											powers its movements
+											with a lunate tail.
+											It&#39;s actually got a naked skin for most of its body,
+											so it reduces friction with the water.
+											This is what one of nature&#39;s finest machines.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, bluefin
+											were revered by Man
+											for all of human history.
+											For 4,000 years, we fished sustainably for this animal,
+											and it&#39;s evidenced
+											in the art that we see
+											from thousands of years ago.
+											Bluefin are in cave paintings in France.
+											They&#39;re on coins
+											that date back 3,000 years.
+											This fish was revered by humankind.
+											It was fished sustainably
+											till all of time,
+											except for our generation.
+											Bluefin are pursued wherever they go —
+											there is a gold rush on Earth,
+											and this is a gold rush for bluefin.
+											There are traps that fish sustainably
+											up until recently.
+											And yet, the type of fishing going on today,
+											with pens, with enormous stakes,
+											is really wiping bluefin
+											ecologically off the planet.
+											Now bluefin, in general,
+											goes to one place: Japan.
+											Some of you may be guilty
+											of having contributed to the demise of bluefin.
+											They&#39;re delectable muscle,
+											rich in fat —
+											absolutely taste delicious.
+											And that&#39;s their problem; we&#39;re eating them to death.
+											Now in the Atlantic, the story is pretty simple.
+											Bluefin have two populations: one large, one small.
+											The North American population
+											is fished at about 2,000 ton.
+											The European population and North African — the Eastern bluefin tuna —
+											is fished at tremendous levels:
+											50,000 tons over the last decade almost every year.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The result is whether you&#39;re looking
+											at the West or the Eastern bluefin population,
+											there&#39;s been tremendous decline on both sides,
+											as much as 90 percent
+											if you go back with your baseline
+											to 1950.
+											For that, bluefin have been given a status
+											equivalent to tigers, to lions,
+											to certain African elephants
+											and to pandas.
+											These fish have been proposed
+											for an endangered species listing in the past two months.
+											They were voted on and rejected
+											just two weeks ago,
+											despite outstanding science
+											that shows from two committees
+											this fish meets the criteria of CITES I.
+											And if it&#39;s tunas you don&#39;t care about,
+											perhaps you might be interested
+											that international long lines and pursing
+											chase down tunas and bycatch animals
+											such as leatherbacks, sharks,
+											marlin, albatross.
+											These animals and their demise
+											occurs in the tuna fisheries.
+											The challenge we face
+											is that we know very little about tuna,
+											and everyone in the room knows what it looks like
+											when an African lion
+											takes down its prey.
+											I doubt anyone has seen a giant bluefin feed.
+											This tuna symbolizes
+											what&#39;s the problem for all of us in the room.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It&#39;s the 21st century, but we really have only just begun
+											to really study our oceans in a deep way.
+											Technology has come of age
+											that&#39;s allowing us to see the Earth from space
+											and go deep into the seas remotely.
+											And we&#39;ve got to use these technologies immediately
+											to get a better understanding
+											of how our ocean realm works.
+											Most of us from the ship — even I —
+											look out at the ocean and see this homogeneous sea.
+											We don&#39;t know where the structure is.
+											We can&#39;t tell where are the watering holes
+											like we can on an African plain.
+											We can&#39;t see the corridors,
+											and we can&#39;t see what it is
+											that brings together a tuna,
+											a leatherback and an albatross.
+											We&#39;re only just beginning to understand
+											how the physical oceanography
+											and the biological oceanography
+											come together
+											to create a seasonal force
+											that actually causes the upwelling
+											that might make a hot spot a hope spot.
+											The reasons these challenges are great
+											is that technically it&#39;s difficult to go to sea.
+											It&#39;s hard to study a bluefin on its turf,
+											the entire Pacific realm.
+											It&#39;s really tough to get up close and personal with a mako shark
+											and try to put a tag on it.
+											And then imagine being Bruce Mate&#39;s team from OSU,
+											getting up close to a blue whale
+											and fixing a tag on the blue whale that stays,
+											an engineering challenge
+											we&#39;ve yet to really overcome.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So the story of our team, a dedicated team,
+											is fish and chips.
+											We basically are taking
+											the same satellite phone parts,
+											or the same parts that are in your computer, chips.
+											We&#39;re putting them together in unusual ways,
+											and this is taking us into the ocean realm
+											like never before.
+											And for the first time,
+											we&#39;re able to watch the journey of a tuna beneath the ocean
+											using light and photons
+											to measure sunrise and sunset.
+											Now, I&#39;ve been working with tunas for over 15 years.
+											I have the privilege of being a partner
+											with the Monterey Bay Aquarium.
+											We&#39;ve actually taken a sliver of the ocean,
+											put it behind glass,
+											and we together
+											have put bluefin tuna and yellowfin tuna on display.
+											When the veil of bubbles lifts every morning,
+											we can actually see a community from the Pelagic ocean,
+											one of the only places on Earth
+											you can see giant bluefin swim by.
+											We can see in their beauty of form and function,
+											their ceaseless activity.
+											They&#39;re flying through their space, ocean space.
+											And we can bring two million people a year
+											into contact with this fish
+											and show them its beauty.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Behind the scenes is a working lab at Stanford University
+											partnered with the Monterey Bay Aquarium.
+											Here, for over 14 or 15 years,
+											we&#39;ve actually brought in
+											both bluefin and yellowfin in captivity.
+											We&#39;d been studying these fish,
+											but first we had to learn how to husbandry them.
+											What do they like to eat?
+											What is it that they&#39;re happy with?
+											We go in the tanks with the tuna — we touch their naked skin —
+											it&#39;s pretty amazing. It feels wonderful.
+											And then, better yet,
+											we&#39;ve got our own version of tuna whisperers,
+											our own Chuck Farwell, Alex Norton,
+											who can take a big tuna
+											and in one motion,
+											put it into an envelope of water,
+											so that we can actually work with the tuna
+											and learn the techniques it takes
+											to not injure this fish
+											who never sees a boundary in the open sea.
+											Jeff and Jason there, are scientists
+											who are going to take a tuna
+											and put it in the equivalent of a treadmill, a flume.
+											And that tuna thinks it&#39;s going to Japan, but it&#39;s staying in place.
+											We&#39;re actually measuring its oxygen consumption,
+											its energy consumption.
+											We&#39;re taking this data and building better models.
+											And when I see that tuna — this is my favorite view —
+											I begin to wonder:
+											how did this fish solve the longitude problem before we did?
+											So take a look at that animal.
+											That&#39;s the closest you&#39;ll probably ever get.
+											Now, the activities from the lab
+											have taught us now how to go out in the open ocean.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So in a program called Tag-A-Giant
+											we&#39;ve actually gone from Ireland to Canada,
+											from Corsica to Spain.
+											We&#39;ve fished with many nations around the world
+											in an effort to basically
+											put electronic computers
+											inside giant tunas.
+											We&#39;ve actually tagged 1,100 tunas.
+											And I&#39;m going to show you three clips,
+											because I tagged 1,100 tunas.
+											It&#39;s a very hard process, but it&#39;s a ballet.
+											We bring the tuna out, we measure it.
+											A team of fishers, captains, scientists and technicians
+											work together to keep this animal out of the ocean
+											for about four to five minutes.
+											We put water over its gills, give it oxygen.
+											And then with a lot of effort, after tagging,
+											putting in the computer,
+											making sure the stalk is sticking out so it senses the environment,
+											we send this fish back into the sea.
+											And when it goes, we&#39;re always happy.
+											We see a flick of the tail.
+											And from our data that gets collected,
+											when that tag comes back,
+											because a fisher returns it
+											for a thousand-dollar reward,
+											we can get tracks beneath the sea
+											for up to five years now,
+											on a backboned animal.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now sometimes the tunas are really large,
+											such as this fish off Nantucket.
+											But that&#39;s about half the size
+											of the biggest tuna we&#39;ve ever tagged.
+											It takes a human effort,
+											a team effort, to bring the fish in.
+											In this case, what we&#39;re going to do
+											is put a pop-up satellite archival tag on the tuna.
+											This tag rides on the tuna,
+											senses the environment around the tuna
+											and actually will come off the fish,
+											detach, float to the surface
+											and send back to Earth-orbiting satellites
+											position data estimated by math on the tag,
+											pressure data and temperature data.
+											And so what we get then from the pop-up satellite tag
+											is we get away from having to have a human interaction
+											to recapture the tag.
+											Both the electronic tags I&#39;m talking about are expensive.
+											These tags have been engineered
+											by a variety of teams in North America.
+											They are some of our finest instruments,
+											our new technology in the ocean today.
+											One community in general
+											has given more to help us than any other community.
+											And that&#39;s the fisheries off the state of North Carolina.
+											There are two villages, Harris and Morehead City,
+											every winter for over a decade,
+											held a party called Tag-A-Giant,
+											and together, fishers worked with us
+											to tag 800 to 900 fish.
+											In this case, we&#39;re actually going to measure the fish.
+											We&#39;re going to do something that in recent years we&#39;ve started:
+											take a mucus sample.
+											Watch how shiny the skin is; you can see my reflection there.
+											And from that mucus, we can get gene profiles,
+											we can get information on gender,
+											checking the pop-up tag one more time,
+											and then it&#39;s out in the ocean.
+											And this is my favorite.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											With the help of my former postdoc, Gareth Lawson,
+											this is a gorgeous picture of a single tuna.
+											This tuna is actually moving on a numerical ocean.
+											The warm is the Gulf Stream,
+											the cold up there in the Gulf of Maine.
+											That&#39;s where the tuna wants to go — it wants to forage on schools of herring —
+											but it can&#39;t get there. It&#39;s too cold.
+											But then it warms up, and the tuna pops in, gets some fish,
+											maybe comes back to home base,
+											goes in again
+											and then comes back to winter down there in North Carolina
+											and then on to the Bahamas.
+											And my favorite scene, three tunas going into the Gulf of Mexico.
+											Three tunas tagged.
+											Astronomically, we&#39;re calculating positions.
+											They&#39;re coming together. That could be tuna sex —
+											and there it is.
+											That is where the tuna spawn.
+											So from data like this,
+											we&#39;re able now to put the map up,
+											and in this map
+											you see thousands of positions
+											generated by this decade and a half of tagging.
+											And now we&#39;re showing that tunas on the western side
+											go to the eastern side.
+											So two populations of tunas —
+											that is, we have a Gulf population, one that we can tag —
+											they go to the Gulf of Mexico, I showed you that —
+											and a second population.
+											Living amongst our tunas — our North American tunas —
+											are European tunas that go back to the Med.
+											On the hot spots — the hope spots —
+											they&#39;re mixed populations.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so what we&#39;ve done with the science
+											is we&#39;re showing the International Commission,
+											building new models,
+											showing them that a two-stock no-mixing model —
+											to this day, used to reject
+											the CITES treaty —
+											that model isn&#39;t the right model.
+											This model, a model of overlap,
+											is the way to move forward.
+											So we can then predict
+											where management places should be.
+											Places like the Gulf of Mexico and the Mediterranean
+											are places where the single species,
+											the single population, can be captured.
+											These become forthright in places we need to protect.
+											The center of the Atlantic where the mixing is,
+											I could imagine a policy that lets Canada and America fish,
+											because they manage their fisheries well,
+											they&#39;re doing a good job.
+											But in the international realm,
+											where fishing and overfishing has really gone wild,
+											these are the places that we have to make hope spots in.
+											That&#39;s the size they have to be to protect the bluefin tuna.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now in a second project
+											called Tagging of Pacific Pelagics,
+											we took on the planet as a team,
+											those of us in the Census of Marine Life.
+											And, funded primarily through Sloan Foundation and others,
+											we were able to actually go in, in our project —
+											we&#39;re one of 17 field programs
+											and begin to take on tagging large numbers of predators,
+											not just tunas.
+											So what we&#39;ve done
+											is actually gone up to tag salmon shark in Alaska,
+											met salmon shark on their home territory,
+											followed them catching salmon
+											and then went in and figured out
+											that, if we take a salmon and put it on a line,
+											we can actually take up a salmon shark —
+											This is the cousin of the white shark —
+											and very carefully —
+											note, I say &quot;very carefully,&quot; —
+											we can actually keep it calm,
+											put a hose in its mouth, keep it off the deck
+											and then tag it with a satellite tag.
+											That satellite tag will now have your shark phone home
+											and send in a message.
+											And that shark leaping there, if you look carefully, has an antenna.
+											It&#39;s a free swimming shark with a satellite tag
+											jumping after salmon,
+											sending home its data.
+											Salmon sharks aren&#39;t the only sharks we tag.
+											But there goes salmon sharks with this meter-level resolution
+											on an ocean of temperature — warm colors are warmer.
+											Salmon sharks go down
+											to the tropics to pup
+											and come into Monterey.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now right next door in Monterey and up at the Farallones
+											are a white shark team led by Scott Anderson — there —
+											and Sal Jorgensen.
+											They can throw out a target —
+											it&#39;s a carpet shaped like a seal —
+											and in will come a white shark, a curious critter
+											that will come right up to our 16-ft. boat.
+											It&#39;s a several thousand-pound animal.
+											And we&#39;ll wind in the target.
+											And we&#39;ll place an acoustic tag
+											that says, &quot;OMSHARK 10165,&quot;
+											or something like that, acoustically with a ping.
+											And then we&#39;ll put on a satellite tag
+											that will give us the long-distance journeys
+											with the light-based geolocation algorithms
+											solved on the computer that&#39;s on the fish.
+											So in this case, Sal&#39;s looking at two tags there,
+											and there they are: the white sharks of California
+											going off to the white shark cafe and coming back.
+											We also tag makos with our NOAA colleagues,
+											blue sharks.
+											And now, together, what we can see
+											on this ocean of color that&#39;s temperature,
+											we can see ten-day worms of makos and salmon sharks.
+											We have white sharks and blue sharks.
+											For the first time,
+											an ecoscape as large as ocean-scale,
+											showing where the sharks go.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The tuna team from TOPP has done the unthinkable:
+											three teams tagged 1,700 tunas,
+											bluefin, yellowfin and albacore
+											all at the same time —
+											carefully rehearsed tagging programs
+											in which we go out, pick up juvenile tunas,
+											put in the tags that actually have the sensors,
+											stick out the tuna
+											and then let them go.
+											They get returned, and when they get returned,
+											here on a NASA numerical ocean
+											you can see bluefin in blue
+											go across their corridor,
+											returning to the Western Pacific.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Our team from UCSC has tagged elephant seals
+											with tags that are glued on their heads, that come off when they slough.
+											These elephant seals cover half an ocean,
+											take data down to 1,800 feet —
+											amazing data.
+											And then there&#39;s Scott Shaffer and our shearwaters
+											wearing tuna tags, light-based tags,
+											that now are going to take you from New Zealand to Monterey and back,
+											journeys of 35,000 nautical miles
+											we had never seen before.
+											But now with light-based geolocation tags that are very small,
+											we can actually see these journeys.
+											Same thing with Laysan albatross
+											who travel an entire ocean
+											on a trip sometimes,
+											up to the same zone the tunas use.
+											You can see why they might be caught.
+											Then there&#39;s George Schillinger and our leatherback team out of Playa Grande
+											tagging leatherbacks
+											that go right past where we are.
+											And Scott Benson&#39;s team
+											that showed that leatherbacks go from Indonesia
+											all the way to Monterey.
+											So what we can see on this moving ocean
+											is we can finally see where the predators are.
+											We can actually see how they&#39;re using ecospaces
+											as large as an ocean.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And from this information,
+											we can begin to map the hope spots.
+											So this is just three years of data right here —
+											and there&#39;s a decade of this data.
+											We see the pulse and the seasonal activities
+											that these animals are going on.
+											So what we&#39;re able to do with this information
+											is boil it down to hot spots,
+											4,000 deployments,
+											a huge herculean task,
+											2,000 tags
+											in an area, shown here for the first time,
+											off the California coast,
+											that appears to be a gathering place.
+											And then for sort of an encore from these animals,
+											they&#39;re helping us.
+											They&#39;re carrying instruments
+											that are actually taking data down to 2,000 meters.
+											They&#39;re taking information from our planet
+											at very critical places like Antarctica and the Poles.
+											Those are seals from many countries
+											being released
+											who are sampling underneath the ice sheets
+											and giving us temperature data of oceanographic quality
+											on both poles.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This data, when visualized, is captivating to watch.
+											We still haven&#39;t figured out best how to visualize the data.
+											And then, as these animals swim
+											and give us the information
+											that&#39;s important to climate issues,
+											we also think it&#39;s critical
+											to get this information to the public,
+											to engage the public with this kind of data.
+											We did this with the Great Turtle Race —
+											tagged turtles, brought in four million hits.
+											And now with Google&#39;s Oceans,
+											we can actually put a white shark in that ocean.
+											And when we do and it swims,
+											we see this magnificent bathymetry
+											that the shark knows is there on its path
+											as it goes from California to Hawaii.
+											But maybe Mission Blue
+											can fill in that ocean that we can&#39;t see.
+											We&#39;ve got the capacity, NASA has the ocean.
+											We just need to put it together.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So in conclusion,
+											we know where Yellowstone is for North America;
+											it&#39;s off our coast.
+											We have the technology that&#39;s shown us where it is.
+											What we need to think about perhaps for Mission Blue
+											is increasing the biologging capacity.
+											How is it that we can actually
+											take this type of activity elsewhere?
+											And then finally — to basically get the message home —
+											maybe use live links
+											from animals such as blue whales and white sharks.
+											Make killer apps, if you will.
+											A lot of people are excited
+											when sharks actually went under the Golden Gate Bridge.
+											Let&#39;s connect the public to this activity right on their iPhone.
+											That way we do away with a few internet myths.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So we can save the bluefin tuna.
+											We can save the white shark.
+											We have the science and technology.
+											Hope is here. Yes we can.
+											We need just to apply this capacity
+											further in the oceans.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":801,"count":35,"talk_id":973},"threadId":801,"current_talk":"973","description":"Tuna are ocean athletes -- fast, far-ranging predators whose habits we're just beginning to understand. Marine biologist Barbara Block fits tuna with tracking tags (complete with transponders) that record unprecedented amounts of data about these gorgeous, threatened fish and the ocean habitats they move through.","event":"Mission Blue Voyage","language":"en","name":"Barbara Block: Tagging tuna in the deep ocean","slug":"barbara_block_tagging_tuna_in_the_deep_ocean","speakers":[{"id":"801","slug":"barbara_block","is_published":true,"firstname":"Barbara","lastname":"Block","middleinitial":"","title":"","description":"Marine biologist","photo_url":"https://pe.tedcdn.com/images/ted/204750_254x191.jpg","whatotherssay":"","whotheyare":"Barbara Block studies how tuna, billfish and sharks move around (and stay warm) in the open ocean. Knowing how these large predators travel through pelagic waters will help us understand their role in the wider ocean ecosystem.","whylisten":"<p>Barbara Block takes a multidisciplinary approach to studying how large pelagic fish live and travel in the open ocean. Using novel electronic tags, Block and her team track large predators &mdash; tunas, billfish and sharks &mdash; on their ocean journeys. She also studies how and why muscle makes heat at a molecular level in fish. <br /><br />Working out of <a href=\"http://www-marine.stanford.edu/block.htm\" target=\"_blank\">Stanford</a>&#39;s Hopkins Marine Station, Block and her colleagues run the Tuna Research and Conservation Center, a member of the<a href=\"http://www.topp.org/\" target=\"_blank\"> Tagging of Pacific Predators (TOPP)</a>  program. Combining tracking data with physiological and genetic analyses, Block (a MacArthur &quot;genius&quot; grant winner) is developing population and ecological models to help us understand these fishes&#39; roles in the ocean ecosystem &mdash; and perhaps learn to better manage these important food fish.</p>"}],"url":"https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean","viewed_count":341275,"talks":[{"curator_approved":true,"description":"Tuna are ocean athletes -- fast, far-ranging predators whose habits we're just beginning to understand. Marine biologist Barbara Block fits tuna with tracking tags (complete with transponders) that record unprecedented amounts of data about these gorgeous, threatened fish and the ocean habitats they move through.","downloads":{"id":973,"languages":[{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/BarbaraBlock_2010Z-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/BarbaraBlock_2010Z.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/BarbaraBlock_2010Z-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"fr":{"name":"French","low":"https://download.ted.com/talks/BarbaraBlock_2010Z-low-fr.mp4","high":"https://download.ted.com/talks/BarbaraBlock_2010Z-480p-fr.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/BarbaraBlock_2010Z-low-zh-tw.mp4","high":"https://download.ted.com/talks/BarbaraBlock_2010Z-480p-zh-tw.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/BarbaraBlock_2010Z-low-ja.mp4","high":"https://download.ted.com/talks/BarbaraBlock_2010Z-480p-ja.mp4"},"de":{"name":"German","high":"https://download.ted.com/talks/BarbaraBlock_2010Z-480p-de.mp4","low":"https://download.ted.com/talks/BarbaraBlock_2010Z-low-de.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/BarbaraBlock_2010Z-low-zh-cn.mp4","high":"https://download.ted.com/talks/BarbaraBlock_2010Z-480p-zh-cn.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/BarbaraBlock_2010Z-low-ko.mp4","high":"https://download.ted.com/talks/BarbaraBlock_2010Z-480p-ko.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/BarbaraBlock_2010Z-low-es.mp4","high":"https://download.ted.com/talks/BarbaraBlock_2010Z-480p-es.mp4"},"en":{"name":"English","low":"https://download.ted.com/talks/BarbaraBlock_2010Z-low-en.mp4","high":"https://download.ted.com/talks/BarbaraBlock_2010Z-480p-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/BarbaraBlock_2010Z-low-pt-br.mp4","high":"https://download.ted.com/talks/BarbaraBlock_2010Z-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/BarbaraBlock_2010Z-low-it.mp4","high":"https://download.ted.com/talks/BarbaraBlock_2010Z-480p-it.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/BarbaraBlock_2010Z-low-he.mp4","high":"https://download.ted.com/talks/BarbaraBlock_2010Z-480p-he.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/BarbaraBlock_2010Z-low-bg.mp4","high":"https://download.ted.com/talks/BarbaraBlock_2010Z-480p-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/BarbaraBlock_2010Z-low-ro.mp4","high":"https://download.ted.com/talks/BarbaraBlock_2010Z-480p-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/BarbaraBlock_2010Z-low-pl.mp4","high":"https://download.ted.com/talks/BarbaraBlock_2010Z-480p-pl.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/BarbaraBlock_2010Z-low-nl.mp4","high":"https://download.ted.com/talks/BarbaraBlock_2010Z-480p-nl.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/BarbaraBlock_2010Z-low-tr.mp4","high":"https://download.ted.com/talks/BarbaraBlock_2010Z-480p-tr.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/BarbaraBlock_2010Z-low-ru.mp4","high":"https://download.ted.com/talks/BarbaraBlock_2010Z-480p-ru.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/BarbaraBlock_2010Z-low-sr.mp4","high":"https://download.ted.com/talks/BarbaraBlock_2010Z-480p-sr.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/BarbaraBlock_2010Z-low-ar.mp4","high":"https://download.ted.com/talks/BarbaraBlock_2010Z-480p-ar.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/BarbaraBlock_2010Z-low-hu.mp4","high":"https://download.ted.com/talks/BarbaraBlock_2010Z-480p-hu.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/BarbaraBlock_2010Z-low-vi.mp4","high":"https://download.ted.com/talks/BarbaraBlock_2010Z-480p-vi.mp4"}},"audioDownload":"https://download.ted.com/talks/BarbaraBlock_2010Z.mp3?apikey=acme-roadrunner"},"duration":1206.0,"event":"Mission Blue Voyage","event_blurb":null,"event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/204749_800x600.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/204749_800x600.jpg?q=50&w=15","id":"973","player_talks":[{"id":"973","duration":1206.0,"languages":[{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2010Z/Blank/BarbaraBlock_2010Z-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DMission%2BBlue%2BVoyage%26id%3D973%26tag%3Dmission%2Bblue%2Coceans%2Cscience%2Ctechnology%26talk%3Dbarbara_block_tagging_tuna_in_the_deep_ocean%26year%3D2010&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"973","talk":"barbara_block_tagging_tuna_in_the_deep_ocean","tag":"mission blue,oceans,science,technology","year":"2010","event":"Mission Blue Voyage"},"stream":"https://hls.ted.com/talks/973.m3u8","metadata":"https://hls.ted.com/talks/973.json"}},"targeting":{"id":"973","talk":"barbara_block_tagging_tuna_in_the_deep_ocean","tag":"mission blue,oceans,science,technology","year":"2010","event":"Mission Blue Voyage"},"canonical":"https://www.ted.com/talks/barbara_block_tagging_tuna_in_the_deep_ocean","name":"Barbara Block: Tagging tuna in the deep ocean","title":"Tagging tuna in the deep ocean","speaker":"Barbara Block","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/204749_800x600.jpg?quality=89&w=600","slug":"barbara_block_tagging_tuna_in_the_deep_ocean","event":"Mission Blue Voyage","published":1286355180}],"ratings":[{"id":10,"name":"Inspiring","count":71},{"id":8,"name":"Informative","count":130},{"id":22,"name":"Fascinating","count":95},{"id":1,"name":"Beautiful","count":22},{"id":3,"name":"Courageous","count":13},{"id":23,"name":"Jaw-dropping","count":26},{"id":11,"name":"Longwinded","count":18},{"id":9,"name":"Ingenious","count":37},{"id":24,"name":"Persuasive","count":46},{"id":25,"name":"OK","count":17},{"id":21,"name":"Unconvincing","count":4},{"id":26,"name":"Obnoxious","count":5},{"id":2,"name":"Confusing","count":0},{"id":7,"name":"Funny","count":0}],"recorded_at":"2010-04-16T00:00:00.000+00:00","related_talks":[{"id":"830","hero":"https://pe.tedcdn.com/images/ted/163962_800x600.jpg","speaker":"Mike deGruy","title":"Hooked by an octopus","duration":1092.0,"slug":"mike_degruy_hooked_by_octopus","viewed_count":1003275},{"id":"873","hero":"https://pe.tedcdn.com/images/ted/174901_800x600.jpg","speaker":"Brian Skerry","title":"The ocean's glory -- and horror","duration":973.0,"slug":"brian_skerry_reveals_ocean_s_glory_and_horror","viewed_count":1483609},{"id":"939","hero":"https://pe.tedcdn.com/images/ted/193573_800x600.jpg","speaker":"Jim Toomey","title":"Learning from Sherman the shark","duration":855.0,"slug":"jim_toomey_learning_from_sherman_the_shark","viewed_count":487888},{"id":"1360","hero":"https://pe.tedcdn.com/images/ted/73df1d7b928ae18f5793bdef1c82557aa4b3a186_800x600.jpg","speaker":"Simon Berrow","title":"How do you save a shark you know nothing about?","duration":1006.0,"slug":"simon_berrow_how_do_you_save_a_shark_you_know_nothing_about","viewed_count":494454},{"id":"126","hero":"https://pe.tedcdn.com/images/ted/372_480x360.jpg","speaker":"Tierney Thys","title":"Swim with the giant sunfish","duration":1001.0,"slug":"tierney_thys_swims_with_the_giant_sunfish","viewed_count":1029531},{"id":"2434","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/7682c122-5487-4db5-ad97-7ed831b7ecc0/ThomasPeschak_2015Z-embed.jpg","speaker":"Thomas Peschak","title":"Dive into an ocean photographer's world","duration":610.0,"slug":"thomas_peschak_dive_into_an_ocean_photographer_s_world","viewed_count":962571}],"slug":"barbara_block_tagging_tuna_in_the_deep_ocean","speakers":[{"id":"801","slug":"barbara_block","is_published":true,"firstname":"Barbara","lastname":"Block","middleinitial":"","title":"","description":"Marine biologist","photo_url":"https://pe.tedcdn.com/images/ted/204750_254x191.jpg","whatotherssay":"","whotheyare":"Barbara Block studies how tuna, billfish and sharks move around (and stay warm) in the open ocean. Knowing how these large predators travel through pelagic waters will help us understand their role in the wider ocean ecosystem.","whylisten":"<p>Barbara Block takes a multidisciplinary approach to studying how large pelagic fish live and travel in the open ocean. Using novel electronic tags, Block and her team track large predators &mdash; tunas, billfish and sharks &mdash; on their ocean journeys. She also studies how and why muscle makes heat at a molecular level in fish. <br /><br />Working out of <a href=\"http://www-marine.stanford.edu/block.htm\" target=\"_blank\">Stanford</a>&#39;s Hopkins Marine Station, Block and her colleagues run the Tuna Research and Conservation Center, a member of the<a href=\"http://www.topp.org/\" target=\"_blank\"> Tagging of Pacific Predators (TOPP)</a>  program. Combining tracking data with physiological and genetic analyses, Block (a MacArthur &quot;genius&quot; grant winner) is developing population and ecological models to help us understand these fishes&#39; roles in the ocean ecosystem &mdash; and perhaps learn to better manage these important food fish.</p>"}],"speaker_name":"Barbara Block","tags":["mission blue","oceans","science","technology"],"title":"Tagging tuna in the deep ocean","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":341275}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

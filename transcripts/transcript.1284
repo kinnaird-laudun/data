@@ -1,0 +1,1312 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Clay Shirky: How the Internet will (one day) transform government | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: The open-source world has learned to deal with a flood of new, oftentimes divergent, ideas using hosting services like GitHub -- so why can’t governments? In this rousing talk Clay Shirky shows how democracies can take a lesson from the Internet, to be not just transparent but also to draw on the knowledge of all their citizens." />
+<meta name="author" content="Clay Shirky" />
+<link rel="canonical" href="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript?language=el" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript?language=en" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript?language=vi" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript?language=pt-br" />
+<link rel="alternate" hreflang="cs" href="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript?language=cs" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript?language=nl" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="nb" href="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript?language=nb" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript?language=tr" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript?language=fr" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript?language=de" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript?language=hu" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript?language=fa" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript?language=he" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript?language=sr" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript?language=ko" />
+<meta property="og:title" content="Transcript of &quot;How the Internet will (one day) transform government&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/39d58abd56cf9edd6936f4f42119a15e65692dc1_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/39d58abd56cf9edd6936f4f42119a15e65692dc1_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Clay Shirky: How the Internet will (one day) transform government" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: The open-source world has learned to deal with a flood of new, oftentimes divergent, ideas using hosting services like GitHub -- so why can’t governments? In this rousing talk Clay Shirky shows how democracies can take a lesson from the Internet, to be not just transparent but also to draw on the knowledge of all their citizens." />
+<meta property="og:url" content="https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 1546);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government' itemprop='url'>
+<meta content='How the Internet will (one day) transform government' itemprop='name'>
+<meta content='The open-source world has learned to deal with a flood of new, oftentimes divergent, ideas using hosting services like GitHub — so why can’t governments? In this rousing talk Clay Shirky shows how democracies can take a lesson from the Internet, to be not just transparent but also to draw on the knowledge of all their citizens.' itemprop='description'>
+<meta content='PT18M32S' itemprop='duration'>
+<meta content='2012-09-25T14:51:45+00:00' itemprop='uploadDate'>
+<meta content='1264105' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/39d58abd56cf9edd6936f4f42119a15e65692dc1_1600x1200.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/clay_shirky' itemprop='url'>
+<meta content='Clay Shirky' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/48286_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/39d58abd56cf9edd6936f4f42119a15e65692dc1_1600x1200.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Clay Shirky
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,264,105
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 18:32</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I want to talk to you today about something
+											the open-source programming world can teach democracy,
+											but before that, a little preamble.
+											Let&#39;s start here.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is Martha Payne. Martha&#39;s a 9-year-old Scot
+											who lives in the Council of Argyll and Bute.
+											A couple months ago, Payne started a food blog
+											called NeverSeconds, and she would take her camera
+											with her every day to school to document
+											her school lunches.
+											Can you spot the vegetable? (Laughter)
+											And, as sometimes happens,
+											this blog acquired first dozens of readers,
+											and then hundreds of readers,
+											and then thousands of readers, as people tuned in
+											to watch her rate her school lunches,
+											including on my favorite category,
+											&quot;Pieces of hair found in food.&quot; (Laughter)
+											This was a zero day. That&#39;s good.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And then two weeks ago yesterday, she posted this.
+											A post that read: &quot;Goodbye.&quot;
+											And she said, &quot;I&#39;m very sorry to tell you this, but
+											my head teacher pulled me out of class today and told me
+											I&#39;m not allowed to take pictures in the lunch room anymore.
+											I really enjoyed doing this.
+											Thank you for reading. Goodbye.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											You can guess what happened next, right? (Laughter)
+											The outrage was so swift, so voluminous, so unanimous,
+											that the Council of Argyll and Bute reversed themselves
+											the same day and said, &quot;We would,
+											we would never censor a nine-year-old.&quot; (Laughter)
+											Except, of course, this morning. (Laughter)
+											And this brings up the question,
+											what made them think they could get away
+											with something like that? (Laughter)
+											And the answer is, all of human history prior to now.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter) So,
+											what happens when a medium suddenly puts
+											a lot of new ideas into circulation?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, this isn&#39;t just a contemporaneous question.
+											This is something we&#39;ve faced several times
+											over the last few centuries.
+											When the telegraph came along, it was clear
+											that it was going to globalize the news industry.
+											What would this lead to?
+											Well, obviously, it would lead to world peace.
+											The television, a medium that allowed us not just to hear
+											but see, literally see, what was going on
+											elsewhere in the world, what would this lead to?
+											World peace. (Laughter)
+											The telephone?
+											You guessed it: world peace.
+											Sorry for the spoiler alert, but no world peace. Not yet.
+											Even the printing press, even the printing press
+											was assumed to be a tool that was going to enforce
+											Catholic intellectual hegemony across Europe.
+											Instead, what we got was Martin Luther&#39;s 95 Theses,
+											the Protestant Reformation, and, you know,
+											the Thirty Years&#39; War. All right,
+											so what all of these predictions of world peace got right
+											is that when a lot of new ideas suddenly
+											come into circulation, it changes society.
+											What they got exactly wrong was what happens next.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The more ideas there are in circulation,
+											the more ideas there are for any individual to disagree with.
+											More media always means more arguing.
+											That&#39;s what happens when the media&#39;s space expands.
+											And yet, when we look back on the printing press
+											in the early years, we like what happened.
+											We are a pro-printing press society.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So how do we square those two things,
+											that it leads to more arguing, but we think it was good?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And the answer, I think, can be found in things like this.
+											This is the cover of &quot;Philosophical Transactions,&quot;
+											the first scientific journal ever published in English
+											in the middle of the 1600s,
+											and it was created by a group of people who had been
+											calling themselves &quot;The Invisible College,&quot;
+											a group of natural philosophers who only later
+											would call themselves scientists,
+											and they wanted to improve the way
+											natural philosophers argued with each other,
+											and they needed to do two things for this.
+											They needed openness. They needed to create a norm
+											which said, when you do an experiment,
+											you have to publish not just your claims,
+											but how you did the experiment.
+											If you don&#39;t tell us how you did it, we won&#39;t trust you.
+											But the other thing they needed was speed.
+											They had to quickly synchronize what
+											other natural philosophers knew. Otherwise,
+											you couldn&#39;t get the right kind of argument going.
+											The printing press was clearly the right medium for this,
+											but the book was the wrong tool. It was too slow.
+											And so they invented the scientific journal
+											as a way of synchronizing the argument
+											across the community of natural scientists.
+											The scientific revolution wasn&#39;t created by the printing press.
+											It was created by scientists,
+											but it couldn&#39;t have been created if they didn&#39;t have
+											a printing press as a tool.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So what about us? What about our generation,
+											and our media revolution, the Internet?
+											Well, predictions of world peace? Check. (Laughter)
+											More arguing? Gold star on that one. (Laughter)
+											(Laughter)
+											I mean, YouTube is just a gold mine. (Laughter)
+											Better arguing? That&#39;s the question.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So I study social media, which means,
+											to a first approximation, I watch people argue.
+											And if I had to pick a group that I think is
+											our Invisible College, is our generation&#39;s collection of people
+											trying to take these tools and to press it into service,
+											not for more arguments, but for better arguments,
+											I&#39;d pick the open-source programmers.
+											Programming is a three-way relationship
+											between a programmer, some source code,
+											and the computer it&#39;s meant to run on, but computers
+											are such famously inflexible interpreters of instructions
+											that it&#39;s extraordinarily difficult to write out a set
+											of instructions that the computer knows how to execute,
+											and that&#39;s if one person is writing it.
+											Once you get more than one person writing it,
+											it&#39;s very easy for any two programmers to overwrite
+											each other&#39;s work if they&#39;re working on the same file,
+											or to send incompatible instructions
+											that simply causes the computer to choke,
+											and this problem grows larger
+											the more programmers are involved.
+											To a first approximation, the problem of managing
+											a large software project is the problem
+											of keeping this social chaos at bay.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, for decades there has been a canonical solution
+											to this problem, which is to use something called
+											a &quot;version control system,&quot;
+											and a version control system does what is says on the tin.
+											It provides a canonical copy of the software
+											on a server somewhere.
+											The only programmers who can change it are people
+											who&#39;ve specifically been given permission to access it,
+											and they&#39;re only allowed to access the sub-section of it
+											that they have permission to change.
+											And when people draw diagrams of version control systems,
+											the diagrams always look something like this.
+											All right. They look like org charts.
+											And you don&#39;t have to squint very hard
+											to see the political ramifications of a system like this.
+											This is feudalism: one owner, many workers.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, that&#39;s fine for the commercial software industry.
+											It really is Microsoft&#39;s Office. It&#39;s Adobe&#39;s Photoshop.
+											The corporation owns the software.
+											The programmers come and go.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But there was one programmer who decided
+											that this wasn&#39;t the way to work.
+											This is Linus Torvalds.
+											Torvalds is the most famous open-source programmer,
+											created Linux, obviously, and Torvalds looked at the way
+											the open-source movement had been dealing with this problem.
+											Open-source software, the core promise of the open-source license,
+											is that everybody should have access to all the source code
+											all the time, but of course, this creates
+											the very threat of chaos you have to forestall
+											in order to get anything working.
+											So most open-source projects just held their noses
+											and adopted the feudal management systems.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But Torvalds said, &quot;No, I&#39;m not going to do that.&quot;
+											His point of view on this was very clear.
+											When you adopt a tool, you also adopt
+											the management philosophy embedded in that tool,
+											and he wasn&#39;t going to adopt anything that didn&#39;t work
+											the way the Linux community worked.
+											And to give you a sense of how enormous
+											a decision like this was, this is a map
+											of the internal dependencies within Linux,
+											within the Linux operating system, which sub-parts
+											of the program rely on which other sub-parts to get going.
+											This is a tremendously complicated process.
+											This is a tremendously complicated program,
+											and yet, for years, Torvalds ran this
+											not with automated tools but out of his email box.
+											People would literally mail him changes
+											that they&#39;d agreed on, and he would merge them by hand.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And then, 15 years after looking at Linux and figuring out
+											how the community worked, he said, &quot;I think I know
+											how to write a version control system for free people.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And he called it &quot;Git.&quot; Git is distributed version control.
+											It has two big differences
+											with traditional version control systems.
+											The first is that it lives up to the philosophical promise
+											of open-source. Everybody who works on a project
+											has access to all of the source code all of the time.
+											And when people draw diagrams of Git workflow,
+											they use drawings that look like this.
+											And you don&#39;t have to understand what the circles
+											and boxes and arrows mean to see that this is a far more
+											complicated way of working than is supported
+											by ordinary version control systems.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But this is also the thing that brings the chaos back,
+											and this is Git&#39;s second big innovation.
+											This is a screenshot from GitHub, the premier Git hosting service,
+											and every time a programmer uses Git
+											to make any important change at all,
+											creating a new file, modifying an existing one,
+											merging two files, Git creates this kind of signature.
+											This long string of numbers and letters here
+											is a unique identifier tied to every single change,
+											but without any central coordination.
+											Every Git system generates this number the same way,
+											which means this is a signature tied directly
+											and unforgeably to a particular change.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This has the following effect:
+											A programmer in Edinburgh and a programmer in Entebbe
+											can both get the same — a copy of the same piece of software.
+											Each of them can make changes and they can merge them
+											after the fact even if they didn&#39;t know
+											of each other&#39;s existence beforehand.
+											This is cooperation without coordination.
+											This is the big change.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, I tell you all of this not to convince you that it&#39;s great
+											that open-source programmers now have a tool
+											that supports their philosophical way of working,
+											although I think that is great.
+											I tell you all of this because of what I think it means
+											for the way communities come together.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Once Git allowed for cooperation without coordination,
+											you start to see communities form
+											that are enormously large and complex.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is a graph of the Ruby community.
+											It&#39;s an open-source programming language,
+											and all of the interconnections between the people —
+											this is now not a software graph, but a people graph,
+											all of the interconnections among the people
+											working on that project —
+											and this doesn&#39;t look like an org chart.
+											This looks like a dis-org chart, and yet,
+											out of this community, but using these tools,
+											they can now create something together.
+											So there are two good reasons to think that
+											this kind of technique can be applied
+											to democracies in general and in particular to the law.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											When you make the claim, in fact,
+											that something on the Internet is going to be good
+											for democracy, you often get this reaction.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Music) (Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Which is, are you talking about the thing
+											with the singing cats? Like, is that the thing
+											you think is going to be good for society?
+											To which I have to say, here&#39;s the thing
+											with the singing cats. That always happens.
+											And I don&#39;t just mean that always happens with the Internet,
+											I mean that always happens with media, full stop.
+											It did not take long after the rise
+											of the commercial printing press before someone
+											figured out that erotic novels were a good idea. (Laughter)
+											You don&#39;t have to have an economic incentive to sell books
+											very long before someone says, &quot;Hey, you know what I bet
+											people would pay for?&quot; (Laughter)
+											It took people another 150 years to even think
+											of the scientific journal, right? So — (Laughter) (Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So the harnessing by the Invisible College
+											of the printing press to create the scientific journal
+											was phenomenally important, but it didn&#39;t happen big,
+											and it didn&#39;t happen quick, and it didn&#39;t happen fast, so
+											if you&#39;re going to look for where the change is happening,
+											you have to look on the margins.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, the law is also dependency-related.
+											This is a graph of the U.S. Tax Code,
+											and the dependencies of one law on other laws
+											for the overall effect.
+											So there&#39;s that as a site for source code management.
+											But there&#39;s also the fact that law is another place
+											where there are many opinions in circulation,
+											but they need to be resolved to one canonical copy,
+											and when you go onto GitHub, and you look around,
+											there are millions and millions of projects,
+											almost all of which are source code,
+											but if you look around the edges, you can see people
+											experimenting with the political ramifications
+											of a system like that.
+											Someone put up all the Wikileaked cables
+											from the State Department, along with software used
+											to interpret them, including my favorite use ever
+											of the Cablegate cables, which is a tool for detecting
+											naturally occurring haiku in State Department prose.
+											(Laughter)
+											Right. (Laughter)
+											The New York Senate has put up something called
+											Open Legislation, also hosting it on GitHub,
+											again for all of the reasons of updating and fluidity.
+											You can go and pick your Senator and then you can see
+											a list of bills they have sponsored.
+											Someone going by Divegeek has put up the Utah code,
+											the laws of the state of Utah, and they&#39;ve put it up there
+											not just to distribute the code,
+											but with the very interesting possibility that this could
+											be used to further the development of legislation.
+											Somebody put up a tool during the copyright debate
+											last year in the Senate, saying, &quot;It&#39;s strange that Hollywood
+											has more access to Canadian legislators
+											than Canadian citizens do. Why don&#39;t we use GitHub
+											to show them what a citizen-developed bill might look like?&quot;
+											And it includes this very evocative screenshot.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is a called a &quot;diff,&quot; this thing on the right here.
+											This shows you, for text that many people are editing,
+											when a change was made, who made it,
+											and what the change is.
+											The stuff in red is the stuff that got deleted.
+											The stuff in green is the stuff that got added.
+											Programmers take this capability for granted.
+											No democracy anywhere in the world offers this feature
+											to its citizens for either legislation or for budgets,
+											even though those are the things done
+											with our consent and with our money.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, I would love to tell you that the fact
+											that the open-source programmers have worked out
+											a collaborative method that is large scale, distributed,
+											cheap, and in sync with the ideals of democracy, I would love
+											to tell you that because those tools are in place,
+											the innovation is inevitable. But it&#39;s not.
+											Part of the problem, of course, is just a lack of information.
+											Somebody put a question up on Quora saying,
+											&quot;Why is it that lawmakers don&#39;t use
+											distributed version control?&quot;
+											This, graphically, was the answer. (Laughter)
+											(Laughter) (Applause)
+											And that is indeed part of the problem, but only part.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The bigger problem, of course, is power.
+											The people experimenting with participation don&#39;t have
+											legislative power, and the people who have legislative
+											power are not experimenting with participation.
+											They are experimenting with openness.
+											There&#39;s no democracy worth the name that doesn&#39;t have
+											a transparency move, but transparency is openness
+											in only one direction, and being given a dashboard
+											without a steering wheel has never been the core promise
+											a democracy makes to its citizens.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So consider this.
+											The thing that got Martha Payne&#39;s opinions
+											out into the public was a piece of technology,
+											but the thing that kept them there was political will.
+											It was the expectation of the citizens
+											that she would not be censored.
+											That&#39;s now the state we&#39;re in with these collaboration tools.
+											We have them. We&#39;ve seen them. They work.
+											Can we use them?
+											Can we apply the techniques that worked here to this?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											T.S. Eliot once said, &quot;One of the most momentous things
+											that can happen to a culture
+											is that they acquire a new form of prose.&quot;
+											I think that&#39;s wrong, but — (Laughter)
+											I think it&#39;s right for argumentation. Right?
+											A momentous thing that can happen to a culture
+											is they can acquire a new style of arguing:
+											trial by jury, voting, peer review, now this. Right?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											A new form of arguing has been invented in our lifetimes,
+											in the last decade, in fact.
+											It&#39;s large, it&#39;s distributed, it&#39;s low-cost,
+											and it&#39;s compatible with the ideals of democracy.
+											The question for us now is, are we going to let
+											the programmers keep it to themselves?
+											Or are we going to try and take it and press it into service
+											for society at large?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you for listening. (Applause)
+											(Applause)
+											Thank you. Thank you. (Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":14688,"count":204,"talk_id":1546},"threadId":14688,"current_talk":"1546","description":"The open-source world has learned to deal with a flood of new, oftentimes divergent, ideas using hosting services like GitHub -- so why can’t governments? In this rousing talk Clay Shirky shows how democracies can take a lesson from the Internet, to be not just transparent but also to draw on the knowledge of all their citizens.","event":"TEDGlobal 2012","language":"en","name":"Clay Shirky: How the Internet will (one day) transform government","slug":"clay_shirky_how_the_internet_will_one_day_transform_government","speakers":[{"id":"243","slug":"clay_shirky","is_published":true,"firstname":"Clay","lastname":"Shirky","middleinitial":"","title":"","description":"Social Media Theorist","photo_url":"https://pe.tedcdn.com/images/ted/48286_254x191.jpg","whatotherssay":"Shirky is one of the handful of people with justifiable claim to the digerati moniker. He's become a consistently prescient voice on networks, social software, and technology's effects on society.","whotheyare":"Clay Shirky argues that the history of the modern world could be rendered as the history of ways of arguing, where changes in media change what sort of arguments are possible -- with deep social and political implications.","whylisten":"<p>Clay Shirky&#39;s work focuses on the rising usefulness of networks -- using decentralized technologies such as peer-to-peer sharing, wireless, software for social creation, and open-source development. New technologies are enabling new kinds of cooperative structures to flourish as a way of getting things done in business, science, the arts and elsewhere, as an alternative to centralized and institutional structures, which he sees as self-limiting. In his writings and speeches he has argued that &quot;a group is its own worst enemy.&quot;</p>                <p>Shirky is an adjunct professor in New York Universityʼs graduate&nbsp;<a href=\"http://itp.tisch.nyu.edu/object/ShirkyC.html\" target=\"_blank\">Interactive Telecommunications Program</a>, where he teaches a course named &ldquo;<a href=\"http://itp.tisch.nyu.edu/object/H79.2014Lab\" target=\"_blank\">Social Weather</a>.&rdquo; Heʼs the author of several books. This spring at the TED headquarters in New York, he gave an impassioned talk against&nbsp;<a href=\"https://www.ted.com/talks/defend_our_freedom_to_share_or_why_sopa_is_a_bad_idea.html\" target=\"_blank\">SOPA/PIPA</a>&nbsp;that saw 1 million views in 48 hours.</p>"}],"url":"https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government","viewed_count":1264104,"talks":[{"recommendations":null,"more_resources":[{"status":"approved","headline":"Why an Internet \"slow lane\" is a terrible idea","blurb":"In this Q&A, learn what Clay Shirky thinks about the FCC's \"Protecting and Promoting the Open Internet.\"","link_url":"http://ideas.ted.com/why-an-internet-slow-lane-is-a-terrible-idea/","image_url":"https://tedideas.files.wordpress.com/2014/05/shirkyqa_r.png","visible_url":"","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"from_the_blog"}],"corrections":[],"has_citations":false,"take_action":[],"curator_approved":true,"description":"The open-source world has learned to deal with a flood of new, oftentimes divergent, ideas using hosting services like GitHub -- so why can’t governments? In this rousing talk Clay Shirky shows how democracies can take a lesson from the Internet, to be not just transparent but also to draw on the knowledge of all their citizens.","downloads":{"id":1546,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Norwegian Bokmal","endonym":"Norsk bokmål","languageCode":"nb","ianaCode":"nb","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/ClayShirky_2012G-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/ClayShirky_2012G.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/ClayShirky_2012G-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"en":{"name":"English","low":"https://download.ted.com/talks/ClayShirky_2012G-low-en.mp4","high":"https://download.ted.com/talks/ClayShirky_2012G-480p-en.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/ClayShirky_2012G-low-zh-cn.mp4","high":"https://download.ted.com/talks/ClayShirky_2012G-480p-zh-cn.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/ClayShirky_2012G-low-ja.mp4","high":"https://download.ted.com/talks/ClayShirky_2012G-480p-ja.mp4"},"fr":{"name":"French","low":"https://download.ted.com/talks/ClayShirky_2012G-low-fr.mp4","high":"https://download.ted.com/talks/ClayShirky_2012G-480p-fr.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/ClayShirky_2012G-low-sr.mp4","high":"https://download.ted.com/talks/ClayShirky_2012G-480p-sr.mp4"},"cs":{"name":"Czech","low":"https://download.ted.com/talks/ClayShirky_2012G-low-cs.mp4","high":"https://download.ted.com/talks/ClayShirky_2012G-480p-cs.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/ClayShirky_2012G-low-zh-tw.mp4","high":"https://download.ted.com/talks/ClayShirky_2012G-480p-zh-tw.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/ClayShirky_2012G-low-nl.mp4","high":"https://download.ted.com/talks/ClayShirky_2012G-480p-nl.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/ClayShirky_2012G-low-it.mp4","high":"https://download.ted.com/talks/ClayShirky_2012G-480p-it.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/ClayShirky_2012G-low-ru.mp4","high":"https://download.ted.com/talks/ClayShirky_2012G-480p-ru.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/ClayShirky_2012G-low-ko.mp4","high":"https://download.ted.com/talks/ClayShirky_2012G-480p-ko.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/ClayShirky_2012G-low-pt-br.mp4","high":"https://download.ted.com/talks/ClayShirky_2012G-480p-pt-br.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/ClayShirky_2012G-low-tr.mp4","high":"https://download.ted.com/talks/ClayShirky_2012G-480p-tr.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/ClayShirky_2012G-low-he.mp4","high":"https://download.ted.com/talks/ClayShirky_2012G-480p-he.mp4"},"de":{"name":"German","low":"https://download.ted.com/talks/ClayShirky_2012G-low-de.mp4","high":"https://download.ted.com/talks/ClayShirky_2012G-480p-de.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/ClayShirky_2012G-low-fa.mp4","high":"https://download.ted.com/talks/ClayShirky_2012G-480p-fa.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/ClayShirky_2012G-low-es.mp4","high":"https://download.ted.com/talks/ClayShirky_2012G-480p-es.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/ClayShirky_2012G-low-pl.mp4","high":"https://download.ted.com/talks/ClayShirky_2012G-480p-pl.mp4"},"ro":{"name":"Romanian","high":"https://download.ted.com/talks/ClayShirky_2012G-480p-ro.mp4","low":"https://download.ted.com/talks/ClayShirky_2012G-low-ro.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/ClayShirky_2012G-low-vi.mp4","high":"https://download.ted.com/talks/ClayShirky_2012G-480p-vi.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/ClayShirky_2012G-low-ar.mp4","high":"https://download.ted.com/talks/ClayShirky_2012G-480p-ar.mp4"},"nb":{"name":"Norwegian Bokmal","low":"https://download.ted.com/talks/ClayShirky_2012G-low-nb.mp4","high":"https://download.ted.com/talks/ClayShirky_2012G-480p-nb.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/ClayShirky_2012G-low-hu.mp4","high":"https://download.ted.com/talks/ClayShirky_2012G-480p-hu.mp4"},"el":{"name":"Greek","high":"https://download.ted.com/talks/ClayShirky_2012G-480p-el.mp4","low":"https://download.ted.com/talks/ClayShirky_2012G-low-el.mp4"}},"audioDownload":"https://download.ted.com/talks/ClayShirky_2012G.mp3?apikey=acme-roadrunner"},"duration":1112.0,"event":"TEDGlobal 2012","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/39d58abd56cf9edd6936f4f42119a15e65692dc1_1600x1200.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/39d58abd56cf9edd6936f4f42119a15e65692dc1_1600x1200.jpg?q=50&w=15","id":"1546","player_talks":[{"id":"1546","duration":1112.0,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Norwegian Bokmal","endonym":"Norsk bokmål","languageCode":"nb","ianaCode":"nb","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2012G/Blank/ClayShirky_2012G-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDGlobal%2B2012%26id%3D1546%26tag%3DInternet%2Ccollaboration%2Cfuture%2Cgovernment%2Claw%2Copen-source%2Cpolitics%2Csocial%2Bmedia%2Csoftware%2Ctechnology%26talk%3Dclay_shirky_how_the_internet_will_one_day_transform_government%26year%3D2012&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"1546","talk":"clay_shirky_how_the_internet_will_one_day_transform_government","tag":"Internet,collaboration,future,government,law,open-source,politics,social media,software,technology","year":"2012","event":"TEDGlobal 2012"},"stream":"https://hls.ted.com/talks/1546.m3u8","metadata":"https://hls.ted.com/talks/1546.json"}},"targeting":{"id":"1546","talk":"clay_shirky_how_the_internet_will_one_day_transform_government","tag":"Internet,collaboration,future,government,law,open-source,politics,social media,software,technology","year":"2012","event":"TEDGlobal 2012"},"canonical":"https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government","name":"Clay Shirky: How the Internet will (one day) transform government","title":"How the Internet will (one day) transform government","speaker":"Clay Shirky","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/39d58abd56cf9edd6936f4f42119a15e65692dc1_1600x1200.jpg?quality=89&w=600","slug":"clay_shirky_how_the_internet_will_one_day_transform_government","event":"TEDGlobal 2012","published":1348584705}],"ratings":[{"id":24,"name":"Persuasive","count":349},{"id":9,"name":"Ingenious","count":188},{"id":8,"name":"Informative","count":310},{"id":7,"name":"Funny","count":83},{"id":10,"name":"Inspiring","count":390},{"id":22,"name":"Fascinating","count":197},{"id":23,"name":"Jaw-dropping","count":71},{"id":3,"name":"Courageous","count":46},{"id":11,"name":"Longwinded","count":13},{"id":21,"name":"Unconvincing","count":6},{"id":25,"name":"OK","count":21},{"id":2,"name":"Confusing","count":10},{"id":1,"name":"Beautiful","count":13},{"id":26,"name":"Obnoxious","count":4}],"recorded_at":"2012-06-26T00:00:00.000+00:00","related_talks":[{"id":"1329","hero":"https://pe.tedcdn.com/images/ted/b8b0b3e24229c2823cba77f2c3a00dc3b7c5ff70_800x600.jpg","speaker":"Clay Shirky","title":"Why SOPA is a bad idea","duration":839.0,"slug":"defend_our_freedom_to_share_or_why_sopa_is_a_bad_idea","viewed_count":1290549},{"id":"1491","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/77818fbc-23ef-4d8d-80d6-00034d1ddd35/MassimoBanzi_2012G-embed.jpg","speaker":"Massimo Banzi","title":"How Arduino is open-sourcing imagination","duration":946.0,"slug":"massimo_banzi_how_arduino_is_open_sourcing_imagination","viewed_count":1852844},{"id":"1558","hero":"https://pe.tedcdn.com/images/ted/6e908cc0a13e7eb1b3927f1e3a762f465cde1261_1600x1200.jpg","speaker":"Beth Noveck","title":"Demand a more open-source government","duration":1043.0,"slug":"beth_noveck_demand_a_more_open_source_government","viewed_count":536841},{"id":"2464","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/f69760c8-2dea-43ce-9594-f02ca4175946/LinusTorvalds_2016-embed.jpg","speaker":"Linus Torvalds","title":"The mind behind Linux","duration":1290.0,"slug":"linus_torvalds_the_mind_behind_linux","viewed_count":2809480},{"id":"1492","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/23190d2e-8092-422b-8799-4f71f423dac3/DonTapscott_2012G-embed.jpg","speaker":"Don Tapscott","title":"Four principles for the open world","duration":1070.0,"slug":"don_tapscott_four_principles_for_the_open_world_1","viewed_count":1050627},{"id":"7","hero":"https://pe.tedcdn.com/images/ted/ec8cb05b010ea5c373e085b4349e30723ae4aff0_1600x1200.jpg","speaker":"David Pogue","title":"Simplicity sells","duration":1286.0,"slug":"david_pogue_says_simplicity_sells","viewed_count":1702207}],"slug":"clay_shirky_how_the_internet_will_one_day_transform_government","speakers":[{"id":"243","slug":"clay_shirky","is_published":true,"firstname":"Clay","lastname":"Shirky","middleinitial":"","title":"","description":"Social Media Theorist","photo_url":"https://pe.tedcdn.com/images/ted/48286_254x191.jpg","whatotherssay":"Shirky is one of the handful of people with justifiable claim to the digerati moniker. He's become a consistently prescient voice on networks, social software, and technology's effects on society.","whotheyare":"Clay Shirky argues that the history of the modern world could be rendered as the history of ways of arguing, where changes in media change what sort of arguments are possible -- with deep social and political implications.","whylisten":"<p>Clay Shirky&#39;s work focuses on the rising usefulness of networks -- using decentralized technologies such as peer-to-peer sharing, wireless, software for social creation, and open-source development. New technologies are enabling new kinds of cooperative structures to flourish as a way of getting things done in business, science, the arts and elsewhere, as an alternative to centralized and institutional structures, which he sees as self-limiting. In his writings and speeches he has argued that &quot;a group is its own worst enemy.&quot;</p>                <p>Shirky is an adjunct professor in New York Universityʼs graduate&nbsp;<a href=\"http://itp.tisch.nyu.edu/object/ShirkyC.html\" target=\"_blank\">Interactive Telecommunications Program</a>, where he teaches a course named &ldquo;<a href=\"http://itp.tisch.nyu.edu/object/H79.2014Lab\" target=\"_blank\">Social Weather</a>.&rdquo; Heʼs the author of several books. This spring at the TED headquarters in New York, he gave an impassioned talk against&nbsp;<a href=\"https://www.ted.com/talks/defend_our_freedom_to_share_or_why_sopa_is_a_bad_idea.html\" target=\"_blank\">SOPA/PIPA</a>&nbsp;that saw 1 million views in 48 hours.</p>"}],"speaker_name":"Clay Shirky","tags":["Internet","collaboration","future","government","law","open-source","politics","social media","software","technology"],"title":"How the Internet will (one day) transform government","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":1264104}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

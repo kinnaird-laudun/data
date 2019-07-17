@@ -1,0 +1,1366 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Leila Takayama: What&#39;s it like to be a robot? | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: We already live among robots: tools and machines like dishwashers and thermostats so integrated into our lives that we&#39;d never think to call them that. What will a future with even more robots look like? Social scientist Leila Takayama shares some unique challenges of designing for human-robot interactions -- and how experimenting with robotic futures actually leads us to a better understanding of ourselves." />
+<meta name="author" content="Leila Takayama" />
+<link rel="canonical" href="https://www.ted.com/talks/leila_takayama_what_s_it_like_to_be_a_robot/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/leila_takayama_what_s_it_like_to_be_a_robot/transcript" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/leila_takayama_what_s_it_like_to_be_a_robot/transcript?language=en" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/leila_takayama_what_s_it_like_to_be_a_robot/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/leila_takayama_what_s_it_like_to_be_a_robot/transcript?language=nl" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/leila_takayama_what_s_it_like_to_be_a_robot/transcript?language=pt-br" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/leila_takayama_what_s_it_like_to_be_a_robot/transcript?language=es" />
+<link rel="alternate" hreflang="hr" href="https://www.ted.com/talks/leila_takayama_what_s_it_like_to_be_a_robot/transcript?language=hr" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/leila_takayama_what_s_it_like_to_be_a_robot/transcript?language=ru" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/leila_takayama_what_s_it_like_to_be_a_robot/transcript?language=ja" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/leila_takayama_what_s_it_like_to_be_a_robot/transcript?language=ar" />
+<meta property="og:title" content="Transcript of &quot;What&#39;s it like to be a robot?&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/214de943-de4e-4ff5-8c3b-de60b71901e7/LeilaTakayama_2017X-embed.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/214de943-de4e-4ff5-8c3b-de60b71901e7/LeilaTakayama_2017X-embed.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Leila Takayama: What&#39;s it like to be a robot?" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: We already live among robots: tools and machines like dishwashers and thermostats so integrated into our lives that we&#39;d never think to call them that. What will a future with even more robots look like? Social scientist Leila Takayama shares some unique challenges of designing for human-robot interactions -- and how experimenting with robotic futures actually leads us to a better understanding of ourselves." />
+<meta property="og:url" content="https://www.ted.com/talks/leila_takayama_what_s_it_like_to_be_a_robot/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 8780);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/leila_takayama_what_s_it_like_to_be_a_robot' itemprop='url'>
+<meta content="What's it like to be a robot?" itemprop='name'>
+<meta content="We already live among robots: tools and machines like dishwashers and thermostats so integrated into our lives that we'd never think to call them that. What will a future with even more robots look like? Social scientist Leila Takayama shares some unique challenges of designing for human-robot interactions — and how experimenting with robotic futures actually leads us to a better understanding of ourselves." itemprop='description'>
+<meta content='PT12M55S' itemprop='duration'>
+<meta content='2018-01-25T20:55:50+00:00' itemprop='uploadDate'>
+<meta content='1006372' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/214de943-de4e-4ff5-8c3b-de60b71901e7/LeilaTakayama_2017X-embed.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/leila_takayama' itemprop='url'>
+<meta content='Leila Takayama' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/1c96524e7231dfc798a0f82962d88b0e3224d25d_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/leila_takayama_what_s_it_like_to_be_a_robot' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/214de943-de4e-4ff5-8c3b-de60b71901e7/LeilaTakayama_2017X-embed.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Leila Takayama
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,006,372
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 12:55</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											You only get one chance
+to make a first impression,
+											and that&#39;s true if you&#39;re a robot
+as well as if you&#39;re a person.
+											The first time that I met
+one of these robots
+											was at a place
+called Willow Garage in 2008.
+											When I went to visit there,
+my host walked me into the building
+											and we met this little guy.
+											He was rolling into the hallway,
+											came up to me, sat there,
+											stared blankly past me,
+											did nothing for a while,
+											rapidly spun his head around 180 degrees
+											and then ran away.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And that was not a great first impression.
+											The thing that I learned
+about robots that day
+											is that they kind of do their own thing,
+											and they&#39;re not totally aware of us.
+											And I think as we&#39;re experimenting
+with these possible robot futures,
+											we actually end up learning
+a lot more about ourselves
+											as opposed to just these machines.
+											And what I learned that day
+											was that I had pretty high
+expectations for this little dude.
+											He was not only supposed to be able
+to navigate the physical world,
+											but also be able
+to navigate my social world —
+											he&#39;s in my space; it&#39;s a personal robot.
+											wWhy didn&#39;t it understand me?
+											My host explained to me,
+											&quot;Well, the robot is trying
+to get from point A to point B,
+											and you were an obstacle in his way,
+											so he had to replan his path,
+											figure out where to go,
+											and then get there some other way,&quot;
+											which was actually
+not a very efficient thing to do.
+											If that robot had figured out
+that I was a person, not a chair,
+											and that I was willing
+to get out of its way
+											if it was trying to get somewhere,
+											then it actually
+would have been more efficient
+											at getting its job done
+											if it had bothered
+to notice that I was a human
+											and that I have different affordances
+than things like chairs and walls do.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											You know, we tend to think of these robots
+as being from outer space
+											and from the future
+and from science fiction,
+											and while that could be true,
+											I&#39;d actually like to argue
+that robots are here today,
+											and they live and work
+amongst us right now.
+											These are two robots that live in my home.
+											They vacuum the floors
+and they cut the grass
+											every single day,
+											which is more than I would do
+if I actually had time to do these tasks,
+											and they probably
+do it better than I would, too.
+											This one actually takes care of my kitty.
+											Every single time
+he uses the box, it cleans it,
+											which is not something I&#39;m willing to do,
+											and it actually makes
+his life better as well as mine.
+											And while we call these robot products —
+											it&#39;s a &quot;robot vacuum cleaner,
+it&#39;s a robot lawnmower,
+											it&#39;s a robot littler box,&quot;
+											I think there&#39;s actually a bunch
+of other robots hiding in plain sight
+											that have just become so darn useful
+											and so darn mundane
+											that we call them things
+like, &quot;dishwasher,&quot; right?
+											They get new names.
+											They don&#39;t get called robot anymore
+											because they actually
+serve a purpose in our lives.
+											Similarly, a thermostat, right?
+											I know my robotics friends out there
+											are probably cringing
+at me calling this a robot,
+											but it has a goal.
+											Its goal is to make my house
+66 degrees Fahrenheit,
+											and it senses the world.
+											It knows it&#39;s a little bit cold,
+											it makes a plan and then
+it acts on the physical world.
+											It&#39;s robotics.
+											Even if it might not
+look like Rosie the Robot,
+											it&#39;s doing something
+that&#39;s really useful in my life
+											so I don&#39;t have to take care
+											of turning the temperature
+up and down myself.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And I think these systems
+live and work amongst us now,
+											and not only are these systems
+living amongst us
+											but you are probably
+a robot operator, too.
+											When you drive your car,
+											it feels like you are operating machinery.
+											You are also going
+from point A to point B,
+											but your car probably has power steering,
+											it probably has automatic braking systems,
+											it might have an automatic transmission
+and maybe even adaptive cruise control.
+											And while it might not be
+a fully autonomous car,
+											it has bits of autonomy,
+											and they&#39;re so useful
+											and they make us drive safer,
+											and we just sort of feel
+like they&#39;re invisible-in-use, right?
+											So when you&#39;re driving your car,
+											you should just feel like
+you&#39;re going from one place to another.
+											It doesn&#39;t feel like it&#39;s this big thing
+that you have to deal with and operate
+											and use these controls
+											because we spent so long
+learning how to drive
+											that they&#39;ve become
+extensions of ourselves.
+											When you park that car
+in that tight little garage space,
+											you know where your corners are.
+											And when you drive a rental car
+that maybe you haven&#39;t driven before,
+											it takes some time
+to get used to your new robot body.
+											And this is also true for people
+who operate other types of robots,
+											so I&#39;d like to share with you
+a few stories about that.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Dealing with the problem
+of remote collaboration.
+											So, at Willow Garage
+I had a coworker named Dallas,
+											and Dallas looked like this.
+											He worked from his home in Indiana
+in our company in California.
+											He was a voice in a box
+on the table in most of our meetings,
+											which was kind of OK
+except that, you know,
+											if we had a really heated debate
+and we didn&#39;t like what he was saying,
+											we might just hang up on him.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Then we might have a meeting
+after that meeting
+											and actually make the decisions
+in the hallway afterwards
+											when he wasn&#39;t there anymore.
+											So that wasn&#39;t so great for him.
+											And as a robotics company at Willow,
+											we had some extra
+robot body parts laying around,
+											so Dallas and his buddy Curt
+put together this thing,
+											which looks kind of
+like Skype on a stick on wheels,
+											which seems like a techy, silly toy,
+											but really it&#39;s probably
+one of the most powerful tools
+											that I&#39;ve seen ever made
+for remote collaboration.
+											So now, if I didn&#39;t answer
+Dallas&#39; email question,
+											he could literally roll into my office,
+											block my doorway
+and ask me the question again —
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											until I answered it.
+											And I&#39;m not going to turn him off, right?
+That&#39;s kind of rude.
+											Not only was it good
+for these one-on-one communications,
+											but also for just showing up
+at the company all-hands meeting.
+											Getting your butt in that chair
+											and showing people that you&#39;re present
+and committed to your project
+											is a big deal
+											and can help remote collaboration a ton.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We saw this over the period
+of months and then years,
+											not only at our company
+but at others, too.
+											The best thing that can happen
+with these systems
+											is that it starts to feel
+like you&#39;re just there.
+											It&#39;s just you, it&#39;s just your body,
+											and so people actually start
+to give these things personal space.
+											So when you&#39;re having a stand-up meeting,
+											people will stand around the space
+											just as they would
+if you were there in person.
+											That&#39;s great until
+there&#39;s breakdowns and it&#39;s not.
+											People, when they first see these robots,
+											are like, &quot;Wow, where&#39;s the components?
+There must be a camera over there,&quot;
+											and they start poking your face.
+											&quot;You&#39;re talking too softly,
+I&#39;m going to turn up your volume,&quot;
+											which is like having a coworker
+walk up to you and say,
+											&quot;You&#39;re speaking too softly,
+I&#39;m going to turn up your face.&quot;
+											That&#39;s awkward and not OK,
+											and so we end up having to build
+these new social norms
+											around using these systems.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Similarly, as you start
+feeling like it&#39;s your body,
+											you start noticing things like,
+&quot;Oh, my robot is kind of short.&quot;
+											Dallas would say things to me —
+he was six-foot tall —
+											and we would take him via robot
+to cocktail parties and things like that,
+											as you do,
+											and the robot was about five-foot-tall,
+which is close to my height.
+											And he would tell me,
+											&quot;You know, people are not
+really looking at me.
+											I feel like I&#39;m just looking
+at this sea of shoulders,
+											and it&#39;s just — we need a taller robot.&quot;
+											And I told him,
+											&quot;Um, no.
+											You get to walk in my shoes for today.
+											You get to see what it&#39;s like
+to be on the shorter end of the spectrum.&quot;
+											And he actually ended up building
+a lot of empathy for that experience,
+											which was kind of great.
+											So when he&#39;d come visit in person,
+											he no longer stood over me
+as he was talking to me,
+											he would sit down
+and talk to me eye to eye,
+											which was kind of a beautiful thing.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So we actually decided
+to look at this in the laboratory
+											and see what others kinds of differences
+things like robot height would make.
+											And so half of the people in our study
+used a shorter robot,
+											half of the people in our study
+used a taller robot
+											and we actually found
+that the exact same person
+											who has the exact same body
+and says the exact same things as someone,
+											is more persuasive
+and perceived as being more credible
+											if they&#39;re in a taller robot form.
+											It makes no rational sense,
+											but that&#39;s why we study psychology.
+											And really, you know,
+the way that Cliff Nass would put this
+											is that we&#39;re having to deal
+with these new technologies
+											despite the fact
+that we have very old brains.
+											Human psychology is not changing
+at the same speed that tech is
+											and so we&#39;re always playing catch-up,
+											trying to make sense of this world
+											where these autonomous things
+are running around.
+											Usually, things that talk are people,
+not machines, right?
+											And so we breathe a lot of meaning
+into things like just height of a machine,
+											not a person,
+											and attribute that
+to the person using the system.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											You know, this, I think,
+is really important
+											when you&#39;re thinking about robotics.
+											It&#39;s not so much about reinventing humans,
+											it&#39;s more about figuring out
+how we extend ourselves, right?
+											And we end up using things
+in ways that are sort of surprising.
+											So these guys can&#39;t play pool
+because the robots don&#39;t have arms,
+											but they can heckle the guys
+who are playing pool
+											and that can be an important thing
+for team bonding,
+											which is kind of neat.
+											People who get really good
+at operating these systems
+											will even do things
+like make up new games,
+											like robot soccer
+in the middle of the night,
+											pushing the trash cans around.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But not everyone&#39;s good.
+											A lot of people have trouble
+operating these systems.
+											This is actually a guy
+who logged into the robot
+											and his eyeball was turned
+90 degrees to the left.
+											He didn&#39;t know that,
+											so he ended up just bashing
+around the office,
+											running into people&#39;s desks,
+getting super embarrassed,
+											laughing about it —
+his volume was way too high.
+											And this guy here
+in the image is telling me,
+											&quot;We need a robot mute button.&quot;
+											And by that what he really meant
+was we don&#39;t want it to be so disruptive.
+											So as a robotics company,
+											we added some obstacle
+avoidance to the system.
+											It got a little laser range finder
+that could see the obstacles,
+											and if I as a robot operator
+try to say, run into a chair,
+											it wouldn&#39;t let me,
+it would just plan a path around,
+											which seems like a good idea.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											People did hit fewer obstacles
+using that system, obviously,
+											but actually, for some of the people,
+											it took them a lot longer
+to get through our obstacle course,
+											and we wanted to know why.
+											It turns out that there&#39;s
+this important human dimension —
+											a personality dimension
+called locus of control,
+											and people who have
+a strong internal locus of control,
+											they need to be the masters
+of their own destiny —
+											really don&#39;t like giving up control
+to an autonomous system —
+											so much so that they will
+fight the autonomy;
+											&quot;If I want to hit that chair,
+I&#39;m going to hit that chair.&quot;
+											And so they would actually suffer
+from having that autonomous assistance,
+											which is an important thing for us to know
+											as we&#39;re building increasingly
+autonomous, say, cars, right?
+											How are different people going
+to grapple with that loss of control?
+											It&#39;s going to be different
+depending on human dimensions.
+											We can&#39;t treat humans
+as if we&#39;re just one monolithic thing.
+											We vary by personality, by culture,
+											we even vary by emotional state
+moment to moment,
+											and being able to design these systems,
+											these human-robot interaction systems,
+											we need to take into account
+the human dimensions,
+											not just the technological ones.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Along with a sense of control
+also comes a sense of responsibility.
+											And if you were a robot operator
+using one of these systems,
+											this is what the interface
+would look like.
+											It looks a little bit like a video game,
+											which can be good because
+that&#39;s very familiar to people,
+											but it can also be bad
+											because it makes people feel
+like it&#39;s a video game.
+											We had a bunch of kids
+over at Stanford play with the system
+											and drive the robot
+around our office in Menlo Park,
+											and the kids started saying things like,
+											&quot;10 points if you hit that guy over there.
+20 points for that one.&quot;
+											And they would
+chase them down the hallway.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I told them, &quot;Um, those are real people.
+											They&#39;re actually going to bleed
+and feel pain if you hit them.&quot;
+											And they&#39;d be like, &quot;OK, got it.&quot;
+											But five minutes later,
+they would be like,
+											&quot;20 points for that guy over there,
+he just looks like he needs to get hit.&quot;
+											It&#39;s a little bit
+like &quot;Ender&#39;s Game,&quot; right?
+											There is a real world on that other side
+											and I think it&#39;s our responsibility
+as people designing these interfaces
+											to help people remember
+											that there&#39;s real consequences
+to their actions
+											and to feel a sense of responsibility
+											when they&#39;re operating
+these increasingly autonomous things.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											These are kind of a great example
+											of experimenting with one
+possible robotic future,
+											and I think it&#39;s pretty cool
+that we can extend ourselves
+											and learn about the ways
+that we extend ourselves
+											into these machines
+											while at the same time
+being able to express our humanity
+											and our personality.
+											We also build empathy for others
+											in terms of being
+shorter, taller, faster, slower,
+											and maybe even armless,
+											which is kind of neat.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We also build empathy
+for the robots themselves.
+											This is one of my favorite robots.
+											It&#39;s called the Tweenbot.
+											And this guy has a little flag that says,
+											&quot;I&#39;m trying to get
+to this intersection in Manhattan,&quot;
+											and it&#39;s cute and rolls
+forward, that&#39;s it.
+											It doesn&#39;t know how to build a map,
+it doesn&#39;t know how to see the world,
+											it just asks for help.
+											The nice thing about people
+											is that it can actually depend
+upon the kindness of strangers.
+											It did make it across the park
+to the other side of Manhattan —
+											which is pretty great —
+											just because people would pick it up
+and point it in the right direction.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And that&#39;s great, right?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We&#39;re trying to build
+this human-robot world
+											in which we can coexist
+and collaborate with one another,
+											and we don&#39;t need to be fully autonomous
+and just do things on our own.
+											We actually do things together.
+											And to make that happen,
+											we actually need help from people
+like the artists and the designers,
+											the policy makers, the legal scholars,
+											psychologists, sociologists,
+anthropologists —
+											we need more perspectives in the room
+											if we&#39;re going to do the thing
+that Stu Card says we should do,
+											which is invent the future
+that we actually want to live in.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And I think we can continue to experiment
+											with these different
+robotic futures together,
+											and in doing so, we will end up
+learning a lot more about ourselves.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":27706,"count":19,"talk_id":8780},"threadId":27706,"current_talk":"8780","description":"We already live among robots: tools and machines like dishwashers and thermostats so integrated into our lives that we'd never think to call them that. What will a future with even more robots look like? Social scientist Leila Takayama shares some unique challenges of designing for human-robot interactions -- and how experimenting with robotic futures actually leads us to a better understanding of ourselves.","event":"TEDxPaloAlto","language":"en","name":"Leila Takayama: What's it like to be a robot?","slug":"leila_takayama_what_s_it_like_to_be_a_robot","speakers":[{"id":"3898","slug":"leila_takayama","is_published":true,"firstname":"Leila","lastname":"Takayama","middleinitial":"","title":"","description":"Social scientist","photo_url":"https://pe.tedcdn.com/images/ted/1c96524e7231dfc798a0f82962d88b0e3224d25d_254x191.jpg","whatotherssay":"","whotheyare":"Leila Takayama conducts research on human-robot interaction. ","whylisten":"<p>Leila Takayama is an acting associate professor of Psychology at the University of California, Santa Cruz, where she founded and leads the Re-Embodied Cognition Lab. Her lab examines how people make sense of, interact with, and relate to new technologies. Prior to academia, she was a researcher at GoogleX and Willow Garage, where she developed a taste for working alongside engineers, designers, animators, and more. Her interdisciplinary research continues in her current work on what happens when people interact with robots and through robots.</p><p>Takayama is a World Economic Forum Global Futures Council Member and Young Global Leader. In 2015, she was presented the IEEE Robotics &amp; Automation Society Early Career Award. In 2012, she was named a TR35 winner and one of the 100 most creative people in business by Fast Company. She completed her PhD in Communication at Stanford University in 2008, advised by Professor Clifford Nass. She also holds a PhD minor in Psychology from Stanford, a master&#39;s degree in Communication from Stanford, and bachelor&#39;s of arts degrees in Psychology and Cognitive Science from UC Berkeley (2003). During her graduate studies, she was a research assistant in the User Interface Research (UIR) group at Palo Alto Research Center (PARC).</p><p><em>Photo:&nbsp;Melissa DeWitt</em></p>"}],"url":"https://www.ted.com/talks/leila_takayama_what_s_it_like_to_be_a_robot","viewed_count":1006366,"talks":[{"recommendations":{"status":"approved","headline":"Leila Takayama recommends","blurb":"More resources curated by Leila Takayama","start_at":null,"end_at":null,"published":true,"eyebrow":"","type":"recommendation","rec_lists":[{"title":"","description":"","rec_items":[{"label":"READ_Book","headline":"*The Media Equation: How People Treat Computers, Television, and New Media Like Real People and Places*","blurb":"Clifford Nass was my PhD advisor at Stanford, who I mentioned in this talk. His book changed my entire way of thinking about new technologies and the opportunities for understanding more about ourselves by looking at the (seemingly strange) ways that we respond to new technologies. Through an incredibly rich set of experiments, Cliff and Byron build a case for the many ways that people treat computers (and other media) as if they were real people, regardless of the fact that we know better. It's a delightfully fun, insightful read!","note":"Clifford Nass\r\nCenter for the Study of Language and Information, 2003","link_url":"https://www.amazon.com/Media-Equation-Computers-Television-Lecture/dp/1575860538/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Book","headline":"*Rebuilt: My Journey Back to the Hearing World*","blurb":"Michael Chorost's personal journey through having a cochlear implant and getting his software constantly upgraded is simply fascinating. He gives us insight into what it is like to be a real life cyborg. While we like to say that a human-robot world is science fiction, this book is what opened my eyes up to questions about how computational tools change the ways we perceive the world, make sense of the world, behave in the world, and treat each other.","note":"Michael Chorost\r\nMariner Books, 2006","link_url":"https://www.amazon.com/Rebuilt-Journey-Back-Hearing-World/dp/0618717609/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":""},{"label":"READ_Book","headline":"*The Audible Past: Cultural Origins of Sound Reproduction*","blurb":"Jonathan Sterne weaves a rich, social history of sound technologies that reminds us of how we use the latest technologies to define and re-define ourselves. While sound recordings are mundane technologies today, they were incredibly disruptive in the past. This history stands on its own, but it's also a source for drawing potential lessons for predicting the progression of today's distresses about artificial intelligence and robotics.","note":"Jonathan Sterne\r\nDuke University Press Books, 2003","link_url":"https://www.amazon.com/Audible-Past-Cultural-Origins-Reproduction/dp/082233013X/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":""}]}]},"more_resources":[],"corrections":[],"has_citations":true,"take_action":[],"curator_approved":true,"description":"We already live among robots: tools and machines like dishwashers and thermostats so integrated into our lives that we'd never think to call them that. What will a future with even more robots look like? Social scientist Leila Takayama shares some unique challenges of designing for human-robot interactions -- and how experimenting with robotic futures actually leads us to a better understanding of ourselves.","downloads":{"id":8780,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true}],"nativeDownloads":{"low":"https://download.ted.com/talks/LeilaTakayama_2017X-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/LeilaTakayama_2017X.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/LeilaTakayama_2017X-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"en":{"name":"English","low":"https://download.ted.com/talks/LeilaTakayama_2017X-low-en.mp4","high":"https://download.ted.com/talks/LeilaTakayama_2017X-480p-en.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/LeilaTakayama_2017X-low-zh-tw.mp4","high":"https://download.ted.com/talks/LeilaTakayama_2017X-480p-zh-tw.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/LeilaTakayama_2017X-low-nl.mp4","high":"https://download.ted.com/talks/LeilaTakayama_2017X-480p-nl.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/LeilaTakayama_2017X-low-pt-br.mp4","high":"https://download.ted.com/talks/LeilaTakayama_2017X-480p-pt-br.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/LeilaTakayama_2017X-low-ru.mp4","high":"https://download.ted.com/talks/LeilaTakayama_2017X-480p-ru.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/LeilaTakayama_2017X-low-es.mp4","high":"https://download.ted.com/talks/LeilaTakayama_2017X-480p-es.mp4"},"hr":{"name":"Croatian","low":"https://download.ted.com/talks/LeilaTakayama_2017X-low-hr.mp4","high":"https://download.ted.com/talks/LeilaTakayama_2017X-480p-hr.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/LeilaTakayama_2017X-low-ja.mp4","high":"https://download.ted.com/talks/LeilaTakayama_2017X-480p-ja.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/LeilaTakayama_2017X-low-ar.mp4","high":"https://download.ted.com/talks/LeilaTakayama_2017X-480p-ar.mp4"}},"audioDownload":"https://download.ted.com/talks/LeilaTakayama_2017X.mp3?apikey=acme-roadrunner"},"duration":775.0,"event":"TEDxPaloAlto","event_blurb":"This talk was presented to a local audience at TEDxPaloAlto, an independent event. TED's editors chose to feature it for you.","event_badge":null,"hero":"https://s3.amazonaws.com/talkstar-photos/uploads/214de943-de4e-4ff5-8c3b-de60b71901e7/LeilaTakayama_2017X-embed.jpg","hero_load":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/214de943-de4e-4ff5-8c3b-de60b71901e7/LeilaTakayama_2017X-embed.jpg?q=50&w=15","id":"8780","player_talks":[{"id":"8780","duration":775.0,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2017X/Blank/LeilaTakayama_2017X-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDxPaloAlto%26id%3D8780%26tag%3DTEDx%2Cinvention%2Crobots%2Cinnovation%2Cfuture%2Ctechnology%2Cdesign%26talk%3Dleila_takayama_what_s_it_like_to_be_a_robot%26year%3D2017&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"8780","talk":"leila_takayama_what_s_it_like_to_be_a_robot","tag":"TEDx,invention,robots,innovation,future,technology,design","year":"2017","event":"TEDxPaloAlto"},"stream":"https://hls.ted.com/talks/8780.m3u8","metadata":"https://hls.ted.com/talks/8780.json"}},"targeting":{"id":"8780","talk":"leila_takayama_what_s_it_like_to_be_a_robot","tag":"TEDx,invention,robots,innovation,future,technology,design","year":"2017","event":"TEDxPaloAlto"},"canonical":"https://www.ted.com/talks/leila_takayama_what_s_it_like_to_be_a_robot","name":"Leila Takayama: What's it like to be a robot?","title":"What's it like to be a robot?","speaker":"Leila Takayama","thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/214de943-de4e-4ff5-8c3b-de60b71901e7/LeilaTakayama_2017X-embed.jpg?quality=89&w=600","slug":"leila_takayama_what_s_it_like_to_be_a_robot","event":"TEDxPaloAlto","published":1516913750}],"ratings":[{"id":8,"name":"Informative","count":63},{"id":22,"name":"Fascinating","count":54},{"id":24,"name":"Persuasive","count":12},{"id":26,"name":"Obnoxious","count":3},{"id":10,"name":"Inspiring","count":31},{"id":23,"name":"Jaw-dropping","count":4},{"id":9,"name":"Ingenious","count":26},{"id":7,"name":"Funny","count":17},{"id":1,"name":"Beautiful","count":9},{"id":2,"name":"Confusing","count":4},{"id":3,"name":"Courageous","count":6},{"id":11,"name":"Longwinded","count":5},{"id":25,"name":"OK","count":5},{"id":21,"name":"Unconvincing","count":1}],"recorded_at":"2017-04-02T00:00:00.000+00:00","related_talks":[{"id":"2825","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/5de472da-6423-4058-83f8-45c4fc52a34b/MarcRaibert_2017-embed.jpg","speaker":"Marc Raibert","title":"Meet Spot, the robot dog that can run, hop and open doors","duration":873.0,"slug":"marc_raibert_meet_spot_the_robot_dog_that_can_run_hop_and_open_doors","viewed_count":2473428},{"id":"2852","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/d84e9623-d34d-4ff3-b578-1728f8183528/NorikoArai_2017-embed.jpg","speaker":"Noriko Arai","title":"Can a robot pass a university entrance exam?","duration":817.0,"slug":"noriko_arai_can_a_robot_pass_a_university_entrance_exam","viewed_count":1355961},{"id":"2690","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/83229e23-91aa-4026-8fc5-a7283b99cf58/JonathanRossiter_2016X-embed.jpg","speaker":"Jonathan Rossiter","title":"A robot that eats pollution","duration":850.0,"slug":"jonathan_rossiter_a_robot_that_eats_pollution","viewed_count":1233692},{"id":"355","hero":"https://pe.tedcdn.com/images/ted/6e961b846dce5acc40f38bbb3bd89f17fe6613dd_1200x900.jpg","speaker":"Rodney Brooks","title":"Robots will invade our lives","duration":1127.0,"slug":"rodney_brooks_on_robots","viewed_count":620339},{"id":"1376","hero":"https://pe.tedcdn.com/images/ted/8aa84e7e5d405e75f19fc51bf6f9918312fff4e5_800x600.jpg","speaker":"Vijay Kumar","title":"Robots that fly ... and cooperate","duration":1006.0,"slug":"vijay_kumar_robots_that_fly_and_cooperate","viewed_count":4433543},{"id":"1070","hero":"https://pe.tedcdn.com/images/ted/d5d8a98861dcc5ee45ddc721bec6cf00005aafc6_2400x1800.jpg","speaker":"Cynthia Breazeal","title":"The rise of personal robots","duration":844.0,"slug":"cynthia_breazeal_the_rise_of_personal_robots","viewed_count":1097307}],"slug":"leila_takayama_what_s_it_like_to_be_a_robot","speakers":[{"id":"3898","slug":"leila_takayama","is_published":true,"firstname":"Leila","lastname":"Takayama","middleinitial":"","title":"","description":"Social scientist","photo_url":"https://pe.tedcdn.com/images/ted/1c96524e7231dfc798a0f82962d88b0e3224d25d_254x191.jpg","whatotherssay":"","whotheyare":"Leila Takayama conducts research on human-robot interaction. ","whylisten":"<p>Leila Takayama is an acting associate professor of Psychology at the University of California, Santa Cruz, where she founded and leads the Re-Embodied Cognition Lab. Her lab examines how people make sense of, interact with, and relate to new technologies. Prior to academia, she was a researcher at GoogleX and Willow Garage, where she developed a taste for working alongside engineers, designers, animators, and more. Her interdisciplinary research continues in her current work on what happens when people interact with robots and through robots.</p><p>Takayama is a World Economic Forum Global Futures Council Member and Young Global Leader. In 2015, she was presented the IEEE Robotics &amp; Automation Society Early Career Award. In 2012, she was named a TR35 winner and one of the 100 most creative people in business by Fast Company. She completed her PhD in Communication at Stanford University in 2008, advised by Professor Clifford Nass. She also holds a PhD minor in Psychology from Stanford, a master&#39;s degree in Communication from Stanford, and bachelor&#39;s of arts degrees in Psychology and Cognitive Science from UC Berkeley (2003). During her graduate studies, she was a research assistant in the User Interface Research (UIR) group at Palo Alto Research Center (PARC).</p><p><em>Photo:&nbsp;Melissa DeWitt</em></p>"}],"speaker_name":"Leila Takayama","tags":["TEDx","invention","robots","innovation","future","technology","design"],"title":"What's it like to be a robot?","video_type":{"id":"2","name":"TEDx Talk"},"viewed_count":1006366}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

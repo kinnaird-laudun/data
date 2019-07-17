@@ -1,0 +1,1473 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Rick Guidotti: From stigma to supermodel | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Rick Guidotti is a fashion photographer with a passion project: finding and sharing the beauty of kids with albinism and other conditions that affect their physical appearance -- and the way society treats them. At TEDxPhoenix, he shares some of their stories and the empowering effects of a little glamour as he redefines their beauty in a flash." />
+<meta name="author" content="Rick Guidotti" />
+<link rel="canonical" href="https://www.ted.com/talks/rick_guidotti_from_stigma_to_supermodel/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/rick_guidotti_from_stigma_to_supermodel/transcript" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/rick_guidotti_from_stigma_to_supermodel/transcript?language=en" />
+<meta property="og:title" content="Transcript of &quot;From stigma to supermodel&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1135285f5ee57dfaf7e38f496d4a5b3539c21227_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1135285f5ee57dfaf7e38f496d4a5b3539c21227_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Rick Guidotti: From stigma to supermodel" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Rick Guidotti is a fashion photographer with a passion project: finding and sharing the beauty of kids with albinism and other conditions that affect their physical appearance -- and the way society treats them. At TEDxPhoenix, he shares some of their stories and the empowering effects of a little glamour as he redefines their beauty in a flash." />
+<meta property="og:url" content="https://www.ted.com/talks/rick_guidotti_from_stigma_to_supermodel/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 1439);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/rick_guidotti_from_stigma_to_supermodel' itemprop='url'>
+<meta content='From stigma to supermodel' itemprop='name'>
+<meta content='Rick Guidotti is a fashion photographer with a passion project: finding and sharing the beauty of kids with albinism and other conditions that affect their physical appearance — and the way society treats them. At TEDxPhoenix, he shares some of their stories and the empowering effects of a little glamour as he redefines their beauty in a flash.' itemprop='description'>
+<meta content='PT18M4S' itemprop='duration'>
+<meta content='2012-05-06T15:41:54+00:00' itemprop='uploadDate'>
+<meta content='183432' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1135285f5ee57dfaf7e38f496d4a5b3539c21227_800x600.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/rick_guidotti_s' itemprop='url'>
+<meta content='Rick Guidotti' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/02fc18c1cd674d4c45a11993f7e555a90ec14371_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/rick_guidotti_from_stigma_to_supermodel' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1135285f5ee57dfaf7e38f496d4a5b3539c21227_800x600.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Rick Guidotti
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					183,432
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 18:04</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I&#39;ll tell you a little bit about my story
+and who I am.
+											I&#39;m a fashion photographer
+based in New York City.
+											I&#39;ve worked for lots 
+of different magazines in New York,
+											I&#39;ve worked for Elle and for Marie Claire,
+											and for Interview and for GQ,
+											and I got to work 
+with some really beautiful people.
+											My studio is in New York,
+											but I also lived in Milan
+for about eight years,
+											and in Paris as well,
+											and worked for the house 
+of Yves St. Laurent.
+											I also did portraiture as well.
+											I&#39;ve worked for lots 
+of different magazines,
+											lots of great clients.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But I was always told,
+every single day, who was beautiful.
+											I was forced to work
+											within certain parameters 
+of the beauty standard.
+											I was told, &quot;This is the most 
+amazing model of the moment,
+											you&#39;ve got to photograph her.
+											She&#39;s incredible, you&#39;ve got to.&quot;
+											And then the next season,
+it would change again,
+											and I&#39;d have to shift my ideas of beauty,
+											and so we&#39;d go to the next model,
+											and it was kind of really crazy,
+because I&#39;m an artist.
+											I saw beauty everywhere.
+											I didn&#39;t see beauty 
+just on a magazine cover.
+											I did a shoot with, of 
+course, Cindy, for Revlon,
+											and really fantastic, beautiful people.
+											But I thought,
+											someone&#39;s always telling me 
+who&#39;s beautiful.
+											And I was kind of frustrated.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I left my studio one 
+afternoon in New York,
+											and I was walking down Park Avenue,
+											and I saw, waiting for a bus 
+at the corner of Park and 20th,
+											this gorgeous kid.
+											She had long, white, beautiful hair,
+and pale, pale skin.
+											She had a genetic condition 
+called albinism.
+											I didn&#39;t know much about it, 
+but she was stunning,
+											and I&#39;d never met 
+a model like this before.
+											And I went to grab her and say,
+											&quot;I have to take your photograph, 
+you&#39;re amazing!&quot;
+											And the bus came, she got on, 
+and then she took off,
+											and I was really glad because she was 12,
+											and I&#39;d be in prison at the moment.
+(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But really, it was 
+extraordinary to see this kid.
+											So I continued right down to Union Square,
+											to the huge Barnes and Noble,
+											and started pulling any books,
+or any information I could
+											about this genetic condition, albinism.
+											And I found really kind of sad images.
+											I didn&#39;t find images of this kid.
+											I found images of people 
+sitting in hospital beds, looking sad,
+											looking downtrodden, 
+just images of despair.
+											I found images 
+of a bright red eye, the albino eye.
+											I&#39;m thinking, 
+this kid had beautiful blue eyes,
+											she didn&#39;t have red eyes.
+											And then I started seeing 
+images from Africa,
+											where kids were surrounded by tribes 
+pointing spears at them
+											or in cancer wards and clinics,
+											or they&#39;re just in beds, 
+and images of illness,
+											of sadness, of sickness.
+											And then, I started, of course,
+											going through
+those same medical textbooks,
+											and started finding 
+these typical images
+											of kids and adults in their underwear, 
+against walls in doctor&#39;s offices,
+											with the black bar across their eyes 
+saying &quot;disease.&quot;
+											This is a disease, defined by a disease.
+											And I was like, this is crazy.
+											And then I started going into it further,
+											looking on the Internet,
+											and all these different medical textbooks,
+											and everything was so sad, 
+and so negative.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I then started finding images 
+of the albino freak family in the circus,
+											and then of course, 
+all the movie references,
+											from &quot;Powder,&quot; who had albinism because
+his mother was struck by lightning,
+											to &quot;The Princess Bride&quot; and 
+to &quot;The Matrix Reloaded,&quot;
+											there were the ghost-like twins 
+that came in and wreaked havoc,
+											and destroyed things and then disappeared.
+											Even most recently, &quot;The Da Vinci Code,&quot;
+											there was like the evil albino 
+driving around Paris at night,
+											killing people, shooting at people.
+											Well, I found out, through my research,
+											that people with albinism 
+have a visual impairment.
+											There&#39;s always vision, 
+but they&#39;re considered legally blind.
+											So they certainly wouldn&#39;t be driving 
+around Paris at night
+											shooting at anybody
+and expect to hit anything.
+											So I&#39;m thinking, this is crazy.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So I contact NOAH.
+											Now, NOAH is the National Organization 
+for Albinism and Hypopigmentation.
+											It&#39;s a support group for people 
+living with this condition,
+											and their families.
+											And I&#39;m like, &quot;Hey, I&#39;m a 
+fashion photographer.
+											Let&#39;s show the world 
+the beauty of albinism!&quot;
+											And they said, &quot;Get lost.&quot;
+											And I&#39;m pretty persistent. I&#39;m 
+like, &quot;Won&#39;t you talk to me?&quot;
+											And they made it very clear to me
+											about their fears of exploitation,
+											that every time there 
+was a magazine article
+											that came out about a kid with albinism,
+											it was a story about a victim.
+											It was sad, or it was exploitative,
+											or sensational — never 
+positive, always negative.
+											And I said, &quot;Okay, well then, 
+what do we do here?&quot;
+											So, let&#39;s form a nontraditional partnership —
+											fashion photographer, 
+genetic support group —
+											and we&#39;ll work together.
+											And you can keep an eye on me
+											to make sure that we create 
+something positive and powerful,
+											showing the world the beauty of albinism.
+											And they said okay.
+											And I was like, fantastic, let&#39;s do this!
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So in walks the first person 
+I&#39;m about to photograph.
+											Her name is Christine, 
+and Christine is a knockout.
+											Long white hair, really tall. 
+She&#39;s stunning.
+											She walks into my studio.
+											The way that she walks in, though, 
+instead of this gorgeous girl,
+											she walks in like this, her head&#39;s down,
+											shoulders hunched, one-word answers, 
+she looks down, no eye contact.
+											This kid has been teased her whole life 
+because of her difference.
+											And it was so apparent in the fact 
+that it left her with zero self-esteem.
+											And I&#39;m thinking, oh, this 
+kid is just so fragile.
+											And just the day before, 
+I was shooting Cindy
+											on the same set, in my studio.
+											I&#39;m thinking well, 
+I have to be so careful with her — no,
+											out of respect for this gorgeous kid,
+											I&#39;m going to photograph her 
+like I would anybody else.
+											So the fan went on, the music went on,
+											and I grabbed a mirror 
+that was next to the set,
+											and I held it up to her, and I said
+											Christine, look at yourself. 
+You&#39;re magnificent.
+											And she looked in the mirror, 
+and she got it.
+											And she went from this to that.
+											And that&#39;s our Christine, 
+and she just exploded in front of the set.
+											By the time she left the studio, 
+she was kissing everybody on both cheeks,
+											and saying, &quot;Ciao!&quot; 
+and she was unbelievable.
+											And I saw this transformation 
+right in front of the lens,
+											through photography, 
+that she was now transformed,
+											with a powerful and positive sense 
+of who she is.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The next day, she goes to school,
+											she&#39;s going to change the way 
+her community sees her difference.
+											Instead of walking into 
+that classroom like this,
+											she&#39;s walking in like this.
+											So it&#39;s all about ambassadors for change.
+											It was extraordinary.
+											And those first images, right after,
+we did a series of them,
+											using several individuals 
+with this condition,
+											they were in Life magazine in 1998.
+											So it was a while ago.
+											It was a cover story, 
+it was a five-page spread.
+											It was really a fantastic editorial.
+It was great; I loved it.
+											Then we used a lot of the images, 
+though, from Life,
+											and put them in other magazines, 
+magazines worldwide.
+											Magazines in the U.K., in France, 
+in Italy and Canada,
+											and other magazines in the States.
+It was amazing.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So this is from the U.K., Christine again.
+											Friends Jen and Ruthie are sisters, 
+and Kristen.
+											That&#39;s Lauren. 
+We did a campaign for sunglasses.
+											A lot of kids with this condition 
+are photophobic,
+											so they have 
+a real strong light sensitivity.
+											So we thought, 
+perfect for a sunglass campaign.
+											People magazine did a great story.
+											So it was circulating, 
+people were saying all this great stuff.
+											It was fantastic.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So I was getting calls, though.
+											Getting calls from the U.K.,
+saying, well we just saw this spread,
+											can you come photograph our 
+kids with this condition?
+											We have a support group here, 
+can you come meet our families?
+											People in Africa were calling in the same.
+											New Zealand, can you help 
+us start a support group?
+											I&#39;m like, fantastic! 
+This is great! Let&#39;s do it!
+											So I would travel in all these places,
+											as I was shooting 
+and doing my commercial work,
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I was at a local chapter conference 
+in Philadelphia.
+											Small family conference, 
+about 40 families,
+											did my presentation of kids with albinism,
+											this mom came up to me, and she said,
+											&quot;My son Randy, when he was a little boy,
+											he&#39;d come home from school, 
+and I could see the kids were teasing him,
+											and he&#39;d be in tears.
+											And I&#39;d buy him an ice-cream cone,
+or a toy truck,
+											and he&#39;d forget about it.&quot;
+											She said, &quot;Now he&#39;s in high school.
+He comes home from school,
+											I can see the pain, 
+the anguish in his eyes.
+											He walks in, he walks right past me,
+											goes up to his room, slams the door,
+											and I don&#39;t see him until the next day.
+											He&#39;s not going to want to be photographed,
+											he has zero self-esteem,
+											this kid has such poor body image,
+and he&#39;s just so shy.
+											But if you could just show him 
+photographs of kids his own age,
+											so that he knows he&#39;s not alone.&quot;
+											I&#39;m like, &quot;Of course. Where is he? Show me!&quot;
+											She points over to Randy.
+											Now Randy&#39;s sitting there — 
+his pants are hanging down to here,
+											his underwear&#39;s hanging out, 
+he has this long, great big shirt,
+											he has ten earrings, he has a tattoo.
+He&#39;s amazing, this kid.
+											I crawl over to Randy.
+											I&#39;m like, &quot;Randy, 
+I speak to moms and dads every single day,
+											terrified about the future 
+of their kids with albinism.
+											All they have to do 
+is take one look at you,
+											and they&#39;re going to be fine.
+											Please let me take a photo of you.
+											Your mother said, she told me,
+											that you didn&#39;t want to be photographed.&quot;
+											He said, &quot;Rick, 
+what do you mean?
+											You have to understand, I&#39;m 16 years old.
+											I don&#39;t talk to my mother.&quot;
+											And then he said, &quot;I want to be photographed.
+											I want to show the world that who I am,
+											with my albinism, but also 
+other things about me —&quot;
+											You see how shy he was.
+											Very, very shy, Randy.
+											But Randy created, 
+early days in this idea,
+											of this nonprofit group 
+Positive Exposure,
+											the idea of networking stories,
+											sharing experiences and the images 
+around the world.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I&#39;ll kind of quickly go through the album.
+											I was very interested, at that point,
+											getting calls from everybody in the world,
+											to find out more about this idea, 
+a message, about albinism,
+											or perceptions of people in communities 
+about this syndrome, albinism.
+											So I started hearing about stigmas, 
+and discrimination,
+											so what I looked at is really trying 
+to explore cultural perceptions
+											and attitudes towards this condition.
+											This is my friend [unclear], 
+who&#39;s a Kuna Indian
+											in the San Blas region of the world,
+											the San Blas region of Panama.
+											She&#39;s extraordinary.
+											So the incidence of albinism 
+is about one in 20,000 worldwide.
+											In the Kuna Indian, it&#39;s one in 125, 
+the highest incidence in the world.
+											We went to Fiji, actually, where we 
+found out at the turn of the 19th century,
+											a tribe could not hold their territory
+											unless they had somebody with albinism 
+in a powerful political position.
+											My great friend Keke, 
+I photographed in New Zealand,
+											she&#39;s from India, from Delhi,
+											but her family left Delhi 
+because she was getting death threats.
+											Now I&#39;m thinking, 
+this is horrible that they had to move,
+											because she&#39;s eight years old.
+											And we actually started 
+a support group in Delhi,
+											we found out that there are many kids
+that we worked with in their communities,
+											after we started this group in India,
+											that have had really positive experiences.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So one of the things 
+we want to make very clear
+											is that we&#39;re not making generalizations
+											about a community or a culture,
+											and their reaction 
+to people that are different.
+											Keke&#39;s experiences were very different,
+											but we&#39;ve met many kids there
+											that have been embraced 
+by their communities throughout India.
+											A great friend Sue Anna from Korea.
+											Tom, who was just adopted 
+by an American family, from China,
+											This is my great friend 
+Harry from Puerto Rico.
+											And Natalia.
+											She and I started 
+the first albinism society in Russia.
+											Maizan and her sister 
+and mom in Malaysia.
+											Ceara. All she ever wanted to do 
+was be a dancer.
+											She was told that 
+because of her visual impairment,
+											she&#39;ll never dance.
+											She&#39;ll never be able to follow 
+the choreography or the dance steps.
+											She&#39;s like, they said, 
+find another love, another passion.
+											She&#39;s like, no.
+											She&#39;s New Zealand&#39;s Celtic dance champion,
+											and just started a school for dance 
+for kids with visual impairment.
+											I&#39;m going to zip through this. 
+Roz, from Australia.
+											I spend a lot of time in Africa,
+											where there&#39;s a high incidence 
+of mortality associated with albinism,
+											due to skin cancer.
+											This is my friend Siri, 
+who when she was born,
+											the father&#39;s family 
+put her out of the house,
+											thinking she was cursed.
+											and Mom, not knowing what to do,
+											put Siri in the sun to get her dark 
+like her brothers and sisters.
+											So you can see, it&#39;s all sun damage.
+											A lot of kids that I met throughout Africa
+were put in special schools,
+											schools for the blind,
+											not because the tools were better there 
+for kids with visual impairment,
+											but more importantly, 
+because the teasing was so great,
+											the discrimination is so great,
+											these kids don&#39;t do well 
+in mainstream schools.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I started an albinism society in Kenya 
+with my friend C.K.,
+											who actually went to a mainstream school.
+											I&#39;m like, C.K., how is it possible 
+you went to a mainstream school?
+											Nobody in Africa goes 
+to mainstream schools.
+											She said, &quot;It&#39;s because 
+of my twin sister, Delphine.&quot;
+											Fantastic. She said Delphine would get 
+all the work off the board,
+											the things I couldn&#39;t see, 
+she&#39;d help me with it.
+											If the type was too small, 
+she&#39;d blow it up for me, she said.
+											But more importantly, 
+when kids would tease me,
+											Delphine would beat them up.
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But on a sadder note, I was spending 
+a lot of time in Tanzania,
+											where witch doctors are saying,
+											bring me the bones of an albino,
+											and I&#39;ll make a potion
+that will make you rich.
+											So we&#39;re working very closely 
+with the government there,
+											I&#39;ve been there six times 
+in the last two years,
+											to create public awareness programs
+to save these kids.
+											This is the dancer.
+											This is in the Shinyanga region.
+											This is one of the visuals 
+that we created in East Africa,
+											trying to fight and educate the public.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I received the Art of Reporting award, 
+from an organization
+											called the Chromosome 18 Registry.
+											The larger organization 
+was the Genetic Alliance,
+											which was a coalition 
+of all the genetic support groups,
+											and it was the award 
+for the Life magazine piece.
+											The president at the time said,
+											I&#39;m also the founder and director
+											of the Chromosome 18 Research Society 
+and Registry.
+											I&#39;m like, fantastic! 
+That&#39;s great. What&#39;s that?
+											She&#39;s like, well, if you have an anomaly 
+on your 18th chromosome,
+											then you have all kinds of problems 
+and difficulties and challenges,
+											and then we look after you, 
+through this support group, like NOAH is.
+											So I&#39;m like, that&#39;s great.
+											She said, 
+I see there&#39;s a universal message here,
+											about all kids with differences, 
+so it&#39;s not just about albinism.
+											Would you come and speak 
+to our families in San Antonio
+											with these chromosome 18 anomalies?
+											I&#39;m like, sure! 
+I went back to them thinking,
+											what the hell is 
+a chromosome 18 anomaly?
+											I was an art major
+at the school of visual arts,
+											I had no idea.
+											But I looked it up, 
+these are the images that I saw.
+											I&#39;m thinking, albinism was so easy, 
+this is going to be rough.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But I went to San Antonio,
+											walked down to the auditorium 
+where the kids and young adults were,
+											opened the door, 
+and I was instantly surrounded
+											by kids screaming with laughter.
+											There were kids with cleft palates, 
+kids with mobility issues,
+											feeding tubes, trachs, 
+but they were kids, first and foremost.
+											That&#39;s Rebecca and Pauline.
+											My great friend, that&#39;s Ellington. 
+He&#39;s awesome.
+											Remy.
+											That&#39;s Emory.
+											Byron.
+											Taylor.
+											Elizabeth.
+											And my great friend Sean.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So we decided at that point 
+to involve other organizations
+											to be part of this larger exhibition
+											that was going to be sent out from 
+the People&#39;s Genome Celebration in 2001.
+											The National Human Genome Research 
+Institute and the Genetic Alliance
+											invited me to create an exhibition 
+at the Smithsonian,
+											commemorating the mapping 
+of the human genome.
+											So we actually invited 
+other genetic support groups
+											to be part of this exhibition, 
+not just on albinism, but all groups,
+											again illustrating 
+the universal applicability.
+											I saw these images 
+from the Marfan Foundation,
+											these kids grow very, very tall, 
+at risk of an aortic dissection,
+											but they&#39;re amazing kids,
+and I thought, how gorgeous.
+											And I understood 
+the importance of this image,
+											how important it was 
+to show how beautiful,
+											and to show how the image presents itself.
+											But isn&#39;t there another way to show it?
+											Because nobody, and I&#39;ve photographed 
+thousands of kids now,
+											with Marfan Syndrome,
+											and nobody stands like this, 
+with a portable black bar.
+											It&#39;s extraordinary. 
+So we decided to put them in a pool,
+											show Billy swimming —
+[&quot;Bill with Marfan Syndrome&quot;] —
+											show how it presents itself, 
+but keep going,
+											and keep presenting how these kids look,
+											but put the humanity 
+back in these gorgeous images.
+											I only have a few seconds here, 
+so I&#39;m going to go through.
+											Cool girls at the Costello Conference.
+											These are great friends 
+Danielle and Maggie,
+											who actually met 
+at the last Costello Conference.
+											For both, the first time they ever met 
+anybody with the same syndrome.
+											They go to the same conferences 
+every year and I go and photograph them.
+											And this year, 
+they were there again in Florida,
+											but this time it&#39;s a little different.
+											They&#39;re gangsters now. (Laughter)
+But they&#39;re pretty amazing kids.
+											I just want to talk very briefly 
+about this really great kid,
+											to talk very briefly about a project 
+that we&#39;re taking these images,
+											and bringing them into high schools.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I can photograph a great kid in my studio,
+											and she&#39;s having a brilliant time, 
+and she feels 10,000 feet tall.
+											By the time she leaves my studio 
+and gets to Park Avenue,
+											five people point at her, 
+point at her birthmark,
+											or at her white hair, or her wheelchair.
+											So we have to make it relevant 
+for all of us, for all these kids,
+											to make people understand what the idea 
+of celebrating diversity actually means.
+											So we started a project 
+called the PEARLS Project,
+											where these photographs 
+are going into high schools,
+											and the kids that are in the images 
+are blogging,
+											and the students
+are following their blogs.
+											And they all have 
+these great video intros.
+											I just want to give you this last one, 
+and this is actually Byron,
+											who is actually one of our bloggers.
+											(Video) Byron: Hi, my name is Byron.
+											I live in the D.C. area. I&#39;m 14.
+											When I was 10 months old,
+											I had a left hemispherectomy.
+											I had the left half of my brain removed,
+											because I have something 
+called Sturge-Weber Syndrome.
+											I wear a brace
+on my right leg and right arm.
+											I only see out of 
+the right side of each eye,
+											so sometimes it&#39;s harder 
+for me to see things on the right side.
+											So playing sports can be frustrating, 
+because I might not see a ball coming.
+											I didn&#39;t see that coming. Excuse me.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Rick Guidotti: So we&#39;re using 
+all the visual art
+											to change public perceptions 
+through these great kids.
+											I feel as an artist, 
+it&#39;s my responsibility.
+											I know that when I was a kid,
+											and I saw someone that was different 
+walking down the street,
+											If I stared, I got slapped by my mom.
+											So the idea was
+if you don&#39;t stare, look away.
+											And I think as an artist, 
+it&#39;s my responsibility,
+											and all of our responsibilities,
+											to steady that gaze a little bit longer.
+											Because you stand there, 
+and you&#39;ll see a difference.
+											You&#39;ll start seeing beauty 
+in that difference.
+											And you&#39;ll start seeing 
+beautiful gorgeousness,
+											and then this light just spreads, 
+and once you&#39;re enlightened,
+											it just changes your whole world.
+											It&#39;s about seeing 
+the beauty in all differences.
+											Thank you so much, I&#39;m sorry I ran over.
+											Thank you guys, thank you.
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":12680,"count":60,"talk_id":1439},"threadId":12680,"current_talk":"1439","description":"Rick Guidotti is a fashion photographer with a passion project: finding and sharing the beauty of kids with albinism and other conditions that affect their physical appearance -- and the way society treats them. At TEDxPhoenix, he shares some of their stories and the empowering effects of a little glamour as he redefines their beauty in a flash.","event":"TEDxPhoenix","language":"en","name":"Rick Guidotti: From stigma to supermodel","slug":"rick_guidotti_from_stigma_to_supermodel","speakers":[{"id":"1347","slug":"rick_guidotti_s","is_published":true,"firstname":"Rick","lastname":"Guidotti","middleinitial":"","title":"","description":"Photographer","photo_url":"https://pe.tedcdn.com/images/ted/02fc18c1cd674d4c45a11993f7e555a90ec14371_254x191.jpg","whatotherssay":"","whotheyare":"Photographer Rick Guidotti sees a rich beauty in our genetic diversity and works to expose that vision to everyone.","whylisten":"<p>Rick Guidotti spent fifteen years as a fashion photographer working in New York, Milan, Paris, and London for everyone from Elle to Yves Saint Laurent. Then, in 1998, he founded Positive Exposure, a non profit organization dedicated to highlighting the beauty of genetic diversity and challenging the stigmas associated with differences in appearance. He lectures frequently and his show &ldquo;Positive Exposure, The Spirit of Difference&rdquo; -- which premiered in June 2001 at the People&rsquo;s Genome Celebration at the Smithsonian&rsquo;s National Museum of Natural History -- continues to tour internationally.</p>"}],"url":"https://www.ted.com/talks/rick_guidotti_from_stigma_to_supermodel","viewed_count":183432,"talks":[{"curator_approved":true,"description":"Rick Guidotti is a fashion photographer with a passion project: finding and sharing the beauty of kids with albinism and other conditions that affect their physical appearance -- and the way society treats them. At TEDxPhoenix, he shares some of their stories and the empowering effects of a little glamour as he redefines their beauty in a flash.","downloads":{"id":1439,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/RickGuidotti_2011X-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/RickGuidotti_2011X.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/RickGuidotti_2011X-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":null,"audioDownload":"https://download.ted.com/talks/RickGuidotti_2011X.mp3?apikey=acme-roadrunner"},"duration":1084.0,"event":"TEDxPhoenix","event_blurb":"This talk was presented to a local audience at TEDxPhoenix, an independent event. TED's editors chose to feature it for you.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/1135285f5ee57dfaf7e38f496d4a5b3539c21227_800x600.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1135285f5ee57dfaf7e38f496d4a5b3539c21227_800x600.jpg?q=50&w=15","id":"1439","player_talks":[{"id":"1439","duration":1084.0,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2011X/Blank/RickGuidotti_2011X-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDxPhoenix%26id%3D1439%26tag%3DTEDx%2Cbeauty%2Cfashion%2Cglobal%2Bissues%2Cphotography%2Crace%26talk%3Drick_guidotti_from_stigma_to_supermodel%26year%3D2011&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"1439","talk":"rick_guidotti_from_stigma_to_supermodel","tag":"TEDx,beauty,fashion,global issues,photography,race","year":"2011","event":"TEDxPhoenix"},"stream":"https://hls.ted.com/talks/1439.m3u8","metadata":"https://hls.ted.com/talks/1439.json"}},"targeting":{"id":"1439","talk":"rick_guidotti_from_stigma_to_supermodel","tag":"TEDx,beauty,fashion,global issues,photography,race","year":"2011","event":"TEDxPhoenix"},"canonical":"https://www.ted.com/talks/rick_guidotti_from_stigma_to_supermodel","name":"Rick Guidotti: From stigma to supermodel","title":"From stigma to supermodel","speaker":"Rick Guidotti","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/1135285f5ee57dfaf7e38f496d4a5b3539c21227_800x600.jpg?quality=89&w=600","slug":"rick_guidotti_from_stigma_to_supermodel","event":"TEDxPhoenix","published":1336318914}],"ratings":[{"id":8,"name":"Informative","count":74},{"id":1,"name":"Beautiful","count":226},{"id":10,"name":"Inspiring","count":272},{"id":3,"name":"Courageous","count":95},{"id":7,"name":"Funny","count":16},{"id":24,"name":"Persuasive","count":56},{"id":9,"name":"Ingenious","count":23},{"id":22,"name":"Fascinating","count":73},{"id":23,"name":"Jaw-dropping","count":30},{"id":25,"name":"OK","count":20},{"id":21,"name":"Unconvincing","count":7},{"id":11,"name":"Longwinded","count":15},{"id":26,"name":"Obnoxious","count":2},{"id":2,"name":"Confusing","count":9}],"recorded_at":"2011-11-11T00:00:00.000+00:00","related_talks":[{"id":"1647","hero":"https://pe.tedcdn.com/images/ted/1ba3bd800cbe51ac330462531885224ea07fae36_1600x1200.jpg","speaker":"Cameron Russell","title":"Looks aren't everything. Believe me, I'm a model.","duration":577.0,"slug":"cameron_russell_looks_aren_t_everything_believe_me_i_m_a_model","viewed_count":22352380},{"id":"1961","hero":"https://pe.tedcdn.com/images/ted/e144118ac42866b5861a03ca4eadda226343e889_1600x1200.jpg","speaker":"Geena Rocero","title":"Why I must come out","duration":599.0,"slug":"geena_rocero_why_i_must_come_out","viewed_count":3251716},{"id":"1283","hero":"https://pe.tedcdn.com/images/ted/fef2e4d06e1b977f561c91b04668b16280292e6c_800x600.jpg","speaker":"Louie Schwartzberg","title":"Nature. Beauty. Gratitude.","duration":587.0,"slug":"louie_schwartzberg_nature_beauty_gratitude","viewed_count":3837680}],"slug":"rick_guidotti_from_stigma_to_supermodel","speakers":[{"id":"1347","slug":"rick_guidotti_s","is_published":true,"firstname":"Rick","lastname":"Guidotti","middleinitial":"","title":"","description":"Photographer","photo_url":"https://pe.tedcdn.com/images/ted/02fc18c1cd674d4c45a11993f7e555a90ec14371_254x191.jpg","whatotherssay":"","whotheyare":"Photographer Rick Guidotti sees a rich beauty in our genetic diversity and works to expose that vision to everyone.","whylisten":"<p>Rick Guidotti spent fifteen years as a fashion photographer working in New York, Milan, Paris, and London for everyone from Elle to Yves Saint Laurent. Then, in 1998, he founded Positive Exposure, a non profit organization dedicated to highlighting the beauty of genetic diversity and challenging the stigmas associated with differences in appearance. He lectures frequently and his show &ldquo;Positive Exposure, The Spirit of Difference&rdquo; -- which premiered in June 2001 at the People&rsquo;s Genome Celebration at the Smithsonian&rsquo;s National Museum of Natural History -- continues to tour internationally.</p>"}],"speaker_name":"Rick Guidotti","tags":["TEDx","beauty","fashion","global issues","photography","race"],"title":"From stigma to supermodel","video_type":{"id":"2","name":"TEDx Talk"},"viewed_count":183432}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

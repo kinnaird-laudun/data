@@ -1,0 +1,1400 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Harry Cliff: Have we reached the end of physics? | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Why is there something rather than nothing? Why does so much interesting stuff exist in the universe? Particle physicist Harry Cliff works on the Large Hadron Collider at CERN, and he has some potentially bad news for people who seek answers to these questions. Despite the best efforts of scientists (and the help of the biggest machine on the planet), we may never be able to explain all the weird features of nature. Is this the end of physics? Learn more in this fascinating talk about the latest research into the secret structure of the universe." />
+<meta name="author" content="Harry Cliff" />
+<link rel="canonical" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=el" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=en" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=pt-br" />
+<link rel="alternate" hreflang="cs" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=cs" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=nl" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=tr" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="be" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=be" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=bg" />
+<link rel="alternate" hreflang="uk" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=uk" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=de" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=hu" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=fa" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=he" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=sr" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=ko" />
+<link rel="alternate" hreflang="mk" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=mk" />
+<link rel="alternate" hreflang="ms" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=ms" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=vi" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript?language=pt" />
+<meta property="og:title" content="Transcript of &quot;Have we reached the end of physics?&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/6deca22c-2606-4b52-8ddb-984e991a1946/HarryCliff_2015G-embed.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/6deca22c-2606-4b52-8ddb-984e991a1946/HarryCliff_2015G-embed.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Harry Cliff: Have we reached the end of physics?" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Why is there something rather than nothing? Why does so much interesting stuff exist in the universe? Particle physicist Harry Cliff works on the Large Hadron Collider at CERN, and he has some potentially bad news for people who seek answers to these questions. Despite the best efforts of scientists (and the help of the biggest machine on the planet), we may never be able to explain all the weird features of nature. Is this the end of physics? Learn more in this fascinating talk about the latest research into the secret structure of the universe." />
+<meta property="og:url" content="https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 2396);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics' itemprop='url'>
+<meta content='Have we reached the end of physics?' itemprop='name'>
+<meta content='Why is there something rather than nothing? Why does so much interesting stuff exist in the universe? Particle physicist Harry Cliff works on the Large Hadron Collider at CERN, and he has some potentially bad news for people who seek answers to these questions. Despite the best efforts of scientists (and the help of the biggest machine on the planet), we may never be able to explain all the weird features of nature. Is this the end of physics? Learn more in this fascinating talk about the latest research into the secret structure of the universe.' itemprop='description'>
+<meta content='PT13M57S' itemprop='duration'>
+<meta content='2016-01-04T16:04:55+00:00' itemprop='uploadDate'>
+<meta content='2454523' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/6deca22c-2606-4b52-8ddb-984e991a1946/HarryCliff_2015G-embed.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/harry_cliff' itemprop='url'>
+<meta content='Harry Cliff' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/c4b5ee8b0af009277ac49271d3f2140e6ed74566_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/6deca22c-2606-4b52-8ddb-984e991a1946/HarryCliff_2015G-embed.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Harry Cliff
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					2,454,523
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 13:57</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											A hundred years ago this month,
+a 36-year-old Albert Einstein
+											stood up in front of the Prussian
+Academy of Sciences in Berlin
+											to present a radical new theory
+of space, time and gravity:
+											the general theory of relativity.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											General relativity is unquestionably
+Einstein&#39;s masterpiece,
+											a theory which reveals the workings
+of the universe at the grandest scales,
+											capturing in one beautiful line of algebra
+											everything from why apples fall from trees
+to the beginning of time and space.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											1915 must have been an exciting year
+to be a physicist.
+											Two new ideas were turning
+the subject on its head.
+											One was Einstein&#39;s theory of relativity,
+											the other was arguably
+even more revolutionary:
+											quantum mechanics,
+											a mind-meltingly strange
+yet stunningly successful new way
+											of understanding the microworld,
+the world of atoms and particles.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Over the last century,
+these two ideas have utterly transformed
+											our understanding of the universe.
+											It&#39;s thanks to relativity
+and quantum mechanics
+											that we&#39;ve learned
+what the universe is made from,
+											how it began
+and how it continues to evolve.
+											A hundred years on, we now find ourselves
+at another turning point in physics,
+											but what&#39;s at stake now
+is rather different.
+											The next few years may tell us
+whether we&#39;ll be able
+											to continue to increase
+our understanding of nature,
+											or whether maybe for the first time
+in the history of science,
+											we could be facing questions
+that we cannot answer,
+											not because we don&#39;t have
+the brains or technology,
+											but because the laws of physics
+themselves forbid it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is the essential problem:
+the universe is far, far too interesting.
+											Relativity and quantum mechanics
+appear to suggest
+											that the universe
+should be a boring place.
+											It should be dark, lethal and lifeless.
+											But when we look around us, we see we live
+in a universe full of interesting stuff,
+											full of stars, planets, trees, squirrels.
+											The question is, ultimately,
+											why does all this interesting stuff exist?
+											Why is there something
+rather than nothing?
+											This contradiction is the most pressing
+problem in fundamental physics,
+											and in the next few years, we may find out
+whether we&#39;ll ever be able to solve it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											At the heart of this problem
+are two numbers,
+											two extremely dangerous numbers.
+											These are properties of the universe
+that we can measure,
+											and they&#39;re extremely dangerous
+											because if they were different,
+even by a tiny bit,
+											then the universe as we know it
+would not exist.
+											The first of these numbers is associated
+with the discovery that was made
+											a few kilometers from this hall,
+at CERN, home of this machine,
+											the largest scientific device
+ever built by the human race,
+											the Large Hadron Collider.
+											The LHC whizzes subatomic particles
+around a 27-kilometer ring,
+											getting them closer and closer
+to the speed of light
+											before smashing them into each other
+inside gigantic particle detectors.
+											On July 4, 2012, physicists
+at CERN announced to the world
+											that they&#39;d spotted
+a new fundamental particle
+											being created at the violent collisions
+at the LHC: the Higgs boson.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, if you followed the news at the time,
+											you&#39;ll have seen a lot of physicists
+getting very excited indeed,
+											and you&#39;d be forgiven for thinking
+											we get that way every time
+we discover a new particle.
+											Well, that is kind of true,
+											but the Higgs boson
+is particularly special.
+											We all got so excited
+because finding the Higgs
+											proves the existence
+of a cosmic energy field.
+											Now, you may have trouble
+imagining an energy field,
+											but we&#39;ve all experienced one.
+											If you&#39;ve ever held a magnet
+close to a piece of metal
+											and felt a force pulling across that gap,
+											then you&#39;ve felt the effect of a field.
+											And the Higgs field
+is a little bit like a magnetic field,
+											except it has a constant value everywhere.
+											It&#39;s all around us right now.
+											We can&#39;t see it or touch it,
+											but if it wasn&#39;t there,
+											we would not exist.
+											The Higgs field gives mass
+											to the fundamental particles
+that we&#39;re made from.
+											If it wasn&#39;t there, those particles
+would have no mass,
+											and no atoms could form
+and there would be no us.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But there is something deeply mysterious
+about the Higgs field.
+											Relativity and quantum mechanics tell us
+that it has two natural settings,
+											a bit like a light switch.
+											It should either be off,
+											so that it has a zero value
+everywhere in space,
+											or it should be on so it has
+an absolutely enormous value.
+											In both of these scenarios,
+atoms could not exist,
+											and therefore all the other
+interesting stuff
+											that we see around us
+in the universe would not exist.
+											In reality, the Higgs field
+is just slightly on,
+											not zero but 10,000 trillion times weaker
+than its fully on value,
+											a bit like a light switch that&#39;s got stuck
+just before the off position.
+											And this value is crucial.
+											If it were a tiny bit different,
+											then there would be
+no physical structure in the universe.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So this is the first
+of our dangerous numbers,
+											the strength of the Higgs field.
+											Theorists have spent decades
+trying to understand
+											why it has this very peculiarly
+fine-tuned number,
+											and they&#39;ve come up
+with a number of possible explanations.
+											They have sexy-sounding names
+like &quot;supersymmetry&quot;
+											or &quot;large extra dimensions.&quot;
+											I&#39;m not going to go
+into the details of these ideas now,
+											but the key point is this:
+											if any of them explained this weirdly
+fine-tuned value of the Higgs field,
+											then we should see new particles
+being created at the LHC
+											along with the Higgs boson.
+											So far, though, we&#39;ve not seen
+any sign of them.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But there&#39;s actually an even worse example
+											of this kind of fine-tuning
+of a dangerous number,
+											and this time it comes
+from the other end of the scale,
+											from studying the universe
+at vast distances.
+											One of the most important consequences
+of Einstein&#39;s general theory of relativity
+											was the discovery that the universe began
+as a rapid expansion of space and time
+											13.8 billion years ago, the Big Bang.
+											Now, according to early versions
+of the Big Bang theory,
+											the universe has been expanding ever since
+											with gravity gradually putting
+the brakes on that expansion.
+											But in 1998, astronomers made
+the stunning discovery
+											that the expansion of the universe
+is actually speeding up.
+											The universe is getting
+bigger and bigger faster and faster
+											driven by a mysterious repulsive force
+called dark energy.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, whenever you hear
+the word &quot;dark&quot; in physics,
+											you should get very suspicious
+											because it probably means
+we don&#39;t know what we&#39;re talking about.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We don&#39;t know what dark energy is,
+											but the best idea is that it&#39;s the energy
+of empty space itself,
+											the energy of the vacuum.
+											Now, if you use good old
+quantum mechanics to work out
+											how strong dark energy should be,
+											you get an absolutely astonishing result.
+											You find that dark energy
+											should be 10 to the power
+of 120 times stronger
+											than the value we observe from astronomy.
+											That&#39;s one with 120 zeroes after it.
+											This is a number so mind-bogglingly huge
+											that it&#39;s impossible
+to get your head around.
+											We often use the word &quot;astronomical&quot;
+when we&#39;re talking about big numbers.
+											Well, even that one won&#39;t do here.
+											This number is bigger
+than any number in astronomy.
+											It&#39;s a thousand trillion
+trillion trillion times bigger
+											than the number of atoms
+in the entire universe.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So that&#39;s a pretty bad prediction.
+											In fact, it&#39;s been called
+the worst prediction in physics,
+											and this is more than just
+a theoretical curiosity.
+											If dark energy were
+anywhere near this strong,
+											then the universe
+would have been torn apart,
+											stars and galaxies could not form,
+and we would not be here.
+											So this is the second
+of those dangerous numbers,
+											the strength of dark energy,
+											and explaining it requires an even more
+fantastic level of fine-tuning
+											than we saw for the Higgs field.
+											But unlike the Higgs field,
+this number has no known explanation.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The hope was that a complete combination
+											of Einstein&#39;s general
+theory of relativity,
+											which is the theory
+of the universe at grand scales,
+											with quantum mechanics, the theory
+of the universe at small scales,
+											might provide a solution.
+											Einstein himself
+spent most of his later years
+											on a futile search
+for a unified theory of physics,
+											and physicists have kept at it ever since.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											One of the most promising candidates
+for a unified theory is string theory,
+											and the essential idea is,
+											if you could zoom in on the fundamental
+particles that make up our world,
+											you&#39;d see actually
+that they&#39;re not particles at all,
+											but tiny vibrating strings of energy,
+											with each frequency of vibration
+corresponding to a different particle,
+											a bit like musical notes
+on a guitar string.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So it&#39;s a rather elegant, almost poetic
+way of looking at the world,
+											but it has one catastrophic problem.
+											It turns out that string theory
+isn&#39;t one theory at all,
+											but a whole collection of theories.
+											It&#39;s been estimated, in fact,
+											that there are 10 to the 500
+different versions of string theory.
+											Each one would describe
+a different universe
+											with different laws of physics.
+											Now, critics say this makes
+string theory unscientific.
+											You can&#39;t disprove the theory.
+											But others actually
+turned this on its head
+											and said, well,
+maybe this apparent failure
+											is string theory&#39;s greatest triumph.
+											What if all of these 10 to the 500
+different possible universes
+											actually exist out there somewhere
+											in some grand multiverse?
+											Suddenly we can understand
+											the weirdly fine-tuned values
+of these two dangerous numbers.
+											In most of the multiverse,
+											dark energy is so strong
+that the universe gets torn apart,
+											or the Higgs field is so weak
+that no atoms can form.
+											We live in one of the places
+in the multiverse
+											where the two numbers are just right.
+											We live in a Goldilocks universe.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, this idea is extremely controversial,
+and it&#39;s easy to see why.
+											If we follow this line of thinking,
+											then we will never be able
+to answer the question,
+											&quot;Why is there something
+rather than nothing?&quot;
+											In most of the multiverse,
+there is nothing,
+											and we live in one of the few places
+											where the laws of physics
+allow there to be something.
+											Even worse, we can&#39;t test
+the idea of the multiverse.
+											We can&#39;t access these other universes,
+											so there&#39;s no way of knowing
+whether they&#39;re there or not.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So we&#39;re in an extremely
+frustrating position.
+											That doesn&#39;t mean
+the multiverse doesn&#39;t exist.
+											There are other planets,
+other stars, other galaxies,
+											so why not other universes?
+											The problem is, it&#39;s unlikely
+we&#39;ll ever know for sure.
+											Now, the idea of the multiverse
+has been around for a while,
+											but in the last few years,
+we&#39;ve started to get the first solid hints
+											that this line of reasoning
+may get born out.
+											Despite high hopes
+for the first run of the LHC,
+											what we were looking for there —
+											we were looking
+for new theories of physics:
+											supersymmetry or large extra dimensions
+											that could explain this weirdly
+fine-tuned value of the Higgs field.
+											But despite high hopes, the LHC
+revealed a barren subatomic wilderness
+											populated only by a lonely Higgs boson.
+											My experiment published paper after paper
+											where we glumly had to conclude
+that we saw no signs of new physics.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The stakes now could not be higher.
+											This summer, the LHC began
+its second phase of operation
+											with an energy almost double
+what we achieved in the first run.
+											What particle physicists
+are all desperately hoping for
+											are signs of new particles,
+micro black holes,
+											or maybe something totally unexpected
+											emerging from the violent collisions
+at the Large Hadron Collider.
+											If so, then we can continue
+this long journey
+											that began 100 years ago
+with Albert Einstein
+											towards an ever deeper understanding
+of the laws of nature.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But if, in two or three years&#39; time,
+											when the LHC switches off again
+for a second long shutdown,
+											we&#39;ve found nothing but the Higgs boson,
+											then we may be entering
+a new era in physics:
+											an era where there are weird features
+of the universe that we cannot explain;
+											an era where we have hints
+that we live in a multiverse
+											that lies frustratingly
+forever beyond our reach;
+											an era where we will never be able
+to answer the question,
+											&quot;Why is there something
+rather than nothing?&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Bruno Giussani: Harry,
+even if you just said
+											the science may not have some answers,
+											I would like to ask you a couple
+of questions, and the first is:
+											building something like the LHC
+is a generational project.
+											I just mentioned, introducing you,
+that we live in a short-term world.
+											How do you think so long term,
+											projecting yourself out a generation
+when building something like this?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Harry Cliff: I was very lucky
+											that I joined the experiment
+I work on at the LHC in 2008,
+											just as we were switching on,
+											and there are people in my research group
+who have been working on it
+											for three decades,
+their entire careers on one machine.
+											So I think the first conversations
+about the LHC were in 1976,
+											and you start planning the machine
+without the technology
+											that you know you&#39;re going to need
+to be able to build it.
+											So the computing power
+did not exist in the early &#39;90s
+											when design work began in earnest.
+											One of the big detectors
+which record these collisions,
+											they didn&#39;t think there was technology
+											that could withstand the radiation
+that would be created in the LHC,
+											so there was basically a lump of lead
+in the middle of this object
+											with some detectors around the outside,
+											but subsequently
+we have developed technology.
+											So you have to rely on people&#39;s ingenuity,
+that they will solve the problems,
+											but it may be a decade
+or more down the line.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											BG: China just announced
+two or three weeks ago
+											that they intend to build
+											a supercollider twice the size of the LHC.
+											I was wondering how you
+and your colleagues welcome the news.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											HC: Size isn&#39;t everything, Bruno.
+BG: I&#39;m sure. I&#39;m sure.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It sounds funny for a particle
+physicist to say that.
+											But I mean, seriously, it&#39;s great news.
+											So building a machine like the LHC
+											requires countries from all over the world
+to pool their resources.
+											No one nation can afford
+to build a machine this large,
+											apart from maybe China,
+											because they can mobilize
+huge amounts of resources,
+											manpower and money
+to build machines like this.
+											So it&#39;s only a good thing.
+											What they&#39;re really planning to do
+is to build a machine
+											that will study the Higgs boson in detail
+and could give us some clues
+											as to whether these new ideas,
+like supersymmetry, are really out there,
+											so it&#39;s great news for physics, I think.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											BG: Harry, thank you.
+HC: Thank you very much.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":27016,"count":170,"talk_id":2396},"threadId":27016,"current_talk":"2396","description":"Why is there something rather than nothing? Why does so much interesting stuff exist in the universe? Particle physicist Harry Cliff works on the Large Hadron Collider at CERN, and he has some potentially bad news for people who seek answers to these questions. Despite the best efforts of scientists (and the help of the biggest machine on the planet), we may never be able to explain all the weird features of nature. Is this the end of physics? Learn more in this fascinating talk about the latest research into the secret structure of the universe.","event":"TEDGlobal>Geneva","language":"en","name":"Harry Cliff: Have we reached the end of physics?","slug":"harry_cliff_have_we_reached_the_end_of_physics","speakers":[{"id":"2754","slug":"harry_cliff","is_published":true,"firstname":"Harry","lastname":"Cliff","middleinitial":"","title":"","description":"Particle physicist","photo_url":"https://pe.tedcdn.com/images/ted/c4b5ee8b0af009277ac49271d3f2140e6ed74566_254x191.jpg","whatotherssay":"","whotheyare":"Harry Cliff looks for answers to questions about the origins of the universe and the laws of nature. ","whylisten":"<p class=\"p1\">Harry Cliff works on the Large Hadron Collider at CERN and is a member of the LHCb collaboration, a large international team searching for signs of new particles and forces of nature in high-energy particle collisions. He is the Fellow of Modern Science at the Science Museum in London and curated their &ldquo;Collider&rdquo; exhibition as well as the more recent &ldquo;Einstein&rsquo;s Legacy&rdquo;, which explores the scientific and cultural impact of Albert Einstein&rsquo;s life and work.</p>"}],"url":"https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics","viewed_count":2454523,"talks":[{"curator_approved":true,"description":"Why is there something rather than nothing? Why does so much interesting stuff exist in the universe? Particle physicist Harry Cliff works on the Large Hadron Collider at CERN, and he has some potentially bad news for people who seek answers to these questions. Despite the best efforts of scientists (and the help of the biggest machine on the planet), we may never be able to explain all the weird features of nature. Is this the end of physics? Learn more in this fascinating talk about the latest research into the secret structure of the universe.","downloads":{"id":2396,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Belarusian","endonym":"Беларуская мова","languageCode":"be","ianaCode":"be","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Macedonian","endonym":"македонски","languageCode":"mk","ianaCode":"mk","isRtl":false},{"languageName":"Malay","endonym":"Bahasa melayu","languageCode":"ms","ianaCode":"ms","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/HarryCliff_2015G-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/HarryCliff_2015G.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/HarryCliff_2015G-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"en":{"name":"English","low":"https://download.ted.com/talks/HarryCliff_2015G-low-en.mp4","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-en.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/HarryCliff_2015G-low-ru.mp4","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-ru.mp4"},"mk":{"name":"Macedonian","low":"https://download.ted.com/talks/HarryCliff_2015G-low-mk.mp4","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-mk.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/HarryCliff_2015G-low-he.mp4","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-he.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/HarryCliff_2015G-low-sr.mp4","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-sr.mp4"},"be":{"name":"Belarusian","low":"https://download.ted.com/talks/HarryCliff_2015G-low-be.mp4","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-be.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/HarryCliff_2015G-low-ar.mp4","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-ar.mp4"},"uk":{"name":"Ukrainian","low":"https://download.ted.com/talks/HarryCliff_2015G-low-uk.mp4","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-uk.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/HarryCliff_2015G-low-bg.mp4","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-bg.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/HarryCliff_2015G-low-es.mp4","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-es.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/HarryCliff_2015G-low-ja.mp4","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-ja.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/HarryCliff_2015G-low-fa.mp4","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-fa.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/HarryCliff_2015G-low-nl.mp4","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-nl.mp4"},"de":{"name":"German","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-de.mp4","low":"https://download.ted.com/talks/HarryCliff_2015G-low-de.mp4"},"cs":{"name":"Czech","low":"https://download.ted.com/talks/HarryCliff_2015G-low-cs.mp4","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-cs.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/HarryCliff_2015G-low-el.mp4","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-el.mp4"},"ms":{"name":"Malay","low":"https://download.ted.com/talks/HarryCliff_2015G-low-ms.mp4","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-ms.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/HarryCliff_2015G-low-tr.mp4","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-tr.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/HarryCliff_2015G-low-ko.mp4","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-ko.mp4"},"fr":{"name":"French","low":"https://download.ted.com/talks/HarryCliff_2015G-low-fr.mp4","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-fr.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/HarryCliff_2015G-low-zh-cn.mp4","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-zh-cn.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/HarryCliff_2015G-low-pt-br.mp4","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-pt-br.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/HarryCliff_2015G-low-hu.mp4","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-hu.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/HarryCliff_2015G-low-it.mp4","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-it.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/HarryCliff_2015G-low-zh-tw.mp4","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-zh-tw.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/HarryCliff_2015G-low-vi.mp4","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-vi.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/HarryCliff_2015G-low-pt.mp4","high":"https://download.ted.com/talks/HarryCliff_2015G-480p-pt.mp4"}},"audioDownload":"https://download.ted.com/talks/HarryCliff_2015G.mp3?apikey=acme-roadrunner"},"duration":837.0,"event":"TEDGlobal>Geneva","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://s3.amazonaws.com/talkstar-photos/uploads/6deca22c-2606-4b52-8ddb-984e991a1946/HarryCliff_2015G-embed.jpg","hero_load":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/6deca22c-2606-4b52-8ddb-984e991a1946/HarryCliff_2015G-embed.jpg?q=50&w=15","id":"2396","player_talks":[{"id":"2396","duration":837.0,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Belarusian","endonym":"Беларуская мова","languageCode":"be","ianaCode":"be","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Ukrainian","endonym":"Українська","languageCode":"uk","ianaCode":"uk","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Macedonian","endonym":"македонски","languageCode":"mk","ianaCode":"mk","isRtl":false},{"languageName":"Malay","endonym":"Bahasa melayu","languageCode":"ms","ianaCode":"ms","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2015G/Blank/HarryCliff_2015G-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDGlobal%3EGeneva%26id%3D2396%26tag%3Dbig%2Bbang%2Cdark%2Bmatter%2Ccomplexity%2Cexploration%2Cfuture%2Cinnovation%2Cnature%2Cphysics%2Cscience%2Cspace%2Ctechnology%2Cuniverse%26talk%3Dharry_cliff_have_we_reached_the_end_of_physics%26year%3D2015&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"2396","talk":"harry_cliff_have_we_reached_the_end_of_physics","tag":"big bang,dark matter,complexity,exploration,future,innovation,nature,physics,science,space,technology,universe","year":"2015","event":"TEDGlobal>Geneva"},"stream":"https://hls.ted.com/talks/2396.m3u8","metadata":"https://hls.ted.com/talks/2396.json"}},"targeting":{"id":"2396","talk":"harry_cliff_have_we_reached_the_end_of_physics","tag":"big bang,dark matter,complexity,exploration,future,innovation,nature,physics,science,space,technology,universe","year":"2015","event":"TEDGlobal>Geneva"},"canonical":"https://www.ted.com/talks/harry_cliff_have_we_reached_the_end_of_physics","name":"Harry Cliff: Have we reached the end of physics?","title":"Have we reached the end of physics?","speaker":"Harry Cliff","thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/6deca22c-2606-4b52-8ddb-984e991a1946/HarryCliff_2015G-embed.jpg?quality=89&w=600","slug":"harry_cliff_have_we_reached_the_end_of_physics","event":"TEDGlobal>Geneva","published":1451923495}],"ratings":[{"id":8,"name":"Informative","count":568},{"id":23,"name":"Jaw-dropping","count":107},{"id":24,"name":"Persuasive","count":73},{"id":22,"name":"Fascinating","count":418},{"id":7,"name":"Funny","count":30},{"id":3,"name":"Courageous","count":24},{"id":21,"name":"Unconvincing","count":26},{"id":10,"name":"Inspiring","count":133},{"id":1,"name":"Beautiful","count":78},{"id":2,"name":"Confusing","count":26},{"id":25,"name":"OK","count":60},{"id":9,"name":"Ingenious","count":49},{"id":11,"name":"Longwinded","count":14},{"id":26,"name":"Obnoxious","count":11}],"recorded_at":"2015-12-08T00:00:00.000+00:00","related_talks":[{"id":"1426","hero":"https://pe.tedcdn.com/images/ted/8acc0db27ae36bff8f46e0d0a88da0f333224b4c_1600x1200.jpg","speaker":"Brian Greene","title":"Is our universe the only universe?","duration":1307.0,"slug":"brian_greene_why_is_our_universe_fine_tuned_for_life","viewed_count":3731353},{"id":"1853","hero":"https://pe.tedcdn.com/images/ted/e2059cd7fbd3f541bc6c7abdb611425f036fcb97_1600x1200.jpg","speaker":"Gian Giudice","title":"Why our universe might exist on a knife-edge","duration":850.0,"slug":"gian_giudice_why_our_universe_might_exist_on_a_knife_edge","viewed_count":1770179},{"id":"2387","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/9b919d6e-133a-46e7-9d62-242195100c3f/JedidahIsler_2015F-embed.jpg","speaker":"Jedidah Isler","title":"The untapped genius that could change science for the better","duration":822.0,"slug":"jedidah_isler_the_untapped_genius_that_could_change_science_for_the_better","viewed_count":1787573},{"id":"253","hero":"https://pe.tedcdn.com/images/ted/40121_480x360.jpg","speaker":"Brian Cox","title":"CERN's supercollider","duration":899.0,"slug":"brian_cox_on_cern_s_supercollider","viewed_count":3222258},{"id":"251","hero":"https://pe.tedcdn.com/images/ted/174_480x360.jpg","speaker":"Brian Greene","title":"Making sense of string theory","duration":1146.0,"slug":"brian_greene_on_string_theory","viewed_count":4446741},{"id":"2654","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/dad3b445-b33a-4af3-9a7c-50f0a1ffa2a2/JamesBeacham_2016X-embed.jpg","speaker":"James Beacham","title":"How we explore unanswered questions in physics","duration":954.0,"slug":"james_beacham_how_we_explore_unanswered_questions_in_physics","viewed_count":1482493}],"slug":"harry_cliff_have_we_reached_the_end_of_physics","speakers":[{"id":"2754","slug":"harry_cliff","is_published":true,"firstname":"Harry","lastname":"Cliff","middleinitial":"","title":"","description":"Particle physicist","photo_url":"https://pe.tedcdn.com/images/ted/c4b5ee8b0af009277ac49271d3f2140e6ed74566_254x191.jpg","whatotherssay":"","whotheyare":"Harry Cliff looks for answers to questions about the origins of the universe and the laws of nature. ","whylisten":"<p class=\"p1\">Harry Cliff works on the Large Hadron Collider at CERN and is a member of the LHCb collaboration, a large international team searching for signs of new particles and forces of nature in high-energy particle collisions. He is the Fellow of Modern Science at the Science Museum in London and curated their &ldquo;Collider&rdquo; exhibition as well as the more recent &ldquo;Einstein&rsquo;s Legacy&rdquo;, which explores the scientific and cultural impact of Albert Einstein&rsquo;s life and work.</p>"}],"speaker_name":"Harry Cliff","tags":["big bang","dark matter","complexity","exploration","future","innovation","nature","physics","science","space","technology","universe"],"title":"Have we reached the end of physics?","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":2454523}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

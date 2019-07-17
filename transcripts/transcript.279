@@ -1,0 +1,1790 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Peter Hirshberg: The web is more than &quot;better TV&quot; | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: In this absorbing look at emerging media and tech history, Peter Hirshberg shares some crucial lessons from Silicon Valley and explains why the web is so much more than &quot;better TV.&quot;" />
+<meta name="author" content="Peter Hirshberg" />
+<link rel="canonical" href="https://www.ted.com/talks/peter_hirshberg_on_tv_and_the_web/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/peter_hirshberg_on_tv_and_the_web/transcript" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/peter_hirshberg_on_tv_and_the_web/transcript?language=ru" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/peter_hirshberg_on_tv_and_the_web/transcript?language=fr" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/peter_hirshberg_on_tv_and_the_web/transcript?language=en" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/peter_hirshberg_on_tv_and_the_web/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/peter_hirshberg_on_tv_and_the_web/transcript?language=tr" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/peter_hirshberg_on_tv_and_the_web/transcript?language=de" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/peter_hirshberg_on_tv_and_the_web/transcript?language=ko" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/peter_hirshberg_on_tv_and_the_web/transcript?language=it" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/peter_hirshberg_on_tv_and_the_web/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/peter_hirshberg_on_tv_and_the_web/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/peter_hirshberg_on_tv_and_the_web/transcript?language=pt-br" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/peter_hirshberg_on_tv_and_the_web/transcript?language=pl" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/peter_hirshberg_on_tv_and_the_web/transcript?language=bg" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/peter_hirshberg_on_tv_and_the_web/transcript?language=vi" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/peter_hirshberg_on_tv_and_the_web/transcript?language=ro" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/peter_hirshberg_on_tv_and_the_web/transcript?language=es" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/peter_hirshberg_on_tv_and_the_web/transcript?language=he" />
+<meta property="og:title" content="Transcript of &quot;The web is more than &quot;better TV&quot;&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/50991_480x360.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/50991_480x360.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Peter Hirshberg: The web is more than &quot;better TV&quot;" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: In this absorbing look at emerging media and tech history, Peter Hirshberg shares some crucial lessons from Silicon Valley and explains why the web is so much more than &quot;better TV.&quot;" />
+<meta property="og:url" content="https://www.ted.com/talks/peter_hirshberg_on_tv_and_the_web/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 339);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/peter_hirshberg_on_tv_and_the_web' itemprop='url'>
+<meta content='The web is more than "better TV"' itemprop='name'>
+<meta content='In this absorbing look at emerging media and tech history, Peter Hirshberg shares some crucial lessons from Silicon Valley and explains why the web is so much more than "better TV."' itemprop='description'>
+<meta content='PT31M39S' itemprop='duration'>
+<meta content='2008-09-04T07:19:00+00:00' itemprop='uploadDate'>
+<meta content='259073' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/50991_480x360.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/peter_hirshberg' itemprop='url'>
+<meta content='Peter Hirshberg' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/52657_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/peter_hirshberg_on_tv_and_the_web' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/50991_480x360.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Peter Hirshberg
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					259,073
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 31:39</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Well, good morning.
+											You know, the computer and television both recently turned 60,
+											and today I&#39;d like to talk about their relationship.
+											Despite their middle age, if you&#39;ve been following the themes
+											of this conference or the entertainment industry,
+											it&#39;s pretty clear that one has been picking on the other.
+											So it&#39;s about time that we talked about how the computer ambushed television,
+											or why the invention of the atomic bomb
+											unleashed forces that lead to the writers&#39; strike.
+											And it&#39;s not just what these are doing to each other,
+											but it&#39;s what the audience thinks that really frames this matter.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											To get a sense of this,
+											and it&#39;s been a theme we&#39;ve talked about all week,
+											I recently talked to a bunch of tweeners.
+											I wrote on cards: &quot;television,&quot; &quot;radio,&quot; &quot;MySpace,&quot; &quot;Internet,&quot; &quot;PC.&quot;
+											And I said, just arrange these, from what&#39;s important to you
+											and what&#39;s not, and then tell me why.
+											Let&#39;s listen to what happens when they get to the portion
+											of the discussion on television.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Video) Girl 1: Well, I think it&#39;s important but, like, not necessary
+											because you can do a lot of other stuff with your free time than watch programs.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Peter Hirshberg: Which is more fun, Internet or TV?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Girls: Internet.
+											Girl 2: I think we — the reasons, one of the reasons we put computer before TV
+											is because nowadays, like, we have TV shows on the computer.
+											(Girl 3: Oh, yeah.)
+											Girl 2: And then you can download onto your iPod.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											PH: Would you like to be the president of a TV network?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Girl 4: I wouldn&#39;t like it.
+											Girl 2: That would be so stressful.
+											Girl 5: No.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											PH: How come?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Girl 5: Because they&#39;re going to lose all their money eventually.
+											Girl 3: Like the stock market, it goes up and down and stuff.
+											I think right now the computers will be at the top
+											and everything will be kind of going down and stuff.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											PH: There&#39;s been an uneasy relationship between the TV business
+											and the tech business, really ever since they both turned about 30.
+											We go through periods of enthrallment,
+											followed by reactions in boardrooms, in the finance community
+											best characterized as, what&#39;s the finance term? Ick pooey.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Let me give you an example of this. The year is 1976,
+											and Warner buys Atari because video games are on the rise.
+											The next year they march forward and they introduce Qube,
+											the first interactive cable TV system,
+											and the New York Times heralds this
+											as telecommunications moving to the home,
+											convergence, great things are happening.
+											Everybody in the East Coast gets in the pictures —
+											Citicorp, Penney, RCA — all getting into this big vision.
+											By the way, this is about when I enter the picture.
+											I&#39;m going to do a summer internship at Time Warner.
+											That summer I&#39;m all — I&#39;m at Warner that summer —
+											I&#39;m all excited to work on convergence, and then the bottom falls out.
+											Doesn&#39;t work out too well for them, they lose money.
+											And I had a happy brush with convergence
+											until, kind of, Warner basically has to liquidate the whole thing.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											That&#39;s when I leave graduate school, and I can&#39;t work in New York
+											on kind of entertainment and technology
+											because I have to be exiled to California, where the remaining jobs are,
+											almost to the sea, to go to work for Apple Computer.
+											Warner, of course, writes off more than 400 million dollars.
+											Four hundred million dollars, which was real money back in the &#39;70s.
+											But they were onto something and they got better at it.
+											By the year 2000, the process was perfected. They merged with AOL,
+											and in just four years, managed to shed about 200 billion dollars
+											of market capitalization, showing that they&#39;d actually mastered the art
+											of applying Moore&#39;s law of successive miniaturization
+											to their balance sheet.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, I think that one reason that the media and the entertainment communities,
+											or the media community, is driven so crazy by the tech community
+											is that tech folks talk differently.
+											You know, for 50 years, we&#39;ve talked about changing the world,
+											about total transformation.
+											For 50 years, it&#39;s been about hopes and fears
+											and promises of a better world. And I got to thinking,
+											you know, who else talks that way?
+											And the answer is pretty clearly —
+											it&#39;s people in religion and in politics.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so I realized that actually the tech world is best understood,
+											not as a business cycle, but as a messianic movement.
+											We promise something great, we evangelize it,
+											we&#39;re going to change the world. It doesn&#39;t work out too well,
+											and so we actually go back to the well and start all over again,
+											as the people in New York and L.A. look on in absolute, morbid astonishment.
+											But it&#39;s this irrational view of things that drives us on to the next thing.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, what I&#39;d like to ask is, if the computer is becoming a principal tool
+											of media and entertainment, how did we get here?
+											I mean, how did a machine that was built for accounting
+											and artillery morph into media?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Of course, the first computer was built just after World War II
+											to solve military problems, but things got really interesting
+											just a couple of years later — 1949 with Whirlwind,
+											built at MIT&#39;s Lincoln Lab. Jay Forrester was building this for the Navy,
+											but you can&#39;t help but see that the creator of this machine had in mind
+											a machine that might actually be a potential media star.
+											So take a look at what happens when the foremost journalist
+											of early television meets one of the foremost computer pioneers,
+											and the computer begins to express itself.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Video) Journalist: It&#39;s a Whirlwind electronic computer.
+											With considerable trepidation,
+											we undertake to interview this new machine.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Jay Forrester: Hello New York, this is Cambridge.
+											And this is the oscilloscope of the Whirlwind electronic computer.
+											Would you like if I used the machine?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Journalist: Yes, of course. But I have an idea, Mr. Forrester.
+											Since this computer was made
+											in conjunction with the Office of Naval Research,
+											why don&#39;t we switch down to the Pentagon in Washington
+											and let the Navy&#39;s research chief, Admiral Bolster,
+											give Whirlwind the workout?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Calvin Bolster: Well, Ed, this problem concerns the Navy&#39;s Viking rocket.
+											This rocket goes up 135 miles into the sky.
+											Now, at the standard rate of fuel consumption,
+											I would like to see the computer trace the flight path of this rocket
+											and see how it can determine, at any instant,
+											say at the end of 40 seconds, the amount of fuel remaining,
+											and the velocity at that set instant.
+											JF: Over on the left-hand side,
+											you will notice fuel consumption decreasing as the rocket takes off.
+											And on the right-hand side, there&#39;s a scale
+											that shows the rocket&#39;s velocity.
+											The rocket&#39;s position is shown by the trajectory
+											that we&#39;re now looking at.
+											And as it reaches the peak of its trajectory,
+											the velocity, you will notice, has dropped off to a minimum.
+											Then, as the rocket dives down, velocity picks up again
+											toward a maximum velocity and the rocket hits the ground.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											How&#39;s that?
+											Journalist: What about that, Admiral?
+											CB: Looks very good to me.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											JF: And before leaving, we would like to show you another kind of
+											mathematical problem that some of the boys have worked out
+											in their spare time, in a less serious vein, for a Sunday afternoon. (Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Journalist: Thank you very much indeed, Mr. Forrester and the MIT lab.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											PH: You know, so much was worked out: the first real-time interaction,
+											the video display, pointing a gun. It lead to the microcomputer,
+											but unfortunately, it was too pricey for the Navy,
+											and all of this would have been lost
+											if it weren&#39;t for a happy coincidence.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Enter the atomic bomb.
+											We&#39;re threatened by the greatest weapon ever,
+											and knowing a good thing when it sees it,
+											the Air Force decides it needs the biggest computer ever to protect us.
+											They adapt Whirlwind to a massive air defense system,
+											deploy it all across the frozen north,
+											and spend nearly three times as much on this computer
+											as was spent on the Manhattan Project
+											building the A-Bomb in the first place.
+											Talk about a shot in the arm for the computer industry.
+											And you can imagine that the Air Force became a pretty good salesman.
+											Here&#39;s their marketing video.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Video) Narrator: In a mass raid, high-speed bombers could be in on us
+											before we could determine their tracks.
+											And then it would be too late to act.
+											We cannot afford to take that chance.
+											It is to meet this threat that the Air Force has been developing SAGE,
+											the Semi-Automatic Ground Environment system,
+											to strengthen our air defenses.
+											This new computer, built to become the nerve center of a defense network,
+											is able to perform all the complex mathematical problems
+											involved in countering a mass enemy raid.
+											It is provided with its own powerhouse
+											containing large diesel-driven generators,
+											air-conditioning equipment, and cooling towers
+											required to cool the thousands of vacuum tubes in the computer.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											PH: You know, that one computer was huge.
+											There&#39;s an interesting marketing lesson from it,
+											which is basically, when you market a product,
+											you can either say, this is going to be wonderful,
+											it will make you feel better and enliven you.
+											Or there&#39;s one other marketing proposition: if you don&#39;t use our product, you&#39;ll die.
+											This is a really good example of that.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This had the first pointing device. It was distributed,
+											so it worked out — distributed computing and modems —
+											so all these things could talk to each other.
+											About 20 percent of all the nation&#39;s programmers were wrapped up in this thing,
+											and it led to an awful lot of what we have today. It also used vacuum tubes.
+											You saw how huge it was, and to give you a sense for this —
+											because we&#39;ve talked a lot about Moore&#39;s law and making things small
+											at this conference, so let&#39;s talk about making things large.
+											If we took Whirlwind and put it in a place that you all know,
+											say, Century City, it would fit beautifully.
+											You&#39;d kind of have to take Century City out, but it could fit in there.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But like, let&#39;s imagine we took the latest Pentium processor,
+											the latest Core 2 Extreme, which is a four-core processor
+											that Intel&#39;s working on, it will be our laptop tomorrow.
+											To build that, what we&#39;d do with Whirlwind technology is
+											we&#39;d have to take up roughly from the 10 to Mulholland,
+											and from the 405 to La Cienega just with those Whirlwinds.
+											And then, the 92 nuclear power plants
+											that it would take to provide the power
+											would fill up the rest of Los Angeles.
+											That&#39;s roughly a third more nuclear power than all of France creates.
+											So, the next time they tell you they&#39;re on to something, clearly they&#39;re not.
+											So — and we haven&#39;t even worked out the cooling needs.
+											But it gives you the kind of power that people have, that the audience has,
+											and the reasons these transformations are happening.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											All of this stuff starts moving into industry.
+											DEC kind of reduces all this and makes the first mini-computer.
+											It shows up at places like MIT, and then a mutation happens.
+											Spacewar! is built, the first computer game, and all of a sudden,
+											interactivity and involvement and passion is worked out.
+											Actually, many MIT students stayed up all night long working on this thing,
+											and many of the principles of gaming today were worked out.
+											DEC knew a good thing about wasting time.
+											It shipped every one of its computers with that game.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Meanwhile, as all of this is happening, by the mid-&#39;50s,
+											the business model of traditional broadcasting and cinema
+											has been busted completely.
+											A new technology has confounded radio men and movie moguls
+											and they&#39;re quite certain that television is about to do them in.
+											In fact, despair is in the air.
+											And a quote that sounds largely reminiscent
+											from everything I&#39;ve been reading all week.
+											RCA had David Sarnoff, who basically commercialized radio,
+											said this, &quot;I don&#39;t say that radio networks must die.
+											Every effort has been made and will continue to be made
+											to find a new pattern, new selling arrangements
+											and new types of programs that may arrest the declining revenues.
+											It may yet be possible to eke out a poor existence for radio,
+											but I don&#39;t know how.&quot;
+											And of course, as the computer industry develops interactively,
+											producers in the emerging TV business actually hit on the same idea.
+											And they fake it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Video) Jack Berry: Boys and girls, I think you all know how to get your magic windows
+											up on the set, you just get them out.
+											First of all, get your Winky Dink kits out.
+											Put out your Magic Window and your erasing glove, and rub it like this.
+											That&#39;s the way we get some of the magic into it, boys and girls.
+											Then take it and put it right up against the screen of your own television set,
+											and rub it out from the center to the corners, like this.
+											Make sure you keep your magic crayons handy, your Winky Dink crayons
+											and your erasing glove,
+											because you&#39;ll be using them during the show to draw like that.
+											You all set? OK, let&#39;s get right to the first story about Dusty Man.
+											Come on into the secret lab.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											PH: It was the dawn of interactive TV, and you may have noticed
+											they wanted to sell you the Winky Dink kits.
+											Those are the Winky Dink crayons. I know what you&#39;re saying.
+											&quot;Pete, I could use any ordinary open-source crayon,
+											why do I have to buy theirs?&quot;
+											I assure you, that&#39;s not the case.
+											Turns out they told us directly that these are the only crayons
+											you should ever use with your Winky Dink Magic Window,
+											other crayons may discolor or hurt the window.
+											This proprietary principle of vendor lock-in
+											would go on to be perfected with great success
+											as one of the enduring principles of windowing systems everywhere.
+											It led to lawsuits —
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter) —
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											federal investigations, and lots of repercussions,
+											and that&#39;s a scandal we won&#39;t discuss today.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But we will discuss this scandal, because this man, Jack Berry, the host of &quot;Winky Dink,&quot;
+											went on to become the host of &quot;Twenty One,&quot; one of the most important quiz shows ever.
+											And it was rigged, and it became unraveled when this man,
+											Charles van Doren, was outed after an unnatural winning streak,
+											ending Berry&#39;s career.
+											And actually, ending the career of a lot of people at CBS.
+											It turns out there was a lot to learn
+											about how this new medium worked.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And 50 years ago, if you&#39;d been at a meeting like this
+											and were trying to understand the media,
+											there was one prophet and only but one you wanted to hear from,
+											Professor Marshall McLuhan.
+											He actually understood something about a theme
+											that we&#39;ve been discussing all week. It&#39;s the role of the audience
+											in an era of pervasive electronic communications.
+											Here he is talking from the 1960s.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Video) Marshall McLuhan: If the audience can become involved in the actual process
+											of making the ad, then it&#39;s happy. It&#39;s like the old quiz shows.
+											They were great TV because it gave the audience a role, something to do.
+											They were horrified when they discovered
+											they&#39;d really been left out all the time because the shows were rigged.
+											Now, then, this was a horrible misunderstanding of TV
+											on the part of the programmers.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											PH: You know, McLuhan talked about the global village.
+											If you substitute the word blogosphere, of the Internet today,
+											it is very true that his understanding is probably
+											very enlightening now. Let&#39;s listen in to him.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Video) MM: The global village is a world
+											in which you don&#39;t necessarily have harmony.
+											You have extreme concern with everybody else&#39;s business
+											and much involvement in everybody else&#39;s life.
+											It&#39;s a sort of Ann Landers&#39; column writ large.
+											And it doesn&#39;t necessarily mean harmony and peace and quiet,
+											but it does mean huge involvement in everybody else&#39;s affairs.
+											And so the global village is as big as a planet,
+											and as small as a village post office.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											PH: We&#39;ll talk a little bit more about him later.
+											We&#39;re now right into the 1960s.
+											It&#39;s the era of big business and data centers for computing.
+											But all that was about to change.
+											You know, the expression of technology
+											reflects the people and the time of the culture it was built in.
+											And when I say that code expresses our hopes and aspirations,
+											it&#39;s not just a joke about messianism, it&#39;s actually what we do.
+											But for this part of the story, I&#39;d actually like to throw it
+											to America&#39;s leading technology correspondent, John Markoff.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Video) John Markoff: Do you want to know what the counterculture
+											in drugs, sex, rock &#39;n&#39; roll and the anti-war movement
+											had to do with computing? Everything.
+											It all happened within five miles of where I&#39;m standing,
+											at Stanford University, between 1960 and 1975.
+											In the midst of revolution in the streets
+											and rock and roll concerts in the parks,
+											a group of researchers led by people like John McCarthy,
+											a computer scientist at the Stanford Artificial Intelligence Lab,
+											and Doug Engelbart, a computer scientist at SRI, changed the world.
+											Engelbart came out of a pretty dry engineering culture,
+											but while he was beginning to do his work,
+											all of this stuff was bubbling on the mid-peninsula.
+											There was LSD leaking out of Kesey&#39;s Veterans&#39; Hospital experiments
+											and other areas around the campus,
+											and there was music literally in the streets.
+											The Grateful Dead was playing in the pizza parlors.
+											People were leaving to go back to the land.
+											There was the Vietnam War. There was black liberation.
+											There was women&#39;s liberation.
+											This was a remarkable place, at a remarkable time.
+											And into that ferment came the microprocessor.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I think it was that interaction that led to personal computing.
+											They saw these tools that were controlled by the establishment
+											as ones that could actually be liberated and put to use
+											by these communities that they were trying to build.
+											And most importantly, they had this ethos of sharing information.
+											I think these ideas are difficult to understand,
+											because when you&#39;re trapped in one paradigm,
+											the next paradigm is always like a science fiction universe — it makes no sense.
+											The stories were so compelling that I decided to write a book about them.
+											The title of the book is, &quot;What the Dormouse Said:
+											How the &#39;60s Counterculture Shaped the Personal Computer Industry.&quot;
+											The title was taken from the lyrics
+											to a Jefferson Airplane song. The lyrics go,
+											&quot;Remember what the dormouse said.
+											Feed your head, feed your head, feed your head.&quot; (Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											PH: By this time, computing had kind of leapt into media territory,
+											and in short order much of what we&#39;re doing today was imagined
+											in Cambridge and Silicon Valley.
+											Here&#39;s the Architecture Machine Group,
+											the predecessor of the Media Lab, in 1981.
+											Meanwhile, in California, we were trying to commercialize a lot of this stuff.
+											HyperCard was the first program
+											to introduce the public to hyperlinks,
+											where you could randomly hook to any kind of picture,
+											or piece of text, or data across a file system,
+											and we had no way of explaining it.
+											There was no metaphor. Was it a database?
+											A prototyping tool? A scripted language?
+											Heck, it was everything. So we ended up writing a marketing brochure.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We asked a question about how the mind works,
+											and we let our customers play the role of so many blind men filling out the elephant.
+											A few years later, we then hit on the idea
+											of explaining to people the secret of, how do you get the content you want,
+											the way you want it and the easy way?
+											Here&#39;s the Apple marketing video.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Video) James Burke: You&#39;ll be pleased to know, I&#39;m sure, that there are several ways
+											to create a HyperCard interactive video.
+											The most involved method is to go ahead
+											and produce your own videodisc
+											as well as build your own HyperCard stacks.
+											By far the simplest method is to buy a pre-made videodisc
+											and HyperCard stacks from a commercial supplier.
+											The method we illustrate in this video
+											uses a pre-made videodisc but creates custom HyperCard stacks.
+											This method allows you to use existing videodisc materials
+											in ways which suit your specific needs and interests.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											PH: I hope you realize how subversive that is.
+											That&#39;s like a Dick Cheney speech.
+											You think he&#39;s a nice balding guy, but he&#39;s just declared war
+											on the content business. Find the commercial stuff,
+											mash it up, tell the story your way.
+											Now, as long as we confine this to the education market,
+											and a personal matter between the computer and the file system,
+											that&#39;s fine, but as you can see, it was about to leap out and upset Jack Valenti
+											and a lot of other people.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											By the way, speaking of the filing system, it never occurred to us
+											that these hyperlinks could go beyond the local area network.
+											A few years later, Tim Berners-Lee worked that out.
+											It became a killer app of links, and today, of course,
+											we call that the World Wide Web.
+											Now, not only was I instrumental in helping Apple miss the Internet,
+											but a couple of years later, I helped Bill Gates do the same thing.
+											The year is 1993
+											and he was working on a book and I was working on a video
+											to help him kind of explain where we were all heading and how to popularize all this.
+											We were plenty aware that we were messing with media,
+											and on the surface, it looks like we predicted a lot of the right things,
+											but we also missed an awful lot. Let&#39;s take a look.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Video) Narrator: The pyramids, the Colosseum, the New York subway system
+											and TV dinners, ancient and modern wonders of the man-made world all.
+											Yet each pales to insignificance with the completion
+											of that magnificent accomplishment of twenty-first-century technology,
+											the Digital Superhighway.
+											Once it was only a dream of technoids and a few long-forgotten politicians.
+											The Digital Highway arrived in America&#39;s living rooms late in the twentieth century.
+											Let us recall the pioneers who made this technical marvel possible.
+											The Digital Highway would follow the rutted trail
+											first blazed by Alexander Graham Bell.
+											Though some were incredulous ... Man 1: The phone company!
+											Narrator: Stirred by the prospects of mass communication
+											and making big bucks on advertising,
+											David Sarnoff commercializes radio.
+											Man 2: Never had scientists been put under such pressure and demand.
+											Narrator: The medium introduced America to new products.
+											Voice 1: Say, mom, Windows for Radio means more enjoyment
+											and greater ease of use for the whole family.
+											Be sure to enjoy Windows for Radio at home and at work.
+											Narrator: In 1939, the Radio Corporation of America introduced television.
+											Man 2: Never had scientists been put under such pressure and demand.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Narrator: Eventually, the race to the future took on added momentum
+											with the breakup of the telephone company.
+											And further stimulus came
+											with the deregulation of the cable television industry,
+											and the re-regulation of the cable television industry.
+											Ted Turner: We did the work to build this, this cable industry,
+											now the broadcasters want some of our money. I mean, it&#39;s ridiculous.
+											Narrator: Computers, once the unwieldy tools of accountants and other geeks,
+											escaped the backrooms to enter the media fracas.
+											The world and all its culture reduced to bits,
+											the lingua franca of all media.
+											And the forces of convergence exploded.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Finally, four great industrial sectors combined.
+											Telecommunications, entertainment, computing and everything else.
+											Man 3: We&#39;ll see channels for the gourmet
+											and we&#39;ll see channels for the pet lover.
+											Voice 2: Next on the gourmet pet channel,
+											decorating birthday cakes for your schnauzer.
+											Narrator: All of industry was in play, as investors flocked to place their bets.
+											At stake: the battle for you, the consumer,
+											and the right to spend billions to send a lot of information into the parlors of America. (Music)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											PH: We missed a lot. You know, you missed, we missed the Internet,
+											the long tail, the role of the audience, open systems, social networks.
+											It just goes to show how tough it is to come up with the right uses of media.
+											Thomas Edison had the same problem.
+											He wrote a list of what the phonograph might be good for when he invented it,
+											and kind of only one of his ideas
+											turned out to have been the right early idea.
+											Well, you know where we&#39;re going on from here.
+											We come into the era of the dotcom, the World Wide Web,
+											and I don&#39;t need to tell you about that
+											because we all went through that bubble together.
+											But when we emerge from this and what we call Web 2.0,
+											things actually are quite different.
+											And I think it&#39;s the reason that TV&#39;s so challenged.
+											If Internet one was about pages, now it&#39;s about people.
+											It&#39;s a customer, it&#39;s an audience, it&#39;s a person who&#39;s participating.
+											It&#39;s the formidable thing that is changing entertainment now.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Video) MM: Because it gave the audience a role, something to do.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											PH: In my own company, Technorati,
+											we see something like 67,000 blog posts an hour come in.
+											That&#39;s about 2,700 fresh, connective links
+											across about 112 million blogs that are out there.
+											And it&#39;s no wonder that as we head into the writers&#39; strike, odd things happen.
+											You know, it reminds me of that old saw in Hollywood,
+											that a producer is anyone who knows a writer.
+											I now think a network boss is anyone who has a cable modem.
+											But it&#39;s not a joke. This is a real headline.
+											&quot;Websites attract striking writers:
+											operators of sites like MyDamnChannel.com
+											could benefit from labor disputes.&quot;
+											Meanwhile, you have the TV bloggers going out on strike,
+											in sympathy with the television writers.
+											And then you have TV Guide, a Fox property,
+											which is about to sponsor the online video awards —
+											but cancels it out of sympathy with traditional television,
+											not appearing to gloat.
+											To show you how schizophrenic this all is,
+											here&#39;s the head of MySpace, or Fox Interactive, a News Corp company,
+											being asked, well, with the writers&#39; strike,
+											isn&#39;t this going to hurt News Corp and help you online?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Video) Man: But I, yeah, I think there&#39;s an opportunity. As the strike continues,
+											there&#39;s an opportunity for more people to experience
+											video on places like MySpace TV.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											PH: Oh, but then he remembers he works for Rupert Murdoch.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Video) Man: Yes, well, first, you know, I&#39;m part of News Corporation
+											as part of Fox Entertainment Group.
+											Obviously, we hope that the strike is —
+											that the issues are resolved as quickly as possible.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											PH: One of the great things that&#39;s going on here is
+											the globalization of content really is happening.
+											Here is a clip from a video, from a piece of animation
+											that was written by a writer in Hollywood,
+											animation worked out in Israel, farmed out to Croatia and India,
+											and it&#39;s now an international series.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Video) Narrator: The following takes place between the minutes of 2:15 p.m. and 2:18 p.m.,
+											in the months preceding the presidential primaries.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Voice 1: You&#39;ll have to stay here in the safe house
+											until we get word the terrorist threat is over.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Voice 2: You mean we&#39;ll have to live here, together?
+											Voices 2, 3 and 4: With her?
+											Voice 2: Well, there goes the neighborhood.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											PH: The company that created this, Aniboom, is an interesting example
+											of where this is headed. Traditional TV animation costs, say,
+											between 80,000 and 10,000 dollars a minute.
+											They&#39;re producing things for between 1,500 and 800 dollars a minute.
+											And they&#39;re offering their creators 30 percent of the back end,
+											in a much more entrepreneurial manner. So, it&#39;s a different model.
+											What the entertainment business is struggling with,
+											the world of brands is figuring out.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											For example, Nike now understands that Nike Plus is not just a device in its shoe,
+											it&#39;s a network to hook its customers together.
+											And the head of marketing at Nike says, &quot;People are coming to our site
+											an average of three times a week. We don&#39;t have to go to them.&quot;
+											Which means television advertising is down 57 percent for Nike.
+											Or, as Nike&#39;s head of marketing says,
+											&quot;We&#39;re not in the business of keeping media companies alive.
+											We&#39;re in the business of connecting with consumers.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And media companies realize the audience is important also.
+											Here&#39;s a man announcing the new Market Watch from Dow Jones,
+											powered 100 percent by the user experience on the home page —
+											user-generated content married up with traditional content.
+											It turns out you have a bigger audience and more interest if you hook up with them.
+											Or, as Geoffrey Moore once told me,
+											it&#39;s intellectual curiosity that&#39;s the trade that brands need
+											in the age of the blogosphere.
+											And I think this is beginning to happen in the entertainment business.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											One of my heroes is songwriter, Ally Willis,
+											who just wrote &quot;The Color Purple&quot; and has been an R and —
+											rhythm and blues writer, and this is what she said
+											about where songwriting&#39;s going.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Ally Willis: Where millions of collaborators wanted the song,
+											because to look at them strictly as spam
+											is missing what this medium is about.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											PH: So, to wrap up, I&#39;d love to throw it back to Marshall McLuhan,
+											who, 40 years ago, was dealing with audiences
+											that were going through just as much change,
+											and I think that, today, traditional Hollywood and the writers
+											are framing this perhaps in the way that it was being framed before.
+											But I don&#39;t need to tell you this, let&#39;s throw it back to him.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Video) Narrator: We are in the middle of a tremendous clash between the old and the new.
+											MM: The medium does things to people
+											and they are always completely unaware of this.
+											They don&#39;t really notice the new medium that is wrapping them up.
+											They think of the old medium,
+											because the old medium is always the content of the new medium,
+											as movies tend to be the content of TV,
+											and as books used to be the content,
+											novels used to be the content of movies.
+											And so every time a new medium arrives,
+											the old medium is the content, and it is highly observable,
+											highly noticeable, but the real, real roughing up and massaging
+											is done by the new medium, and it is ignored.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											PH: I think it&#39;s a great time of enthrallment.
+											There&#39;s been more raw DNA of communications and media
+											thrown out there. Content is moving from shows to particles
+											that are batted back and forth, and part of social communications,
+											and I think this is going to be a time of great renaissance and opportunity.
+											And whereas television may have gotten beat up,
+											what&#39;s getting built is a really exciting new form of communication,
+											and we kind of have the merger of the two industries
+											and a new way of thinking to look at it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thanks very much.
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":294,"count":62,"talk_id":339},"threadId":294,"current_talk":"339","description":"In this absorbing look at emerging media and tech history, Peter Hirshberg shares some crucial lessons from Silicon Valley and explains why the web is so much more than \"better TV.\"","event":"EG 2007","language":"en","name":"Peter Hirshberg: The web is more than \"better TV\"","slug":"peter_hirshberg_on_tv_and_the_web","speakers":[{"id":"279","slug":"peter_hirshberg","is_published":true,"firstname":"Peter","lastname":"Hirshberg","middleinitial":"","title":"","description":"Entrepreneur, marketer","photo_url":"https://pe.tedcdn.com/images/ted/52657_254x191.jpg","whatotherssay":"","whotheyare":"A Silicon Valley executive, entrepreneur and marketing specialist, Peter Hirshberg might just be the definitive voice on how new technology affects business and culture.","whylisten":"<p>The Internet would change everything: it&#39;s a truism now, but for some, this took years to sink in. Not for Peter Hirshberg. A marketing specialist at the epicenter of emerging technology, <strong>he has spent a quarter of a century charting the reverberations of all things high tech</strong> in culture and in business. (It&#39;s <em>big</em> business, too.)<br /><br />Hirshberg first helped bring Apple into the online services arena., then acted as strategic adviser to Microsoft, AOL and NBC. Along the way, he was CEO of Gloss.com and Elemental Software. <strong>He&#39;s built a deep understanding of the fundamentals of content production and consumption</strong> -- and how they&#39;ve changed, both online and off.<br /><br />Hirshberg is a trustee of the Computer History Museum and a Henry Crown Fellow of the Aspen Institute. He serves on the advisory board of <a href=\"http://technoratimedia.com/about/board/\" target=\"_blank\">Technorati</a> and keeps up a lively <a href=\"http://atomicbomb.typepad.com/\" target=\"_blank\">blog</a> on disruptive culture. </p>"}],"url":"https://www.ted.com/talks/peter_hirshberg_on_tv_and_the_web","viewed_count":259073,"talks":[{"curator_approved":true,"description":"In this absorbing look at emerging media and tech history, Peter Hirshberg shares some crucial lessons from Silicon Valley and explains why the web is so much more than \"better TV.\"","downloads":{"id":339,"languages":[{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true}],"nativeDownloads":{"low":"https://download.ted.com/talks/PeterHirschberg_2007P-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/PeterHirschberg_2007P.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/PeterHirschberg_2007P-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"fr":{"name":"French","low":"https://download.ted.com/talks/PeterHirschberg_2007P-low-fr.mp4","high":"https://download.ted.com/talks/PeterHirschberg_2007P-480p-fr.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/PeterHirschberg_2007P-low-zh-tw.mp4","high":"https://download.ted.com/talks/PeterHirschberg_2007P-480p-zh-tw.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/PeterHirschberg_2007P-low-ko.mp4","high":"https://download.ted.com/talks/PeterHirschberg_2007P-480p-ko.mp4"},"zh-cn":{"name":"Chinese, Simplified","high":"https://download.ted.com/talks/PeterHirschberg_2007P-480p-zh-cn.mp4","low":"https://download.ted.com/talks/PeterHirschberg_2007P-low-zh-cn.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/PeterHirschberg_2007P-low-es.mp4","high":"https://download.ted.com/talks/PeterHirschberg_2007P-480p-es.mp4"},"en":{"name":"English","low":"https://download.ted.com/talks/PeterHirschberg_2007P-low-en.mp4","high":"https://download.ted.com/talks/PeterHirschberg_2007P-480p-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/PeterHirschberg_2007P-low-pt-br.mp4","high":"https://download.ted.com/talks/PeterHirschberg_2007P-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/PeterHirschberg_2007P-low-it.mp4","high":"https://download.ted.com/talks/PeterHirschberg_2007P-480p-it.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/PeterHirschberg_2007P-low-bg.mp4","high":"https://download.ted.com/talks/PeterHirschberg_2007P-480p-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/PeterHirschberg_2007P-low-ro.mp4","high":"https://download.ted.com/talks/PeterHirschberg_2007P-480p-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/PeterHirschberg_2007P-low-pl.mp4","high":"https://download.ted.com/talks/PeterHirschberg_2007P-480p-pl.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/PeterHirschberg_2007P-low-vi.mp4","high":"https://download.ted.com/talks/PeterHirschberg_2007P-480p-vi.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/PeterHirschberg_2007P-low-tr.mp4","high":"https://download.ted.com/talks/PeterHirschberg_2007P-480p-tr.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/PeterHirschberg_2007P-low-ar.mp4","high":"https://download.ted.com/talks/PeterHirschberg_2007P-480p-ar.mp4"},"de":{"name":"German","low":"https://download.ted.com/talks/PeterHirschberg_2007P-low-de.mp4","high":"https://download.ted.com/talks/PeterHirschberg_2007P-480p-de.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/PeterHirschberg_2007P-low-ru.mp4","high":"https://download.ted.com/talks/PeterHirschberg_2007P-480p-ru.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/PeterHirschberg_2007P-low-he.mp4","high":"https://download.ted.com/talks/PeterHirschberg_2007P-480p-he.mp4"}},"audioDownload":null},"duration":1899.0,"event":"EG 2007","event_blurb":null,"event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/50991_480x360.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/50991_480x360.jpg?q=50&w=15","id":"339","player_talks":[{"id":"339","duration":1899.0,"languages":[{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2007P/Blank/PeterHirschberg_2007P-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DEG%2B2007%26id%3D339%26tag%3Dbusiness%2Chistory%2Cmedia%2Ctechnology%2Ctelecom%2Ctelevision%26talk%3Dpeter_hirshberg_on_tv_and_the_web%26year%3D2007&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"339","talk":"peter_hirshberg_on_tv_and_the_web","tag":"business,history,media,technology,telecom,television","year":"2007","event":"EG 2007"},"stream":"https://hls.ted.com/talks/339.m3u8","metadata":"https://hls.ted.com/talks/339.json"}},"targeting":{"id":"339","talk":"peter_hirshberg_on_tv_and_the_web","tag":"business,history,media,technology,telecom,television","year":"2007","event":"EG 2007"},"canonical":"https://www.ted.com/talks/peter_hirshberg_on_tv_and_the_web","name":"Peter Hirshberg: The web is more than \"better TV\"","title":"The web is more than \"better TV\"","speaker":"Peter Hirshberg","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/50991_480x360.jpg?quality=89&w=600","slug":"peter_hirshberg_on_tv_and_the_web","event":"EG 2007","published":1220512740}],"ratings":[{"id":24,"name":"Persuasive","count":24},{"id":7,"name":"Funny","count":27},{"id":22,"name":"Fascinating","count":63},{"id":1,"name":"Beautiful","count":6},{"id":8,"name":"Informative","count":154},{"id":10,"name":"Inspiring","count":25},{"id":2,"name":"Confusing","count":18},{"id":21,"name":"Unconvincing","count":17},{"id":25,"name":"OK","count":47},{"id":11,"name":"Longwinded","count":30},{"id":9,"name":"Ingenious","count":22},{"id":23,"name":"Jaw-dropping","count":7},{"id":26,"name":"Obnoxious","count":7},{"id":3,"name":"Courageous","count":1}],"recorded_at":"2007-12-12T00:00:00.000+00:00","related_talks":[{"id":"19","hero":"https://pe.tedcdn.com/images/ted/7ddac8199e485dc8fe198d34b726f76680e7b86e_2880x1620.jpg","speaker":"Kevin Kelly","title":"How technology evolves","duration":1200.0,"slug":"kevin_kelly_on_how_technology_evolves","viewed_count":1718631},{"id":"362","hero":"https://pe.tedcdn.com/images/ted/371_480x360.jpg","speaker":"Steven Johnson","title":"The Web as a city","duration":990.0,"slug":"steven_johnson_on_the_web_as_a_city","viewed_count":361623},{"id":"72","hero":"https://pe.tedcdn.com/images/ted/399_480x360.jpg","speaker":"Chris Anderson","title":"Technology's long tail","duration":858.0,"slug":"chris_anderson_of_wired_on_tech_s_long_tail","viewed_count":957739},{"id":"2043","hero":"https://pe.tedcdn.com/images/ted/916b709d600db97cc67aa7e984c88b011dcb561f_2400x1800.jpg","speaker":"Nicholas Negroponte","title":"A 30-year history of the future","duration":1183.0,"slug":"nicholas_negroponte_a_30_year_history_of_the_future","viewed_count":1931286},{"id":"2838","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/b0ce2fc6-ad27-4e0c-9212-08240b6ebd1f/JackConte_2017-embed.jpg","speaker":"Jack Conte","title":"How artists can (finally) get paid in the digital age ","duration":631.0,"slug":"jack_conte_how_artists_can_finally_get_paid_in_the_digital_age","viewed_count":1114200},{"id":"90","hero":"https://pe.tedcdn.com/images/ted/c634a6fe7b4b9f15c59f75f0c06a09058081c95a_1600x1200.jpg","speaker":"Neil Gershenfeld","title":"Unleash your creativity in a Fab Lab","duration":1038.0,"slug":"neil_gershenfeld_on_fab_labs","viewed_count":744087}],"slug":"peter_hirshberg_on_tv_and_the_web","speakers":[{"id":"279","slug":"peter_hirshberg","is_published":true,"firstname":"Peter","lastname":"Hirshberg","middleinitial":"","title":"","description":"Entrepreneur, marketer","photo_url":"https://pe.tedcdn.com/images/ted/52657_254x191.jpg","whatotherssay":"","whotheyare":"A Silicon Valley executive, entrepreneur and marketing specialist, Peter Hirshberg might just be the definitive voice on how new technology affects business and culture.","whylisten":"<p>The Internet would change everything: it&#39;s a truism now, but for some, this took years to sink in. Not for Peter Hirshberg. A marketing specialist at the epicenter of emerging technology, <strong>he has spent a quarter of a century charting the reverberations of all things high tech</strong> in culture and in business. (It&#39;s <em>big</em> business, too.)<br /><br />Hirshberg first helped bring Apple into the online services arena., then acted as strategic adviser to Microsoft, AOL and NBC. Along the way, he was CEO of Gloss.com and Elemental Software. <strong>He&#39;s built a deep understanding of the fundamentals of content production and consumption</strong> -- and how they&#39;ve changed, both online and off.<br /><br />Hirshberg is a trustee of the Computer History Museum and a Henry Crown Fellow of the Aspen Institute. He serves on the advisory board of <a href=\"http://technoratimedia.com/about/board/\" target=\"_blank\">Technorati</a> and keeps up a lively <a href=\"http://atomicbomb.typepad.com/\" target=\"_blank\">blog</a> on disruptive culture. </p>"}],"speaker_name":"Peter Hirshberg","tags":["business","history","media","technology","telecom","television"],"title":"The web is more than \"better TV\"","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":259073}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

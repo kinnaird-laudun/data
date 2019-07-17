@@ -1,0 +1,1836 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Richard Ledgett: The NSA responds to Edward Snowden&#39;s TED Talk | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: After a surprise appearance by Edward Snowden at TED2014, Chris Anderson said: &quot;If the NSA wants to respond, please do.&quot; And yes, they did. Appearing by video, NSA deputy director Richard Ledgett answers Anderson&#39;s questions about the balance between security and protecting privacy." />
+<meta name="author" content="Richard Ledgett" />
+<link rel="canonical" href="https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk/transcript" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk/transcript?language=el" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk/transcript?language=en" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk/transcript?language=vi" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk/transcript?language=pt-br" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk/transcript?language=nl" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk/transcript?language=pt" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk/transcript?language=ro" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk/transcript?language=bg" />
+<link rel="alternate" hreflang="hr" href="https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk/transcript?language=hr" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk/transcript?language=de" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk/transcript?language=hu" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk/transcript?language=he" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk/transcript?language=sr" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk/transcript?language=ko" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk/transcript?language=tr" />
+<meta property="og:title" content="Transcript of &quot;The NSA responds to Edward Snowden&#39;s TED Talk&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b4e45bc988d63a0f64d01146505700e1217f7845_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b4e45bc988d63a0f64d01146505700e1217f7845_1600x1200.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Richard Ledgett: The NSA responds to Edward Snowden&#39;s TED Talk" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: After a surprise appearance by Edward Snowden at TED2014, Chris Anderson said: &quot;If the NSA wants to respond, please do.&quot; And yes, they did. Appearing by video, NSA deputy director Richard Ledgett answers Anderson&#39;s questions about the balance between security and protecting privacy." />
+<meta property="og:url" content="https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 1952);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk' itemprop='url'>
+<meta content="The NSA responds to Edward Snowden's TED Talk" itemprop='name'>
+<meta content='After a surprise appearance by Edward Snowden at TED2014, Chris Anderson said: "If the NSA wants to respond, please do." And yes, they did. Appearing by video, NSA deputy director Richard Ledgett answers Anderson&#x0027;s questions about the balance between security and protecting privacy.' itemprop='description'>
+<meta content='PT33M30S' itemprop='duration'>
+<meta content='2014-03-21T00:46:29+00:00' itemprop='uploadDate'>
+<meta content='1214359' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b4e45bc988d63a0f64d01146505700e1217f7845_1600x1200.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/rick_ledgett' itemprop='url'>
+<meta content='Richard Ledgett' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/5b0c9e15e13d98d581bcba94a8f2208df22ef4d6_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b4e45bc988d63a0f64d01146505700e1217f7845_1600x1200.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Richard Ledgett
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,214,359
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 33:30</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Chris Anderson: We had Edward Snowden here
+											a couple days ago,
+											and this is response time.
+											And several of you have written to me
+											with questions to ask our guest here from the NSA.
+											So Richard Ledgett is the 15th deputy director
+											of the National Security Agency,
+											and he&#39;s a senior civilian officer there,
+											acts as its chief operating officer,
+											guiding strategies, setting internal policies,
+											and serving as the principal advisor to the director.
+											And all being well,
+											welcome, Rick Ledgett, to TED.
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Richard Ledgett: I&#39;m really thankful for the opportunity to talk to folks here.
+											I look forward to the conversation,
+											so thanks for arranging for that.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: Thank you, Rick.
+											We appreciate you joining us.
+											It&#39;s certainly quite a strong statement
+											that the NSA is willing to reach out
+											and show a more open face here.
+											You saw, I think,
+											the talk and interview that Edward Snowden
+											gave here a couple days ago.
+											What did you make of it?
+											RL: So I think it was interesting.
+											We didn&#39;t realize that he 
+was going to show up there,
+											so kudos to you guys for arranging
+											a nice surprise like that.
+											I think that, like a lot of the things
+											that have come out since Mr. Snowden
+											started disclosing classified information,
+											there were some kernels of truth in there,
+											but a lot of extrapolations and half-truths in there,
+											and I&#39;m interested in helping to address those.
+											I think this is a really important conversation
+											that we&#39;re having in the United States
+											and internationally,
+											and I think it is important and of import,
+											and so given that, we need to have that be
+											a fact-based conversation,
+											and we want to help make that happen.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: So the question that a lot 
+of people have here is,
+											what do you make of Snowden&#39;s motivations
+											for doing what he did,
+											and did he have an alternative
+way that he could have gone?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RL: He absolutely did
+											have alternative ways that he could have gone,
+											and I actually think that characterizing him
+											as a whistleblower
+											actually hurts legitimate whistleblowing activities.
+											So what if somebody who works in the NSA —
+											and there are over 35,000 people who do.
+											They&#39;re all great citizens.
+											They&#39;re just like your husbands, fathers, sisters,
+											brothers, neighbors, nephews, friends and relatives,
+											all of whom are interested in doing the right thing
+											for their country
+											and for our allies internationally,
+											and so there are a variety of venues to address
+											if folks have a concern.
+											First off, there&#39;s their supervisor,
+											and up through the supervisory chain
+											within their organization.
+											If folks aren&#39;t comfortable with that,
+											there are a number of inspectors general.
+											In the case of Mr. Snowden, he had the option
+											of the NSA inspector general,
+											the Navy inspector general,
+											the Pacific Command inspector general,
+											the Department of Defense inspector general,
+											and the intelligence community inspector general,
+											any of whom would have both kept
+his concerns in classified channels
+											and been happy to address them.
+											(CA and RL speaking at once)
+											He had the option to go to
+congressional committees,
+											and there are mechanisms
+to do that that are in place,
+											and so he didn&#39;t do any of those things.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: Now, you had said that
+											Ed Snowden had other avenues
+											for raising his concerns.
+											The comeback on that is a couple of things:
+											one, that he certainly believes that as a contractor,
+											the avenues that would have been available
+to him as an employee weren&#39;t available,
+											two, there&#39;s a track record of other whistleblowers,
+											like [Thomas Andrews Drake] being treated
+											pretty harshly, by some views,
+											and thirdly, what he was taking on
+											was not one specific flaw that he&#39;d discovered,
+											but programs that had been approved
+											by all three branches of government.
+											I mean, in that circumstance,
+											couldn&#39;t you argue that what he did
+											was reasonable?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RL: No, I don&#39;t agree with that.
+											I think that the —
+											sorry, I&#39;m getting feedback
+											through the microphone there —
+											the actions that he took were inappropriate
+											because of the fact that 
+he put people&#39;s lives at risk,
+											basically, in the long run,
+											and I know there&#39;s been a lot of talk
+											in public by Mr. Snowden
+and some of the journalists
+											that say that the things that have been disclosed
+											have not put national security and people at risk,
+											and that is categorically not true.
+											They actually do.
+											I think there&#39;s also an amazing arrogance
+											to the idea that he knows better than
+											the framers of the Constitution
+											in how the government should 
+be designed and work
+											for separation of powers
+											and the fact that the executive 
+and the legislative branch
+											have to work together and they have
+checks and balances on each other,
+											and then the judicial branch,
+											which oversees the entire process.
+											I think that&#39;s extremely arrogant on his part.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: Can you give a specific example
+											of how he put people&#39;s lives at risk?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RL: Yeah, sure.
+											So the things that he&#39;s disclosed,
+											the capabilities,
+											and the NSA is a capabilities-based organization,
+											so when we have foreign intelligence targets,
+											legitimate things of interest —
+											like, terrorists is the iconic example,
+											but it includes things like human traffickers,
+											drug traffickers,
+											people who are trying to build
+advanced weaponry, nuclear weapons,
+											and build delivery systems for those,
+											and nation-states who might be executing aggression against their immediate neighbors,
+											which you may have some visibility
+											into some of that that&#39;s going on right now,
+											the capabilities are applied
+											in very discrete and measured and controlled ways.
+											So the unconstrained disclosure 
+of those capabilities
+											means that as adversaries see them
+											and recognize, &quot;Hey, I might be vulnerable to this,&quot;
+											they move away from that,
+											and we have seen targets in terrorism,
+											in the nation-state area,
+											in smugglers of various types, and other folks
+											who have, because of the disclosures,
+											moved away from our ability
+											to have insight into what they&#39;re doing.
+											The net effect of that is that our people
+											who are overseas in dangerous places,
+											whether they&#39;re diplomats or military,
+											and our allies who are in similar situations,
+											are at greater risk because we don&#39;t see
+											the threats that are coming their way.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: So that&#39;s a general response saying that
+											because of his revelations,
+											access that you had to certain types of information
+											has been shut down, has been closed down.
+											But the concern is that the nature of that access
+											was not necessarily legitimate in the first place.
+											I mean, describe to us this Bullrun program
+											where it&#39;s alleged that the NSA
+											specifically weakened security
+											in order to get the type of 
+access that you&#39;ve spoken of.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RL: So there are, when our
+											legitimate foreign intelligence targets
+of the type that I described before,
+											use the global telecommunications system
+											as their communications methodology,
+											and they do, because it&#39;s a great system,
+											it&#39;s the most complex system ever devised by man,
+											and it is a wonder,
+											and lots of folks in the room there
+											are responsible for the creation
+											and enhancement of that,
+											and it&#39;s just a wonderful thing.
+											But it&#39;s also used by people who are
+											working against us and our allies.
+											And so if I&#39;m going to pursue them,
+											I need to have the capability
+											to go after them,
+											and again, the controls are in
+											how I apply that capability,
+											not that I have the capability itself.
+											Otherwise, if we could make it so that
+											all the bad guys used one corner of the Internet,
+											we could have a domain, badguy.com.
+											That would be awesome,
+											and we could just concentrate all our efforts there.
+											That&#39;s not how it works.
+											They&#39;re trying to hide
+											from the government&#39;s ability
+											to isolate and interdict their actions,
+											and so we have to swim in that same space.
+											But I will tell you this.
+											So NSA has two missions.
+											One is the Signals Intelligence mission
+											that we&#39;ve unfortunately read so
+much about in the press.
+											The other one is the Information Assurance mission,
+											which is to protect the national security
+systems of the United States,
+											and by that, that&#39;s things like
+											the communications that the president uses,
+											the communications that
+control our nuclear weapons,
+											the communications that our
+military uses around the world,
+											and the communications that we use with our allies,
+											and that some of our allies themselves use.
+											And so we make recommendations
+on standards to use,
+											and we use those same standards,
+											and so we are invested
+											in making sure that those communications
+											are secure for their intended purposes.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: But it sounds like what you&#39;re saying is that
+											when it comes to the Internet at large,
+											any strategy is fair game
+											if it improves America&#39;s safety.
+											And I think this is partly where there is such
+											a divide of opinion,
+											that there&#39;s a lot of people in this room
+											and around the world
+											who think very differently about the Internet.
+											They think of it as a momentous
+											invention of humanity,
+											kind of on a par with the
+Gutenberg press, for example.
+											It&#39;s the bringer of knowledge to all.
+											It&#39;s the connector of all.
+											And it&#39;s viewed in those sort of idealistic terms.
+											And from that lens,
+											what the NSA has done is equivalent to
+											the authorities back in Germany
+											inserting some device into every printing press
+											that would reveal which books people bought
+											and what they read.
+											Can you understand that from that viewpoint,
+											it feels outrageous?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RL: I do understand that, and I actually share
+the view of the utility of the Internet,
+											and I would argue it&#39;s bigger than the Internet.
+											It is a global telecommunications system.
+											The Internet is a big chunk of 
+that, but there is a lot more.
+											And I think that people have legitimate concerns
+											about the balance between
+transparency and secrecy.
+											That&#39;s sort of been couched as a balance
+											between privacy and national security.
+											I don&#39;t think that&#39;s the right framing.
+											I think it really is transparency and secrecy.
+											And so that&#39;s the national and international conversation that we&#39;re having,
+											and we want to participate in that, and want
+											people to participate in it in an informed way.
+											So there are things,
+											let me talk there a little bit more,
+											there are things that we need
+to be transparent about:
+											our authorities, our processes,
+											our oversight, who we are.
+											We, NSA, have not done a good job of that,
+											and I think that&#39;s part of the reason
+											that this has been so revelational
+											and so sensational in the media.
+											Nobody knew who we were. We were the No Such Agency, the Never Say Anything.
+											There&#39;s takeoffs of our logo
+											of an eagle with headphones on around it.
+											And so that&#39;s the public characterization.
+											And so we need to be more
+transparent about those things.
+											What we don&#39;t need to be transparent about,
+											because it&#39;s bad for the U.S.,
+											it&#39;s bad for all those other
+countries that we work with
+											and that we help provide information
+											that helps them secure themselves
+											and their people,
+											it&#39;s bad to expose operations and capabilities
+											in a way that allows the people
+that we&#39;re all working against,
+											the generally recognized bad guys,
+											to counter those.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: But isn&#39;t it also bad to deal
+											a kind of body blow to the American companies
+											that have essentially given the world
+											most of the Internet services that matter?
+											RL: It is. It&#39;s really the companies are
+											in a tough position, as are we,
+											because the companies,
+											we compel them to provide information,
+											just like every other nation in the world does.
+											Every industrialized nation in the world
+											has a lawful intercept program
+											where they are requiring companies
+											to provide them with information
+											that they need for their security,
+											and the companies that are involved
+											have complied with those programs
+											in the same way that they have to do
+											when they&#39;re operating in Russia or the U.K.
+											or China or India or France,
+											any country that you choose to name.
+											And so the fact that these revelations
+											have been broadly characterized as
+											&quot;you can&#39;t trust company A because
+											your privacy is suspect with them&quot;
+											is actually only accurate in the sense that
+											it&#39;s accurate with every other company in the world
+											that deals with any of those countries in the world.
+											And so it&#39;s being picked up by people
+											as a marketing advantage,
+											and it&#39;s being marketed that 
+way by several countries,
+											including some of our allied countries,
+											where they are saying,
+											&quot;Hey, you can&#39;t trust the U.S.,
+											but you can trust our telecom company,
+											because we&#39;re safe.&quot;
+											And they&#39;re actually using that to counter
+											the very large technological edge
+											that U.S. companies have
+											in areas like the cloud and
+Internet-based technologies.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: You&#39;re sitting there with the American flag,
+											and the American Constitution guarantees
+											freedom from unreasonable search and seizure.
+											How do you characterize
+											the American citizen&#39;s right to privacy?
+											Is there such a right?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RL: Yeah, of course there is.
+											And we devote an inordinate
+amount of time and pressure,
+											inordinate and appropriate, actually I should say,
+											amount of time and effort in order to ensure
+											that we protect that privacy.
+											and beyond that, the privacy of citizens
+											around the world, it&#39;s not just Americans.
+											Several things come into play here.
+											First, we&#39;re all in the same network.
+											My communications,
+											I&#39;m a user of a particular Internet email service
+											that is the number one email service of choice
+											by terrorists around the world, number one.
+											So I&#39;m there right beside them in email space
+											in the Internet.
+											And so we need to be able to pick that apart
+											and find the information that&#39;s relevant.
+											In doing so, we&#39;re going to necessarily encounter
+											Americans and innocent foreign citizens
+											who are just going about their business,
+											and so we have procedures in
+place that shreds that out,
+											that says, when you find that,
+											not if you find it, when you find it,
+because you&#39;re certain to find it,
+											here&#39;s how you protect that.
+											These are called minimization procedures.
+											They&#39;re approved by the attorney general
+											and constitutionally based.
+											And so we protect those.
+											And then, for people, citizens of the world
+											who are going about their lawful business
+											on a day-to-day basis,
+											the president on his January 17 speech,
+											laid out some additional protections
+											that we are providing to them.
+											So I think absolutely,
+											folks do have a right to privacy,
+											and that we work very hard to make sure
+											that that right to privacy is protected.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: What about foreigners using
+											American companies&#39; Internet services?
+											Do they have any privacy rights?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RL: They do. They do, in the sense of,
+											the only way that we are able to compel
+											one of those companies to provide us information
+											is when it falls into one of three categories:
+											We can identify that this particular person,
+											identified by a selector of some kind,
+											is associated with counterterrorist
+											or proliferation or other foreign intelligence target.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: Much has been made of the fact that
+											a lot of the information that you&#39;ve obtained
+											through these programs is essentially metadata.
+											It&#39;s not necessarily the actual words
+											that someone has written in an email
+											or given on a phone call.
+											It&#39;s who they wrote to and when, and so forth.
+											But it&#39;s been argued,
+											and someone here in the audience has talked
+											to a former NSA analyst who said
+											metadata is actually much more invasive
+											than the core data,
+											because in the core data
+											you present yourself as you want to be presented.
+											With metadata, who knows what the conclusions are
+											that are drawn?
+											Is there anything to that?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RL: I don&#39;t really understand that argument.
+											I think that metadata&#39;s important
+for a couple of reasons.
+											Metadata is the information that lets you
+											find connections that people are trying to hide.
+											So when a terrorist is corresponding
+											with somebody else who&#39;s not known to us
+											but is engaged in doing or
+supporting terrorist activity,
+											or someone who&#39;s violating international sanctions
+											by providing nuclear weapons-related material
+											to a country like Iran or North Korea,
+											is trying to hide that activity
+because it&#39;s illicit activity.
+											What metadata lets you do is connect that.
+											The alternative to that
+											is one that&#39;s much less efficient
+											and much more invasive of privacy,
+											which is gigantic amounts of content collection.
+											So metadata, in that sense,
+											actually is privacy-enhancing.
+											And we don&#39;t, contrary to some of the stuff
+											that&#39;s been printed,
+											we don&#39;t sit there and grind out
+											metadata profiles of average people.
+											If you&#39;re not connected
+											to one of those valid intelligence targets,
+											you are not of interest to us.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: So in terms of the threats
+											that face America overall,
+											where would you place terrorism?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RL: I think terrorism is still number one.
+											I think that we have never been in a time
+											where there are more places
+											where things are going badly
+											and forming the petri dish in which terrorists
+											take advantage of the lack of governance.
+											An old boss of mine, Tom Fargo, Admiral Fargo,
+											used to describe it as arcs of instability.
+											And so you have a lot of those arcs of instability
+											in the world right now,
+											in places like Syria, where there&#39;s a civil war
+											going on and you have massive numbers,
+											thousands and thousands of foreign fighters
+											who are coming into Syria
+											to learn how to be terrorists
+											and practice that activity,
+											and lots of those people are Westerners
+											who hold passports to European countries
+											or in some cases the United States,
+											and so they are basically learning how
+											to do jihad and have expressed intent
+											to go out and do that later on
+											in their home countries.
+											You&#39;ve got places like Iraq,
+											which is suffering from a high
+level of sectarian violence,
+											again a breeding ground for terrorism.
+											And you have the activity in the Horn of Africa
+											and the Sahel area of Africa.
+											Again, lots of weak governance
+											which forms a breeding ground for terrorist activity.
+											So I think it&#39;s very serious. I think it&#39;s number one.
+											I think number two is cyber threat.
+											I think cyber is a threat in three ways:
+											One way, and probably the most common way
+											that people have heard about it,
+											is due to the theft of intellectual property,
+											so basically, foreign countries going in,
+											stealing companies&#39; secrets,
+											and then providing that information
+											to state-owned enterprises
+											or companies connected to the government
+											to help them leapfrog technology
+											or to gain business intelligence
+											that&#39;s then used to win contracts overseas.
+											That is a hugely costly set of
+activities that&#39;s going on right now.
+											Several nation-states are doing it.
+											Second is the denial-of-service attacks.
+											You&#39;re probably aware that there have been
+											a spate of those directed against
+											the U.S. financial sector since 2012.
+											Again, that&#39;s a nation-state who
+is executing those attacks,
+											and they&#39;re doing that
+											as a semi-anonymous way of reprisal.
+											And the last one is destructive attacks,
+											and those are the ones that concern me the most.
+											Those are on the rise.
+											You have the attack against Saudi Aramco in 2012,
+											August of 2012.
+											It took down about 35,000 of their computers
+											with a Wiper-style virus.
+											You had a follow-on a week later
+											to a Qatari company.
+											You had March of 2013,
+											you had a South Korean attack
+											that was attributed in the press to North Korea
+											that took out thousands of computers.
+											Those are on the rise,
+											and we see people expressing interest
+											in those capabilities
+											and a desire to employ them.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: Okay, so a couple of things here,
+											because this is really the core of this, almost.
+											I mean, first of all,
+											a lot of people who look at risk
+											and look at the numbers
+											don&#39;t understand this belief that terrorism
+											is still the number one threat.
+											Apart from September 11,
+											I think the numbers are that
+in the last 30 or 40 years
+											about 500 Americans have died from terrorism,
+											mostly from homegrown terrorists.
+											The chance in the last few years
+											of being killed by terrorism
+											is far less than the chance
+of being killed by lightning.
+											I guess you would say that a single nuclear incident
+											or bioterrorism act or something like that
+											would change those numbers.
+											Would that be the point of view?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RL: Well, I&#39;d say two things.
+											One is, the reason that there hasn&#39;t been
+											a major attack in the United States since 9/11,
+											that is not an accident.
+											That&#39;s a lot of hard work that we have done,
+											that other folks
+											in the intelligence community have done,
+											that the military has done,
+											and that our allies around the globe have done.
+											You&#39;ve heard the numbers about
+											the tip of the iceberg in terms
+											of numbers of terrorist attacks that NSA programs
+											contributed to stopping was 54,
+											25 of those in Europe,
+											and of those 25,
+											18 of them occurred in three countries,
+											some of which are our allies,
+											and some of which are beating the heck out of us
+											over the NSA programs, by the way.
+											So that&#39;s not an accident that those things happen.
+											That&#39;s hard work. That&#39;s us finding intelligence
+											on terrorist activities
+											and interdicting them through one way or another,
+											through law enforcement,
+											through cooperative activities with other countries
+											and sometimes through military action.
+											The other thing I would say is that
+											your idea of nuclear or chem-bio-threat
+											is not at all far-fetched
+											and in fact there are a number of groups
+											who have for several years expressed interest
+											and desire in obtaining those capabilities
+											and work towards that.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: It&#39;s also been said that,
+											of those 54 alleged incidents,
+											that as few as zero of them
+											were actually anything to do
+											with these controversial programs
+											that Mr. Snowden revealed,
+											that it was basically through
+other forms of intelligence,
+											that you&#39;re looking for a needle in a haystack,
+											and the effects of these programs,
+											these controversial programs,
+											is just to add hay to the stack,
+											not to really find the needle.
+											The needle was found by other methods.
+											Isn&#39;t there something to that?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RL: No, there&#39;s actually two programs
+											that are typically implicated in that discussion.
+											One is the section 215 program,
+											the U.S. telephony metadata program,
+											and the other one is
+											popularly called the PRISM program,
+											and it&#39;s actually section 702 
+of the FISA Amendment Act.
+											But the 215 program
+											is only relevant to threats
+											that are directed against the United States,
+											and there have been a dozen threats
+											where that was implicated.
+											Now what you&#39;ll see people say publicly
+											is there is no &quot;but for&quot; case,
+											and so there is no case where, but for that,
+											the threat would have happened.
+											But that actually indicates a lack of understanding
+											of how terrorist investigations actually work.
+											You think about on television,
+											you watch a murder mystery.
+											What do you start with? You start with a body,
+											and then they work their way
+from there to solve the crime.
+											We&#39;re actually starting well before that,
+											hopefully before there are any bodies,
+											and we&#39;re trying to build the case for
+											who the people are, what they&#39;re trying to do,
+											and that involves massive amounts of information.
+											Think of it is as mosaic,
+											and it&#39;s hard to say that any one piece of a mosaic
+											was necessary to building the mosaic,
+											but to build the complete picture,
+											you need to have all the pieces of information.
+											On the other, the non-U.S.-related
+threats out of those 54,
+											the other 42 of them,
+											the PRISM program was hugely relevant to that,
+											and in fact was material in contributing
+											to stopping those attacks.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: Snowden said two days ago
+											that terrorism has always been
+											what is called in the intelligence world
+											&quot;a cover for action,&quot;
+											that it&#39;s something that,
+											because it invokes such a powerful
+											emotional response in people,
+											it allows the initiation of these programs
+											to achieve powers that an organization like yours
+											couldn&#39;t otherwise have.
+											Is there any internal debate about that?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RL: Yeah.
+											I mean, we debate these things all the time,
+											and there is discussion that goes on
+											in the executive branch
+											and within NSA itself
+											and the intelligence community about
+											what&#39;s right, what&#39;s proportionate,
+											what&#39;s the correct thing to do.
+											And it&#39;s important to note that the programs
+											that we&#39;re talking about
+											were all authorized by two different presidents,
+											two different political parties,
+											by Congress twice,
+											and by federal judges 16 different times,
+											and so this is not NSA running off
+											and doing its own thing.
+											This is a legitimate activity
+											of the United States foreign government
+											that was agreed to by all the branches
+											of the United States government,
+											and President Madison would have been proud.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: And yet, when congressmen discovered
+											what was actually being done 
+with that authorization,
+											many of them were completely shocked.
+											Or do you think that is not a legitimate reaction,
+											that it&#39;s only because it&#39;s now come out publicly,
+											that they really knew exactly what you were doing
+											with the powers they had granted you?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RL: Congress is a big body.
+											There&#39;s 535 of them,
+											and they change out frequently,
+											in the case of the House, every two years,
+											and I think that the NSA provided
+											all the relevant information
+to our oversight committees,
+											and then the dissemination of that information
+											by the oversight committees throughout Congress
+											is something that they manage.
+											I think I would say that Congress members
+											had the opportunity to make themselves aware,
+											and in fact a significant number of them,
+											the ones who are assigned oversight responsibility,
+											did have the ability to do that.
+											And you&#39;ve actually had the chairs of
+those committees say that in public.
+											CA: Now, you mentioned the 
+threat of cyberattacks,
+											and I don&#39;t think anyone in this room would disagree
+											that that is a huge concern,
+											but do you accept that there&#39;s a tradeoff
+											between offensive and defensive strategies,
+											and that it&#39;s possible that the very measures taken
+											to, &quot;weaken encryption,&quot;
+											and allow yourself to find the bad guys,
+											might also open the door to forms of cyberattack?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RL: So I think two things.
+											One is, you said weaken encryption. I didn&#39;t.
+											And the other one is that
+											the NSA has both of those missions,
+											and we are heavily biased towards defense,
+											and, actually, the vulnerabilities that we find
+											in the overwhelming majority of cases,
+											we disclose to the people who are responsible
+											for manufacturing or developing those products.
+											We have a great track record of that,
+											and we&#39;re actually working on a proposal right now
+											to be transparent and to
+publish transparency reports
+											in the same way that the Internet companies
+											are being allowed to publish
+transparency reports for them.
+											We want to be more transparent about that.
+											So again, we eat our own dog food.
+											We use the standards, we use the products
+											that we recommend,
+											and so it&#39;s in our interest
+											to keep our communications protected
+											in the same way that other people&#39;s need to be.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: Edward Snowden,
+											when, after his talk, was wandering the halls here
+											in the bot,
+											and I heard him say to a couple of people,
+											they asked him about what he thought
+											of the NSA overall,
+											and he was very complimentary about the people
+											who work with you,
+											said that it&#39;s a really
+											impassioned group of employees
+											who are seeking to do the right thing,
+											and that the problems have come from
+											just some badly conceived policies.
+											He came over certainly very reasonably and calmly.
+											He didn&#39;t come over like a crazy man.
+											Would you accept that at least,
+											even if you disagree with how he did it,
+											that he has opened a debate that matters?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RL: So I think that the discussion
+											is an important one to have.
+											I do not like the way that he did it.
+											I think there were a number of other ways
+											that he could have done that
+											that would have not endangered our people
+											and the people of other nations
+											through losing visibility
+											into what our adversaries are doing.
+											But I do think it&#39;s an important conversation.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: It&#39;s been reported that there&#39;s
+											almost a difference of opinion
+											with you and your colleagues
+											over any scenario in which
+											he might be offered an amnesty deal.
+											I think your boss, General Keith Alexander,
+											has said that that would be a terrible example
+											for others;
+											you can&#39;t negotiate with someone
+											who&#39;s broken the law in that way.
+											But you&#39;ve been quoted as saying that,
+											if Snowden could prove that he was surrendering
+											all undisclosed documents,
+											that a deal maybe should be considered.
+											Do you still think that?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RL: Yeah, so actually,
+											this is my favorite thing about
+that &quot;60 Minutes&quot; interview
+											was all the misquotes that came from that.
+											What I actually said, in 
+response to a question about,
+											would you entertain any discussions
+											of mitigating action against Snowden,
+											I said, yeah, it&#39;s worth a conversation.
+											This is something that the attorney general
+											of the United States and the president also
+											actually have both talked about this,
+											and I defer to the attorney general,
+											because this is his lane.
+											But there is a strong tradition
+											in American jurisprudence
+											of having discussions with people
+											who have been charged with crimes in order to,
+											if it benefits the government,
+											to get something out of that,
+											that there&#39;s always room for that kind of discussion.
+											So I&#39;m not presupposing any outcome,
+											but there is always room for discussion.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: To a lay person it seems like
+											he has certain things to offer the U.S.,
+											the government, you, others,
+											in terms of putting things right
+											and helping figure out a smarter policy,
+											a smarter way forward for the future.
+											Do you see, has that kind of possibility
+											been entertained at all?
+											RL: So that&#39;s out of my lane.
+											That&#39;s not an NSA thing.
+											That would be a Department of Justice
+											sort of discussion.
+											I&#39;ll defer to them.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: Rick, when Ed Snowden ended his talk,
+											I offered him the chance to
+share an idea worth spreading.
+											What would be your idea worth spreading
+											for this group?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RL: So I think, learn the facts.
+											This is a really important conversation,
+											and it impacts, it&#39;s not just NSA,
+											it&#39;s not just the government,
+											it&#39;s you, it&#39;s the Internet companies.
+											The issue of privacy and personal data
+											is much bigger than just the government,
+											and so learn the facts.
+											Don&#39;t rely on headlines,
+											don&#39;t rely on sound bites,
+											don&#39;t rely on one-sided conversations.
+											So that&#39;s the idea, I think, worth spreading.
+											We have a sign, a badge tab,
+											we wear badges at work with lanyards,
+											and if I could make a plug,
+											my badge lanyard at work says, &quot;Dallas Cowboys.&quot;
+											Go Dallas.
+											I&#39;ve just alienated half the audience, I know.
+											So the lanyard that our people
+											who work in the organization
+											that does our crypto-analytic work
+											have a tab that says, &quot;Look at the data.&quot;
+											So that&#39;s the idea worth spreading.
+											Look at the data.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: Rick, it took a certain amount of courage,
+											I think, actually, to come and speak openly
+											to this group.
+											It&#39;s not something the NSA
+has done a lot of in the past,
+											and plus the technology has been challenging.
+											We truly appreciate you doing that
+											and sharing in this very important conversation.
+											Thank you so much.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											RL: Thanks, Chris.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":25433,"count":440,"talk_id":1952},"threadId":25433,"current_talk":"1952","description":"After a surprise appearance by Edward Snowden at TED2014, Chris Anderson said: \"If the NSA wants to respond, please do.\" And yes, they did. Appearing by video, NSA deputy director Richard Ledgett answers Anderson's questions about the balance between security and protecting privacy.","event":"TED2014","language":"en","name":"Richard Ledgett: The NSA responds to Edward Snowden's TED Talk","slug":"richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk","speakers":[{"id":"1845","slug":"rick_ledgett","is_published":true,"firstname":"Richard","lastname":"Ledgett","middleinitial":"","title":"","description":"Deputy director, NSA","photo_url":"https://pe.tedcdn.com/images/ted/5b0c9e15e13d98d581bcba94a8f2208df22ef4d6_254x191.jpg","whatotherssay":"","whotheyare":"Richard Ledgett is deputy director and senior civilian leader of the National Security Agency. He acts as the agency’s chief operating officer, responsible for guiding and directing studies, operations and policy.","whylisten":"<p>Richard Ledgett began his NSA career in 1988 and has served in operational, management, and technical leadership positions at the branch, division, office, and group levels. Now, think of him as the COO of the NSA, guiding and directing studies, operations and policy. From 2012 to 2013 he was the Director of the NSA/CSS Threat Operations Center, responsible for round-the-clock cryptologic activities to discover and counter adversary cyber efforts. Prior to NTOC he served in several positions from 2010 to 2012 in the Office of the Director of National Intelligence in both the collection and cyber mission areas. He was the first National Intelligence Manager for Cyber, serving as principal advisor to the Director of National Intelligence on all cyber matters, leading development of the Unified Intelligence Strategy for Cyber, and coordinating cyber activities across the Intelligence Community (IC). Previous positions at NSA include Deputy Director for Analysis and Production (2009-2010), Deputy Director for Data Acquisition (2006-2009), Assistant Deputy Director for Data Acquisition (2005-2006), and Chief, NSA/CSS Pacific (2002-2005). He also served in a joint IC operational activity, and as an instructor and course developer at the National Cryptologic School. </p><p> He led the NSA Media Leaks Task Force from June 2013 to January 2014,  and was responsible for integrating and overseeing the totality of NSA&rsquo;s  efforts surrounding the unauthorized disclosures of classified  information by a former NSA affiliate. </p>"}],"url":"https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk","viewed_count":1214359,"talks":[{"curator_approved":true,"description":"After a surprise appearance by Edward Snowden at TED2014, Chris Anderson said: \"If the NSA wants to respond, please do.\" And yes, they did. Appearing by video, NSA deputy director Richard Ledgett answers Anderson's questions about the balance between security and protecting privacy.","downloads":{"id":1952,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/RichardLedgett_2014-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/RichardLedgett_2014.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/RichardLedgett_2014-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"en":{"name":"English","low":"https://download.ted.com/talks/RichardLedgett_2014-low-en.mp4","high":"https://download.ted.com/talks/RichardLedgett_2014-480p-en.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/RichardLedgett_2014-low-es.mp4","high":"https://download.ted.com/talks/RichardLedgett_2014-480p-es.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/RichardLedgett_2014-low-nl.mp4","high":"https://download.ted.com/talks/RichardLedgett_2014-480p-nl.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/RichardLedgett_2014-low-hu.mp4","high":"https://download.ted.com/talks/RichardLedgett_2014-480p-hu.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/RichardLedgett_2014-low-ja.mp4","high":"https://download.ted.com/talks/RichardLedgett_2014-480p-ja.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/RichardLedgett_2014-low-he.mp4","high":"https://download.ted.com/talks/RichardLedgett_2014-480p-he.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/RichardLedgett_2014-low-it.mp4","high":"https://download.ted.com/talks/RichardLedgett_2014-480p-it.mp4"},"pt-br":{"name":"Portuguese, Brazilian","high":"https://download.ted.com/talks/RichardLedgett_2014-480p-pt-br.mp4","low":"https://download.ted.com/talks/RichardLedgett_2014-low-pt-br.mp4"},"fr":{"name":"French","high":"https://download.ted.com/talks/RichardLedgett_2014-480p-fr.mp4","low":"https://download.ted.com/talks/RichardLedgett_2014-low-fr.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/RichardLedgett_2014-low-ko.mp4","high":"https://download.ted.com/talks/RichardLedgett_2014-480p-ko.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/RichardLedgett_2014-low-ru.mp4","high":"https://download.ted.com/talks/RichardLedgett_2014-480p-ru.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/RichardLedgett_2014-low-zh-cn.mp4","high":"https://download.ted.com/talks/RichardLedgett_2014-480p-zh-cn.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/RichardLedgett_2014-low-zh-tw.mp4","high":"https://download.ted.com/talks/RichardLedgett_2014-480p-zh-tw.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/RichardLedgett_2014-low-ar.mp4","high":"https://download.ted.com/talks/RichardLedgett_2014-480p-ar.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/RichardLedgett_2014-low-el.mp4","high":"https://download.ted.com/talks/RichardLedgett_2014-480p-el.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/RichardLedgett_2014-low-bg.mp4","high":"https://download.ted.com/talks/RichardLedgett_2014-480p-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/RichardLedgett_2014-low-ro.mp4","high":"https://download.ted.com/talks/RichardLedgett_2014-480p-ro.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/RichardLedgett_2014-low-sr.mp4","high":"https://download.ted.com/talks/RichardLedgett_2014-480p-sr.mp4"},"de":{"name":"German","low":"https://download.ted.com/talks/RichardLedgett_2014-low-de.mp4","high":"https://download.ted.com/talks/RichardLedgett_2014-480p-de.mp4"},"hr":{"name":"Croatian","high":"https://download.ted.com/talks/RichardLedgett_2014-480p-hr.mp4","low":"https://download.ted.com/talks/RichardLedgett_2014-low-hr.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/RichardLedgett_2014-low-pt.mp4","high":"https://download.ted.com/talks/RichardLedgett_2014-480p-pt.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/RichardLedgett_2014-low-vi.mp4","high":"https://download.ted.com/talks/RichardLedgett_2014-480p-vi.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/RichardLedgett_2014-low-tr.mp4","high":"https://download.ted.com/talks/RichardLedgett_2014-480p-tr.mp4"}},"audioDownload":"https://download.ted.com/talks/RichardLedgett_2014.mp3?apikey=acme-roadrunner"},"duration":2010.0,"event":"TED2014","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/b4e45bc988d63a0f64d01146505700e1217f7845_1600x1200.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b4e45bc988d63a0f64d01146505700e1217f7845_1600x1200.jpg?q=50&w=15","id":"1952","player_talks":[{"id":"1952","duration":2010.0,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2014/Blank/RichardLedgett_2014-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTED2014%26id%3D1952%26tag%3Dculture%2Cglobal%2Bissues%2Cgovernment%2Claw%2Csurveillance%2Cencryption%26talk%3Drichard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk%26year%3D2014&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"1952","talk":"richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk","tag":"culture,global issues,government,law,surveillance,encryption","year":"2014","event":"TED2014"},"stream":"https://hls.ted.com/talks/1952.m3u8","metadata":"https://hls.ted.com/talks/1952.json"}},"targeting":{"id":"1952","talk":"richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk","tag":"culture,global issues,government,law,surveillance,encryption","year":"2014","event":"TED2014"},"canonical":"https://www.ted.com/talks/richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk","name":"Richard Ledgett: The NSA responds to Edward Snowden's TED Talk","title":"The NSA responds to Edward Snowden's TED Talk","speaker":"Richard Ledgett","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/b4e45bc988d63a0f64d01146505700e1217f7845_1600x1200.jpg?quality=89&w=600","slug":"richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk","event":"TED2014","published":1395362789}],"ratings":[{"id":21,"name":"Unconvincing","count":661},{"id":8,"name":"Informative","count":284},{"id":7,"name":"Funny","count":39},{"id":2,"name":"Confusing","count":105},{"id":22,"name":"Fascinating","count":35},{"id":25,"name":"OK","count":84},{"id":3,"name":"Courageous","count":77},{"id":11,"name":"Longwinded","count":97},{"id":24,"name":"Persuasive","count":61},{"id":26,"name":"Obnoxious","count":151},{"id":10,"name":"Inspiring","count":21},{"id":1,"name":"Beautiful","count":14},{"id":23,"name":"Jaw-dropping","count":12},{"id":9,"name":"Ingenious","count":6}],"recorded_at":"2014-03-20T00:00:00.000+00:00","related_talks":[{"id":"1950","hero":"https://pe.tedcdn.com/images/ted/aadd75a2a5f185ca28179519cab86ff0ad367eb1_1600x1200.jpg","speaker":"Edward Snowden","title":"Here's how we take back the Internet","duration":2102.0,"slug":"edward_snowden_here_s_how_we_take_back_the_internet","viewed_count":4313307},{"id":"1861","hero":"https://pe.tedcdn.com/images/ted/2c04772cdcfe28f51013d3074203cd142b98838a_1600x1200.jpg","speaker":"Mikko Hypponen","title":"How the NSA betrayed the world's trust -- time to act","duration":1158.0,"slug":"mikko_hypponen_how_the_nsa_betrayed_the_world_s_trust_time_to_act","viewed_count":1576686},{"id":"721","hero":"https://pe.tedcdn.com/images/ted/137577_240x180.jpg","speaker":"Michael Sandel","title":"What's the right thing to do?","duration":0,"slug":"michael_sandel_what_s_the_right_thing_to_do","viewed_count":417339},{"id":"2106","hero":"https://pe.tedcdn.com/images/ted/6992aa456af79721f493686c804324356781ddea_2880x1620.jpg","speaker":"Glenn Greenwald","title":"Why privacy matters","duration":1237.0,"slug":"glenn_greenwald_why_privacy_matters","viewed_count":2091785},{"id":"2326","hero":"https://pe.tedcdn.com/images/ted/e3382f47e4b18ba1fa1905aa685e2cd8c7747f81_2880x1620.jpg","speaker":"David Rothkopf","title":"How fear drives American politics","duration":1080.0,"slug":"david_rothkopf_how_fear_drives_american_politics","viewed_count":1241822},{"id":"2668","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/ff826dfd-8017-43ed-86a9-7234e2088e3b/CalebBarlow_2016S-embed.jpg","speaker":"Caleb Barlow","title":"Where is cybercrime really coming from?","duration":867.0,"slug":"caleb_barlow_where_is_cybercrime_really_coming_from","viewed_count":1480323}],"slug":"richard_ledgett_the_nsa_responds_to_edward_snowden_s_ted_talk","speakers":[{"id":"1845","slug":"rick_ledgett","is_published":true,"firstname":"Richard","lastname":"Ledgett","middleinitial":"","title":"","description":"Deputy director, NSA","photo_url":"https://pe.tedcdn.com/images/ted/5b0c9e15e13d98d581bcba94a8f2208df22ef4d6_254x191.jpg","whatotherssay":"","whotheyare":"Richard Ledgett is deputy director and senior civilian leader of the National Security Agency. He acts as the agency’s chief operating officer, responsible for guiding and directing studies, operations and policy.","whylisten":"<p>Richard Ledgett began his NSA career in 1988 and has served in operational, management, and technical leadership positions at the branch, division, office, and group levels. Now, think of him as the COO of the NSA, guiding and directing studies, operations and policy. From 2012 to 2013 he was the Director of the NSA/CSS Threat Operations Center, responsible for round-the-clock cryptologic activities to discover and counter adversary cyber efforts. Prior to NTOC he served in several positions from 2010 to 2012 in the Office of the Director of National Intelligence in both the collection and cyber mission areas. He was the first National Intelligence Manager for Cyber, serving as principal advisor to the Director of National Intelligence on all cyber matters, leading development of the Unified Intelligence Strategy for Cyber, and coordinating cyber activities across the Intelligence Community (IC). Previous positions at NSA include Deputy Director for Analysis and Production (2009-2010), Deputy Director for Data Acquisition (2006-2009), Assistant Deputy Director for Data Acquisition (2005-2006), and Chief, NSA/CSS Pacific (2002-2005). He also served in a joint IC operational activity, and as an instructor and course developer at the National Cryptologic School. </p><p> He led the NSA Media Leaks Task Force from June 2013 to January 2014,  and was responsible for integrating and overseeing the totality of NSA&rsquo;s  efforts surrounding the unauthorized disclosures of classified  information by a former NSA affiliate. </p>"}],"speaker_name":"Richard Ledgett","tags":["culture","global issues","government","law","surveillance","encryption"],"title":"The NSA responds to Edward Snowden's TED Talk","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":1214359}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

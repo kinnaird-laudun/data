@@ -1,0 +1,1405 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>George Whitesides: Toward a science of simplicity | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Simplicity: We know it when we see it -- but what is it, exactly? In this funny, philosophical talk, George Whitesides chisels out an answer." />
+<meta name="author" content="George Whitesides" />
+<link rel="canonical" href="https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity/transcript" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity/transcript?language=el" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity/transcript?language=en" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity/transcript?language=vi" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity/transcript?language=pt-br" />
+<link rel="alternate" hreflang="id" href="https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity/transcript?language=id" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity/transcript?language=nl" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity/transcript?language=tr" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity/transcript?language=bg" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity/transcript?language=de" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity/transcript?language=he" />
+<link rel="alternate" hreflang="uz" href="https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity/transcript?language=uz" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity/transcript?language=ko" />
+<meta property="og:title" content="Transcript of &quot;Toward a science of simplicity&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/165908_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/165908_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="George Whitesides: Toward a science of simplicity" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Simplicity: We know it when we see it -- but what is it, exactly? In this funny, philosophical talk, George Whitesides chisels out an answer." />
+<meta property="og:url" content="https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 845);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity' itemprop='url'>
+<meta content='Toward a science of simplicity' itemprop='name'>
+<meta content='Simplicity: We know it when we see it — but what is it, exactly? In this funny, philosophical talk, George Whitesides chisels out an answer.' itemprop='description'>
+<meta content='PT18M35S' itemprop='duration'>
+<meta content='2010-04-28T16:34:00+00:00' itemprop='uploadDate'>
+<meta content='633829' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/165908_800x600.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/george_whitesides' itemprop='url'>
+<meta content='George Whitesides' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/146430_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/george_whitesides_toward_a_science_of_simplicity' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/165908_800x600.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				George Whitesides
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					633,829
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 18:35</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Most of the talks
+											that you&#39;ve heard in the last several fabulous days
+											have been from people who have the characteristic
+											that they have thought about something,
+											they are experts, they know what&#39;s going on.
+											All of you know about the topic
+											that I&#39;m supposed to talk about.
+											That is, you know what simplicity is,
+											you know what complexity is.
+											The trouble is, I don&#39;t.
+											And what I&#39;m going to do is share with you
+											my ignorance on this subject.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I want you to read this,
+											because we&#39;re going to come back to it in a moment.
+											The quote is from
+											the fabled Potter Stewart
+											opinion on pornography.
+											And let me just read it,
+											the important details here:
+											&quot;Shorthand description, [&#39;hardcore pornography&#39;];
+											and perhaps I could never succeed in intelligibly defining it.
+											But I know it when I see it.&quot;
+											I&#39;m going to come back to that in a moment.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, what is simplicity?
+											It&#39;s good to start with some examples.
+											A coffee cup — we don&#39;t think about coffee cups,
+											but it&#39;s much more interesting than one might think —
+											a coffee cup is a device,
+											which has a container and a handle.
+											The handle enables you to hold it
+											when the container is filled with hot liquid.
+											Why is that important?
+											Well, it enables you to drink coffee.
+											But also, by the way, the coffee is hot,
+											the liquid is sterile;
+											you&#39;re not likely to get cholera that way.
+											So the coffee cup, or the cup with a handle,
+											is one of the tools used by society
+											to maintain public health.
+											Scissors are your clothes,
+											glasses enable you to see things
+											and keep you from being eaten by cheetahs
+											or run down by automobiles,
+											and books are, after all, your education.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But there&#39;s another class of simple things,
+											which are also very important.
+											Simple in function,
+											but not at all simple in how they&#39;re constructed.
+											And the two here are just examples.
+											One is the cellphone, which we use every day.
+											And it rests on a complexity,
+											which has some characteristics
+											very different from those that my friend
+											Benoit Mandelbrot discussed,
+											but are very interesting.
+											And the other, of course, is a birth control pill,
+											which, in a very simple way,
+											fundamentally changed the structure of society
+											by changing the role of women in it
+											by providing to them
+											the opportunity to make reproductive choices.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, there are two ways of thinking about this word, I think.
+											And here I&#39;ve corrupted
+											the Potter Stewart quotation
+											by saying that we can think about something —
+											which spans all the way from scissors
+											to the cell phone,
+											Internet and birth control pills —
+											by saying that they&#39;re simple,
+											the functions are simple,
+											and we recognize what that simplicity is
+											when we see it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Or there may be another way of doing it,
+											which is to think about the problem in terms of what —
+											if you associate with moral philosophers —
+											is called the teapot problem.
+											The teapot problem I&#39;ll pose this way.
+											Suppose you see a teapot,
+											and the teapot is
+											filled with hot water.
+											And you then ask the question:
+											Why is the water hot?
+											And that&#39;s a simple question.
+											It&#39;s like, what is simplicity?
+											One answer would be:
+											because the kinetic energy of the water molecules is high
+											and they bounce against things rapidly —
+											that&#39;s a kind of physical science argument.
+											A second argument would be:
+											because it was sitting on a stove with the flame on —
+											that&#39;s an historical argument.
+											A third is that I wanted hot water
+											for tea —
+											that&#39;s an intentional argument.
+											And, since this is coming from a moral philosopher,
+											the fourth would be that it&#39;s part of God&#39;s plan for the universe.
+											All of these are possibilities.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The point is that you get into trouble
+											when you ask a single question
+											with a single box for an answer,
+											in which that single question actually is many questions
+											with quite different meanings,
+											but with the same words.
+											Asking, &quot;What is simplicity?&quot; I think falls in that category.
+											What is the state of science?
+											And, interestingly, complexity
+											is very highly evolved.
+											We have a lot of interesting information
+											about what complexity is.
+											Simplicity, for reasons
+											that are a little bit obscure,
+											is almost not pursued,
+											at least in the academic world.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											We academics — I am an academic —
+											we love complexity.
+											You can write papers about complexity,
+											and the nice thing about complexity is
+											it&#39;s fundamentally intractable in many ways,
+											so you&#39;re not responsible for outcomes. (Laughter)
+											Simplicity — all of you really would like
+											your Waring Blender in the morning
+											to make whatever a Waring Blender does,
+											but not explode or play Beethoven.
+											You&#39;re not interested in the limits of these things.
+											So what one is interested in
+											has a lot to do with the rewards of the system.
+											And there&#39;s a lot of rewards in thinking
+											about complexity and emergence,
+											not so much in thinking about simplicity.
+											One of the things I want to do
+											is to help you with a very important task —
+											which you may not know that you have very often —
+											which is to understand
+											how to sit next to a physicist at a dinner party
+											and have a conversation. (Laughter)
+											And the words that I would like you to focus on
+											are complexity and emergence,
+											because these will enable you to start the conversation
+											and then daydream about other things.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											All right, what is complexity in this view of things,
+											and what is emergence?
+											We have, actually, a pretty good working definition of complexity.
+											It is a system, like traffic,
+											which has components.
+											The components interact with one another.
+											These are cars and drivers. They dissipate energy.
+											It turns out that, whenever you have that system,
+											weird stuff happens,
+											and you in Los Angeles
+											probably know this better than anyone.
+											Here&#39;s another example,
+											which I put up because
+											it&#39;s an example of really important current science.
+											You can&#39;t possibly read that. It&#39;s not intended that you read it,
+											but that&#39;s a tiny part
+											of the chemical reactions going on
+											in each of your cells at any given moment.
+											And it&#39;s like the traffic that you see.
+											The amazing thing about the cell is that
+											it actually does maintain a fairly stable
+											working relationship with other cells,
+											but we don&#39;t know why.
+											Anyone who tells you that we understand life,
+											walk away.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And let me reduce this to the simplest level.
+											We&#39;ve heard from Bill Gates recently.
+											All of us, to some extent, study
+											this thing called a Bill Gates.
+											Terrific. You learn everything you can about that.
+											And then there&#39;s another kind of thing that you might study,
+											and you study that hard.
+											That&#39;s a Bono, this is a Bono.
+											But then, if you know everything you can know about those two things,
+											and you put them together,
+											what can you say about this combination?
+											The answer is, not a lot.
+											And that&#39;s complexity.
+											Now, imagine building that up to a city, or to a society,
+											and you&#39;ve got, obviously, an interesting problem.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											All right, so let me give you an example
+											of simplicity
+											of a particular kind.
+											And I want to introduce a word
+											that I think is very useful,
+											which is stacking.
+											And I&#39;m going to use stacking for a kind of simplicity
+											that has the characteristic
+											that it is so simple
+											and so reliable
+											that I can build things with it.
+											Or I&#39;m going to use simple to mean
+											reliable, predictable, repeatable.
+											And I&#39;m going to use as an example the Internet,
+											because it&#39;s a particularly good example
+											of stacked simplicity.
+											We call it a complex system, which it is,
+											but it&#39;s also something else.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The Internet starts with mathematics,
+											it starts with binary.
+											And if you look at the list of things on the bottom,
+											we are familiar with the Arabic numbers
+											one to 10 and so on.
+											In binary, one is 0001,
+											seven is 0111.
+											The question is: Why is binary
+											simpler than Arabic?
+											And the answer is, simply,
+											that if I hold up three fingers, you can count that easily,
+											but if I hold up this,
+											it&#39;s sort of hard to say that I just did seven.
+											The virtue of binary is that it&#39;s the simplest possible way
+											of representing numbers.
+											Anything else is more complicated.
+											You can catch errors with it,
+											it&#39;s unambiguous in its reading,
+											there are lots of good things about binary.
+											So it is very, very simple
+											once you learn how to read it.
+											Now, if you like to represent
+											this zero and one of binary,
+											you need a device.
+											And think of things in your life
+											that are binary,
+											one of them is light switches.
+											They can be on and off. That&#39;s binary.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now wall switches, we all know, fail.
+											But our friends who are condensed matter physicists
+											managed to come up, some 50 years ago,
+											with a very nice device, shown under that bell jar,
+											which is a transistor.
+											A transistor is nothing more than a wall switch.
+											It turns things on and off,
+											but it does so without moving parts
+											and it doesn&#39;t fail, basically, for a very long period of time.
+											So the second layer of simplicity
+											was the transistor in the Internet.
+											So, since the transistor is so simple,
+											you can put lots of them together.
+											And you put lots of them together and you come with
+											something called integrated circuits.
+											And a current integrated circuit
+											might have in each one of these chips
+											something like a billion transistors,
+											all of which have to work perfectly every time.
+											So that&#39;s the next layer of simplicity,
+											and, in fact, integrated circuits
+											are really simple in the sense that they,
+											in general, work really well.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											With integrated circuits, you can build cellphones.
+											You all are accustomed to having your cellphones work
+											the large majority of the time.
+											In Boston ... Boston is a little bit like Namibia
+											in its cell phone coverage, (Laughter)
+											so that we&#39;re not accustomed to that all the time,
+											but some of the time.
+											But, in fact, if you have cell phones,
+											you can now go to this nice lady
+											who&#39;s somewhere like Namibia,
+											and who is extremely happy with the fact
+											that although she does not have
+											an master&#39;s degree in
+											electrical engineering from MIT,
+											she&#39;s nonetheless able to hack her cell phone
+											to get power in some funny way.
+											And from that comes the Internet.
+											And this is a map of bitflows across the continent.
+											The two blobs that are light in the middle there
+											are the United States and Europe.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And then back to simplicity again.
+											So here we have what I think is one of the great ideas,
+											which is Google.
+											Which, in this simple portal
+											makes the claim
+											that it makes accessible
+											all of the world&#39;s information.
+											But the point is that
+											that extraordinary simple idea
+											rests on layers of simplicity
+											each compounded into a complexity
+											that is itself simple,
+											in the sense that it is completely reliable.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											All right, let me then finish off
+											with four general statements,
+											an example and two aphorisms.
+											The characteristics, which I think
+											are useful to think about for simple things:
+											First, they are predictable.
+											Their behavior is predictable.
+											Now, one of the nice characteristics
+											of simple things
+											is you know what it&#39;s going to do, in general.
+											So simplicity and predictability
+											are characteristics of simple things.
+											The second is, and this is a real world statement,
+											they&#39;re cheap.
+											If you have things that are cheap enough,
+											people will find uses for them,
+											even if they seem very primitive.
+											So, for example, stones.
+											You can build cathedrals out of stones,
+											you just have to know what it does.
+											You carve them in blocks and then you
+											pile them on top of one another,
+											and they support weight.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So there has to be function, the function has to be predictable
+											and the cost has to be low.
+											What that means is
+											that you have to have a high performance
+											or value for cost.
+											And then I would propose
+											as this last component
+											that they serve, or have the potential to serve,
+											as building blocks.
+											That is, you can stack them.
+											And stack can mean this way, or it can mean this way,
+											or it can mean in some arbitrary n-dimensional space.
+											But if you have something that has a function,
+											and it&#39;s really cheap,
+											people will find new ways of putting it together
+											to make new things.
+											Cheap, functional, reliable things
+											unleash the creativity of people
+											who then build stuff that you could not imagine.
+											There&#39;s no way of predicting the Internet
+											based on the first transistor.
+											It just is not possible.
+											So these are the components.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, the example
+											is something that I want to give you
+											from the work that we ourselves do.
+											We are very interested in
+											delivering health care in the developing world,
+											and one of the things that we wish to do in this particular business
+											is to find a way of doing medical diagnosis
+											at as close to zero cost
+											as we can manage.
+											So, how does one do that?
+											This is a world in which there&#39;s no electricity,
+											there&#39;s no money, there&#39;s no medical competence.
+											And I don&#39;t want to spend your time in going through the details,
+											but in the lower right-hand corner,
+											you see an example of the kind of thing that we have.
+											It&#39;s a little paper chip.
+											It has a few things printed on it
+											using the same technology
+											that you use for making comic books,
+											which was the inspiration for this particular idea.
+											And you put a drop, in this case, of urine at the bottom.
+											It wicks its way up into these little branches.
+											You know, no power required.
+											It turns colors. In this particular case,
+											you&#39;re reading kidney function.
+											And, since the health care worker
+											of much of this part of the world
+											is an 18 year-old with an AK-47,
+											who happens to be out of work and is willing
+											to go around and do this sort of thing,
+											he can take a picture of it with his cellphone,
+											send the picture back to where there is a doctor,
+											and the doctor can look at it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So what you&#39;ve done is to take a technology,
+											which is available everywhere,
+											make a device, which is extremely cheap,
+											and make it in such a fashion
+											that it is very, very reliable.
+											If we can pull this off,
+											if we can build more function,
+											it will be stackable.
+											That is to say, if we can make the basic technology
+											of one or two things work,
+											it will be applicable to a very, very
+											large variety of human conditions,
+											and hence, extendable in both
+											vertical and horizontal directions.
+											Part of my interest in this, I have to say,
+											is that I would like to — how do I put this politely? —
+											change the way, or maybe eviscerate,
+											the capital structure of the U.S. health care system,
+											which I think is fundamentally broken.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, let me close —
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Let me close with my two aphorisms.
+											One of them is from Mr. Einstein,
+											and he says, &quot;Everything should be made
+											as simple as possible, but not simpler.&quot;
+											And I think that&#39;s a very good way of thinking about the problem.
+											If you take too much out
+											of something that&#39;s simple, you lose function.
+											You have to have low cost,
+											but you also have to have a function.
+											So you can&#39;t make it too simple.
+											And the second is a design issue,
+											and it&#39;s not directly relevant, but it&#39;s a nice statement.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This is by de Saint-Exupery.
+											And he says, &quot;You know you&#39;ve achieved perfection in design,
+											not when you have nothing more to add,
+											but when you have nothing more to take away.&quot;
+											And that certainly is going in the right direction.
+											So, what I think one can begin to do
+											with this kind of
+											cut at the word simplicity,
+											which doesn&#39;t cover Brancusi,
+											it doesn&#39;t answer the question of
+											why Mondrian is better or worse
+											or simpler or less simpler than Van Gogh,
+											and certainly doesn&#39;t address the question
+											of whether Mozart is simpler than Bach.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But it does make a point —
+											which is one which, in a sense,
+											differentiates the real world of people who make things,
+											and the world of people who think about things,
+											which is, there is an intellectual merit
+											to asking: How do we make things
+											as simple as we can,
+											as cheap as we can, as functional as we can
+											and as freely interconnectable as we can?
+											If we make that kind of simplicity in our technology
+											and then give it to you guys,
+											you can go off and do all kinds of fabulous things with it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you very much.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Chris Anderson: Quick question.
+											So can you picture
+											that a science of simplicity
+											might get to the point where
+											you could look out at various systems —
+											say a financial system or a legal system, health system — and say,
+											&quot;That has got to the point of danger
+											or dysfunctionality for the following reasons,
+											and this is how we might simplify it&quot;?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											George Whitesides: Yes, I think you could. Because if you look
+											at the components from which the system is made
+											and examine their fragility, or their stability,
+											you can probably build a kind of risk assessment based on that basis.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: Have you started to do that?
+											I mean, with the health system, you got a sort of
+											radical solution on the cost side,
+											but in terms of the system itself?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											GW: Well, no.
+											How do I put that simply? No.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: That was a simple, powerful answer. GW: Yes.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: So, in terms of
+											that diagnostic technology that you&#39;ve got,
+											where is that, and when do you see that
+											maybe getting rolled out to scale.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											GW: That&#39;s coming out soon. I mean, the systems work,
+											and we have to find out how to manufacture them and do things of this kind,
+											but the basic technology works.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: You&#39;ve got a company set up to ...
+											GW: A foundation, a foundation. Not-for-profit.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											CA: All right. Well, thank you so much for your talk. Thank you. (Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":693,"count":80,"talk_id":845},"threadId":693,"current_talk":"845","description":"Simplicity: We know it when we see it -- but what is it, exactly? In this funny, philosophical talk, George Whitesides chisels out an answer.","event":"TED2010","language":"en","name":"George Whitesides: Toward a science of simplicity","slug":"george_whitesides_toward_a_science_of_simplicity","speakers":[{"id":"609","slug":"george_whitesides","is_published":true,"firstname":"George","lastname":"Whitesides","middleinitial":"","title":"","description":"Chemist","photo_url":"https://pe.tedcdn.com/images/ted/146430_254x191.jpg","whatotherssay":"Most of the world is self-assembly. We are self-assembled systems.","whotheyare":"In his legendary career in chemistry, George Whitesides has been a pioneer in microfabrication and nanoscale self-assembly. Now, he's fabbing a diagnostic lab on a chip.","whylisten":"<p>Someday Harvard chemistry professor George Whitesides will take the time to look back on the 950 scientific articles he&#39;s coauthored, the dozen companies he&#39;s co-founded or the 50-plus patents on which he&#39;s named. (He works in four main areas: biochemistry, materials science, catalysis and physical organic chemistry.) In the meantime, <strong>he&#39;s trying to invent a future where medical diagnosis can be done by anyone for little or no cost</strong>. He&#39;s co-founded a nonprofit called Diagnostics for All that aims to provide dirt-cheap diagnostic devices, to provide healthcare in a world where cost is everything.<br /><br />Among his solutions is a low-cost <strong>&quot;lab-on-a-chip</strong>,&quot; made of paper and carpet tape. The paper wicks bodily fluids -- urine, for example -- and turns color to provide diagnostic information, such as how much glucose or protein is present. His goal is to distribute these simple paper diagnostic systems to developing countries, where people with basic training can administer tests and send results to distant doctors via cameraphone.</p>"}],"url":"https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity","viewed_count":633829,"talks":[{"curator_approved":true,"description":"Simplicity: We know it when we see it -- but what is it, exactly? In this funny, philosophical talk, George Whitesides chisels out an answer.","downloads":{"id":845,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Uzbek","endonym":"O'zbek","languageCode":"uz","ianaCode":"uz","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/GeorgeWhitesides_2010-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/GeorgeWhitesides_2010.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/GeorgeWhitesides_2010-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"de":{"name":"German","low":"https://download.ted.com/talks/GeorgeWhitesides_2010-low-de.mp4","high":"https://download.ted.com/talks/GeorgeWhitesides_2010-480p-de.mp4"},"fr":{"name":"French","high":"https://download.ted.com/talks/GeorgeWhitesides_2010-480p-fr.mp4","low":"https://download.ted.com/talks/GeorgeWhitesides_2010-low-fr.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/GeorgeWhitesides_2010-low-ja.mp4","high":"https://download.ted.com/talks/GeorgeWhitesides_2010-480p-ja.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/GeorgeWhitesides_2010-low-zh-tw.mp4","high":"https://download.ted.com/talks/GeorgeWhitesides_2010-480p-zh-tw.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/GeorgeWhitesides_2010-low-zh-cn.mp4","high":"https://download.ted.com/talks/GeorgeWhitesides_2010-480p-zh-cn.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/GeorgeWhitesides_2010-low-ko.mp4","high":"https://download.ted.com/talks/GeorgeWhitesides_2010-480p-ko.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/GeorgeWhitesides_2010-low-es.mp4","high":"https://download.ted.com/talks/GeorgeWhitesides_2010-480p-es.mp4"},"en":{"name":"English","high":"https://download.ted.com/talks/GeorgeWhitesides_2010-480p-en.mp4","low":"https://download.ted.com/talks/GeorgeWhitesides_2010-low-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/GeorgeWhitesides_2010-low-pt-br.mp4","high":"https://download.ted.com/talks/GeorgeWhitesides_2010-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/GeorgeWhitesides_2010-low-it.mp4","high":"https://download.ted.com/talks/GeorgeWhitesides_2010-480p-it.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/GeorgeWhitesides_2010-low-he.mp4","high":"https://download.ted.com/talks/GeorgeWhitesides_2010-480p-he.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/GeorgeWhitesides_2010-low-bg.mp4","high":"https://download.ted.com/talks/GeorgeWhitesides_2010-480p-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/GeorgeWhitesides_2010-low-ro.mp4","high":"https://download.ted.com/talks/GeorgeWhitesides_2010-480p-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/GeorgeWhitesides_2010-low-pl.mp4","high":"https://download.ted.com/talks/GeorgeWhitesides_2010-480p-pl.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/GeorgeWhitesides_2010-low-nl.mp4","high":"https://download.ted.com/talks/GeorgeWhitesides_2010-480p-nl.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/GeorgeWhitesides_2010-low-tr.mp4","high":"https://download.ted.com/talks/GeorgeWhitesides_2010-480p-tr.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/GeorgeWhitesides_2010-low-ru.mp4","high":"https://download.ted.com/talks/GeorgeWhitesides_2010-480p-ru.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/GeorgeWhitesides_2010-low-el.mp4","high":"https://download.ted.com/talks/GeorgeWhitesides_2010-480p-el.mp4"},"id":{"name":"Indonesian","low":"https://download.ted.com/talks/GeorgeWhitesides_2010-low-id.mp4","high":"https://download.ted.com/talks/GeorgeWhitesides_2010-480p-id.mp4"},"uz":{"name":"Uzbek","low":"https://download.ted.com/talks/GeorgeWhitesides_2010-low-uz.mp4","high":"https://download.ted.com/talks/GeorgeWhitesides_2010-480p-uz.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/GeorgeWhitesides_2010-low-ar.mp4","high":"https://download.ted.com/talks/GeorgeWhitesides_2010-480p-ar.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/GeorgeWhitesides_2010-low-vi.mp4","high":"https://download.ted.com/talks/GeorgeWhitesides_2010-480p-vi.mp4"}},"audioDownload":"https://download.ted.com/talks/GeorgeWhitesides_2010.mp3?apikey=acme-roadrunner"},"duration":1115.0,"event":"TED2010","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/165908_800x600.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/165908_800x600.jpg?q=50&w=15","id":"845","player_talks":[{"id":"845","duration":1115.0,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Uzbek","endonym":"O'zbek","languageCode":"uz","ianaCode":"uz","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2010/Blank/GeorgeWhitesides_2010-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTED2010%26id%3D845%26tag%3Dchemistry%2Ccomplexity%2Cdesign%2Chistory%2Csimplicity%2Ctechnology%26talk%3Dgeorge_whitesides_toward_a_science_of_simplicity%26year%3D2010&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"845","talk":"george_whitesides_toward_a_science_of_simplicity","tag":"chemistry,complexity,design,history,simplicity,technology","year":"2010","event":"TED2010"},"stream":"https://hls.ted.com/talks/845.m3u8","metadata":"https://hls.ted.com/talks/845.json"}},"targeting":{"id":"845","talk":"george_whitesides_toward_a_science_of_simplicity","tag":"chemistry,complexity,design,history,simplicity,technology","year":"2010","event":"TED2010"},"canonical":"https://www.ted.com/talks/george_whitesides_toward_a_science_of_simplicity","name":"George Whitesides: Toward a science of simplicity","title":"Toward a science of simplicity","speaker":"George Whitesides","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/165908_800x600.jpg?quality=89&w=600","slug":"george_whitesides_toward_a_science_of_simplicity","event":"TED2010","published":1272472440}],"ratings":[{"id":9,"name":"Ingenious","count":118},{"id":22,"name":"Fascinating","count":139},{"id":7,"name":"Funny","count":20},{"id":8,"name":"Informative","count":243},{"id":24,"name":"Persuasive","count":129},{"id":11,"name":"Longwinded","count":158},{"id":26,"name":"Obnoxious","count":17},{"id":10,"name":"Inspiring","count":189},{"id":25,"name":"OK","count":114},{"id":21,"name":"Unconvincing","count":72},{"id":2,"name":"Confusing","count":54},{"id":3,"name":"Courageous","count":18},{"id":23,"name":"Jaw-dropping","count":12},{"id":1,"name":"Beautiful","count":20}],"recorded_at":"2010-02-13T00:00:00.000+00:00","related_talks":[{"id":"172","hero":"https://pe.tedcdn.com/images/ted/b790be2f87ceffba73fe73837944400c7d61cba2_1600x1200.jpg","speaker":"John Maeda","title":"Designing for simplicity","duration":959.0,"slug":"john_maeda_on_the_simple_life","viewed_count":1306774},{"id":"7","hero":"https://pe.tedcdn.com/images/ted/ec8cb05b010ea5c373e085b4349e30723ae4aff0_1600x1200.jpg","speaker":"David Pogue","title":"Simplicity sells","duration":1286.0,"slug":"david_pogue_says_simplicity_sells","viewed_count":1702204},{"id":"843","hero":"https://pe.tedcdn.com/images/ted/166847_800x600.jpg","speaker":"Stephen Wolfram","title":"Computing a theory of all knowledge","duration":1198.0,"slug":"stephen_wolfram_computing_a_theory_of_everything","viewed_count":1584591},{"id":"760","hero":"https://pe.tedcdn.com/images/ted/146423_800x600.jpg","speaker":"George Whitesides","title":"A lab the size of a postage stamp","duration":976.0,"slug":"george_whitesides_a_lab_the_size_of_a_postage_stamp","viewed_count":505257},{"id":"803","hero":"https://pe.tedcdn.com/images/ted/158619_800x600.jpg","speaker":"Alan Siegel","title":"Let's simplify legal jargon!","duration":266.0,"slug":"alan_siegel_let_s_simplify_legal_jargon","viewed_count":913476},{"id":"1911","hero":"https://pe.tedcdn.com/images/ted/ebe6dc533509fb045e77d0668a35ab8082375b5b_1600x1200.jpg","speaker":"Yves Morieux","title":"As work gets more complex, 6 rules to simplify","duration":721.0,"slug":"yves_morieux_as_work_gets_more_complex_6_rules_to_simplify","viewed_count":3369942}],"slug":"george_whitesides_toward_a_science_of_simplicity","speakers":[{"id":"609","slug":"george_whitesides","is_published":true,"firstname":"George","lastname":"Whitesides","middleinitial":"","title":"","description":"Chemist","photo_url":"https://pe.tedcdn.com/images/ted/146430_254x191.jpg","whatotherssay":"Most of the world is self-assembly. We are self-assembled systems.","whotheyare":"In his legendary career in chemistry, George Whitesides has been a pioneer in microfabrication and nanoscale self-assembly. Now, he's fabbing a diagnostic lab on a chip.","whylisten":"<p>Someday Harvard chemistry professor George Whitesides will take the time to look back on the 950 scientific articles he&#39;s coauthored, the dozen companies he&#39;s co-founded or the 50-plus patents on which he&#39;s named. (He works in four main areas: biochemistry, materials science, catalysis and physical organic chemistry.) In the meantime, <strong>he&#39;s trying to invent a future where medical diagnosis can be done by anyone for little or no cost</strong>. He&#39;s co-founded a nonprofit called Diagnostics for All that aims to provide dirt-cheap diagnostic devices, to provide healthcare in a world where cost is everything.<br /><br />Among his solutions is a low-cost <strong>&quot;lab-on-a-chip</strong>,&quot; made of paper and carpet tape. The paper wicks bodily fluids -- urine, for example -- and turns color to provide diagnostic information, such as how much glucose or protein is present. His goal is to distribute these simple paper diagnostic systems to developing countries, where people with basic training can administer tests and send results to distant doctors via cameraphone.</p>"}],"speaker_name":"George Whitesides","tags":["chemistry","complexity","design","history","simplicity","technology"],"title":"Toward a science of simplicity","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":633829}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

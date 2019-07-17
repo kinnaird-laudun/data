@@ -1,0 +1,1420 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>David Agus: A new strategy in the war on cancer | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Too often, says David Agus cancer treatments have a short-sighted focus on individual cells. He suggests a new, cross-disciplinary approach, using atypical drugs, computer modeling and protein analysis to diagnose and treat the whole body." />
+<meta name="author" content="David Agus" />
+<link rel="canonical" href="https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer/transcript" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer/transcript?language=en" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer/transcript?language=pt-br" />
+<link rel="alternate" hreflang="gl" href="https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer/transcript?language=gl" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer/transcript?language=nl" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer/transcript?language=pt" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer/transcript?language=tr" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="th" href="https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer/transcript?language=th" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer/transcript?language=bg" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer/transcript?language=de" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer/transcript?language=hu" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer/transcript?language=he" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer/transcript?language=ko" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer/transcript?language=vi" />
+<meta property="og:title" content="Transcript of &quot;A new strategy in the war on cancer&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/146612_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/146612_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="David Agus: A new strategy in the war on cancer" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Too often, says David Agus cancer treatments have a short-sighted focus on individual cells. He suggests a new, cross-disciplinary approach, using atypical drugs, computer modeling and protein analysis to diagnose and treat the whole body." />
+<meta property="og:url" content="https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 761);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer' itemprop='url'>
+<meta content='A new strategy in the war on cancer' itemprop='name'>
+<meta content='Too often, says David Agus cancer treatments have a short-sighted focus on individual cells. He suggests a new, cross-disciplinary approach, using atypical drugs, computer modeling and protein analysis to diagnose and treat the whole body.' itemprop='description'>
+<meta content='PT23M44S' itemprop='duration'>
+<meta content='2010-02-04T09:00:00+00:00' itemprop='uploadDate'>
+<meta content='732120' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/146612_800x600.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/david_agus' itemprop='url'>
+<meta content='David Agus' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/146613_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/146612_800x600.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				David Agus
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					732,120
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 23:44</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I&#39;m a cancer doctor, and I walked out of my office
+											and walked by the pharmacy in the hospital three or four years ago,
+											and this was the cover of Fortune magazine
+											sitting in the window of the pharmacy.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so, as a cancer doctor, you look at this,
+											and you get a little bit downhearted.
+											But when you start to read the article by Cliff,
+											who himself is a cancer survivor,
+											who was saved by a clinical trial
+											where his parents drove him from New York City to upstate New York
+											to get an experimental therapy for —
+											at the time — Hodgkin&#39;s disease, which saved his life,
+											he makes remarkable points here.
+											And the point of the article was that we have gotten
+											reductionist in our view of biology,
+											in our view of cancer.
+											For the last 50 years, we have focused on treating
+											the individual gene
+											in understanding cancer, not in controlling cancer.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, this is an astounding table.
+											And this is something that sobers us in our field everyday
+											in that, obviously, we&#39;ve made remarkable impacts
+											on cardiovascular disease,
+											but look at cancer. The death rate in cancer
+											in over 50 years hasn&#39;t changed.
+											We&#39;ve made small wins in diseases like chronic myelogenous leukemia,
+											where we have a pill that can put 100 percent of people in remission,
+											but in general, we haven&#39;t made an impact at all in the war on cancer.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, what I&#39;m going to tell you today,
+											is a little bit of why I think that&#39;s the case,
+											and then go out of my comfort zone
+											and tell you where I think it&#39;s going,
+											where a new approach — that we hope to push forward
+											in terms of treating cancer.
+											Because this is wrong.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, what is cancer, first of all?
+											Well, if one has a mass or an abnormal blood value, you go to a doctor,
+											they stick a needle in.
+											They way we make the diagnosis today is by pattern recognition:
+											Does it look normal? Does it look abnormal?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, that pathologist is just like looking at this plastic bottle.
+											This is a normal cell. This is a cancer cell.
+											That is the state-of-the-art today in diagnosing cancer.
+											There&#39;s no molecular test,
+											there&#39;s no sequencing of genes that was referred to yesterday,
+											there&#39;s no fancy looking at the chromosomes.
+											This is the state-of-the-art and how we do it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											You know, I know very well, as a cancer doctor, I can&#39;t treat advanced cancer.
+											So, as an aside, I firmly believe in the field of trying to identify cancer early.
+											It is the only way you can start to fight cancer, is by catching it early.
+											We can prevent most cancers.
+											You know, the previous talk alluded to preventing heart disease.
+											We could do the same in cancer.
+											I co-founded a company called Navigenics,
+											where, if you spit into a tube —
+											and we can look look at 35 or 40 genetic markers for disease,
+											all of which are delayable in many of the cancers —
+											you start to identify what you could get,
+											and then we can start to work to prevent them.
+											Because the problem is, when you have advanced cancer,
+											we can&#39;t do that much today about it, as the statistics allude to.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, the thing about cancer is that it&#39;s a disease of the aged.
+											Why is it a disease of the aged?
+											Because evolution doesn&#39;t care about us after we&#39;ve had our children.
+											See, evolution protected us during our childbearing years
+											and then, after age 35 or 40 or 45,
+											it said &quot;It doesn&#39;t matter anymore, because they&#39;ve had their progeny.&quot;
+											So if you look at cancers, it is very rare — extremely rare —
+											to have cancer in a child, on the order of thousands of cases a year.
+											As one gets older? Very, very common.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Why is it hard to treat?
+											Because it&#39;s heterogeneous,
+											and that&#39;s the perfect substrate for evolution within the cancer.
+											It starts to select out for those bad, aggressive cells,
+											what we call clonal selection.
+											But, if we start to understand
+											that cancer isn&#39;t just a molecular defect, it&#39;s something more,
+											then we&#39;ll get to new ways of treating it, as I&#39;ll show you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, one of the fundamental problems we have in cancer
+											is that, right now, we describe it by a number of adjectives, symptoms:
+											&quot;I&#39;m tired, I&#39;m bloated, I have pain, etc.&quot;
+											You then have some anatomic descriptions,
+											you get that CT scan: &quot;There&#39;s a three centimeter mass in the liver.&quot;
+											You then have some body part descriptions:
+											&quot;It&#39;s in the liver, in the breast, in the prostate.&quot;
+											And that&#39;s about it.
+											So, our dictionary for describing cancer is very, very poor.
+											It&#39;s basically symptoms.
+											It&#39;s manifestations of a disease.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											What&#39;s exciting is that over the last two or three years,
+											the government has spent 400 million dollars,
+											and they&#39;ve allocated another billion dollars,
+											to what we call the Cancer Genome Atlas Project.
+											So, it is the idea of sequencing all of the genes in the cancer,
+											and giving us a new lexicon, a new dictionary to describe it.
+											You know, in the mid-1850&#39;s in France,
+											they started to describe cancer by body part.
+											That hasn&#39;t changed in over 150 years.
+											It is absolutely archaic that we call cancer
+											by prostate, by breast, by muscle.
+											It makes no sense, if you think about it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, obviously, the technology is here today,
+											and, over the next several years, that will change.
+											You will no longer go to a breast cancer clinic.
+											You will go to a HER2 amplified clinic, or an EGFR activated clinic,
+											and they will go to some of the pathogenic lesions
+											that were involved in causing this individual cancer.
+											So, hopefully, we will go from being the art of medicine
+											more to the science of medicine,
+											and be able to do what they do in infectious disease,
+											which is look at that organism, that bacteria,
+											and then say, &quot;This antibiotic makes sense,
+											because you have a particular bacteria that will respond to it.&quot;
+											When one is exposed to H1N1, you take Tamiflu,
+											and you can remarkably decrease the severity of symptoms
+											and prevent many of the manifestations of the disease.
+											Why? Because we know what you have, and we know how to treat it —
+											although we can&#39;t make vaccine in this country, but that&#39;s a different story.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The Cancer Genome Atlas is coming out now.
+											The first cancer was done, which was brain cancer.
+											In the next month, the end of December, you&#39;ll see ovarian cancer,
+											and then lung cancer will come several months after.
+											There&#39;s also a field of proteomics that I&#39;ll talk about in a few minutes,
+											which I think is going to be the next level
+											in terms of understanding and classifying disease.
+											But remember, I&#39;m not pushing genomics,
+											proteomics, to be a reductionist.
+											I&#39;m doing it so we can identify what we&#39;re up against.
+											And there&#39;s a very important distinction there that we&#39;ll get to.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											In health care today, we spend most of the dollars —
+											in terms of treating disease —
+											most of the dollars in the last two years of a person&#39;s life.
+											We spend very little, if any, dollars in terms of identifying what we&#39;re up against.
+											If you could start to move that, to identify what you&#39;re up against,
+											you&#39;re going to do things a hell of a lot better.
+											If we could even take it one step further and prevent disease,
+											we can take it enormously the other direction,
+											and obviously, that&#39;s where we need to go, going forward.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, this is the website of the National Cancer Institute.
+											And I&#39;m here to tell you, it&#39;s wrong.
+											So, the website of the National Cancer Institute
+											says that cancer is a genetic disease.
+											The website says, &quot;If you look, there&#39;s an individual mutation,
+											and maybe a second, and maybe a third,
+											and that is cancer.&quot;
+											But, as a cancer doc, this is what I see.
+											This isn&#39;t a genetic disease.
+											So, there you see, it&#39;s a liver with colon cancer in it,
+											and you see into the microscope a lymph node
+											where cancer has invaded.
+											You see a CT scan where cancer is in the liver.
+											Cancer is an interaction of a cell
+											that no longer is under growth control with the environment.
+											It&#39;s not in the abstract; it&#39;s the interaction with the environment.
+											It&#39;s what we call a system.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The goal of me as a cancer doctor is not to understand cancer.
+											And I think that&#39;s been the fundamental problem over the last five decades,
+											is that we have strived to understand cancer.
+											The goal is to control cancer.
+											And that is a very different optimization scheme,
+											a very different strategy for all of us.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I got up at the American Association of Cancer Research,
+											one of the big cancer research meetings, with 20,000 people there,
+											and I said, &quot;We&#39;ve made a mistake.
+											We&#39;ve all made a mistake, myself included,
+											by focusing down, by being a reductionist.
+											We need to take a step back.&quot;
+											And, believe it or not, there were hisses in the audience.
+											People got upset, but this is the only way we&#39;re going to go forward.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											You know, I was very fortunate to meet Danny Hillis a few years ago.
+											We were pushed together, and neither one of us really wanted to meet the other.
+											I said, &quot;Do I really want to meet a guy from Disney, who designed computers?&quot;
+											And he was saying: Does he really want to meet another doctor?
+											But people prevailed on us, and we got together,
+											and it&#39;s been transformative in what I do, absolutely transformative.
+											We have designed, and we have worked on the modeling —
+											and much of these ideas came from Danny and from his team —
+											the modeling of cancer in the body as complex system.
+											And I&#39;ll show you some data there
+											where I really think it can make a difference and a new way to approach it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The key is, when you look at these variables and you look at this data,
+											you have to understand the data inputs.
+											You know, if I measured your temperature over 30 days,
+											and I asked, &quot;What was the average temperature?&quot;
+											and it came back at 98.7, I would say, &quot;Great.&quot;
+											But if during one of those days
+											your temperature spiked to 102 for six hours,
+											and you took Tylenol and got better, etc.,
+											I would totally miss it.
+											So, one of the problems, the fundamental problems in medicine
+											is that you and I, and all of us,
+											we go to our doctor once a year.
+											We have discrete data elements; we don&#39;t have a time function on them.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Earlier it was referred to this direct life device.
+											You know, I&#39;ve been using it for two and a half months.
+											It&#39;s a staggering device, not because it tells me
+											how many kilocalories I do every day,
+											but because it looks, over 24 hours, what I&#39;ve done in a day.
+											And I didn&#39;t realize that for three hours I&#39;m sitting at my desk,
+											and I&#39;m not moving at all.
+											And a lot of the functions in the data that we have as input systems here
+											are really different than we understand them,
+											because we&#39;re not measuring them dynamically.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so, if you think of cancer as a system,
+											there&#39;s an input and an output and a state in the middle.
+											So, the states, are equivalent classes of history,
+											and the cancer patient, the input, is the environment,
+											the diet, the treatment, the genetic mutations.
+											The output are our symptoms:
+											Do we have pain? Is the cancer growing? Do we feel bloated, etc.?
+											Most of that state is hidden.
+											So what we do in our field is we change and input,
+											we give aggressive chemotherapy,
+											and we say, &quot;Did that output get better? Did that pain improve, etc.?&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so, the problem is that it&#39;s not just one system,
+											it&#39;s multiple systems on multiple scales.
+											It&#39;s a system of systems.
+											And so, when you start to look at emergent systems,
+											you can look at a neuron under a microscope.
+											A neuron under the microscope is very elegant
+											with little things sticking out and little things over here,
+											but when you start to put them together in a complex system,
+											and you start to see that it becomes a brain,
+											and that brain can create intelligence,
+											what we&#39;re talking about in the body,
+											and cancer is starting to model it like a complex system.
+											Well, the bad news is that these robust —
+											and robust is a key word —
+											emergent systems are very hard to understand in detail.
+											The good news is you can manipulate them.
+											You can try to control them
+											without that fundamental understanding of every component.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											One of the most fundamental clinical trials in cancer
+											came out in February in the New England Journal of Medicine,
+											where they took women who were pre-menopausal with breast cancer.
+											So, about the worst kind of breast cancer you can get.
+											They had gotten their chemotherapy,
+											and then they randomized them,
+											where half got placebo,
+											and half got a drug called Zoledronic acid that builds bone.
+											It&#39;s used to treat osteoporosis,
+											and they got that twice a year.
+											They looked and, in these 1,800 women,
+											given twice a year a drug that builds bone,
+											you reduce the recurrence of cancer by 35 percent.
+											Reduce occurrence of cancer by a drug
+											that doesn&#39;t even touch the cancer.
+											So the notion, you change the soil, the seed doesn&#39;t grow as well.
+											You change that system,
+											and you could have a marked effect on the cancer.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Nobody has ever shown — and this will be shocking —
+											nobody has ever shown that most chemotherapy
+											actually touches a cancer cell.
+											It&#39;s never been shown.
+											There&#39;s all these elegant work in the tissue culture dishes,
+											that if you give this cancer drug, you can do this effect to the cell,
+											but the doses in those dishes are nowhere near
+											the doses that happen in the body.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											If I give a woman with breast cancer a drug called Taxol
+											every three weeks, which is the standard,
+											about 40 percent of women with metastatic cancer
+											have a great response to that drug.
+											And a response is 50 percent shrinkage.
+											Well, remember that&#39;s not even an order of magnitude,
+											but that&#39;s a different story.
+											They then recur, I give them that same drug every week.
+											Another 30 percent will respond.
+											They then recur, I give them that same drug
+											over 96 hours by continuous infusion,
+											another 20 or 30 percent will respond.
+											So, you can&#39;t tell me it&#39;s working by the same mechanism in all three size.
+											It&#39;s not. We have no idea the mechanism.
+											So the idea that chemotherapy may just be disrupting
+											that complex system,
+											just like building bone disrupted that system and reduced recurrence,
+											chemotherapy may work by that same exact way.
+											The wild thing about that trial also,
+											was that it reduced new primaries, so new cancers, by 30 percent also.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, the problem is, yours and mine, all of our systems are changing.
+											They&#39;re dynamic.
+											I mean, this is a scary slide, not to take an aside,
+											but it looks at obesity in the world.
+											And I&#39;m sorry if you can&#39;t read the numbers, they&#39;re kind of small.
+											But, if you start to look at it, that red, that dark color there,
+											more than 75 percent of the population
+											of those countries are obese.
+											Look a decade ago, look two decades ago: markedly different.
+											So, our systems today are dramatically different
+											than our systems a decade or two ago.
+											So the diseases we have today,
+											which reflect patterns in the system over the last several decades,
+											are going to change dramatically over the next decade or so
+											based on things like this.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, this picture, although it is beautiful, is a 40-gigabyte picture
+											of the whole proteome.
+											So this is a drop of blood that has gone through a superconducting magnet,
+											and we&#39;re able to get resolution
+											where we can start to see all of the proteins in the body.
+											We can start to see that system.
+											Each of the red dots are where a protein has actually been identified.
+											The power of these magnets, the power of what we can do here,
+											is that we can see an individual neutron with this technology.
+											So, again, this is stuff we&#39;re doing with Danny Hillis
+											and a group called Applied Proteomics,
+											where we can start to see individual neutron differences,
+											and we can start to look at that system like we never have before.
+											So, instead of a reductionist view, we&#39;re taking a step back.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So this is a woman, 46 years old,
+											who had recurrent lung cancer.
+											It was in her brain, in her lungs, in her liver.
+											She had gotten Carboplatin Taxol, Carboplatin Taxotere,
+											Gemcitabine, Navelbine:
+											Every drug we have she had gotten, and that disease continued to grow.
+											She had three kids under the age of 12,
+											and this is her CT scan.
+											And so what this is, is we&#39;re taking a cross-section of her body here,
+											and you can see in the middle there is her heart,
+											and to the side of her heart on the left there is this large tumor
+											that will invade and will kill her, untreated, in a matter of weeks.
+											She goes on a pill a day that targets a pathway,
+											and again, I&#39;m not sure if this pathway was in the system, in the cancer,
+											but it targeted a pathway, and a month later, pow, that cancer&#39;s gone.
+											Six months later it&#39;s still gone.
+											That cancer recurred, and she passed away three years later from lung cancer,
+											but she got three years from a drug
+											whose symptoms predominately were acne.
+											That&#39;s about it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, the problem is that the clinical trial was done,
+											and we were a part of it,
+											and in the fundamental clinical trial —
+											the pivotal clinical trial we call the Phase Three,
+											we refused to use a placebo.
+											Would you want your mother, your brother, your sister
+											to get a placebo if they had advanced lung cancer and had weeks to live?
+											And the answer, obviously, is not.
+											So, it was done on this group of patients.
+											Ten percent of people in the trial had this dramatic response that was shown here,
+											and the drug went to the FDA,
+											and the FDA said, &quot;Without a placebo,
+											how do I know patients actually benefited from the drug?&quot;
+											So the morning the FDA was going to meet,
+											this was the editorial in the Wall Street Journal.
+											(Laughter)
+											And so, what do you know, that drug was approved.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The amazing thing is another company did the right scientific trial,
+											where they gave half placebo and half the drug.
+											And we learned something important there.
+											What&#39;s interesting is they did it in South America and Canada,
+											where it&#39;s &quot;more ethical to give placebos.&quot;
+											They had to give it also in the U.S. to get approval,
+											so I think there were three U.S. patients
+											in upstate New York who were part of the trial.
+											But they did that, and what they found
+											is that 70 percent of the non-responders
+											lived much longer and did better than people who got placebo.
+											So it challenged everything we knew in cancer,
+											is that you don&#39;t need to get a response.
+											You don&#39;t need to shrink the disease.
+											If we slow the disease, we may have more of a benefit
+											on patient survival, patient outcome, how they feel,
+											than if we shrink the disease.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The problem is that, if I&#39;m this doc, and I get your CT scan today
+											and you&#39;ve got a two centimeter mass in your liver,
+											and you come back to me in three months and it&#39;s three centimeters,
+											did that drug help you or not?
+											How do I know?
+											Would it have been 10 centimeters, or am I giving you a drug
+											with no benefit and significant cost?
+											So, it&#39;s a fundamental problem.
+											And, again, that&#39;s where these new technologies can come in.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so, the goal obviously is that you go into your doctor&#39;s office —
+											well, the ultimate goal is that you prevent disease, right?
+											The ultimate goal is that you prevent any of these things from happening.
+											That is the most effective, cost-effective,
+											best way we can do things today.
+											But if one is unfortunate to get a disease,
+											you&#39;ll go into your doctor&#39;s office, he or she will take a drop of blood,
+											and we will start to know how to treat your disease.
+											The way we&#39;ve approached it is the field of proteomics,
+											again, this looking at the system.
+											It&#39;s taking a big picture.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											The problem with technologies like this is
+											that if one looks at proteins in the body,
+											there are 11 orders of magnitude difference
+											between the high-abundant and the low-abundant proteins.
+											So, there&#39;s no technology in the world that can span 11 orders of magnitude.
+											And so, a lot of what has been done with people like Danny Hillis and others
+											is to try to bring in engineering principles, try to bring the software.
+											We can start to look at different components along this spectrum.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so, earlier was talked about cross-discipline, about collaboration.
+											And I think one of the exciting things that is starting to happen now
+											is that people from those fields are coming in.
+											Yesterday, the National Cancer Institute announced a new program
+											called the Physical Sciences and Oncology,
+											where physicists, mathematicians, are brought in to think about cancer,
+											people who never approached it before.
+											Danny and I got 16 million dollars, they announced yesterday,
+											to try to attach this problem.
+											A whole new approach, instead of giving high doses of chemotherapy
+											by different mechanisms,
+											to try to bring technology to get a picture of what&#39;s actually happening in the body.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, just for two seconds, how these technologies work —
+											because I think it&#39;s important to understand it.
+											What happens is every protein in your body is charged,
+											so the proteins are sprayed in, the magnet spins them around,
+											and then there&#39;s a detector at the end.
+											When it hit that detector is dependent on the mass and the charge.
+											And so we can accurately — if the magnet is big enough,
+											and your resolution is high enough —
+											you can actually detect all of the proteins in the body
+											and start to get an understanding of the individual system.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so, as a cancer doctor,
+											instead of having paper in my chart, in your chart, and it being this thick,
+											this is what data flow is starting to look like in our offices,
+											where that drop of blood is creating gigabytes of data.
+											Electronic data elements are describing every aspect of the disease.
+											And certainly the goal is we can start to learn from every encounter
+											and actually move forward, instead of just having encounter and encounter,
+											without fundamental learning.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So, to conclude, we need to get away from reductionist thinking.
+											We need to start to think differently and radically.
+											And so, I implore everyone here: Think differently. Come up with new ideas.
+											Tell them to me or anyone else in our field,
+											because over the last 59 years, nothing has changed.
+											We need a radically different approach.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											You know, Andy Grove stepped down as chairman of the board at Intel —
+											and Andy was one of my mentors, tough individual.
+											When Andy stepped down, he said,
+											&quot;No technology will win. Technology itself will win.&quot;
+											And I&#39;m a firm believer, in the field of medicine and especially cancer,
+											that it&#39;s going to be a broad platform of technologies
+											that will help us move forward
+											and hopefully help patients in the near-term.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you very much.
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":625,"count":172,"talk_id":761},"threadId":625,"current_talk":"761","description":"Too often, says David Agus cancer treatments have a short-sighted focus on individual cells. He suggests a new, cross-disciplinary approach, using atypical drugs, computer modeling and protein analysis to diagnose and treat the whole body.","event":"TEDMED 2009","language":"en","name":"David Agus: A new strategy in the war on cancer","slug":"david_agus_a_new_strategy_in_the_war_on_cancer","speakers":[{"id":"663","slug":"david_agus","is_published":true,"firstname":"David","lastname":"Agus","middleinitial":"","title":"","description":"Cancer Doctor","photo_url":"https://pe.tedcdn.com/images/ted/146613_254x191.jpg","whatotherssay":"I believe in educating the next generation about science and medicine. We need new human capital to fight disease.","whotheyare":"Although a highly-accomplished conventional doctor, David Agus has embraced the future of medicine and is constantly exploring ways that new technologies can help in the fight against cancer. ","whylisten":"<p>David Agus is a medical doctor and a Professor of Medicine at the University of Southern California. However, <strong>he is also the founder of a couple of game-changing medical initiatives.</strong> In 2006, he co-founded Navigenics with Dietrich Stephan, Ph.D., to form a company that would provide people with their individual genetic information, allowing them to act on any predispositions to disease that they might have and prevent onset. He also founded Oncology.com which was the largest cancer Internet resource and community. <br /><br />Dr. Agus&rsquo; research is focused on <strong>the application of proteomics and genomics in the study of cancer, as well as developing new therapeutic treatments for cancer.</strong> He serves as Director of the USC Center for Applied Molecular Medicine and the USC Westside Prostate Cancer Center. Agus is also the recipient of several honors and awards, including the American Cancer Society Physician Research Award, a Clinical Scholar Award from the Sloan-Kettering Institute and the International Myeloma Foundation Visionary Science Award.</p>"}],"url":"https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer","viewed_count":732120,"talks":[{"recommendations":{"status":"approved","headline":"David Agus recommends","blurb":"The oncologist shares books and an article on how to fight cancer while treating the whole body.","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"recommendation","rec_lists":[{"title":"reading list","description":"","rec_items":[{"label":"READ_Book","headline":"A Short Guide to a Long Life","blurb":"","note":"David Agus\r\nSimon & Schuster, 2014","link_url":"http://www.amazon.com/A-Short-Guide-Long-Life/dp/1476730954/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":null},{"label":"READ_Article","headline":"Perspective: Meeting of Minds","blurb":"","note":"David Agus and Murray Gell-Mann\r\n*Nature*, November 22, 2012","link_url":"http://www.nature.com/nature/journal/v491/n7425_supp/full/491S61a.html","position":null,"is_pdf":false,"eyebrow":null},{"label":"READ_Book","headline":"The Quark and the Jaguar","blurb":"","note":"Murray Gell-Mann\r\nSt. Martin's Griffin, 1995","link_url":"http://www.amazon.com/The-Quark-Jaguar-Adventures-Complex/dp/0805072535/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":null}]}]},"more_resources":[{"status":"approved","headline":"*The End of Illness*","blurb":null,"link_url":"http://www.amazon.com/The-Illness-David-Agus-M-D/dp/145161019X/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","image_url":"https://pe.tedcdn.com/images/ted/335ef1a064d6b0da9da3a155675442d9cb378948_459x698.jpg","author":"David Agus","year":"2012","publisher":"Free Press","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"book"}],"corrections":[],"has_citations":false,"take_action":[],"curator_approved":true,"description":"Too often, says David Agus cancer treatments have a short-sighted focus on individual cells. He suggests a new, cross-disciplinary approach, using atypical drugs, computer modeling and protein analysis to diagnose and treat the whole body.","downloads":{"id":761,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Galician","endonym":"Galego","languageCode":"gl","ianaCode":"gl","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/DavidAgus_2009P-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/DavidAgus_2009P.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/DavidAgus_2009P-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"fr":{"name":"French","low":"https://download.ted.com/talks/DavidAgus_2009P-low-fr.mp4","high":"https://download.ted.com/talks/DavidAgus_2009P-480p-fr.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/DavidAgus_2009P-low-ja.mp4","high":"https://download.ted.com/talks/DavidAgus_2009P-480p-ja.mp4"},"de":{"name":"German","high":"https://download.ted.com/talks/DavidAgus_2009P-480p-de.mp4","low":"https://download.ted.com/talks/DavidAgus_2009P-low-de.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/DavidAgus_2009P-low-zh-tw.mp4","high":"https://download.ted.com/talks/DavidAgus_2009P-480p-zh-tw.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/DavidAgus_2009P-low-zh-cn.mp4","high":"https://download.ted.com/talks/DavidAgus_2009P-480p-zh-cn.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/DavidAgus_2009P-low-ko.mp4","high":"https://download.ted.com/talks/DavidAgus_2009P-480p-ko.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/DavidAgus_2009P-low-es.mp4","high":"https://download.ted.com/talks/DavidAgus_2009P-480p-es.mp4"},"en":{"name":"English","low":"https://download.ted.com/talks/DavidAgus_2009P-low-en.mp4","high":"https://download.ted.com/talks/DavidAgus_2009P-480p-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/DavidAgus_2009P-low-pt-br.mp4","high":"https://download.ted.com/talks/DavidAgus_2009P-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/DavidAgus_2009P-low-it.mp4","high":"https://download.ted.com/talks/DavidAgus_2009P-480p-it.mp4"},"he":{"name":"Hebrew","high":"https://download.ted.com/talks/DavidAgus_2009P-480p-he.mp4","low":"https://download.ted.com/talks/DavidAgus_2009P-low-he.mp4"},"bg":{"name":"Bulgarian","high":"https://download.ted.com/talks/DavidAgus_2009P-480p-bg.mp4","low":"https://download.ted.com/talks/DavidAgus_2009P-low-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/DavidAgus_2009P-low-ro.mp4","high":"https://download.ted.com/talks/DavidAgus_2009P-480p-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/DavidAgus_2009P-low-pl.mp4","high":"https://download.ted.com/talks/DavidAgus_2009P-480p-pl.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/DavidAgus_2009P-low-nl.mp4","high":"https://download.ted.com/talks/DavidAgus_2009P-480p-nl.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/DavidAgus_2009P-low-tr.mp4","high":"https://download.ted.com/talks/DavidAgus_2009P-480p-tr.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/DavidAgus_2009P-low-ru.mp4","high":"https://download.ted.com/talks/DavidAgus_2009P-480p-ru.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/DavidAgus_2009P-low-hu.mp4","high":"https://download.ted.com/talks/DavidAgus_2009P-480p-hu.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/DavidAgus_2009P-low-ar.mp4","high":"https://download.ted.com/talks/DavidAgus_2009P-480p-ar.mp4"},"th":{"name":"Thai","low":"https://download.ted.com/talks/DavidAgus_2009P-low-th.mp4","high":"https://download.ted.com/talks/DavidAgus_2009P-480p-th.mp4"},"gl":{"name":"Galician","low":"https://download.ted.com/talks/DavidAgus_2009P-low-gl.mp4","high":"https://download.ted.com/talks/DavidAgus_2009P-480p-gl.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/DavidAgus_2009P-low-pt.mp4","high":"https://download.ted.com/talks/DavidAgus_2009P-480p-pt.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/DavidAgus_2009P-low-vi.mp4","high":"https://download.ted.com/talks/DavidAgus_2009P-480p-vi.mp4"}},"audioDownload":null},"duration":1424.0,"event":"TEDMED 2009","event_blurb":"This video was produced by TEDMED. TED's editors featured it among our daily selections on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/146612_800x600.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/146612_800x600.jpg?q=50&w=15","id":"761","player_talks":[{"id":"761","duration":1424.0,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Galician","endonym":"Galego","languageCode":"gl","ianaCode":"gl","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Thai","endonym":"ภาษาไทย","languageCode":"th","ianaCode":"th","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2009P/Blank/DavidAgus_2009P-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDMED%2B2009%26id%3D761%26tag%3Dcancer%2Chealth%2Chealth%2Bcare%2Cmedicine%2Ctechnology%26talk%3Ddavid_agus_a_new_strategy_in_the_war_on_cancer%26year%3D2009&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"761","talk":"david_agus_a_new_strategy_in_the_war_on_cancer","tag":"cancer,health,health care,medicine,technology","year":"2009","event":"TEDMED 2009"},"stream":"https://hls.ted.com/talks/761.m3u8","metadata":"https://hls.ted.com/talks/761.json"}},"targeting":{"id":"761","talk":"david_agus_a_new_strategy_in_the_war_on_cancer","tag":"cancer,health,health care,medicine,technology","year":"2009","event":"TEDMED 2009"},"canonical":"https://www.ted.com/talks/david_agus_a_new_strategy_in_the_war_on_cancer","name":"David Agus: A new strategy in the war on cancer","title":"A new strategy in the war on cancer","speaker":"David Agus","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/146612_800x600.jpg?quality=89&w=600","slug":"david_agus_a_new_strategy_in_the_war_on_cancer","event":"TEDMED 2009","published":1265274000}],"ratings":[{"id":24,"name":"Persuasive","count":126},{"id":22,"name":"Fascinating","count":124},{"id":8,"name":"Informative","count":180},{"id":21,"name":"Unconvincing","count":53},{"id":26,"name":"Obnoxious","count":10},{"id":25,"name":"OK","count":42},{"id":9,"name":"Ingenious","count":60},{"id":2,"name":"Confusing","count":46},{"id":23,"name":"Jaw-dropping","count":25},{"id":3,"name":"Courageous","count":31},{"id":10,"name":"Inspiring","count":105},{"id":11,"name":"Longwinded","count":34},{"id":1,"name":"Beautiful","count":8},{"id":7,"name":"Funny","count":4}],"recorded_at":"2009-10-10T00:00:00.000+00:00","related_talks":[{"id":"142","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/cbad9c73-20cd-4aaf-870a-bff718de79d6/AlanRussell_2006-embed.jpg","speaker":"Alan Russell","title":"The potential of regenerative medicine","duration":1165.0,"slug":"alan_russell_on_regenerating_our_bodies","viewed_count":1525137},{"id":"12","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/3690d9eb-a3eb-451a-940a-e851db9a3cb6/EvaVertes_2005-embed.jpg","speaker":"Eva Vertes","title":"Meet the future of cancer research","duration":1129.0,"slug":"eva_vertes_looks_to_the_future_of_medicine","viewed_count":1067668},{"id":"252","hero":"https://pe.tedcdn.com/images/ted/710309c2012fbc73930b26a7fe6a2e2cc8e7b982_2880x1620.jpg","speaker":"Dean Ornish","title":"Your genes are not your fate","duration":192.0,"slug":"dean_ornish_says_your_genes_are_not_your_fate","viewed_count":1491545},{"id":"2821","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/6a23a62c-01c0-425c-acf1-43c94803ef39/JimmyLin_2017U-embed.jpg","speaker":"Jimmy Lin","title":"A simple new blood test that can catch cancer early","duration":730.0,"slug":"jimmy_lin_a_simple_new_blood_test_that_can_catch_cancer_early","viewed_count":1314437},{"id":"2680","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/a0cd51b0-af92-42a7-b30a-435963cf5663/JoshuaSmith_2016S-embed.jpg","speaker":"Joshua Smith","title":"New nanotech to detect cancer early","duration":746.0,"slug":"joshua_smith_new_nanotech_to_catch_cancer_early","viewed_count":982358},{"id":"859","hero":"https://pe.tedcdn.com/images/ted/055b61a8ce3f799846f9dbdecbe2c30d0d0726bd_1600x1200.jpg","speaker":"William Li","title":"Can we eat to starve cancer?","duration":1202.0,"slug":"william_li","viewed_count":4360162}],"slug":"david_agus_a_new_strategy_in_the_war_on_cancer","speakers":[{"id":"663","slug":"david_agus","is_published":true,"firstname":"David","lastname":"Agus","middleinitial":"","title":"","description":"Cancer Doctor","photo_url":"https://pe.tedcdn.com/images/ted/146613_254x191.jpg","whatotherssay":"I believe in educating the next generation about science and medicine. We need new human capital to fight disease.","whotheyare":"Although a highly-accomplished conventional doctor, David Agus has embraced the future of medicine and is constantly exploring ways that new technologies can help in the fight against cancer. ","whylisten":"<p>David Agus is a medical doctor and a Professor of Medicine at the University of Southern California. However, <strong>he is also the founder of a couple of game-changing medical initiatives.</strong> In 2006, he co-founded Navigenics with Dietrich Stephan, Ph.D., to form a company that would provide people with their individual genetic information, allowing them to act on any predispositions to disease that they might have and prevent onset. He also founded Oncology.com which was the largest cancer Internet resource and community. <br /><br />Dr. Agus&rsquo; research is focused on <strong>the application of proteomics and genomics in the study of cancer, as well as developing new therapeutic treatments for cancer.</strong> He serves as Director of the USC Center for Applied Molecular Medicine and the USC Westside Prostate Cancer Center. Agus is also the recipient of several honors and awards, including the American Cancer Society Physician Research Award, a Clinical Scholar Award from the Sloan-Kettering Institute and the International Myeloma Foundation Visionary Science Award.</p>"}],"speaker_name":"David Agus","tags":["cancer","health","health care","medicine","technology"],"title":"A new strategy in the war on cancer","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":732120}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

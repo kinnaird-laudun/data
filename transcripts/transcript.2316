@@ -1,0 +1,1394 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Alan Smith: Why you should love statistics | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Think you&#39;re good at guessing stats? Guess again. Whether we consider ourselves math people or not, our ability to understand and work with numbers is terribly limited, says data visualization expert Alan Smith. In this delightful talk, Smith explores the mismatch between what we know and what we think we know." />
+<meta name="author" content="Alan Smith" />
+<link rel="canonical" href="https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics/transcript" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics/transcript?language=en" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics/transcript?language=pt" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics/transcript?language=fr" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics/transcript?language=he" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics/transcript?language=sr" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics/transcript?language=nl" />
+<link rel="alternate" hreflang="da" href="https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics/transcript?language=da" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics/transcript?language=hu" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics/transcript?language=es" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics/transcript?language=ja" />
+<link rel="alternate" hreflang="kk" href="https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics/transcript?language=kk" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics/transcript?language=el" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics/transcript?language=it" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics/transcript?language=pt-br" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics/transcript?language=ko" />
+<link rel="alternate" hreflang="sk" href="https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics/transcript?language=sk" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics/transcript?language=ru" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics/transcript?language=tr" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics/transcript?language=ar" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics/transcript?language=fa" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics/transcript?language=vi" />
+<meta property="og:title" content="Transcript of &quot;Why you should love statistics&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/d2ecb6f0-3b72-4ad6-8861-ea94637d4f49/AlanSmith_2016X-embed.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/d2ecb6f0-3b72-4ad6-8861-ea94637d4f49/AlanSmith_2016X-embed.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Alan Smith: Why you should love statistics" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Think you&#39;re good at guessing stats? Guess again. Whether we consider ourselves math people or not, our ability to understand and work with numbers is terribly limited, says data visualization expert Alan Smith. In this delightful talk, Smith explores the mismatch between what we know and what we think we know." />
+<meta property="og:url" content="https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 2674);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics' itemprop='url'>
+<meta content='Why you should love statistics' itemprop='name'>
+<meta content="Think you're good at guessing stats? Guess again. Whether we consider ourselves math people or not, our ability to understand and work with numbers is terribly limited, says data visualization expert Alan Smith. In this delightful talk, Smith explores the mismatch between what we know and what we think we know." itemprop='description'>
+<meta content='PT12M49S' itemprop='duration'>
+<meta content='2017-01-31T15:39:32+00:00' itemprop='uploadDate'>
+<meta content='1572714' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/d2ecb6f0-3b72-4ad6-8861-ea94637d4f49/AlanSmith_2016X-embed.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/alan_smith' itemprop='url'>
+<meta content='Alan Smith' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/7d5314cf4ace51d76ae52d6c8f9842348f20493c_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/d2ecb6f0-3b72-4ad6-8861-ea94637d4f49/AlanSmith_2016X-embed.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Alan Smith
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					1,572,714
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 12:49</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Back in 2003,
+											the UK government carried out a survey.
+											And it was a survey that measured
+levels of numeracy
+											in the population.
+											And they were shocked to find out
+											that for every 100 working age
+adults in the country,
+											47 of them lacked Level 1 numeracy skills.
+											Now, Level 1 numeracy skills —
+that&#39;s low-end GCSE score.
+											It&#39;s the ability to deal with fractions,
+percentages and decimals.
+											So this figure prompted
+a lot of hand-wringing in Whitehall.
+											Policies were changed,
+											investments were made,
+											and then they ran
+the survey again in 2011.
+											So can you guess
+what happened to this number?
+											It went up to 49.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And in fact, when I reported
+this figure in the FT,
+											one of our readers joked and said,
+											&quot;This figure is only shocking
+to 51 percent of the population.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											But I preferred, actually,
+the reaction of a schoolchild
+											when I presented
+at a school this information,
+											who raised their hand and said,
+											&quot;How do we know that the person
+who made that number
+											isn&#39;t one of the 49 percent either?&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So clearly, there&#39;s a numeracy issue,
+											because these are
+important skills for life,
+											and a lot of the changes
+that we want to introduce in this century
+											involve us becoming
+more comfortable with numbers.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, it&#39;s not just an English problem.
+											OECD this year released some figures
+looking at numeracy in young people,
+											and leading the way, the USA —
+											nearly 40 percent of young people
+in the US have low numeracy.
+											Now, England is there too,
+											but there are seven OECD countries
+with figures above 20 percent.
+											That is a problem,
+because it doesn&#39;t have to be that way.
+											If you look at the far end of this graph,
+											you can see the Netherlands and Korea
+are in single figures.
+											So there&#39;s definitely a numeracy
+problem that we want to address.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now, as useful as studies like these are,
+											I think we risk herding people
+inadvertently into one of two categories;
+											that there are two kinds of people:
+											those people that are comfortable
+with numbers, that can do numbers,
+											and the people who can&#39;t.
+											And what I&#39;m trying
+to talk about here today
+											is to say that I believe
+that is a false dichotomy.
+											It&#39;s not an immutable pairing.
+											I think you don&#39;t have to have
+tremendously high levels of numeracy
+											to be inspired by numbers,
+											and that should be the starting point
+to the journey ahead.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And one of the ways in which
+we can begin that journey, for me,
+											is looking at statistics.
+											Now, I am the first to acknowledge
+that statistics has got somewhat
+											of an image problem.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It&#39;s the part of mathematics
+											that even mathematicians
+don&#39;t particularly like,
+											because whereas the rest of maths
+is all about precision and certainty,
+											statistics is almost the reverse of that.
+											But actually, I was a late convert
+to the world of statistics myself.
+											If you&#39;d asked my undergraduate professors
+											what two subjects would I be least likely
+to excel in after university,
+											they&#39;d have told you statistics
+and computer programming,
+											and yet here I am, about to show you
+some statistical graphics
+											that I programmed.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So what inspired that change in me?
+											What made me think that statistics
+was actually an interesting thing?
+											It&#39;s really because
+statistics are about us.
+											If you look at the etymology
+of the word statistics,
+											it&#39;s the science of dealing with data
+											about the state or the community
+that we live in.
+											So statistics are about us as a group,
+											not us as individuals.
+											And I think as social animals,
+											we share this fascination about how
+we as individuals relate to our groups,
+											to our peers.
+											And statistics in this way
+are at their most powerful
+											when they surprise us.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And there&#39;s been some really wonderful
+surveys carried out recently
+											by Ipsos MORI in the last few years.
+											They did a survey of over
+1,000 adults in the UK,
+											and said, for every 100 people
+in England and Wales,
+											how many of them are Muslim?
+											Now the average answer from this survey,
+											which was supposed to be representative
+of the total population, was 24.
+											That&#39;s what people thought.
+											British people think 24 out of every 100
+people in the country are Muslim.
+											Now, official figures reveal
+that figure to be about five.
+											So there&#39;s this big variation
+between what we think, our perception,
+											and the reality as given by statistics.
+											And I think that&#39;s interesting.
+											What could possibly be causing
+that misperception?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And I was so thrilled with this study,
+											I started to take questions out
+in presentations. I was referring to it.
+											Now, I did a presentation
+											at St. Paul&#39;s School for Girls
+in Hammersmith,
+											and I had an audience rather like this,
+											except it was comprised entirely
+of sixth-form girls.
+											And I said, &quot;Girls,
+											how many teenage girls do you think
+the British public think
+											get pregnant every year?&quot;
+											And the girls were apoplectic when I said
+											the British public think that 15
+out of every 100 teenage girls
+											get pregnant in the year.
+											And they had every right to be angry,
+											because in fact, I&#39;d have to have
+closer to 200 dots
+											before I could color one in,
+											in terms of what
+the official figures tell us.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And rather like numeracy,
+this is not just an English problem.
+											Ipsos MORI expanded the survey
+in recent years to go across the world.
+											And so, they asked Saudi Arabians,
+											for every 100 adults in your country,
+											how many of them are overweight or obese?
+											And the average answer from the Saudis
+was just over a quarter.
+											That&#39;s what they thought.
+											Just over a quarter of adults
+are overweight or obese.
+											The official figures show, actually,
+it&#39;s nearer to three-quarters.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So again, a big variation.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And I love this one: they asked in Japan,
+they asked the Japanese,
+											for every 100 Japanese people,
+											how many of them live in rural areas?
+											The average was about a 50-50 split,
+just over halfway.
+											They thought 56 out of every 100
+Japanese people lived in rural areas.
+											The official figure is seven.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So extraordinary variations,
+and surprising to some,
+											but not surprising to people
+who have read the work
+											of Daniel Kahneman, for example,
+the Nobel-winning economist.
+											He and his colleague, Amos Tversky,
+spent years researching this disjoint
+											between what people perceive
+and the reality,
+											the fact that people are actually
+pretty poor intuitive statisticians.
+											And there are many reasons for this.
+											Individual experiences, certainly,
+can influence our perceptions,
+											but so, too, can things like the media
+reporting things by exception,
+											rather than what&#39;s normal.
+											Kahneman had a nice way
+of referring to that.
+											He said, &quot;We can be blind
+to the obvious&quot; —
+											so we&#39;ve got the numbers wrong —
+											&quot;but we can be blind
+to our blindness about it.&quot;
+											And that has enormous
+repercussions for decision making.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So at the statistics office
+while this was all going on,
+											I thought this was really interesting.
+											I said, this is clearly a global problem,
+											but maybe geography is the issue here.
+											These were questions that were all about,
+how well do you know your country?
+											So in this case, it&#39;s how well
+do you know 64 million people?
+											Not very well, it turns out.
+I can&#39;t do that.
+											So I had an idea,
+											which was to think about
+this same sort of approach
+											but to think about it
+in a very local sense.
+											Is this a local?
+											If we reframe the questions and say,
+											how well do you know your local area,
+											would your answers be any more accurate?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So I devised a quiz:
+											How well do you know your area?
+											It&#39;s a simple Web app.
+											You put in a post code
+											and then it will ask you questions
+based on census data
+											for your local area.
+											And I was very conscious
+in designing this.
+											I wanted to make it open
+to the widest possible range of people,
+											not just the 49 percent
+who can get the numbers.
+											I wanted everyone to engage with it.
+											So for the design of the quiz,
+											I was inspired by the isotypes
+											of Otto Neurath from the 1920s and &#39;30s.
+											Now, these are methods
+for representing numbers
+											using repeating icons.
+											And the numbers are there,
+but they sit in the background.
+											So it&#39;s a great way
+of representing quantity
+											without resorting to using terms
+like &quot;percentage,&quot;
+											&quot;fractions&quot; and &quot;ratios.&quot;
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So here&#39;s the quiz.
+											The layout of the quiz is,
+											you have your repeating icons
+on the left-hand side there,
+											and a map showing you the area
+we&#39;re asking you questions about
+											on the right-hand side.
+											There are seven questions.
+											Each question, there&#39;s a possible answer
+between zero and a hundred,
+											and at the end of the quiz,
+											you get an overall score
+between zero and a hundred.
+											And so because this is TEDxExeter,
+											I thought we would have
+a quick look at the quiz
+											for the first few questions of Exeter.
+											And so the first question is:
+											For every 100 people,
+how many are aged under 16?
+											Now, I don&#39;t know Exeter very well
+at all, so I had a guess at this,
+											but it gives you an idea
+of how this quiz works.
+											You drag the slider
+to highlight your icons,
+											and then just click &quot;Submit&quot; to answer,
+											and we animate away the difference
+between your answer and reality.
+											And it turns out, I was a pretty
+terrible guess: five.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											How about the next question?
+											This is asking about
+what the average age is,
+											so the age at which half
+the population are younger
+											and half the population are older.
+											And I thought 35 — that sounds
+middle-aged to me.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Actually, in Exeter,
+it&#39;s incredibly young,
+											and I had underestimated the impact
+of the university in this area.
+											The questions get harder
+as you go through.
+											So this one&#39;s now asking
+about homeownership:
+											For every 100 households, how many
+are owned with a mortgage or loan?
+											And I hedged my bets here,
+											because I didn&#39;t want to be
+more than 50 out on the answer.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And actually, these get harder,
+these questions,
+											because when you&#39;re in an area,
+when you&#39;re in a community,
+											things like age — there are clues
+to whether a population is old or young.
+											Just by looking around
+the area, you can see it.
+											Something like homeownership
+is much more difficult to see,
+											so we revert to our own heuristics,
+											our own biases about how many people
+we think own their own homes.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now the truth is,
+when we published this quiz,
+											the census data that it&#39;s based on
+was already a few years old.
+											We&#39;ve had online applications
+that allow you to put in a post code
+											and get statistics back for years.
+											So in some senses,
+											this was all a little bit old
+and not necessarily new.
+											But I was interested to see
+what reaction we might get
+											by gamifying the data
+in the way that we have,
+											by using animation
+											and playing on the fact
+that people have their own preconceptions.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											It turns out, the reaction was, um ...
+											was more than I could have hoped for.
+											It was a long-held ambition of mine
+to bring down a statistics website
+											due to public demand.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This URL contains the words
+&quot;statistics,&quot; &quot;gov&quot; and &quot;UK,&quot;
+											which are three of people&#39;s least
+favorite words in a URL.
+											And the amazing thing about this
+was that the website came down
+											at quarter to 10 at night,
+											because people were actually
+engaging with this data
+											of their own free will,
+											using their own personal time.
+											I was very interested to see
+											that we got something like
+a quarter of a million people
+											playing the quiz within the space
+of 48 hours of launching it.
+											And it sparked an enormous discussion
+online, on social media,
+											which was largely dominated
+											by people having fun
+with their misconceptions,
+											which is something that
+I couldn&#39;t have hoped for any better,
+											in some respects.
+											I also liked the fact that people started
+sending it to politicians.
+											How well do you know the area
+you claim to represent?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And then just to finish,
+											going back to the two kinds of people,
+											I thought it would be
+really interesting to see
+											how people who are good with numbers
+would do on this quiz.
+											The national statistician
+of England and Wales, John Pullinger,
+											you would expect he would be pretty good.
+											He got 44 for his own area.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Laughter)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Jeremy Paxman — admittedly,
+after a glass of wine — 36.
+											Even worse.
+											It just shows you that the numbers
+can inspire us all.
+											They can surprise us all.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So very often, we talk about statistics
+											as being the science of uncertainty.
+											My parting thought for today is:
+											actually, statistics is the science of us.
+											And that&#39;s why we should
+be fascinated by numbers.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you very much.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":27292,"count":37,"talk_id":2674},"threadId":27292,"current_talk":"2674","description":"Think you're good at guessing stats? Guess again. Whether we consider ourselves math people or not, our ability to understand and work with numbers is terribly limited, says data visualization expert Alan Smith. In this delightful talk, Smith explores the mismatch between what we know and what we think we know.","event":"TEDxExeter","language":"en","name":"Alan Smith: Why you should love statistics","slug":"alan_smith_why_we_re_so_bad_at_statistics","speakers":[{"id":"3235","slug":"alan_smith","is_published":true,"firstname":"Alan","lastname":"Smith","middleinitial":"","title":"","description":"Data visualisation editor","photo_url":"https://pe.tedcdn.com/images/ted/7d5314cf4ace51d76ae52d6c8f9842348f20493c_254x191.jpg","whatotherssay":"","whotheyare":"Alan Smith uses interactive graphics and statistics to breathe new life into how data is presented.","whylisten":"<p>Alan Smith is Data Visualisation Editor at the Financial Times in London. Previously he was Head of Digital Content at the UK Office for National Statistics (ONS).</p><p>With a background in cartography and digital mapping, he has spent the last decade finding ways of bringing statistics to wider audiences. In 2010, he was an inaugural recipient of the Royal Statistical Society&#39;s Award for Excellence in Official Statistics. He was appointed Office of the Order of the British Empire (OBE) in the Queen&#39;s 2011 Birthday Honours list.</p>"}],"url":"https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics","viewed_count":1572714,"talks":[{"recommendations":{"status":"approved","headline":"Alan Smith recommends","blurb":"Check out more resources on numeracy, curated by Alan Smith.","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"recommendation","rec_lists":[{"title":"","description":"","rec_items":[{"label":"READ_Book","headline":"*Thinking, Fast and Slow*","blurb":"This is the book that set my thinking off to make the quiz detailed in my talk.","note":"Daniel Kahneman\r\nFarrar, Straus and Giroux, 2011","link_url":"https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20","position":null,"is_pdf":false,"eyebrow":null},{"label":"READ_Article","headline":"\"Perceptions are not reality: what the world gets wrong\"","blurb":"The annual global survey of perceptions and how they differ from reality, another inspiration and the source of some of the figures in the early part of my talk.","note":"Ipsos Perils of Perception Survey\r\nIpsos MORI, 2016","link_url":"https://www.ipsos-mori.com/researchpublications/researcharchive/3817/Perceptions-are-not-reality-what-the-world-gets-wrong.aspx","position":null,"is_pdf":false,"eyebrow":null},{"label":"EXPLORE","headline":"\"How well do you know your area?\"","blurb":"The 'know your area quiz' I created at the UK Office for National Statistics.","note":"","link_url":"http://www.neighbourhood.statistics.gov.uk/HTMLDocs/dvc147/index.html","position":null,"is_pdf":false,"eyebrow":null}]}]},"more_resources":[],"corrections":[],"has_citations":false,"take_action":[{"status":"approved","blurb":"**Find out** how well you know your local area. (England and Wales only.)","link_url":"http://www.neighbourhood.statistics.gov.uk/HTMLDocs/dvc147/index.html","visible_url":"neighbourhood.statistics.gov.uk","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"take_action","verb":"participate"}],"curator_approved":true,"description":"Think you're good at guessing stats? Guess again. Whether we consider ourselves math people or not, our ability to understand and work with numbers is terribly limited, says data visualization expert Alan Smith. In this delightful talk, Smith explores the mismatch between what we know and what we think we know.","downloads":{"id":2674,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Danish","endonym":"Dansk","languageCode":"da","ianaCode":"da","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Kazakh","endonym":"Қазақ тілі","languageCode":"kk","ianaCode":"kk","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Slovak","endonym":"Slovenčina","languageCode":"sk","ianaCode":"sk","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/AlanSmith_2016X-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/AlanSmith_2016X.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/AlanSmith_2016X-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"en":{"name":"English","low":"https://download.ted.com/talks/AlanSmith_2016X-low-en.mp4","high":"https://download.ted.com/talks/AlanSmith_2016X-480p-en.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/AlanSmith_2016X-low-pt.mp4","high":"https://download.ted.com/talks/AlanSmith_2016X-480p-pt.mp4"},"fr":{"name":"French","low":"https://download.ted.com/talks/AlanSmith_2016X-low-fr.mp4","high":"https://download.ted.com/talks/AlanSmith_2016X-480p-fr.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/AlanSmith_2016X-low-he.mp4","high":"https://download.ted.com/talks/AlanSmith_2016X-480p-he.mp4"},"sr":{"name":"Serbian","low":"https://download.ted.com/talks/AlanSmith_2016X-low-sr.mp4","high":"https://download.ted.com/talks/AlanSmith_2016X-480p-sr.mp4"},"da":{"name":"Danish","low":"https://download.ted.com/talks/AlanSmith_2016X-low-da.mp4","high":"https://download.ted.com/talks/AlanSmith_2016X-480p-da.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/AlanSmith_2016X-low-nl.mp4","high":"https://download.ted.com/talks/AlanSmith_2016X-480p-nl.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/AlanSmith_2016X-low-es.mp4","high":"https://download.ted.com/talks/AlanSmith_2016X-480p-es.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/AlanSmith_2016X-low-hu.mp4","high":"https://download.ted.com/talks/AlanSmith_2016X-480p-hu.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/AlanSmith_2016X-low-ja.mp4","high":"https://download.ted.com/talks/AlanSmith_2016X-480p-ja.mp4"},"kk":{"name":"Kazakh","low":"https://download.ted.com/talks/AlanSmith_2016X-low-kk.mp4","high":"https://download.ted.com/talks/AlanSmith_2016X-480p-kk.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/AlanSmith_2016X-low-el.mp4","high":"https://download.ted.com/talks/AlanSmith_2016X-480p-el.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/AlanSmith_2016X-low-zh-tw.mp4","high":"https://download.ted.com/talks/AlanSmith_2016X-480p-zh-tw.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/AlanSmith_2016X-low-it.mp4","high":"https://download.ted.com/talks/AlanSmith_2016X-480p-it.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/AlanSmith_2016X-low-pt-br.mp4","high":"https://download.ted.com/talks/AlanSmith_2016X-480p-pt-br.mp4"},"ko":{"name":"Korean","high":"https://download.ted.com/talks/AlanSmith_2016X-480p-ko.mp4","low":"https://download.ted.com/talks/AlanSmith_2016X-low-ko.mp4"},"sk":{"name":"Slovak","low":"https://download.ted.com/talks/AlanSmith_2016X-low-sk.mp4","high":"https://download.ted.com/talks/AlanSmith_2016X-480p-sk.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/AlanSmith_2016X-low-ru.mp4","high":"https://download.ted.com/talks/AlanSmith_2016X-480p-ru.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/AlanSmith_2016X-low-tr.mp4","high":"https://download.ted.com/talks/AlanSmith_2016X-480p-tr.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/AlanSmith_2016X-low-ar.mp4","high":"https://download.ted.com/talks/AlanSmith_2016X-480p-ar.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/AlanSmith_2016X-low-fa.mp4","high":"https://download.ted.com/talks/AlanSmith_2016X-480p-fa.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/AlanSmith_2016X-low-vi.mp4","high":"https://download.ted.com/talks/AlanSmith_2016X-480p-vi.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/AlanSmith_2016X-low-zh-cn.mp4","high":"https://download.ted.com/talks/AlanSmith_2016X-480p-zh-cn.mp4"}},"audioDownload":"https://download.ted.com/talks/AlanSmith_2016X.mp3?apikey=acme-roadrunner"},"duration":769.0,"event":"TEDxExeter","event_blurb":"This talk was presented to a local audience at TEDxExeter, an independent event. TED's editors chose to feature it for you.","event_badge":null,"hero":"https://s3.amazonaws.com/talkstar-photos/uploads/d2ecb6f0-3b72-4ad6-8861-ea94637d4f49/AlanSmith_2016X-embed.jpg","hero_load":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/d2ecb6f0-3b72-4ad6-8861-ea94637d4f49/AlanSmith_2016X-embed.jpg?q=50&w=15","id":"2674","player_talks":[{"id":"2674","duration":769.0,"languages":[{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Serbian","endonym":"Српски, Srpski","languageCode":"sr","ianaCode":"sr","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Danish","endonym":"Dansk","languageCode":"da","ianaCode":"da","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Kazakh","endonym":"Қазақ тілі","languageCode":"kk","ianaCode":"kk","isRtl":false},{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Slovak","endonym":"Slovenčina","languageCode":"sk","ianaCode":"sk","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2016X/Blank/AlanSmith_2016X-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTEDxExeter%26id%3D2674%26tag%3Dalgorithm%2Canimation%2Cdata%2Cinnovation%2Ccreativity%2Ceducation%2Csociety%2CTEDx%2Cintelligence%2Cvisualizations%2Cmath%2Cstatistics%26talk%3Dalan_smith_why_we_re_so_bad_at_statistics%26year%3D2016&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"2674","talk":"alan_smith_why_we_re_so_bad_at_statistics","tag":"algorithm,animation,data,innovation,creativity,education,society,TEDx,intelligence,visualizations,math,statistics","year":"2016","event":"TEDxExeter"},"stream":"https://hls.ted.com/talks/2674.m3u8","metadata":"https://hls.ted.com/talks/2674.json"}},"targeting":{"id":"2674","talk":"alan_smith_why_we_re_so_bad_at_statistics","tag":"algorithm,animation,data,innovation,creativity,education,society,TEDx,intelligence,visualizations,math,statistics","year":"2016","event":"TEDxExeter"},"canonical":"https://www.ted.com/talks/alan_smith_why_we_re_so_bad_at_statistics","name":"Alan Smith: Why you should love statistics","title":"Why you should love statistics","speaker":"Alan Smith","thumb":"https://pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/d2ecb6f0-3b72-4ad6-8861-ea94637d4f49/AlanSmith_2016X-embed.jpg?quality=89&w=600","slug":"alan_smith_why_we_re_so_bad_at_statistics","event":"TEDxExeter","published":1485877172}],"ratings":[{"id":8,"name":"Informative","count":386},{"id":7,"name":"Funny","count":127},{"id":9,"name":"Ingenious","count":105},{"id":10,"name":"Inspiring","count":121},{"id":23,"name":"Jaw-dropping","count":29},{"id":22,"name":"Fascinating","count":184},{"id":1,"name":"Beautiful","count":42},{"id":25,"name":"OK","count":35},{"id":24,"name":"Persuasive","count":114},{"id":11,"name":"Longwinded","count":5},{"id":21,"name":"Unconvincing","count":8},{"id":3,"name":"Courageous","count":16},{"id":2,"name":"Confusing","count":9},{"id":26,"name":"Obnoxious","count":3}],"recorded_at":"2016-04-15T00:00:00.000+00:00","related_talks":[{"id":"587","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/6bc6ea14-31c7-44ad-a246-db35843dd0fc/ArthurBenjamin_2009-embed.jpg","speaker":"Arthur Benjamin","title":"Teach statistics before calculus!","duration":178.0,"slug":"arthur_benjamin_s_formula_for_changing_math_education","viewed_count":2345623},{"id":"2591","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/ba7ac44f-4979-49a0-bcef-7c1fd3b08465/DannyDorling_2016X-embed.jpg","speaker":"Danny Dorling","title":"Maps that show us who we are (not just where we are)","duration":847.0,"slug":"danny_dorling_maps_that_show_us_who_we_are_not_just_where_we_are","viewed_count":1513833},{"id":"2153","hero":"https://pe.tedcdn.com/images/ted/eddcaad25cf331e34d366d9ae3edaaaf3989a275_2880x1620.jpg","speaker":"Hannah Fry","title":"The mathematics of love","duration":1022.0,"slug":"hannah_fry_the_mathematics_of_love","viewed_count":4590030},{"id":"2718","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/d60e9b5b-ac9c-4da6-8865-8cf1eb8a13e5/MonaChalabi_2017S-embed.jpg","speaker":"Mona Chalabi","title":"3 ways to spot a bad statistic","duration":705.0,"slug":"mona_chalabi_3_ways_to_spot_a_bad_statistic","viewed_count":1624191},{"id":"1593","hero":"https://pe.tedcdn.com/images/ted/7faea0c3ae1fc45d95ec5cfbe0838e85e43fa1a2_1600x1200.jpg","speaker":"Pankaj Ghemawat","title":"Actually, the world isn't flat","duration":1023.0,"slug":"pankaj_ghemawat_actually_the_world_isn_t_flat","viewed_count":854138},{"id":"9986","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/d24f4348-a4d2-425d-a645-b4045cd7580b/MohamedJebara_2017S-embed.jpg","speaker":"Mohamad Jebara","title":"This company pays kids to do their math homework","duration":821.0,"slug":"mohamad_jebara_this_company_pays_kids_to_do_their_math_homework","viewed_count":962989}],"slug":"alan_smith_why_we_re_so_bad_at_statistics","speakers":[{"id":"3235","slug":"alan_smith","is_published":true,"firstname":"Alan","lastname":"Smith","middleinitial":"","title":"","description":"Data visualisation editor","photo_url":"https://pe.tedcdn.com/images/ted/7d5314cf4ace51d76ae52d6c8f9842348f20493c_254x191.jpg","whatotherssay":"","whotheyare":"Alan Smith uses interactive graphics and statistics to breathe new life into how data is presented.","whylisten":"<p>Alan Smith is Data Visualisation Editor at the Financial Times in London. Previously he was Head of Digital Content at the UK Office for National Statistics (ONS).</p><p>With a background in cartography and digital mapping, he has spent the last decade finding ways of bringing statistics to wider audiences. In 2010, he was an inaugural recipient of the Royal Statistical Society&#39;s Award for Excellence in Official Statistics. He was appointed Office of the Order of the British Empire (OBE) in the Queen&#39;s 2011 Birthday Honours list.</p>"}],"speaker_name":"Alan Smith","tags":["algorithm","animation","data","innovation","creativity","education","society","TEDx","intelligence","visualizations","math","statistics"],"title":"Why you should love statistics","video_type":{"id":"2","name":"TEDx Talk"},"viewed_count":1572714}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>

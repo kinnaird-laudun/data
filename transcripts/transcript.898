@@ -1,0 +1,1424 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Ed Boyden: A light switch for neurons | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Ed Boyden shows how, by inserting genes for light-sensitive proteins into brain cells, he can selectively activate or de-activate specific neurons with fiber-optic implants. With this unprecedented level of control, he&#39;s managed to cure mice of analogs of PTSD and certain forms of blindness. On the horizon: neural prosthetics. Session host Juan Enriquez leads a brief post-talk Q&amp;amp;A." />
+<meta name="author" content="Ed Boyden" />
+<link rel="canonical" href="https://www.ted.com/talks/ed_boyden/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/ed_boyden/transcript" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/ed_boyden/transcript?language=el" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/ed_boyden/transcript?language=en" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/ed_boyden/transcript?language=vi" />
+<link rel="alternate" hreflang="ca" href="https://www.ted.com/talks/ed_boyden/transcript?language=ca" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/ed_boyden/transcript?language=it" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/ed_boyden/transcript?language=ar" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/ed_boyden/transcript?language=pt-br" />
+<link rel="alternate" hreflang="cs" href="https://www.ted.com/talks/ed_boyden/transcript?language=cs" />
+<link rel="alternate" hreflang="id" href="https://www.ted.com/talks/ed_boyden/transcript?language=id" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/ed_boyden/transcript?language=es" />
+<link rel="alternate" hreflang="ru" href="https://www.ted.com/talks/ed_boyden/transcript?language=ru" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/ed_boyden/transcript?language=nl" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/ed_boyden/transcript?language=pt" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/ed_boyden/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="tr" href="https://www.ted.com/talks/ed_boyden/transcript?language=tr" />
+<link rel="alternate" hreflang="lv" href="https://www.ted.com/talks/ed_boyden/transcript?language=lv" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/ed_boyden/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="lt" href="https://www.ted.com/talks/ed_boyden/transcript?language=lt" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/ed_boyden/transcript?language=ro" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/ed_boyden/transcript?language=pl" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/ed_boyden/transcript?language=fr" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/ed_boyden/transcript?language=bg" />
+<link rel="alternate" hreflang="hr" href="https://www.ted.com/talks/ed_boyden/transcript?language=hr" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/ed_boyden/transcript?language=de" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/ed_boyden/transcript?language=hu" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/ed_boyden/transcript?language=fa" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/ed_boyden/transcript?language=ja" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/ed_boyden/transcript?language=he" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/ed_boyden/transcript?language=ko" />
+<link rel="alternate" hreflang="sh" href="https://www.ted.com/talks/ed_boyden/transcript?language=sh" />
+<link rel="alternate" hreflang="sv" href="https://www.ted.com/talks/ed_boyden/transcript?language=sv" />
+<link rel="alternate" hreflang="gl" href="https://www.ted.com/talks/ed_boyden/transcript?language=gl" />
+<meta property="og:title" content="Transcript of &quot;A light switch for neurons&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/29fe2e14406be124c2d750736328ef617a156e10_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/29fe2e14406be124c2d750736328ef617a156e10_800x600.jpg?c=1050%2C550&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Ed Boyden: A light switch for neurons" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Ed Boyden shows how, by inserting genes for light-sensitive proteins into brain cells, he can selectively activate or de-activate specific neurons with fiber-optic implants. With this unprecedented level of control, he&#39;s managed to cure mice of analogs of PTSD and certain forms of blindness. On the horizon: neural prosthetics. Session host Juan Enriquez leads a brief post-talk Q&amp;amp;A." />
+<meta property="og:url" content="https://www.ted.com/talks/ed_boyden/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[2];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; (_ted_user_id|_explr_uid)=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1528912832,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18","videoType":"dimension19","listHasProgress":"dimension20","exploreState":"dimension21"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.feedback_2 = "b";
+  TED.abby.tests.acme_reslugged = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1528912832">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1528912832">
+<script>
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?7b9c1c5038a535798f1dbfd7c6616542","screens/tedx":"screens/tedx.js?3fdedafadc05bc79f2c9f49ee1c3d292","screens/dashboard_attendees":"screens/dashboard_attendees.js?8b4e4237c6d736ae5539c79c32c8ace8","screens/pages":"screens/pages.js?169dd80d67ccf46ca1787ff907a7bfdc","screens/series":"screens/series.js?9dbd03dda72de4f166020605011b0a42","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/dashboard_events":"screens/dashboard_events.js?2d2a38ec5c5c947ed6d013ea3420f81e","screens/comments":"screens/comments.js?594a9dae92cc8d76b119239df942bc83","screens/swatch":"screens/swatch.js?03a99c03e43ef0d8210ced721a41ccc6","screens/search":"screens/search.js?b3abe3af577347c05425c693d7e8e6cb","screens/profiles":"screens/profiles.js?3b3b453f30b8aa79853c728352c7c0b0","screens/newsletter":"screens/newsletter.js?ef1357c902cbcf1c85b558d8aa6bcbbf","screens/india":"screens/india.js?cba78340c5726c7fd9ef5863235f9e1c","screens/topics":"screens/topics.js?e1160f4dd341dc29a23135a0bd284ca4","screens/home":"screens/home.js?de42a3df247f81e0756b3567a0af9fb3","screens/stbi":"screens/stbi.js?d1ec699fcbba3b701bc13574e3c28e62","screens/global":"screens/global.js?0db920209c2feb88926800db67313db1","screens/dashboard_hotels":"screens/dashboard_hotels.js?c233caeabd7a30dcdd419c48a95b050b","screens/dashboard":"screens/dashboard.js?040ee927ed9f4f8ee0d2d68bfb2a4ce7","screens/recommends":"screens/recommends.js?f04d812d1e01b054eaa394559c1205a3","screens/talk":"screens/talk.js?215b21f6f79a333a9d4b536abff1e8a9","screens/surprise_me":"screens/surprise_me.js?cac0e21fd447f9de6ebea968b8a56804","screens/talks":"screens/talks.js?c42037b3b798885b5396a96e21c3bea8","screens/embed":"screens/embed.js?69e7e58c1034d5163da0351f6f174e3d","screens/settings":"screens/settings.js?ef0b6229363ec03d864569a1c11406a5","screens/series-india":"screens/series-india.js?73e4a58795a5d676fcb810461854ce07","screens/dashboard_sessions":"screens/dashboard_sessions.js?0e17d784bf5d634d3b7ea35654ed3916","dq":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jquery":"libs.js?b7e3211ac56cb782d33811d62f3a383a","jqueryujs":"libs.js?b7e3211ac56cb782d33811d62f3a383a","lodash":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react":"libs.js?b7e3211ac56cb782d33811d62f3a383a","prop-types":"libs.js?b7e3211ac56cb782d33811d62f3a383a","react-dom":"libs.js?b7e3211ac56cb782d33811d62f3a383a","Backbone":"libs.js?b7e3211ac56cb782d33811d62f3a383a","hbs/handlebars":"libs.js?b7e3211ac56cb782d33811d62f3a383a"}};
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1528912832" data-main="screens/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup='true' class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/series' href='/series'>
+<div class='f-w:700 m-b:.1'>TED Series</div>
+<div class='c:gray'>Go deeper into fascinating topics with original video series from TED.</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-prize' href='/participate/ted-prize'>
+<div class='f-w:700 m-b:.1'>TED Prize</div>
+<div class='c:gray'>Get involved in the yearly prize for world-changing ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/ted-fellows-program' href='/participate/ted-fellows-program'>
+<div class='f-w:700 m-b:.1'>TED Fellows</div>
+<div class='c:gray'>Join or support innovators from around the globe</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='about' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>About</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/our-organization' href='/about/our-organization'>
+<div class='f-w:700 m-b:.1'>Our organization</div>
+<div class='c:gray'>Our mission, history, team, and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/conferences' href='/about/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>TED Conferences, past, present, and future</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/programs-initiatives' href='/about/programs-initiatives'>
+<div class='f-w:700 m-b:.1'>Programs &amp; Initiatives</div>
+<div class='c:gray'>Details about TED's world-changing initiatives</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='/about/partner-with-ted' href='/about/partner-with-ted'>
+<div class='f-w:700 m-b:.1'>Partner with TED</div>
+<div class='c:gray'>Learn how you can partner with us</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='about' data-ga-category='navigation.item' data-ga-label='http://blog.ted.com' href='http://blog.ted.com'>
+<div class='f-w:700 m-b:.1'>TED Blog</div>
+<div class='c:gray'>Updates from TED and highlights from our global community</div>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class='Main-nav__divider nav__divider fl:l show-lg'></div>
+<div class='loggedin-only fl:l pos:r z-i:10' data-popper-name='account' data-popper-root><a class='Main-nav__item Main-nav__account-button' data-popper-target href='/dashboard' id='main-nav-account-button' onclick='return false' role='button' title='Your account'>
+<div class='Main-nav__account-button__avatar'>
+<div class='Main-nav__account-button__badge'></div>
+</div>
+</a>
+<div aria-hidden class='Main-nav/Popper__popup Main-nav__category__list Main-nav__category__list--account popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top' id='main-nav-account-menu' role='menu'></div></div>
+<a class='Main-nav__item Main-nav__label auth-login f-w:700 fl:l loggedout-only t-t:u undec' href='/session/new'>Log in</a>
+<div class='Main-nav__divider fl:l show-lg'></div>
+<div class='fl:l show-lg'>
+<a class='Main-nav__item' href='/search' id='main-nav-search' role='button'>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0 0 512 512" class="Main-nav__icon Main-nav__icon--search"><title>Search</title><path d="M221.414 12.31C105.96 12.31 12 106.164 12 221.475c0 115.34 93.96 209.202 209.452 209.202 41.684 0 80.52-12.4 113.205-33.512l89.652 89.576c17.304 17.267 45.413 17.267 62.697 0 17.342-17.322 17.304-45.374 0-62.677l-89.634-89.5c21.13-32.646 33.512-71.406 33.512-113.09-.02-115.31-93.92-209.163-209.47-209.163zm167.5 209.165c0 92.267-75.136 167.27-167.462 167.27-92.344 0-167.462-75.04-167.462-167.27 0-92.22 75.118-167.25 167.462-167.193 92.326 0 167.424 74.973 167.463 167.193z"/></svg>
+</a>
+</div>
+</div>
+<form action='/search' aria-hidden='true' class='Main-nav__search pos:a right:0' id='main-nav-search-form' role='search'>
+<div class='Main-nav__search__content left:0 pos:a'>
+<div class='Main-nav__divider fl:l'></div>
+<label>
+<span class='screen-reader-text'>
+Search:
+</span>
+<input aria-label='Search' autocorrect='off' class='Main-nav__fs-6 Main-nav__search__input' name='q' placeholder='Type to search' tabindex='-1' title='Press Enter to begin search'>
+</label>
+<a aria-label='Close' class='Main-nav__search__close fl:r' href='#' role='button' tabindex='-1'>
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 30, 30" class="Main-nav__icon"><title>Cancel search</title><path d="M24.5 6.718L6.936 24.282 24.5 6.718zm-18 0l17.564 17.564L6.5 6.718z" stroke="#414141" stroke-width="2" stroke-linecap="square" fill="none"/></svg>
+</a>
+</div>
+</form>
+</nav>
+<div id='main-nav-slideouts'></div>
+<script>g("mainNav.init",{"menuItems":[{"label":"Watch","name":"watch","items":[{"url":"/talks","label":"TED Talks","info":"Browse the library of TED talks and speakers"},{"url":"/playlists","label":"Playlists","info":"100+ collections of TED Talks, for curious minds"},{"url":"/series","label":"TED Series","info":"Go deeper into fascinating topics with original video series from TED."},{"url":"/watch/ted-ed","label":"TED-Ed videos","info":"Watch, share and create lessons with TED-Ed"},{"url":"/watch/tedx-talks","label":"TEDx Talks","info":"Talks from independently organized local events"},{"url":"/surpriseme","label":"Surprise Me","info":"The easy option. Let us choose for you!"}]},{"label":"Discover","name":"discover","items":[{"url":"/topics","label":"Topics","info":"Explore TED offerings by topic"},{"url":"/read/ted-books","drilldown":true,"label":"TED Books","info":"Short books to feed your craving for ideas"},{"url":"http://ideas.ted.com","label":"Ideas Blog","info":"Our daily coverage of the world of ideas","external":true},{"url":"/newsletter","label":"Newsletter","info":"Inspiration delivered straight to your inbox"}]},{"label":"Attend","name":"attend","items":[{"url":"/attend/conferences","drilldown":true,"label":"Conferences","info":"Take part in our events: TED, TEDGlobal and more"},{"url":"/tedx/events","label":"TEDx events","info":"Find and attend local, independently organized events"},{"url":"/attend/ted-on-screen","label":"TED on screen","info":"Experience TED from home or in theaters"}]},{"label":"Participate","name":"participate","items":[{"url":"/participate/nominate","label":"Nominate","info":"Recommend speakers, TED Prize recipients, Fellows and more"},{"url":"/participate/organize-a-local-tedx-event","drilldown":true,"label":"Organize a local TEDx event","info":"Rules and resources to help you plan a local TEDx event"},{"url":"/participate/translate","drilldown":true,"label":"Translate","info":"Bring TED to the non-English speaking world"},{"url":"/participate/ted-prize","drilldown":true,"label":"TED Prize","info":"Get involved in the yearly prize for world-changing ideas"},{"url":"/participate/ted-fellows-program","label":"TED Fellows","info":"Join or support innovators from around the globe"}]},{"label":"About","name":"about","items":[{"url":"/about/our-organization","drilldown":true,"label":"Our organization","info":"Our mission, history, team, and more"},{"url":"/about/conferences","drilldown":true,"label":"Conferences","info":"TED Conferences, past, present, and future"},{"url":"/about/programs-initiatives","label":"Programs & Initiatives","info":"Details about TED's world-changing initiatives"},{"url":"/about/partner-with-ted","drilldown":true,"label":"Partner with TED","info":"Learn how you can partner with us"},{"url":"http://blog.ted.com","label":"TED Blog","info":"Updates from TED and highlights from our global community","external":true}]}]})</script><div class='main talks-main' role='main'>
+<script>
+		__ga('set', 'dimension2', 1146);
+	</script>
+
+	<div
+		itemscope
+		itemtype="http://schema.org/VideoObject"
+	>
+		<link href='https://www.ted.com/talks/ed_boyden' itemprop='url'>
+<meta content='A light switch for neurons' itemprop='name'>
+<meta content="Ed Boyden shows how, by inserting genes for light-sensitive proteins into brain cells, he can selectively activate or de-activate specific neurons with fiber-optic implants. With this unprecedented level of control, he's managed to cure mice of analogs of PTSD and certain forms of blindness. On the horizon: neural prosthetics. Session host Juan Enriquez leads a brief post-talk Q&amp;A." itemprop='description'>
+<meta content='PT18M24S' itemprop='duration'>
+<meta content='2011-05-15T12:24:00+00:00' itemprop='uploadDate'>
+<meta content='972328' itemprop='interactionCount'>
+<link content='https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/29fe2e14406be124c2d750736328ef617a156e10_800x600.jpg?quality=95&amp;w=480' itemprop='thumbnailUrl'>
+<span itemprop='author' itemscope itemtype='http://schema.org/Person'>
+<link href='/speakers/ed_boyden' itemprop='url'>
+<meta content='Ed Boyden' itemprop='name'>
+<link href='https://pe.tedcdn.com/images/ted/fd2c79e1b1a6aa4e9f59f1b4bbb704969bb7e06e_254x191.jpg' itemprop='image'>
+</span>
+<link href='https://embed.ted.com/talks/ed_boyden' itemprop='embedURL'>
+<meta content='Flash HTML5' itemprop='playerType'>
+<meta content='640' itemprop='width'>
+<meta content='360' itemprop='height'>
+<link href='https://creativecommons.org/licenses/by-nc-nd/4.0/' itemprop='license'>
+
+
+		<div data-talk-page>
+			<div class="bg:gray-ll">
+	<div class="m-x:a pos:r p-t:5@xxl" style="max-width:106.25rem">
+		<div class="Grid">
+
+			<!-- Main column -->
+			<div class="Grid__cell bg:white w:2of3@md">
+
+				<!-- Video placeholder -->
+				<div
+	class="
+		bg:black
+		w:full
+		pos:r
+	"
+	style="
+		padding-bottom:56.25%;
+		background-image: url(https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/29fe2e14406be124c2d750736328ef617a156e10_800x600.jpg?q=50&amp;w=15);
+		background-size: cover;
+		background-repeat: no-repeat;
+	"
+	>
+	<div
+		class="pos:a Spinner"
+		style="
+			top:50%;
+			left:50%;
+			margin-top:-50px;
+			margin-left:-50px;
+			width:100px;
+			height:100px;
+		"></div>
+	<!-- Talk meta -->
+	<div
+		class="
+			pos:a
+			bottom:6
+		"
+	>
+		<div class="p:1 p-x:4 t-a:l">
+			<div
+				class="
+					d:n
+					f:.8
+					f:1@md
+					m-b:.5
+					t-t:u
+					c:white
+				"
+			>
+				Ed Boyden
+			</div>
+			<div
+				class="
+					d:n
+					f-w:700
+					f:.9
+					f:1@xxl
+					c:white
+				"
+			>
+				<span>
+					972,328
+					<span className="f-w:400"> views</span>
+				</span>
+				<span> • 18:24</span>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+				<!-- Tab placeholder -->
+				<div class="c:black d:f o-x:s o-y:h p-t:.5 p-x:2 sl b-b:1 b-c:gray-l c:gray p-l:0@lg">
+					<div class="pos:r t-d:n c:current t-a:l m-l:2 m-r:1 d:b hover/b-b:red hover/b-b-s:3" style="white-space: nowrap; top: 1px;">
+						<div class="p-t:.5 cur:p p-b:.4 d:b f-w:700" style="visibility:hidden">
+							<span class="c:black">Details</span>
+							<span class=" d:b f-w:400 f:.9 ">About the talk</span>
+						</div>
+					</div>
+				</div>
+
+				<!-- Text container -->
+				<div class="p:2 p-t:4@md">
+					<div class="m-b:7 p-l:.5">
+
+						<!-- Language selection placeholder -->
+						<div class="a-i:c d:f@md m-b:2 m-b:5@md m-t:.5">
+							<div class="pos:r w:1of3@md w:2of5@md">
+								<select class="Form-input b b-c:gray-l b-r:.1 bg:white c:black p:1 w:full" style="visibility: hidden"></select>
+							</div>
+						</div><!-- /Language selection placeholder -->
+
+						<!-- Transcript text -->
+							<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Think about your day for a second.
+											You woke up, felt fresh air on your face as you walked out the door,
+											encountered new colleagues and had great discussions,
+											and felt in awe when you found something new.
+											But I bet there&#39;s something you didn&#39;t think about today —
+											something so close to home
+											that you probably don&#39;t think about it very often at all.
+											And that&#39;s that all the sensations, feelings,
+											decisions and actions
+											are mediated by the computer in your head
+											called the brain.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now the brain may not look like much from the outside —
+											a couple pounds of pinkish-gray flesh,
+											amorphous —
+											but the last hundred years of neuroscience
+											have allowed us to zoom in on the brain,
+											and to see the intricacy of what lies within.
+											And they&#39;ve told us that this brain
+											is an incredibly complicated circuit
+											made out of hundreds of billions of cells called neurons.
+											Now unlike a human-designed computer,
+											where there&#39;s a fairly small number of different parts —
+											we know how they work, because we humans designed them —
+											the brain is made out of thousands of different kinds of cells,
+											maybe tens of thousands.
+											They come in different shapes; they&#39;re made out of different molecules.
+											And they project and connect to different brain regions,
+											and they also change different ways in different disease states.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Let&#39;s make it concrete.
+											There&#39;s a class of cells,
+											a fairly small cell, an inhibitory cell, that quiets its neighbors.
+											It&#39;s one of the cells that seems to be atrophied in disorders like schizophrenia.
+											It&#39;s called the basket cell.
+											And this cell is one of the thousands of kinds of cell
+											that we are learning about.
+											New ones are being discovered everyday.
+											As just a second example:
+											these pyramidal cells, large cells,
+											they can span a significant fraction of the brain.
+											They&#39;re excitatory.
+											And these are some of the cells
+											that might be overactive in disorders such as epilepsy.
+											Every one of these cells
+											is an incredible electrical device.
+											They receive input from thousands of upstream partners
+											and compute their own electrical outputs,
+											which then, if they pass a certain threshold,
+											will go to thousands of downstream partners.
+											And this process, which takes just a millisecond or so,
+											happens thousands of times a minute
+											in every one of your 100 billion cells,
+											as long as you live
+											and think and feel.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So how are we going to figure out what this circuit does?
+											Ideally, we could go through the circuit
+											and turn these different kinds of cell on and off
+											and see whether we could figure out
+											which ones contribute to certain functions
+											and which ones go wrong in certain pathologies.
+											If we could activate cells, we could see what powers they can unleash,
+											what they can initiate and sustain.
+											If we could turn them off,
+											then we could try and figure out what they&#39;re necessary for.
+											And that&#39;s a story I&#39;m going to tell you about today.
+											And honestly, where we&#39;ve gone through over the last 11 years,
+											through an attempt to find ways
+											of turning circuits and cells and parts and pathways of the brain
+											on and off,
+											both to understand the science
+											and also to confront some of the issues
+											that face us all as humans.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now before I tell you about the technology,
+											the bad news is that a significant fraction of us in this room,
+											if we live long enough,
+											will encounter, perhaps, a brain disorder.
+											Already, a billion people
+											have had some kind of brain disorder
+											that incapacitates them,
+											and the numbers don&#39;t do it justice though.
+											These disorders — schizophrenia, Alzheimer&#39;s,
+											depression, addiction —
+											they not only steal our time to live, they change who we are.
+											They take our identity and change our emotions
+											and change who we are as people.
+											Now in the 20th century,
+											there was some hope that was generated
+											through the development of pharmaceuticals for treating brain disorders,
+											and while many drugs have been developed
+											that can alleviate symptoms of brain disorders,
+											practically none of them can be considered to be cured.
+											And part of that&#39;s because we&#39;re bathing the brain in the chemical.
+											This elaborate circuit
+											made out of thousands of different kinds of cell
+											is being bathed in a substance.
+											That&#39;s also why, perhaps, most of the drugs, and not all, on the market
+											can present some kind of serious side effect too.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now some people have gotten some solace
+											from electrical stimulators that are implanted in the brain.
+											And for Parkinson&#39;s disease,
+											Cochlear implants,
+											these have indeed been able
+											to bring some kind of remedy
+											to people with certain kinds of disorder.
+											But electricity also will go in all directions —
+											the path of least resistance,
+											which is where that phrase, in part, comes from.
+											And it also will affect normal circuits as well as the abnormal ones that you want to fix.
+											So again, we&#39;re sent back to the idea
+											of ultra-precise control.
+											Could we dial-in information precisely where we want it to go?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So when I started in neuroscience 11 years ago,
+											I had trained as an electrical engineer and a physicist,
+											and the first thing I thought about was,
+											if these neurons are electrical devices,
+											all we need to do is to find some way
+											of driving those electrical changes at a distance.
+											If we could turn on the electricity in one cell,
+											but not its neighbors,
+											that would give us the tool we need to activate and shut down these different cells,
+											figure out what they do and how they contribute
+											to the networks in which they&#39;re embedded.
+											And also it would allow us to have the ultra-precise control we need
+											in order to fix the circuit computations
+											that have gone awry.
+											Now how are we going to do that?
+											Well there are many molecules that exist in nature,
+											which are able to convert light into electricity.
+											You can think of them as little proteins
+											that are like solar cells.
+											If we can install these molecules in neurons somehow,
+											then these neurons would become electrically drivable with light.
+											And their neighbors, which don&#39;t have the molecule, would not.
+											There&#39;s one other magic trick you need to make this all happen,
+											and that&#39;s the ability to get light into the brain.
+											And to do that — the brain doesn&#39;t feel pain — you can put —
+											taking advantage of all the effort
+											that&#39;s gone into the Internet and communications and so on —
+											optical fibers connected to lasers
+											that you can use to activate, in animal models for example,
+											in pre-clinical studies,
+											these neurons and to see what they do.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So how do we do this?
+											Around 2004,
+											in collaboration with Gerhard Nagel and Karl Deisseroth,
+											this vision came to fruition.
+											There&#39;s a certain alga that swims in the wild,
+											and it needs to navigate towards light
+											in order to photosynthesize optimally.
+											And it senses light with a little eye-spot,
+											which works not unlike how our eye works.
+											In its membrane, or its boundary,
+											it contains little proteins
+											that indeed can convert light into electricity.
+											So these molecules are called channelrhodopsins.
+											And each of these proteins acts just like that solar cell that I told you about.
+											When blue light hits it, it opens up a little hole
+											and allows charged particles to enter the eye-spot,
+											and that allows this eye-spot to have an electrical signal
+											just like a solar cell charging up a battery.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So what we need to do is to take these molecules
+											and somehow install them in neurons.
+											And because it&#39;s a protein,
+											it&#39;s encoded for in the DNA of this organism.
+											So all we&#39;ve got to do is take that DNA,
+											put it into a gene therapy vector, like a virus,
+											and put it into neurons.
+											So it turned out that this was a very productive time in gene therapy,
+											and lots of viruses were coming along.
+											So this turned out to be very simple to do.
+											And early in the morning one day in the summer of 2004,
+											we gave it a try, and it worked on the first try.
+											You take this DNA and you put it into a neuron.
+											The neuron uses its natural protein-making machinery
+											to fabricate these little light-sensitive proteins
+											and install them all over the cell,
+											like putting solar panels on a roof,
+											and the next thing you know,
+											you have a neuron which can be activated with light.
+											So this is very powerful.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											One of the tricks you have to do
+											is to figure out how to deliver these genes to the cells that you want
+											and not all the other neighbors.
+											And you can do that; you can tweak the viruses
+											so they hit just some cells and not others.
+											And there&#39;s other genetic tricks you can play
+											in order to get light-activated cells.
+											This field has now come to be known as optogenetics.
+											And just as one example of the kind of thing you can do,
+											you can take a complex network,
+											use one of these viruses to deliver the gene
+											just to one kind of cell in this dense network.
+											And then when you shine light on the entire network,
+											just that cell type will be activated.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So for example, lets sort of consider that basket cell I told you about earlier —
+											the one that&#39;s atrophied in schizophrenia
+											and the one that is inhibitory.
+											If we can deliver that gene to these cells —
+											and they&#39;re not going to be altered by the expression of the gene, of course —
+											and then flash blue light over the entire brain network,
+											just these cells are going to be driven.
+											And when the light turns off, these cells go back to normal,
+											so they don&#39;t seem to be averse against that.
+											Not only can you use this to study what these cells do,
+											what their power is in computing in the brain,
+											but you can also use this to try to figure out —
+											well maybe we could jazz up the activity of these cells,
+											if indeed they&#39;re atrophied.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now I want to tell you a couple of short stories
+											about how we&#39;re using this,
+											both at the scientific, clinical and pre-clinical levels.
+											One of the questions we&#39;ve confronted
+											is, what are the signals in the brain that mediate the sensation of reward?
+											Because if you could find those,
+											those would be some of the signals that could drive learning.
+											The brain will do more of whatever got that reward.
+											And also these are signals that go awry in disorders such as addiction.
+											So if we could figure out what cells they are,
+											we could maybe find new targets
+											for which drugs could be designed or screened against,
+											or maybe places where electrodes could be put in
+											for people who have very severe disability.
+											So to do that, we came up with a very simple paradigm
+											in collaboration with the Fiorella group,
+											where one side of this little box,
+											if the animal goes there, the animal gets a pulse of light
+											in order to make different cells in the brain sensitive to light.
+											So if these cells can mediate reward,
+											the animal should go there more and more.
+											And so that&#39;s what happens.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											This animal&#39;s going to go to the right-hand side and poke his nose there,
+											and he gets a flash of blue light every time he does that.
+											And he&#39;ll do that hundreds and hundreds of times.
+											These are the dopamine neurons,
+											which some of you may have heard about, in some of the pleasure centers in the brain.
+											Now we&#39;ve shown that a brief activation of these
+											is enough, indeed, to drive learning.
+											Now we can generalize the idea.
+											Instead of one point in the brain,
+											we can devise devices that span the brain,
+											that can deliver light into three-dimensional patterns —
+											arrays of optical fibers,
+											each coupled to its own independent miniature light source.
+											And then we can try to do things in vivo
+											that have only been done to-date in a dish —
+											like high-throughput screening throughout the entire brain
+											for the signals that can cause certain things to happen.
+											Or that could be good clinical targets
+											for treating brain disorders.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And one story I want to tell you about
+											is how can we find targets for treating post-traumatic stress disorder —
+											a form of uncontrolled anxiety and fear.
+											And one of the things that we did
+											was to adopt a very classical model of fear.
+											This goes back to the Pavlovian days.
+											It&#39;s called Pavlovian fear conditioning —
+											where a tone ends with a brief shock.
+											The shock isn&#39;t painful, but it&#39;s a little annoying.
+											And over time — in this case, a mouse,
+											which is a good animal model, commonly used in such experiments —
+											the animal learns to fear the tone.
+											The animal will react by freezing,
+											sort of like a deer in the headlights.
+											Now the question is, what targets in the brain can we find
+											that allow us to overcome this fear?
+											So what we do is we play that tone again
+											after it&#39;s been associated with fear.
+											But we activate targets in the brain, different ones,
+											using that optical fiber array I told you about in the previous slide,
+											in order to try and figure out which targets
+											can cause the brain to overcome that memory of fear.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											And so this brief video
+											shows you one of these targets that we&#39;re working on now.
+											This is an area in the prefrontal cortex,
+											a region where we can use cognition to try to overcome aversive emotional states.
+											And the animal&#39;s going to hear a tone — and a flash of light occurred there.
+											There&#39;s no audio on this, but you can see the animal&#39;s freezing.
+											This tone used to mean bad news.
+											And there&#39;s a little clock in the lower left-hand corner,
+											so you can see the animal is about two minutes into this.
+											And now this next clip
+											is just eight minutes later.
+											And the same tone is going to play, and the light is going to flash again.
+											Okay, there it goes. Right now.
+											And now you can see, just 10 minutes into the experiment,
+											that we&#39;ve equipped the brain by photoactivating this area
+											to overcome the expression
+											of this fear memory.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now over the last couple of years, we&#39;ve gone back to the tree of life
+											because we wanted to find ways to turn circuits in the brain off.
+											If we could do that, this could be extremely powerful.
+											If you can delete cells just for a few milliseconds or seconds,
+											you can figure out what necessary role they play
+											in the circuits in which they&#39;re embedded.
+											And we&#39;ve now surveyed organisms from all over the tree of life —
+											every kingdom of life except for animals, we see slightly differently.
+											And we found all sorts of molecules, they&#39;re called halorhodopsins or archaerhodopsins,
+											that respond to green and yellow light.
+											And they do the opposite thing of the molecule I told you about before
+											with the blue light activator channelrhodopsin.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Let&#39;s give an example of where we think this is going to go.
+											Consider, for example, a condition like epilepsy,
+											where the brain is overactive.
+											Now if drugs fail in epileptic treatment,
+											one of the strategies is to remove part of the brain.
+											But that&#39;s obviously irreversible, and there could be side effects.
+											What if we could just turn off that brain for a brief amount of time,
+											until the seizure dies away,
+											and cause the brain to be restored to its initial state —
+											sort of like a dynamical system that&#39;s being coaxed down into a stable state.
+											So this animation just tries to explain this concept
+											where we made these cells sensitive to being turned off with light,
+											and we beam light in,
+											and just for the time it takes to shut down a seizure,
+											we&#39;re hoping to be able to turn it off.
+											And so we don&#39;t have data to show you on this front,
+											but we&#39;re very excited about this.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Now I want to close on one story,
+											which we think is another possibility —
+											which is that maybe these molecules, if you can do ultra-precise control,
+											can be used in the brain itself
+											to make a new kind of prosthetic, an optical prosthetic.
+											I already told you that electrical stimulators are not uncommon.
+											Seventy-five thousand people have Parkinson&#39;s deep-brain stimulators implanted.
+											Maybe 100,000 people have Cochlear implants,
+											which allow them to hear.
+											There&#39;s another thing, which is you&#39;ve got to get these genes into cells.
+											And new hope in gene therapy has been developed
+											because viruses like the adeno-associated virus,
+											which probably most of us around this room have,
+											and it doesn&#39;t have any symptoms,
+											which have been used in hundreds of patients
+											to deliver genes into the brain or the body.
+											And so far, there have not been serious adverse events
+											associated with the virus.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											There&#39;s one last elephant in the room, the proteins themselves,
+											which come from algae and bacteria and fungi,
+											and all over the tree of life.
+											Most of us don&#39;t have fungi or algae in our brains,
+											so what is our brain going to do if we put that in?
+											Are the cells going to tolerate it? Will the immune system react?
+											In its early days — these have not been done on humans yet —
+											but we&#39;re working on a variety of studies
+											to try and examine this,
+											and so far we haven&#39;t seen overt reactions of any severity
+											to these molecules
+											or to the illumination of the brain with light.
+											So it&#39;s early days, to be upfront, but we&#39;re excited about it.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											I wanted to close with one story,
+											which we think could potentially
+											be a clinical application.
+											Now there are many forms of blindness
+											where the photoreceptors,
+											our light sensors that are in the back of our eye, are gone.
+											And the retina, of course, is a complex structure.
+											Now let&#39;s zoom in on it here, so we can see it in more detail.
+											The photoreceptor cells are shown here at the top,
+											and then the signals that are detected by the photoreceptors
+											are transformed by various computations
+											until finally that layer of cells at the bottom, the ganglion cells,
+											relay the information to the brain,
+											where we see that as perception.
+											In many forms of blindness, like retinitis pigmentosa,
+											or macular degeneration,
+											the photoreceptor cells have atrophied or been destroyed.
+											Now how could you repair this?
+											It&#39;s not even clear that a drug could cause this to be restored,
+											because there&#39;s nothing for the drug to bind to.
+											On the other hand, light can still get into the eye.
+											The eye is still transparent and you can get light in.
+											So what if we could just take these channelrhodopsins and other molecules
+											and install them on some of these other spare cells
+											and convert them into little cameras.
+											And because there&#39;s so many of these cells in the eye,
+											potentially, they could be very high-resolution cameras.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So this is some work that we&#39;re doing.
+											It&#39;s being led by one of our collaborators,
+											Alan Horsager at USC,
+											and being sought to be commercialized by a start-up company Eos Neuroscience,
+											which is funded by the NIH.
+											And what you see here is a mouse trying to solve a maze.
+											It&#39;s a six-arm maze. And there&#39;s a bit of water in the maze
+											to motivate the mouse to move, or he&#39;ll just sit there.
+											And the goal, of course, of this maze
+											is to get out of the water and go to a little platform
+											that&#39;s under the lit top port.
+											Now mice are smart, so this mouse solves the maze eventually,
+											but he does a brute-force search.
+											He&#39;s swimming down every avenue until he finally gets to the platform.
+											So he&#39;s not using vision to do it.
+											These different mice are different mutations
+											that recapitulate different kinds of blindness that affect humans.
+											And so we&#39;re being careful in trying to look at these different models
+											so we come up with a generalized approach.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											So how are we going to solve this?
+											We&#39;re going to do exactly what we outlined in the previous slide.
+											We&#39;re going to take these blue light photosensors
+											and install them on a layer of cells
+											in the middle of the retina in the back of the eye
+											and convert them into a camera —
+											just like installing solar cells all over those neurons
+											to make them light sensitive.
+											Light is converted to electricity on them.
+											So this mouse was blind a couple weeks before this experiment
+											and received one dose of this photosensitive molecule in a virus.
+											And now you can see, the animal can indeed avoid walls
+											and go to this little platform
+											and make cognitive use of its eyes again.
+											And to point out the power of this:
+											these animals are able to get to that platform
+											just as fast as animals that have seen their entire lives.
+											So this pre-clinical study, I think,
+											bodes hope for the kinds of things
+											we&#39;re hoping to do in the future.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											To close, I want to point out that we&#39;re also exploring
+											new business models for this new field of neurotechnology.
+											We&#39;re developing these tools,
+											but we share them freely with hundreds of groups all over the world,
+											so people can study and try to treat different disorders.
+											And our hope is that, by figuring out brain circuits
+											at a level of abstraction that lets us repair them and engineer them,
+											we can take some of these intractable disorders that I told you about earlier,
+											practically none of which are cured,
+											and in the 21st century make them history.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Thank you.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Juan Enriquez: So some of the stuff is a little dense.
+											(Laughter)
+											But the implications
+											of being able to control seizures or epilepsy
+											with light instead of drugs,
+											and being able to target those specifically
+											is a first step.
+											The second thing that I think I heard you say
+											is you can now control the brain in two colors,
+											like an on/off switch.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											Ed Boyden: That&#39;s right.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											JE: Which makes every impulse going through the brain a binary code.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											EB: Right, yeah.
+											So with blue light, we can drive information, and it&#39;s in the form of a one.
+											And by turning things off, it&#39;s more or less a zero.
+											So our hope is to eventually build brain coprocessors
+											that work with the brain
+											so we can augment functions in people with disabilities.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											JE: And in theory, that means that,
+											as a mouse feels, smells,
+											hears, touches,
+											you can model it out as a string of ones and zeros.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											EB: Sure, yeah. We&#39;re hoping to use this as a way of testing
+											what neural codes can drive certain behaviors
+											and certain thoughts and certain feelings,
+											and use that to understand more about the brain.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											JE: Does that mean that some day you could download memories
+											and maybe upload them?
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											EB: Well that&#39;s something we&#39;re starting to work on very hard.
+											We&#39;re now working on some work
+											where we&#39;re trying to tile the brain with recording elements too.
+											So we can record information and then drive information back in —
+											sort of computing what the brain needs
+											in order to augment its information processing.
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											JE: Well, that might change a couple things. Thank you. (EB: Thank you.)
+									</p>
+								</div>
+							</div>
+													<div class="Grid Grid--with-gutter d:f@md p-b:4">
+								<div class="Grid__cell d:f h:full m-b:.5 m-b:0@md w:12"></div>
+
+								<div class="Grid__cell flx-s:1 p-r:4">
+									<p>
+											(Applause)
+									</p>
+								</div>
+							</div>
+						<!-- /Transcript text -->
+
+					</div>
+				</div><!-- /Text container -->
+
+			</div><!-- /Main column -->
+
+			<!-- Sidebar -->
+			<div class="Grid__cell w:1of3@md"></div>
+
+		</div>
+	</div>
+</div>
+
+		</div>
+	</div>
+
+<script>q("talkPage.init", {
+	"el": "[data-talk-page]",
+	"__INITIAL_DATA__": {"comments":{"id":3950,"count":170,"talk_id":1146},"threadId":3950,"current_talk":"1146","description":"Ed Boyden shows how, by inserting genes for light-sensitive proteins into brain cells, he can selectively activate or de-activate specific neurons with fiber-optic implants. With this unprecedented level of control, he's managed to cure mice of analogs of PTSD and certain forms of blindness. On the horizon: neural prosthetics. Session host Juan Enriquez leads a brief post-talk Q&A.","event":"TED2011","language":"en","name":"Ed Boyden: A light switch for neurons","slug":"ed_boyden","speakers":[{"id":"890","slug":"ed_boyden","is_published":true,"firstname":"Ed","lastname":"Boyden","middleinitial":"","title":"","description":"Neuroengineer","photo_url":"https://pe.tedcdn.com/images/ted/fd2c79e1b1a6aa4e9f59f1b4bbb704969bb7e06e_254x191.jpg","whatotherssay":"","whotheyare":"Ed Boyden is a professor of biological engineering and brain and cognitive sciences at the MIT Media Lab and the MIT McGovern Institute.","whylisten":"<p class=\"p1\">Ed Boyden leads the Synthetic Neurobiology Group, which develops tools for analyzing and repairing complex biological systems such as the brain. His group applies these tools in a systematic way in order to reveal ground truth scientific understandings of biological systems, which in turn reveal radical new approaches for curing diseases and repairing disabilities. These technologies include expansion microscopy, which enables complex biological systems to be imaged with nanoscale precision, and optogenetic tools, which enable the activation and silencing of neural activity with light (TED Talk:&nbsp;<a href=\"http://www.ted.com/talks/ed_boyden\" target=\"_blank\">A light switch for neurons</a>).&nbsp;Boyden also co-directs the MIT Center for Neurobiological Engineering, which aims to develop new tools to accelerate neuroscience progress.</p><p class=\"p1\">Amongst other recognitions, Boyden has received the Breakthrough Prize in Life Sciences (2016), the BBVA Foundation Frontiers of Knowledge Award (2015), the Carnegie Prize in Mind and Brain Sciences (2015), the Jacob Heskel Gabbay Award (2013), the Grete Lundbeck Brain Prize (2013) and the NIH Director&#39;s Pioneer Award (2013). He was also named to the World Economic Forum Young Scientist list (2013) and the <em>Technology Review World&#39;</em>s &quot;Top 35 Innovators under Age 35&quot; list (2006). His group has hosted hundreds of visitors to learn how to use new biotechnologies and spun out several companies to bring inventions out of his lab and into the world. Boyden received his Ph.D. in neurosciences from Stanford University as a Hertz Fellow, where he discovered that the molecular mechanisms used to store a memory are determined by the content to be learned. Before that, he received three degrees in electrical engineering, computer science and physics from MIT. He has contributed to over 300 peer-reviewed papers, current or pending patents and articles, and he has given over 300 invited talks on his group&#39;s work.</p>"}],"url":"https://www.ted.com/talks/ed_boyden","viewed_count":972328,"talks":[{"recommendations":null,"more_resources":[{"status":"approved","headline":"What if drugs were machines?","blurb":"Read a conversation between Ed Boyden and futurist and venture capitalist Juan Enriquez on the brain's weird future with technology and medicine.","link_url":"http://ideas.ted.com/2014/02/21/red-light-brain-probes-and-the-future-an-enlightening-conversation/","image_url":"","visible_url":"","start_at":null,"end_at":null,"published":true,"eyebrow":null,"type":"from_the_blog"}],"corrections":[],"has_citations":false,"take_action":[],"curator_approved":true,"description":"Ed Boyden shows how, by inserting genes for light-sensitive proteins into brain cells, he can selectively activate or de-activate specific neurons with fiber-optic implants. With this unprecedented level of control, he's managed to cure mice of analogs of PTSD and certain forms of blindness. On the horizon: neural prosthetics. Session host Juan Enriquez leads a brief post-talk Q&A.","downloads":{"id":1146,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Catalan","endonym":"Català","languageCode":"ca","ianaCode":"ca","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Latvian","endonym":"Latviešu","languageCode":"lv","ianaCode":"lv","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Lithuanian","endonym":"Lietuvių kalba","languageCode":"lt","ianaCode":"lt","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Serbo-Croatian","endonym":"Srpskohrvatski","languageCode":"sh","ianaCode":"sh","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Galician","endonym":"Galego","languageCode":"gl","ianaCode":"gl","isRtl":false}],"nativeDownloads":{"low":"https://download.ted.com/talks/EdBoyden_2011-light.mp4?apikey=acme-roadrunner","medium":"https://download.ted.com/talks/EdBoyden_2011.mp4?apikey=acme-roadrunner","high":"https://download.ted.com/talks/EdBoyden_2011-480p.mp4?apikey=acme-roadrunner"},"subtitledDownloads":{"fr":{"name":"French","high":"https://download.ted.com/talks/EdBoyden_2011-480p-fr.mp4","low":"https://download.ted.com/talks/EdBoyden_2011-low-fr.mp4"},"de":{"name":"German","high":"https://download.ted.com/talks/EdBoyden_2011-480p-de.mp4","low":"https://download.ted.com/talks/EdBoyden_2011-low-de.mp4"},"ja":{"name":"Japanese","low":"https://download.ted.com/talks/EdBoyden_2011-low-ja.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-ja.mp4"},"zh-tw":{"name":"Chinese, Traditional","low":"https://download.ted.com/talks/EdBoyden_2011-low-zh-tw.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-zh-tw.mp4"},"zh-cn":{"name":"Chinese, Simplified","low":"https://download.ted.com/talks/EdBoyden_2011-low-zh-cn.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-zh-cn.mp4"},"ko":{"name":"Korean","low":"https://download.ted.com/talks/EdBoyden_2011-low-ko.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-ko.mp4"},"es":{"name":"Spanish","low":"https://download.ted.com/talks/EdBoyden_2011-low-es.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-es.mp4"},"en":{"name":"English","low":"https://download.ted.com/talks/EdBoyden_2011-low-en.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-en.mp4"},"pt-br":{"name":"Portuguese, Brazilian","low":"https://download.ted.com/talks/EdBoyden_2011-low-pt-br.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-pt-br.mp4"},"it":{"name":"Italian","low":"https://download.ted.com/talks/EdBoyden_2011-low-it.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-it.mp4"},"he":{"name":"Hebrew","low":"https://download.ted.com/talks/EdBoyden_2011-low-he.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-he.mp4"},"bg":{"name":"Bulgarian","low":"https://download.ted.com/talks/EdBoyden_2011-low-bg.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-bg.mp4"},"ro":{"name":"Romanian","low":"https://download.ted.com/talks/EdBoyden_2011-low-ro.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-ro.mp4"},"pl":{"name":"Polish","low":"https://download.ted.com/talks/EdBoyden_2011-low-pl.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-pl.mp4"},"nl":{"name":"Dutch","low":"https://download.ted.com/talks/EdBoyden_2011-low-nl.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-nl.mp4"},"tr":{"name":"Turkish","low":"https://download.ted.com/talks/EdBoyden_2011-low-tr.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-tr.mp4"},"hr":{"name":"Croatian","low":"https://download.ted.com/talks/EdBoyden_2011-low-hr.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-hr.mp4"},"ru":{"name":"Russian","low":"https://download.ted.com/talks/EdBoyden_2011-low-ru.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-ru.mp4"},"hu":{"name":"Hungarian","low":"https://download.ted.com/talks/EdBoyden_2011-low-hu.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-hu.mp4"},"vi":{"name":"Vietnamese","low":"https://download.ted.com/talks/EdBoyden_2011-low-vi.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-vi.mp4"},"el":{"name":"Greek","low":"https://download.ted.com/talks/EdBoyden_2011-low-el.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-el.mp4"},"ar":{"name":"Arabic","low":"https://download.ted.com/talks/EdBoyden_2011-low-ar.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-ar.mp4"},"pt":{"name":"Portuguese","low":"https://download.ted.com/talks/EdBoyden_2011-low-pt.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-pt.mp4"},"fa":{"name":"Persian","low":"https://download.ted.com/talks/EdBoyden_2011-low-fa.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-fa.mp4"},"id":{"name":"Indonesian","high":"https://download.ted.com/talks/EdBoyden_2011-480p-id.mp4","low":"https://download.ted.com/talks/EdBoyden_2011-low-id.mp4"},"lv":{"name":"Latvian","low":"https://download.ted.com/talks/EdBoyden_2011-low-lv.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-lv.mp4"},"lt":{"name":"Lithuanian","low":"https://download.ted.com/talks/EdBoyden_2011-low-lt.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-lt.mp4"},"ca":{"name":"Catalan","low":"https://download.ted.com/talks/EdBoyden_2011-low-ca.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-ca.mp4"},"cs":{"name":"Czech","low":"https://download.ted.com/talks/EdBoyden_2011-low-cs.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-cs.mp4"},"sh":{"name":"Serbo-Croatian","low":"https://download.ted.com/talks/EdBoyden_2011-low-sh.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-sh.mp4"},"sv":{"name":"Swedish","low":"https://download.ted.com/talks/EdBoyden_2011-low-sv.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-sv.mp4"},"gl":{"name":"Galician","low":"https://download.ted.com/talks/EdBoyden_2011-low-gl.mp4","high":"https://download.ted.com/talks/EdBoyden_2011-480p-gl.mp4"}},"audioDownload":"https://download.ted.com/talks/EdBoyden_2011.mp3?apikey=acme-roadrunner"},"duration":1104.0,"event":"TED2011","event_blurb":"This talk was presented at an official TED conference, and was featured by our editors on the home page.","event_badge":null,"hero":"https://pe.tedcdn.com/images/ted/29fe2e14406be124c2d750736328ef617a156e10_800x600.jpg","hero_load":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/29fe2e14406be124c2d750736328ef617a156e10_800x600.jpg?q=50&w=15","id":"1146","player_talks":[{"id":"1146","duration":1104.0,"languages":[{"languageName":"Greek","endonym":"Ελληνικά","languageCode":"el","ianaCode":"el","isRtl":false},{"languageName":"English","endonym":"English","languageCode":"en","ianaCode":"en","isRtl":false},{"languageName":"Vietnamese","endonym":"Tiếng Việt","languageCode":"vi","ianaCode":"vi","isRtl":false},{"languageName":"Catalan","endonym":"Català","languageCode":"ca","ianaCode":"ca","isRtl":false},{"languageName":"Italian","endonym":"Italiano","languageCode":"it","ianaCode":"it","isRtl":false},{"languageName":"Arabic","endonym":"العربية","languageCode":"ar","ianaCode":"ar","isRtl":true},{"languageName":"Portuguese, Brazilian","endonym":"Português brasileiro","languageCode":"pt-br","ianaCode":"pt-BR","isRtl":false},{"languageName":"Czech","endonym":"Čeština","languageCode":"cs","ianaCode":"cs","isRtl":false},{"languageName":"Indonesian","endonym":"Bahasa Indonesia","languageCode":"id","ianaCode":"id","isRtl":false},{"languageName":"Spanish","endonym":"Español","languageCode":"es","ianaCode":"es","isRtl":false},{"languageName":"Russian","endonym":"Русский","languageCode":"ru","ianaCode":"ru","isRtl":false},{"languageName":"Dutch","endonym":"Nederlands","languageCode":"nl","ianaCode":"nl","isRtl":false},{"languageName":"Portuguese","endonym":"Português de Portugal","languageCode":"pt","ianaCode":"pt","isRtl":false},{"languageName":"Chinese, Traditional","endonym":"中文 (繁體)","languageCode":"zh-tw","ianaCode":"zh-Hant","isRtl":false},{"languageName":"Turkish","endonym":"Türkçe","languageCode":"tr","ianaCode":"tr","isRtl":false},{"languageName":"Latvian","endonym":"Latviešu","languageCode":"lv","ianaCode":"lv","isRtl":false},{"languageName":"Chinese, Simplified","endonym":"中文 (简体)","languageCode":"zh-cn","ianaCode":"zh-Hans","isRtl":false},{"languageName":"Lithuanian","endonym":"Lietuvių kalba","languageCode":"lt","ianaCode":"lt","isRtl":false},{"languageName":"Romanian","endonym":"Română","languageCode":"ro","ianaCode":"ro","isRtl":false},{"languageName":"Polish","endonym":"Polski","languageCode":"pl","ianaCode":"pl","isRtl":false},{"languageName":"French","endonym":"Français","languageCode":"fr","ianaCode":"fr","isRtl":false},{"languageName":"Bulgarian","endonym":"български","languageCode":"bg","ianaCode":"bg","isRtl":false},{"languageName":"Croatian","endonym":"Hrvatski","languageCode":"hr","ianaCode":"hr","isRtl":false},{"languageName":"German","endonym":"Deutsch","languageCode":"de","ianaCode":"de","isRtl":false},{"languageName":"Hungarian","endonym":"Magyar","languageCode":"hu","ianaCode":"hu","isRtl":false},{"languageName":"Persian","endonym":"فارسى","languageCode":"fa","ianaCode":"fa","isRtl":true},{"languageName":"Japanese","endonym":"日本語","languageCode":"ja","ianaCode":"ja","isRtl":false},{"languageName":"Hebrew","endonym":"עברית","languageCode":"he","ianaCode":"he","isRtl":true},{"languageName":"Korean","endonym":"한국어","languageCode":"ko","ianaCode":"ko","isRtl":false},{"languageName":"Serbo-Croatian","endonym":"Srpskohrvatski","languageCode":"sh","ianaCode":"sh","isRtl":false},{"languageName":"Swedish","endonym":"Svenska","languageCode":"sv","ianaCode":"sv","isRtl":false},{"languageName":"Galician","endonym":"Galego","languageCode":"gl","ianaCode":"gl","isRtl":false}],"nativeLanguage":"en","isSubtitleRequired":false,"introDuration":11.82,"adDuration":3.33,"postAdDuration":0.83,"resources":{"h264":[{"bitrate":320,"file":"https://pc.tedcdn.com/talk/stream/2011/Blank/EdBoyden_2011-320k.mp4?dnt"}],"hls":{"adUrl":"https://pubads.g.doubleclick.net/gampad/ads?ciu_szs=300x250%2C512x288%2C120x60%2C320x50%2C6x7%2C6x8&correlator=%5Bcorrelator%5D&cust_params=event%3DTED2011%26id%3D1146%26tag%3Dbrain%2Cscience%2Ctechnology%2Cneuroscience%26talk%3Ded_boyden%26year%3D2011&env=vp&gdfp_req=1&impl=s&iu=%2F5641%2Fmobile%2Fios%2Fweb&output=xml_vast2&sz=640x360&unviewed_position_start=1&url=%5Breferrer%5D","maiTargeting":{"id":"1146","talk":"ed_boyden","tag":"brain,science,technology,neuroscience","year":"2011","event":"TED2011"},"stream":"https://hls.ted.com/talks/1146.m3u8","metadata":"https://hls.ted.com/talks/1146.json"}},"targeting":{"id":"1146","talk":"ed_boyden","tag":"brain,science,technology,neuroscience","year":"2011","event":"TED2011"},"canonical":"https://www.ted.com/talks/ed_boyden","name":"Ed Boyden: A light switch for neurons","title":"A light switch for neurons","speaker":"Ed Boyden","thumb":"https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/29fe2e14406be124c2d750736328ef617a156e10_800x600.jpg?quality=89&w=600","slug":"ed_boyden","event":"TED2011","published":1305462240}],"ratings":[{"id":2,"name":"Confusing","count":18},{"id":8,"name":"Informative","count":282},{"id":22,"name":"Fascinating","count":482},{"id":9,"name":"Ingenious","count":392},{"id":23,"name":"Jaw-dropping","count":386},{"id":10,"name":"Inspiring","count":160},{"id":1,"name":"Beautiful","count":28},{"id":11,"name":"Longwinded","count":29},{"id":25,"name":"OK","count":30},{"id":26,"name":"Obnoxious","count":13},{"id":24,"name":"Persuasive","count":37},{"id":3,"name":"Courageous","count":29},{"id":21,"name":"Unconvincing","count":8},{"id":7,"name":"Funny","count":0}],"recorded_at":"2011-03-03T00:00:00.000+00:00","related_talks":[{"id":"1000","hero":"https://pe.tedcdn.com/images/ted/51f652b9ff6854867d1d7abb2683caf1d8dd22fb_800x600.jpg","speaker":"Gero Miesenboeck","title":"Re-engineering the brain","duration":1054.0,"slug":"gero_miesenboeck","viewed_count":633241},{"id":"724","hero":"https://pe.tedcdn.com/images/ted/138921_800x600.jpg","speaker":"Vilayanur Ramachandran","title":"The neurons that shaped civilization","duration":463.0,"slug":"vs_ramachandran_the_neurons_that_shaped_civilization","viewed_count":2011693},{"id":"659","hero":"https://pe.tedcdn.com/images/ted/121608_800x600.jpg","speaker":"Henry Markram","title":"A brain in a supercomputer","duration":890.0,"slug":"henry_markram_supercomputing_the_brain_s_secrets","viewed_count":1245276},{"id":"1450","hero":"https://pe.tedcdn.com/images/ted/9d94c91442c28bfda8fc51070e63397867e1f787_800x600.jpg","speaker":"Carl Schoonover","title":"How to look inside the brain","duration":292.0,"slug":"carl_schoonover_how_to_look_inside_the_brain","viewed_count":915296},{"id":"1349","hero":"https://pe.tedcdn.com/images/ted/b6441a3ec7fe888555c728e011b6bd3650544fb8_800x600.jpg","speaker":"Neil Burgess","title":"How your brain tells you where you are","duration":543.0,"slug":"neil_burgess_how_your_brain_tells_you_where_you_are","viewed_count":1278378},{"id":"2429","hero":"https://s3.amazonaws.com/talkstar-photos/uploads/4575bffc-5f15-4a82-bc30-4be56809bead/JocelyneBloch_2015G-embed.jpg","speaker":"Jocelyne Bloch","title":"The brain may be able to repair itself -- with help","duration":694.0,"slug":"jocelyne_bloch_the_brain_may_be_able_to_repair_itself_with_help","viewed_count":2352629}],"slug":"ed_boyden","speakers":[{"id":"890","slug":"ed_boyden","is_published":true,"firstname":"Ed","lastname":"Boyden","middleinitial":"","title":"","description":"Neuroengineer","photo_url":"https://pe.tedcdn.com/images/ted/fd2c79e1b1a6aa4e9f59f1b4bbb704969bb7e06e_254x191.jpg","whatotherssay":"","whotheyare":"Ed Boyden is a professor of biological engineering and brain and cognitive sciences at the MIT Media Lab and the MIT McGovern Institute.","whylisten":"<p class=\"p1\">Ed Boyden leads the Synthetic Neurobiology Group, which develops tools for analyzing and repairing complex biological systems such as the brain. His group applies these tools in a systematic way in order to reveal ground truth scientific understandings of biological systems, which in turn reveal radical new approaches for curing diseases and repairing disabilities. These technologies include expansion microscopy, which enables complex biological systems to be imaged with nanoscale precision, and optogenetic tools, which enable the activation and silencing of neural activity with light (TED Talk:&nbsp;<a href=\"http://www.ted.com/talks/ed_boyden\" target=\"_blank\">A light switch for neurons</a>).&nbsp;Boyden also co-directs the MIT Center for Neurobiological Engineering, which aims to develop new tools to accelerate neuroscience progress.</p><p class=\"p1\">Amongst other recognitions, Boyden has received the Breakthrough Prize in Life Sciences (2016), the BBVA Foundation Frontiers of Knowledge Award (2015), the Carnegie Prize in Mind and Brain Sciences (2015), the Jacob Heskel Gabbay Award (2013), the Grete Lundbeck Brain Prize (2013) and the NIH Director&#39;s Pioneer Award (2013). He was also named to the World Economic Forum Young Scientist list (2013) and the <em>Technology Review World&#39;</em>s &quot;Top 35 Innovators under Age 35&quot; list (2006). His group has hosted hundreds of visitors to learn how to use new biotechnologies and spun out several companies to bring inventions out of his lab and into the world. Boyden received his Ph.D. in neurosciences from Stanford University as a Hertz Fellow, where he discovered that the molecular mechanisms used to store a memory are determined by the content to be learned. Before that, he received three degrees in electrical engineering, computer science and physics from MIT. He has contributed to over 300 peer-reviewed papers, current or pending patents and articles, and he has given over 300 invited talks on his group&#39;s work.</p>"}],"speaker_name":"Ed Boyden","tags":["brain","science","technology","neuroscience"],"title":"A light switch for neurons","video_type":{"id":"1","name":"TED Stage Talk"},"viewed_count":972328}]}
+})</script></div>
+<footer class='footer'>
+<div class='container'>
+<div class='footer__content'>
+<a class="g-logo-small footer__logo" href="/">TED</a>
+<div class='footer__content__links'>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Programs &amp; initiatives
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/tedx-program">TEDx</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-prize">TED Prize</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-fellows-program">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-ed">TED Ed</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-books">TED Books</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-institute">TED Institute</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>
+Ways to get TED
+</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/read/ted-podcasts/ted-radio-hour">TED Radio Hour on NPR</a></li>
+<li class='m5'><a class="footer__link" href="/about/programs-initiatives/ted-talks/ways-to-get-ted-talks">More ways to get TED</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Follow TED</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.facebook.com/TED">Facebook</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//twitter.com/tedtalks">Twitter</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.pinterest.com/tednews">Pinterest</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//instagram.com/ted">Instagram</a></li>
+<li class='m5'><a class="footer__link" target="_blank" href="//www.youtube.com/ted">YouTube</a></li>
+<li><a class="footer__link" href="http://blog.ted.com">TED Blog</a></li>
+</ul>
+</nav>
+<nav class='footer__section' role='navigation'>
+<h3 class='footer__title'>Our community</h3>
+<ul class='footer__links'>
+<li class='m5'><a class="footer__link" href="/people/speakers">TED Speakers</a></li>
+<li class='m5'><a class="footer__link" href="/people/fellows">TED Fellows</a></li>
+<li class='m5'><a class="footer__link" href="/people/translators">TED Translators</a></li>
+<li class='m5'><a class="footer__link" rel="nofollow" href="/people/tedx">TEDx Organizers</a></li>
+<li class='m5'><a class="footer__link" href="/people">TED Community</a></li>
+</ul>
+</nav>
+</div>
+<div class='footer__content__forms'>
+<form action='/subscriptions' class='footer__section footer__section--form footer-newsletter' id='newsletter-signup' method='post'>
+<h3 class='footer__title'>Get TED email updates</h3>
+<div id='newsletter-signup-details'>
+<p>Subscribe to receive email notifications
+whenever new talks are published.</p>
+<ul class='footer-newsletter__options'>
+<li class='footer-newsletter__option'>
+<label>
+<input checked id='newsletter-signup-daily' name='subscription[list][]' type='checkbox' value='daily'>
+Daily
+</label>
+</li>
+<li class='footer-newsletter__option'>
+<label>
+<input id='newsletter-signup-weekly' name='subscription[list][]' type='checkbox' value='weekly'>
+Weekly
+</label>
+</li>
+</ul>
+<div class='form-group footer-newsletter__signup-email-group'>
+<label for='newsletter-signup-email'>
+Your email address
+</label>
+<input class='form-control' id='newsletter-signup-email' name='subscription[email]' size='16'>
+</div>
+<div class='footer-newsletter__error-wrapper'>
+<p class='footer-newsletter__error' id='newsletter-signup-error-blankemail'>
+Please enter an email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-email'>
+Please enter a valid email address.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-suggestion'>
+Did you mean
+<span>
+<a class='newsletter-signup-error__data' href='#'></a>?
+</span>
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-subscription'>
+Please check
+<em>Daily</em>
+or
+<em>Weekly</em>
+and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-unknown'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-uncaught'>
+Please check your details and try again.
+</p>
+<p class='footer-newsletter__error' id='newsletter-signup-error-other'>
+Sorry, we're currently having trouble
+processing new newsletter signups.
+Please try again later.
+</p>
+</div>
+<input class='button' type='submit' value='Submit'>
+</div>
+<div class='footer-newsletter__success' id='newsletter-signup-success'>
+<p>
+Thanks! Please check your inbox
+for a confirmation email.
+</p>
+<p>
+If you want to get even more from TED,
+like the ability to save talks to watch later,&nbsp;<a href='/users/new'>sign up for a TED account now</a>&#46;
+</p>
+</div>
+</form>
+<form class='footer__section' style='display:none;'>
+<h3 class='footer__title'>Language Selector</h3>
+<p>TED.com translations are made possible by volunteer
+translators. Learn more about the
+<a href="/pages/open_translation_project">Open Translation Project</a>.</p>
+<select class='form-control' disabled>
+<option>English</option>
+</select>
+</form>
+</div>
+</div>
+</div>
+<div class='footer__services'>
+<div class='container footer__services__container'>
+<nav role='navigation'>
+<ul class='footer__links'>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-talks-usage-policy">TED Talks Usage Policy</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/privacy-policy">Privacy Policy</a></li>
+<li><a class="footer__service" href="/about/partner-with-ted">Advertising / Partnership</a></li>
+<li><a class="footer__service" href="/about/our-organization/our-policies-terms/ted-com-terms-of-use">TED.com Terms of Use</a></li>
+<li><a class="footer__service" target="_blank" href="/contact">Contact</a></li>
+<li><a class="footer__service" href="/about/our-organization/jobs-at-ted">Jobs</a></li>
+<li><a class="footer__service" href="/about/our-organization/contact-us/press-and-media-information">Press</a></li>
+<li><a class="footer__service" href="//support.ted.com ">Help</a></li>
+</ul>
+</nav>
+<p class='footer__service footer__service--info' role='contentinfo'>
+&copy; TED Conferences, LLC. All rights reserved.
+</p>
+</div>
+</div>
+</footer></div>
+<a class='shoji__lattice' href='#' id='shoji-lattice'></a>
+</div>
+</div>
+<script>
+  (function() {
+    var gads = document.createElement("script");
+    gads.async = true;
+    gads.type = "text/javascript";
+    var useSSL = "https:" == document.location.protocol;
+    gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+    var node = document.getElementsByTagName("script")[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script>
+  (function(s,o,b,a,m){
+    a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+    a.async=1;a.src=b;
+    m.parentNode.insertBefore(a,m)
+  })(document,'script','https://www.google-analytics.com/analytics.js');
+</script><script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7341760" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script><script>
+  (function(d,s,u,e,m,r){r=(d.location.search||'').match(/[?&](geo=[A-Z]{2})\b/);e=d.createElement(s),m=d.getElementsByTagName(s)[0];e.async=1;e.src=u+(r?'&'+r[1]:'');m.parentNode.insertBefore(e,m)})(document,'script','https://geo-assets.tedcdn.com/cookie-notice/tcn.js?cb=1.1.0')
+</script></body></html>
